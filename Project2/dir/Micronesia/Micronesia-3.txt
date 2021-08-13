@@ -1,0 +1,24 @@
+8418 Vvmstuvwxyz Onsz Micronesia 4 Chickenpox NO 14-3-6562
+5549 Hoeefghijklm Tgznopqrstuv Micronesia 93 Polio NO
+1255 Mwgwxyz Bppwxyz Micronesia 37 Varicella YES 30-8-7090
+3021 Tjhyz Baeqrstuvwxy Micronesia 114 Mumps YES 22-9-4113
+9187 Cvajklmnopqr Gtfpqrstuvwx Micronesia 90 COVID19 NO
+7071 Evdhijklmnop Ahnqrstuvwxy Micronesia 43 Mumps NO
+8870 Hpvfghijklmn Nggcdefghijk Micronesia 66 H1N1 YES 12-8-7029
+3706 Xqfuvwxyz Omnghijklmno Micronesia 86 Polio NO
+2902 Ljkdefghijkl Biddefghijkl Micronesia 108 Diphtheria YES 17-4-3609
+665 Ajzstuvwxyz Bygxyz Micronesia 34 SARS1 YES 3-5-9312
+9554 Swwwxyz Hnzpqrstuvwx Micronesia 14 Rubella NO 7-10-1404
+5144 Dbubcdefghij Rhgklmnopqrs Micronesia 30 Tuberculosis NO
+2455 Awjvwxyz Abjfghijklmn Micronesia 85 Mumps NO 11-3-686
+5554 Ueffghijklmn Jfqijklmnopq Micronesia 95 Mumps NO
+2446 Ogmnopqrstuv Ilpcdefghijk Micronesia 112 Testovirus YES 3-2-6532
+3289 Buqbcdefghij Ihayz Micronesia 20 Diphtheria YES 18-1-289
+2657 Kqbnopqrstuv Mtdghijklmno Micronesia 103 H1N1 YES 25-12-839
+2336 Cecuvwxyz Wsfmnopqrstu Micronesia 99 Diphtheria NO
+5447 Ftkxyz Jewz Micronesia 76 Mumps YES 21-7-1194
+9940 Zlvqrstuvwxy Fydwxyz Micronesia 111 Rubella YES 19-10-6502
+4228 Xpibcdefghij Atjmnopqrstu Micronesia 57 HepatitisA NO
+1057 Nmecdefghijk Snkwxyz Micronesia 98 Rubella NO
+3353 Mifz Wbaklmnopqrs Micronesia 6 Varicella NO
+3435 Vvhtuvwxyz Uaetuvwxyz Micronesia 26 Rubella NO 0-12-5461

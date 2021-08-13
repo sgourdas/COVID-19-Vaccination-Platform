@@ -1,0 +1,20 @@
+7374 Irmfghijklmn Zmhz Lesotho 24 H1N1 NO
+4826 Zpkpqrstuvwx Mnhz Lesotho 31 Adenovirus NO 14-3-929
+6989 Fxhcdefghijk Bfcrstuvwxyz Lesotho 3 TheFlu NO
+6558 Suaopqrstuvw Kmftuvwxyz Lesotho 46 Mumps YES 8-6-8990
+357 Sxphijklmnop Upgghijklmno Lesotho 42 COVID19 YES 21-9-1634
+5507 Aehrstuvwxyz Npwfghijklmn Lesotho 115 Polio NO
+4555 Sldqrstuvwxy Hqohijklmnop Lesotho 48 H1N1 YES 2-3-5863
+3824 Sqnijklmnopq Tkjijklmnopq Lesotho 107 Rubella NO 13-6-8118
+3188 Ypouvwxyz Frsijklmnopq Lesotho 68 Tuberculosis YES 22-9-3720
+3779 Dvdqrstuvwxy Fxxjklmnopqr Lesotho 10 H1N1 NO
+9615 Hnxghijklmno Pryz Lesotho 82 Adenovirus YES 0-6-4890
+738 Ybqjklmnopqr Vwqghijklmno Lesotho 75 Diphtheria NO
+8903 Fuzcdefghijk Yheghijklmno Lesotho 70 Varicella NO
+4616 Yegz Yxipqrstuvwx Lesotho 49 Polio YES 17-7-8152
+1536 Qqyhijklmnop Pbiabcdefghi Lesotho 14 Polio NO
+1442 Gttefghijklm Qmjyz Lesotho 100 Hib NO 24-8-1244
+9566 Ldqqrstuvwxy Bagqrstuvwxy Lesotho 50 Adenovirus NO 16-1-8989
+3567 Kpzfghijklmn Gqqopqrstuvw Lesotho 42 TheFlu NO
+2907 Qcdxyz Wqnefghijklm Lesotho 105 Chickenpox YES 5-3-8867
+1453 Ttuqrstuvwxy Wkpyz Lesotho 48 SARS1 YES 18-4-1858

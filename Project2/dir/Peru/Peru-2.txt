@@ -1,0 +1,18 @@
+5017 Sqvhijklmnop Wxkhijklmnop Peru 100 Rotavirus YES 18-12-9056
+6130 Lwrvwxyz Dnsstuvwxyz Peru 84 Adenovirus YES 26-11-1974
+6362 Mgnefghijklm Uqhcdefghijk Peru 91 Polio NO
+6747 Gsoghijklmno Gjpabcdefghi Peru 91 SARS1 YES 14-9-3749
+2561 Pjmz Dyvefghijklm Peru 107 Tuberculosis YES 9-7-6130
+1739 Mkjhijklmnop Wnlz Peru 84 Hib YES 30-2-4547
+88 Nhpstuvwxyz Lmqdefghijkl Peru 91 SARS1 YES 17-10-8097
+2427 Pngtuvwxyz Nvhtuvwxyz Peru 104 Varicella YES 16-10-984
+9141 Fwibcdefghij Ololmnopqrst Peru 67 Chickenpox YES 2-1-8780
+8852 Estlmnopqrst Etfabcdefghi Peru 56 Tuberculosis YES 21-0-1203
+3320 Vzxklmnopqrs Rvabcdefghij Peru 54 TheFlu YES 1-6-980
+754 Mpvmnopqrstu Nwfjklmnopqr Peru 25 COVID19 NO
+9519 Xlicdefghijk Rbrabcdefghi Peru 42 Rotavirus YES 19-3-1656
+2641 Rtsstuvwxyz Bkmghijklmno Peru 2 Varicella YES 23-7-1429
+3697 Vswqrstuvwxy Ncuhijklmnop Peru 96 Hib NO
+2660 Fgwhijklmnop Unpmnopqrstu Peru 78 H1N1 YES 0-3-2404
+465 Lnxijklmnopq Jkjcdefghijk Peru 14 Adenovirus NO 30-2-8075
+5648 Pyxhijklmnop Rchjklmnopqr Peru 83 Varicella YES 20-1-2923

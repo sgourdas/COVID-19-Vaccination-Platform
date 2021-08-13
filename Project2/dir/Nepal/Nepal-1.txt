@@ -1,0 +1,22 @@
+81 Aqyxyz Lcsopqrstuvw Nepal 13 SARS1 YES 24-12-3181
+3228 Swslmnopqrst Ceiz Nepal 17 Rotavirus YES 27-0-9426
+9269 Shpghijklmno Evbdefghijkl Nepal 79 Tetanus NO
+7533 Hqbijklmnopq Iigvwxyz Nepal 106 HepatitisB YES 0-12-2851
+6512 Cjfbcdefghij Myoefghijklm Nepal 53 HepatitisB YES 10-7-2640
+2493 Xrrlmnopqrst Qaufghijklmn Nepal 68 Tetanus YES 14-11-3710
+4356 Lrlwxyz Rhdefghijklm Nepal 77 Testovirus YES 20-3-6586
+7388 Jnbyz Lxqnopqrstuv Nepal 41 Mumps YES 23-8-6675
+1132 Udhuvwxyz Bjbxyz Nepal 26 Chickenpox YES 8-12-7080
+5614 Keeabcdefghi Ijmyz Nepal 104 HepatitisA NO
+7699 Gsbtuvwxyz Pqmfghijklmn Nepal 9 Tuberculosis NO
+7429 Dcoxyz Fhnyz Nepal 11 Diphtheria NO
+7253 Ixxfghijklmn Hlestuvwxyz Nepal 32 HepatitisB NO
+3278 Sjxz Rbjnopqrstuv Nepal 120 Rubella YES 23-12-153
+3879 Iqvrstuvwxyz Xzefghijklmn Nepal 43 Rotavirus YES 22-6-892
+7872 Luoqrstuvwxy Ynscdefghijk Nepal 103 Diphtheria NO 26-4-5598
+9287 Kncbcdefghij Vhvyz Nepal 12 Testovirus YES 23-11-1791
+1308 Sumstuvwxyz Amnvwxyz Nepal 1 Tuberculosis YES 30-9-6441
+4473 Nqfdefghijkl Pzyrstuvwxyz Nepal 96 Rotavirus NO
+1076 Nmwpqrstuvwx Sspz Nepal 81 Testovirus NO
+2181 Raqhijklmnop Eozxyz Nepal 47 Polio YES 5-10-7237
+3034 Ovvnopqrstuv Pyoghijklmno Nepal 56 Rotavirus NO 6-5-7345

@@ -1,0 +1,21 @@
+7367 Nchstuvwxyz Ejbwxyz Macedonia 89 Varicella NO
+7366 Pntbcdefghij Clqmnopqrstu Macedonia 2 COVID19 NO 11-2-6095
+6844 Kwsuvwxyz Cyjijklmnopq Macedonia 23 Testovirus NO
+1186 Rfdcdefghijk Eyghijklmnop Macedonia 12 Hib YES 29-3-6472
+2116 Tgbpqrstuvwx Defbcdefghij Macedonia 101 HepatitisB NO
+6595 Fmojklmnopqr Spibcdefghij Macedonia 98 HepatitisB YES 24-11-5835
+7835 Stmz Gutfghijklmn Macedonia 86 SARS1 NO
+3301 Yagopqrstuvw Rmjwxyz Macedonia 31 Chickenpox YES 22-7-6938
+5510 Tnuklmnopqrs Mpfbcdefghij Macedonia 70 SARS1 YES 0-9-7850
+8194 Rvxcdefghijk Biadefghijkl Macedonia 35 Testovirus YES 30-12-4798
+5936 Pgmklmnopqrs Lppqrstuvwxy Macedonia 61 TheFlu NO 14-9-9840
+7174 Tyodefghijkl Yopyz Macedonia 46 SARS1 NO
+6783 Exastuvwxyz Zbuabcdefghi Macedonia 69 Tetanus NO 13-6-5839
+4748 Xotmnopqrstu Ukfxyz Macedonia 5 Testovirus YES 17-3-7347
+3305 Dibcdefghijk Wmthijklmnop Macedonia 41 Adenovirus NO
+9087 Jhqnopqrstuv Nupuvwxyz Macedonia 100 SARS1 NO
+5523 Dyycdefghijk Qmttuvwxyz Macedonia 56 H1N1 YES 13-4-9198
+3746 Tzwwxyz Kgdefghijklm Macedonia 112 Adenovirus YES 16-6-3646
+4256 Xahijklmnopq Ovdfghijklmn Macedonia 47 HepatitisB YES 22-10-6728
+2403 Bazghijklmno Fdxstuvwxyz Macedonia 45 Chickenpox YES 17-3-7796
+6133 Vxknopqrstuv Meerstuvwxyz Macedonia 50 Rubella NO

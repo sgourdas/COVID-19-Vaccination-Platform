@@ -1,0 +1,18 @@
+6350 Gtxwxyz Xyfklmnopqrs Cyprus 81 H1N1 NO
+4244 Dvvtuvwxyz Uwjcdefghijk Cyprus 113 COVID19 YES 25-8-9560
+1732 Gbdxyz Bxbbcdefghij Cyprus 36 Polio NO
+3480 Plpbcdefghij Nzsrstuvwxyz Cyprus 33 Rubella YES 24-5-5511
+4138 Nijqrstuvwxy Hkrcdefghijk Cyprus 64 HepatitisA YES 9-2-433
+2906 Dzuz Nxuefghijklm Cyprus 4 Varicella NO
+7335 Kcthijklmnop Xijpqrstuvwx Cyprus 21 HepatitisB NO 4-6-4786
+8245 Hibopqrstuvw Tbrhijklmnop Cyprus 19 Varicella NO 26-0-6847
+1663 Yaxpqrstuvwx Dsmyz Cyprus 17 Tetanus NO
+6515 Gumz Hwfstuvwxyz Cyprus 17 Varicella YES 24-9-1438
+7923 Pfsz Lukuvwxyz Cyprus 91 SARS1 YES 26-12-4084
+6408 Fhadefghijkl Fgcfghijklmn Cyprus 90 Chickenpox NO
+383 Lehnopqrstuv Bghijklmnopq Cyprus 38 H1N1 NO 12-9-5124
+8568 Iodqrstuvwxy Ksayz Cyprus 117 Tetanus YES 22-11-1901
+9095 Emwnopqrstuv Bsyqrstuvwxy Cyprus 29 COVID19 YES 13-3-8454
+5977 Mbijklmnopqr Dmistuvwxyz Cyprus 52 Mumps YES 27-1-3767
+4488 Sqgabcdefghi Jsruvwxyz Cyprus 103 SARS1 NO
+1392 Bgiwxyz Mbdnopqrstuv Cyprus 107 Rotavirus YES 19-1-9503

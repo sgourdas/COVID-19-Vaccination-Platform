@@ -1,0 +1,20 @@
+4353 Pdxwxyz Dnwmnopqrstu Belize 59 H1N1 YES 24-2-5185
+6495 Vxguvwxyz Bdkefghijklm Belize 97 Chickenpox NO
+9954 Uzpcdefghijk Hxjghijklmno Belize 99 Tuberculosis YES 29-11-2341
+4451 Zxorstuvwxyz Tjivwxyz Belize 72 Hib NO
+5932 Cujabcdefghi Mfcabcdefghi Belize 74 Hib NO
+5800 Vanwxyz Yruwxyz Belize 49 Mumps YES 4-5-3023
+6952 Wilqrstuvwxy Adacdefghijk Belize 35 Tetanus NO 15-3-5293
+936 Ftvyz Hezbcdefghij Belize 63 HepatitisB NO 7-0-5556
+4505 Uroz Ytvijklmnopq Belize 36 Varicella YES 3-5-8312
+1729 Rzhwxyz Qqbvwxyz Belize 34 Rubella NO
+4917 Jzdxyz Xjzklmnopqrs Belize 4 Hib YES 2-5-6605
+2153 Uonxyz Jquopqrstuvw Belize 105 HepatitisB YES 30-0-234
+2147 Igkfghijklmn Sxlyz Belize 98 HepatitisB NO
+8060 Yjcyz Ussfghijklmn Belize 57 Hib NO 7-3-2308
+9293 Owvjklmnopqr Zqerstuvwxyz Belize 44 Rotavirus YES 4-10-3257
+3910 Pampqrstuvwx Uatlmnopqrst Belize 73 Chickenpox YES 2-5-7585
+4354 Pujstuvwxyz Egpdefghijkl Belize 70 Diphtheria NO
+5239 Uloz Tglmnopqrstu Belize 117 Hib YES 2-2-2017
+2746 Wbrmnopqrstu Vzytuvwxyz Belize 17 HepatitisA NO
+6517 Xldhijklmnop Konklmnopqrs Belize 14 Hib YES 11-8-1066

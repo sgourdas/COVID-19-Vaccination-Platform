@@ -1,0 +1,20 @@
+1097 Touijklmnopq Edswxyz Maldives 70 Tetanus YES 2-9-9086
+4404 Htanopqrstuv Qclqrstuvwxy Maldives 117 Rotavirus NO
+7064 Yfwxyz Txonopqrstuv Maldives 47 Hib YES 19-2-9367
+1547 Nrnuvwxyz Cheuvwxyz Maldives 98 Hib NO
+6319 Sdmghijklmno Sjamnopqrstu Maldives 39 Varicella YES 14-12-591
+4607 Ikvjklmnopqr Srumnopqrstu Maldives 29 Testovirus NO
+8026 Cxyfghijklmn Dukbcdefghij Maldives 66 COVID19 NO
+6888 Nsunopqrstuv Mkbz Maldives 7 Diphtheria YES 24-12-537
+3497 Dfiklmnopqrs Uaxuvwxyz Maldives 29 Hib NO
+6272 Zffjklmnopqr Tdaghijklmno Maldives 93 Chickenpox NO
+3111 Bogdefghijkl Nhqijklmnopq Maldives 89 Adenovirus YES 8-8-5310
+3414 Avkstuvwxyz Dpgrstuvwxyz Maldives 91 HepatitisB YES 27-10-943
+9583 Fweefghijklm Ntnabcdefghi Maldives 101 Mumps YES 1-1-2730
+3640 Lfaz Fgodefghijkl Maldives 102 Adenovirus YES 5-11-1809
+6012 Sigxyz Rxkdefghijkl Maldives 5 Hib YES 2-10-3679
+8492 Zgfuvwxyz Gwivwxyz Maldives 54 Testovirus YES 19-2-9383
+4200 Oeiklmnopqrs Wfptuvwxyz Maldives 1 Varicella YES 29-12-1612
+2543 Vlvijklmnopq Txrrstuvwxyz Maldives 71 Polio NO
+2120 Xpahijklmnop Osdmnopqrstu Maldives 76 HepatitisB YES 30-0-1945
+6306 Hbktuvwxyz Yullmnopqrst Maldives 24 SARS1 NO

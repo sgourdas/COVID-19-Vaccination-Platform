@@ -1,0 +1,19 @@
+7659 WDQKK COOID Sao-Tome-&-Principe 35 Tuberculosis YES 26-07-2004
+2625 MBQ KTDJLUCO Sao-Tome-&-Principe 95 Testovirus YES 12-04-2011
+4831 ZACQFH OAD Sao-Tome-&-Principe 32 Rubella YES 03-08-2002
+9141 OBRGNHFCF ZOYMA Sao-Tome-&-Principe 108 Varicella YES 10-05-2003
+9210 YQK HHE Sao-Tome-&-Principe 116 Tuberculosis YES 04-12-2001
+8842 FLANLU HFGFMNKNS Sao-Tome-&-Principe 39 Hepatitis-B YES 28-09-2017
+1095 GMQH MOYMTWPGDYE Sao-Tome-&-Principe 78 Testovirus NO
+9529 SWJMOYXYXBSJ SHL Sao-Tome-&-Principe 106 Varicella YES 08-05-2012
+6030 WHSS MJRNZHJAL Sao-Tome-&-Principe 57 H1N1 YES 19-08-2004
+6498 EXMJU LLAXZB Sao-Tome-&-Principe 94 The-Flu NO
+6697 FBKP CUG Sao-Tome-&-Principe 15 Tuberculosis NO
+8131 HIOEHWI ESETFFWO Sao-Tome-&-Principe 110 Varicella YES 09-09-2016
+6138 NMTNWYC XHLFXX Sao-Tome-&-Principe 30 The-Flu NO
+4120 MLBXDWLCORGT FBETA Sao-Tome-&-Principe 96 The-Flu YES 04-12-2007
+3447 PMT GNEK Sao-Tome-&-Principe 112 Chickenpox YES 21-02-2012
+5609 CYSAMAJQHP IIHDPK Sao-Tome-&-Principe 59 SARS-1 NO
+7240 XLDYLGXZ LGWG Sao-Tome-&-Principe 36 Chickenpox NO
+2097 IMEN IWEGBE Sao-Tome-&-Principe 65 Tuberculosis YES 26-09-2001
+7133 XBZHH DOKOBIQTLDA Sao-Tome-&-Principe 50 Mumps YES 27-11-2017

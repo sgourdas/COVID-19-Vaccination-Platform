@@ -1,0 +1,22 @@
+4993 Phkxyz Rhwnopqrstuv Ukraine 33 HepatitisA NO
+1552 Jplfghijklmn Gualmnopqrst Ukraine 84 Rotavirus NO
+4947 Xywefghijklm Fcqjklmnopqr Ukraine 83 Testovirus NO 3-11-5111
+9056 Ffyijklmnopq Hkwefghijklm Ukraine 18 COVID19 NO 0-3-518
+3604 Zpcxyz Ouihijklmnop Ukraine 1 Adenovirus NO
+3427 Carklmnopqrs Ewovwxyz Ukraine 109 HepatitisA NO
+6705 Odeghijklmno Qevqrstuvwxy Ukraine 68 Tetanus NO
+5421 Fupqrstuvwxy Gpqmnopqrstu Ukraine 86 Hib NO
+3820 Vteklmnopqrs Vehcdefghijk Ukraine 35 Testovirus YES 16-4-3133
+148 Ereijklmnopq Uobefghijklm Ukraine 26 Varicella NO
+3043 Hzptuvwxyz Glsabcdefghi Ukraine 75 TheFlu NO 5-1-2142
+2780 Zxxdefghijkl Obtz Ukraine 64 Testovirus NO
+4551 Yduqrstuvwxy Srqmnopqrstu Ukraine 93 TheFlu NO
+8718 Pvaijklmnopq Ixkmnopqrstu Ukraine 66 Tuberculosis NO
+1025 Gkcuvwxyz Abmopqrstuvw Ukraine 76 HepatitisB NO
+5312 Ulyyz Dyvopqrstuvw Ukraine 113 Adenovirus NO
+7239 Haemnopqrstu Dpxtuvwxyz Ukraine 106 Mumps NO 28-3-5342
+6940 Aptijklmnopq Zsyxyz Ukraine 112 HepatitisB NO
+9467 Oxpefghijklm Komxyz Ukraine 11 HepatitisA YES 12-12-9776
+8946 Ctdefghijklm Dkxopqrstuvw Ukraine 92 Rotavirus YES 18-3-3641
+5690 Lodxyz Qvolmnopqrst Ukraine 93 Hib YES 1-8-4163
+7765 Cjostuvwxyz Pfpopqrstuvw Ukraine 74 TheFlu YES 18-9-4497

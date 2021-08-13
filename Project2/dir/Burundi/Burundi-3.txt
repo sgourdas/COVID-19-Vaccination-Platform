@@ -1,0 +1,14 @@
+6386 Ydhdefghijkl Oifuvwxyz Burundi 75 Testovirus NO 8-12-9164
+2960 Vhlopqrstuvw Vaepqrstuvwx Burundi 11 Diphtheria YES 4-12-4689
+7856 Mkilmnopqrst Weqpqrstuvwx Burundi 78 COVID19 YES 18-10-6535
+1979 Glvhijklmnop Jyavwxyz Burundi 92 Rubella YES 9-11-1368
+5856 Etxbcdefghij Svxxyz Burundi 105 Varicella YES 12-6-2151
+1237 Vsqhijklmnop Ogiopqrstuvw Burundi 72 Tetanus YES 21-3-2807
+6918 Pjtghijklmno Vqoabcdefghi Burundi 107 Rubella NO
+2616 Zguz Ftpghijklmno Burundi 28 HepatitisB YES 22-7-7765
+4183 Ljobcdefghij Lwdtuvwxyz Burundi 74 Diphtheria NO
+4681 Urymnopqrstu Izrwxyz Burundi 44 Tetanus NO 6-5-8508
+7841 Feeuvwxyz Txhuvwxyz Burundi 119 Varicella YES 27-0-7852
+2307 Hnrrstuvwxyz Kqwmnopqrstu Burundi 27 SARS1 YES 2-0-9673
+103 Ndryz Qkctuvwxyz Burundi 12 HepatitisA YES 8-7-2553
+2991 Wgdfghijklmn Xieqrstuvwxy Burundi 107 Adenovirus NO 12-10-7985

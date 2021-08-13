@@ -1,0 +1,20 @@
+7784 Puzmnopqrstu Pljmnopqrstu Tajikistan 36 Varicella NO
+1964 Sawxyz Yystuvwxyz Tajikistan 104 Rubella YES 28-1-5886
+8479 Tucefghijklm Srgbcdefghij Tajikistan 116 Tuberculosis NO 29-4-286
+9900 Rxdefghijklm Tmcvwxyz Tajikistan 110 H1N1 YES 11-9-392
+7987 Fnwbcdefghij Csvuvwxyz Tajikistan 37 Chickenpox YES 6-3-5968
+2565 Ewpuvwxyz Yjxcdefghijk Tajikistan 4 Tetanus YES 26-0-4557
+9451 Ciexyz Rntijklmnopq Tajikistan 88 Rotavirus NO
+6801 Opnfghijklmn Hzfyz Tajikistan 78 Hib YES 7-0-9420
+864 Qyvrstuvwxyz Xwgnopqrstuv Tajikistan 51 Hib YES 22-7-3687
+965 Sffklmnopqrs Ejdyz Tajikistan 5 Mumps NO
+9556 Hvxpqrstuvwx Zuzrstuvwxyz Tajikistan 25 HepatitisA NO
+8743 Syyabcdefghi Mzfz Tajikistan 97 Chickenpox YES 13-9-7105
+5727 Wjecdefghijk Qdatuvwxyz Tajikistan 33 Hib NO
+2850 Ucbpqrstuvwx Jcyfghijklmn Tajikistan 11 Adenovirus NO 7-12-2032
+2805 Afuvwxyz Yaoijklmnopq Tajikistan 10 Adenovirus YES 10-12-1016
+4582 Cwxpqrstuvwx Uacqrstuvwxy Tajikistan 107 Tetanus NO
+5258 Ybktuvwxyz Wdcstuvwxyz Tajikistan 103 Tuberculosis NO
+7109 Nppbcdefghij Puifghijklmn Tajikistan 56 Rotavirus YES 17-10-6227
+4753 Shixyz Kiluvwxyz Tajikistan 43 SARS1 YES 25-3-6108
+2115 Pzwabcdefghi Mqwfghijklmn Tajikistan 72 Testovirus NO

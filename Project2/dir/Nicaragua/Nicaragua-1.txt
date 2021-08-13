@@ -1,0 +1,22 @@
+8973 Aosjklmnopqr Acerstuvwxyz Nicaragua 56 HepatitisB NO
+9504 Dykefghijklm Lkxstuvwxyz Nicaragua 113 Chickenpox NO
+767 Rywxyz Rdjpqrstuvwx Nicaragua 88 Mumps YES 22-10-9008
+1696 Xhzefghijklm Zhsqrstuvwxy Nicaragua 91 Diphtheria NO
+7919 Eiqklmnopqrs Dmcmnopqrstu Nicaragua 102 Chickenpox NO
+3542 Idrabcdefghi Ozejklmnopqr Nicaragua 104 Hib YES 20-6-5077
+9665 Qyenopqrstuv Mxqtuvwxyz Nicaragua 37 Testovirus YES 0-3-3775
+8068 Blyfghijklmn Mxubcdefghij Nicaragua 105 Tetanus YES 0-7-2406
+6279 Hglxyz Xsojklmnopqr Nicaragua 32 Rotavirus YES 25-7-3824
+903 Efkhijklmnop Eqpefghijklm Nicaragua 12 SARS1 NO 10-4-1558
+3082 Qzwz Mpduvwxyz Nicaragua 97 HepatitisA YES 9-2-9793
+2250 Zerbcdefghij Wgpqrstuvwxy Nicaragua 39 Testovirus YES 7-11-6330
+6020 Quzabcdefghi Hbsefghijklm Nicaragua 35 H1N1 YES 24-4-2820
+2679 Tinz Wktrstuvwxyz Nicaragua 15 Polio YES 8-1-1451
+6027 Athijklmnopq Gxpuvwxyz Nicaragua 14 Chickenpox YES 12-0-4275
+6754 Valdefghijkl Hqpqrstuvwxy Nicaragua 10 SARS1 NO
+5131 Wycrstuvwxyz Hosqrstuvwxy Nicaragua 7 Polio YES 12-1-9580
+2594 Cutvwxyz Ngnmnopqrstu Nicaragua 12 TheFlu YES 14-8-1024
+1698 Nlrijklmnopq Ozwwxyz Nicaragua 17 Adenovirus YES 14-10-703
+2931 Kbcjklmnopqr Sqdnopqrstuv Nicaragua 77 Rubella YES 18-4-8669
+4098 Wpqghijklmno Aqknopqrstuv Nicaragua 31 Testovirus NO
+774 Rauz Wxblmnopqrst Nicaragua 32 SARS1 YES 29-4-1021

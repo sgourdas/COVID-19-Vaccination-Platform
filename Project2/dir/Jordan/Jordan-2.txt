@@ -1,0 +1,18 @@
+3814 Dskpqrstuvwx Oygyz Jordan 76 Tuberculosis YES 29-4-1202
+9310 Mpqijklmnopq Dmbdefghijkl Jordan 27 Polio NO
+9934 Ezfefghijklm Eqodefghijkl Jordan 11 HepatitisA NO
+9426 Rttcdefghijk Uctyz Jordan 106 Testovirus YES 28-5-4
+2886 Okirstuvwxyz Ozeuvwxyz Jordan 110 TheFlu YES 1-7-3741
+3817 Zpiopqrstuvw Qbtwxyz Jordan 81 Testovirus YES 2-3-6008
+6215 Vcwvwxyz Jdhnopqrstuv Jordan 76 Mumps YES 16-1-2791
+9969 Daddefghijkl Anyopqrstuvw Jordan 3 Tetanus NO
+3526 Otkuvwxyz Lnmbcdefghij Jordan 100 H1N1 NO
+4593 Ctrghijklmno Kqnbcdefghij Jordan 13 Varicella YES 20-9-3263
+1463 Yphqrstuvwxy Rdpdefghijkl Jordan 109 HepatitisA NO 0-3-1409
+253 Qugijklmnopq Cwaabcdefghi Jordan 81 H1N1 YES 26-7-5941
+4978 Haxz Otbnopqrstuv Jordan 38 Diphtheria NO
+8635 Orvtuvwxyz Drfbcdefghij Jordan 79 TheFlu YES 10-7-6584
+5461 Rsrbcdefghij Fcnopqrstuvw Jordan 104 Adenovirus NO
+8232 Zdexyz Uopcdefghijk Jordan 21 Rotavirus YES 15-4-9665
+1236 Nwbjklmnopqr Cdjtuvwxyz Jordan 106 Hib NO
+6426 Fhhrstuvwxyz Dodxyz Jordan 47 SARS1 YES 12-7-8909

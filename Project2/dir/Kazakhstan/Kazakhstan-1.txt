@@ -1,0 +1,19 @@
+3582 Qpbhijklmnop Ajwmnopqrstu Kazakhstan 52 Rubella YES 10-2-6028
+3334 Qwkijklmnopq Myhqrstuvwxy Kazakhstan 22 TheFlu NO 11-3-2073
+6651 Ioyopqrstuvw Yhdabcdefghi Kazakhstan 95 Tetanus YES 18-10-2118
+8986 Ojgfghijklmn Vapcdefghijk Kazakhstan 71 Tuberculosis NO
+9644 Gqbdefghijkl Bonmnopqrstu Kazakhstan 60 Testovirus NO
+7039 Hpajklmnopqr Nqtstuvwxyz Kazakhstan 70 HepatitisB NO
+9534 Stmopqrstuvw Bmtklmnopqrs Kazakhstan 57 Hib YES 0-12-7557
+4250 Fguopqrstuvw Ybjmnopqrstu Kazakhstan 113 Tuberculosis YES 22-9-1477
+1590 Jtuopqrstuvw Kmeyz Kazakhstan 117 H1N1 NO
+884 Kvutuvwxyz Ithvwxyz Kazakhstan 69 Diphtheria YES 18-5-5749
+3845 Antlmnopqrst Dxnijklmnopq Kazakhstan 18 Testovirus NO
+6786 Truefghijklm Lwkuvwxyz Kazakhstan 106 Hib NO 14-2-336
+6324 Kluefghijklm Jimtuvwxyz Kazakhstan 41 SARS1 YES 3-4-9356
+5542 Jmzdefghijkl Nxlxyz Kazakhstan 79 Mumps NO
+1835 Miighijklmno Jaimnopqrstu Kazakhstan 24 HepatitisA YES 28-12-3383
+6970 Baaxyz Sfeabcdefghi Kazakhstan 19 Polio YES 21-8-9688
+9389 Iqpfghijklmn Qcnqrstuvwxy Kazakhstan 60 Rotavirus NO 16-2-561
+3609 Umgpqrstuvwx Uycxyz Kazakhstan 113 Hib NO
+4411 Bekrstuvwxyz Wuxabcdefghi Kazakhstan 12 Polio NO 8-4-4186

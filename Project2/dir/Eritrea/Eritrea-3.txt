@@ -1,0 +1,21 @@
+8105 Fsgdefghijkl Npuxyz Eritrea 7 HepatitisA NO 3-12-1144
+4560 Qqefghijklmn Xsayz Eritrea 30 Varicella NO
+8619 Hqhopqrstuvw Zocpqrstuvwx Eritrea 77 Testovirus NO
+8546 Nralmnopqrst Lalijklmnopq Eritrea 5 COVID19 YES 12-3-2560
+4078 Ztbyz Wllyz Eritrea 85 H1N1 YES 17-9-5226
+8504 Iogdefghijkl Oyestuvwxyz Eritrea 19 Tuberculosis NO
+932 Zaustuvwxyz Zcfz Eritrea 48 Polio NO
+977 Otaxyz Mvjuvwxyz Eritrea 77 COVID19 NO 3-0-2296
+2801 Jlacdefghijk Odqghijklmno Eritrea 45 H1N1 NO
+127 Nqddefghijkl Kewuvwxyz Eritrea 86 HepatitisA YES 21-0-7396
+1952 Xjoklmnopqrs Eisklmnopqrs Eritrea 61 Hib YES 4-9-200
+9864 Ltxfghijklmn Ncsnopqrstuv Eritrea 65 Mumps NO
+9285 Mxknopqrstuv Bweuvwxyz Eritrea 61 Chickenpox YES 30-9-1941
+9817 Fxuqrstuvwxy Mpyefghijklm Eritrea 70 SARS1 YES 24-6-4143
+3543 Mrgnopqrstuv Wenuvwxyz Eritrea 98 Chickenpox YES 19-1-5999
+8095 Mlrefghijklm Pemdefghijkl Eritrea 118 Rubella NO
+3576 Bfqcdefghijk Jzyhijklmnop Eritrea 65 HepatitisA YES 4-4-6615
+6638 Ruxfghijklmn Aqexyz Eritrea 3 Polio NO 5-10-7348
+3288 Aslqrstuvwxy Svbklmnopqrs Eritrea 26 Diphtheria NO
+6325 Tzwabcdefghi Ghbwxyz Eritrea 61 Rotavirus NO 22-8-2163
+2065 Fzhqrstuvwxy Akcqrstuvwxy Eritrea 83 Rotavirus NO 12-8-8677

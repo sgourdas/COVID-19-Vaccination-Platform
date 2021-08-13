@@ -1,0 +1,21 @@
+2343 Gjqcdefghijk Rpscdefghijk Senegal 104 SARS1 NO
+9718 Wzsklmnopqrs Azkvwxyz Senegal 46 Diphtheria YES 26-2-1299
+2430 Tywlmnopqrst Guxabcdefghi Senegal 65 Tuberculosis YES 27-2-5319
+1993 Ypjstuvwxyz Ngjefghijklm Senegal 92 Adenovirus YES 11-2-3624
+531 Xdwwxyz Uzpfghijklmn Senegal 119 Rotavirus YES 24-2-8968
+5598 Aculmnopqrst Gypjklmnopqr Senegal 110 Chickenpox NO
+6968 Vfxklmnopqrs Fhpijklmnopq Senegal 63 Varicella YES 10-8-1100
+489 Rbscdefghijk Xzvmnopqrstu Senegal 32 Chickenpox NO 15-9-7298
+9652 Lciuvwxyz Xiwz Senegal 104 SARS1 YES 14-4-3472
+5102 Fvsyz Wjaklmnopqrs Senegal 89 Adenovirus YES 29-5-1459
+7858 Qquopqrstuvw Lckcdefghijk Senegal 37 HepatitisA NO
+367 Azeabcdefghi Lzjfghijklmn Senegal 111 Testovirus YES 13-6-4936
+2990 Omxpqrstuvwx Qafstuvwxyz Senegal 40 Tuberculosis YES 14-0-5335
+909 Eevopqrstuvw Oexrstuvwxyz Senegal 36 Adenovirus NO 24-5-7715
+8914 Oesghijklmno Krfyz Senegal 60 HepatitisB NO
+2096 Dvtpqrstuvwx Hdhstuvwxyz Senegal 13 Varicella NO 25-2-8096
+7197 Lxpopqrstuvw Arnrstuvwxyz Senegal 77 SARS1 YES 16-3-6675
+1455 Evktuvwxyz Grostuvwxyz Senegal 43 Testovirus YES 4-2-6565
+385 Vgcwxyz Nncz Senegal 118 TheFlu YES 22-12-4613
+2781 Ivrabcdefghi Rylhijklmnop Senegal 62 Tetanus NO
+3090 Ssryz Ainuvwxyz Senegal 78 Chickenpox NO

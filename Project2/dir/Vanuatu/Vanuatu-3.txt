@@ -1,0 +1,21 @@
+2432 Zyehijklmnop Opwfghijklmn Vanuatu 19 Rubella NO
+9137 Plbhijklmnop Ajohijklmnop Vanuatu 19 Polio NO
+698 Symstuvwxyz Quwdefghijkl Vanuatu 49 Varicella NO 12-1-6665
+6276 Grbcdefghijk Pwkqrstuvwxy Vanuatu 37 Polio NO
+5356 Snumnopqrstu Nwbfghijklmn Vanuatu 73 H1N1 YES 20-10-1219
+98 Wnpyz Mitnopqrstuv Vanuatu 79 HepatitisB YES 24-3-7407
+2373 Pibpqrstuvwx Ncwvwxyz Vanuatu 31 COVID19 NO
+8758 Islbcdefghij Ptsghijklmno Vanuatu 66 Polio YES 23-4-2685
+4061 Sdfijklmnopq Lvfrstuvwxyz Vanuatu 22 Mumps NO 20-11-4574
+235 Fjadefghijkl Laxnopqrstuv Vanuatu 94 Hib NO 5-0-1767
+6209 Pdighijklmno Jowdefghijkl Vanuatu 63 H1N1 NO
+8091 Nsnhijklmnop Zyrrstuvwxyz Vanuatu 48 Tuberculosis YES 26-3-4295
+2600 Bwfpqrstuvwx Imtjklmnopqr Vanuatu 116 Tetanus NO
+6227 Sievwxyz Uitstuvwxyz Vanuatu 104 Varicella YES 10-12-2784
+2778 Iaslmnopqrst Kvlnopqrstuv Vanuatu 118 Mumps YES 0-3-2637
+9026 Lpsyz Anmfghijklmn Vanuatu 35 HepatitisB NO
+3379 Dxmnopqrstuv Jhdpqrstuvwx Vanuatu 25 Polio YES 3-2-5700
+8592 Gvplmnopqrst Lmcxyz Vanuatu 25 Chickenpox YES 28-3-3148
+3304 Glycdefghijk Fnnijklmnopq Vanuatu 47 Rotavirus NO 5-12-4786
+3104 Riebcdefghij Meaqrstuvwxy Vanuatu 118 HepatitisA NO
+3065 Ntxlmnopqrst Ykfmnopqrstu Vanuatu 2 Testovirus NO 15-6-6276

@@ -1,0 +1,20 @@
+9527 Mdbhijklmnop Pnrxyz Rwanda 56 Tetanus YES 3-5-8974
+5037 Ehktuvwxyz Xaeopqrstuvw Rwanda 49 Testovirus YES 27-1-1744
+3608 Hvlpqrstuvwx Xwqtuvwxyz Rwanda 49 Polio NO 11-2-8327
+987 Qqzpqrstuvwx Xclopqrstuvw Rwanda 1 Rubella NO
+90 Gaobcdefghij Ucedefghijkl Rwanda 118 Tetanus NO 26-11-5598
+8713 Rjsefghijklm Tlxcdefghijk Rwanda 51 Tetanus NO
+1896 Lwcz Rlfdefghijkl Rwanda 73 Mumps YES 14-0-3870
+1241 Dbblmnopqrst Vdydefghijkl Rwanda 31 Mumps NO 30-3-2576
+8282 Yuonopqrstuv Qgojklmnopqr Rwanda 37 Tuberculosis YES 27-12-4276
+5920 Wakdefghijkl Kbrstuvwxyz Rwanda 28 HepatitisA YES 29-3-890
+2737 Ohoefghijklm Sjzvwxyz Rwanda 26 Chickenpox YES 0-8-7169
+6449 Wblnopqrstuv Mpeabcdefghi Rwanda 17 Polio NO
+407 Gqadefghijkl Pgvjklmnopqr Rwanda 7 Rubella YES 4-4-6890
+5745 Atkqrstuvwxy Ojkyz Rwanda 73 Varicella YES 12-10-1518
+990 Sdmuvwxyz Nrhuvwxyz Rwanda 36 COVID19 YES 12-0-6797
+9855 Itwvwxyz Fvzstuvwxyz Rwanda 35 Rubella NO 19-6-9166
+4622 Bctxyz Qaafghijklmn Rwanda 95 TheFlu NO 17-5-201
+7459 Thvfghijklmn Mwxbcdefghij Rwanda 74 Testovirus YES 19-0-5699
+5043 Vranopqrstuv Ktznopqrstuv Rwanda 75 Polio NO
+5333 Msptuvwxyz Ywjqrstuvwxy Rwanda 68 Mumps YES 4-3-8168

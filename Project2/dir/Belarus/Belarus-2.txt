@@ -1,0 +1,22 @@
+6620 Hxsmnopqrstu Vdopqrstuvwx Belarus 37 Tuberculosis NO
+8634 Ooddefghijkl Pslxyz Belarus 71 Rubella NO
+9313 Vzdghijklmno Szpklmnopqrs Belarus 15 Polio NO 22-7-488
+6828 Ofaghijklmno Blpbcdefghij Belarus 98 HepatitisA YES 6-7-3000
+1695 Zkyijklmnopq Kijfghijklmn Belarus 6 SARS1 NO
+850 Wazdefghijkl Jnmpqrstuvwx Belarus 45 Tetanus NO 5-2-674
+4430 Nlgopqrstuvw Rswtuvwxyz Belarus 64 Varicella NO
+9192 Afqijklmnopq Ssopqrstuvwx Belarus 55 Adenovirus NO
+7664 Fawmnopqrstu Qgzz Belarus 78 Chickenpox YES 29-10-7949
+5794 Wwiijklmnopq Vgoghijklmno Belarus 108 Hib YES 24-0-2277
+2846 Jvxhijklmnop Irovwxyz Belarus 28 Tetanus NO
+1951 Jaeabcdefghi Iydabcdefghi Belarus 17 Rotavirus NO 22-0-954
+4552 Vgez Zbdnopqrstuv Belarus 43 HepatitisB NO 8-0-722
+9094 Nnhfghijklmn Csfopqrstuvw Belarus 11 Rubella NO 19-5-6550
+3867 Hchvwxyz Pxfyz Belarus 38 Tetanus NO
+3535 Nrhijklmnopq Ehwvwxyz Belarus 86 Testovirus YES 19-6-6323
+3839 Fhxbcdefghij Burwxyz Belarus 119 Tuberculosis NO
+4554 Blzpqrstuvwx Uwrghijklmno Belarus 18 Adenovirus YES 5-0-3537
+5185 Xuvxyz Jyyuvwxyz Belarus 26 Rotavirus NO 2-11-9920
+7494 Lwaopqrstuvw Bbdbcdefghij Belarus 28 Mumps NO
+8209 Chiopqrstuvw Dtbtuvwxyz Belarus 71 Tetanus YES 10-4-1691
+8432 Fmgcdefghijk Ydkxyz Belarus 40 TheFlu YES 30-7-330

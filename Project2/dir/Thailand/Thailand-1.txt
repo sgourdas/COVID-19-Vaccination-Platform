@@ -1,0 +1,13 @@
+8483 Qhjghijklmno Ltrwxyz Thailand 83 Adenovirus YES 15-1-577
+5981 Jnnbcdefghij Rghlmnopqrst Thailand 74 SARS1 YES 21-8-4027
+1093 Rrjuvwxyz Kllhijklmnop Thailand 42 Rotavirus YES 9-7-6589
+3238 Yhwcdefghijk Mjkz Thailand 1 HepatitisB YES 14-2-1991
+9191 Vmouvwxyz Tthmnopqrstu Thailand 66 Mumps YES 28-5-5414
+4940 Soqklmnopqrs Efjbcdefghij Thailand 23 Polio YES 20-7-63
+9500 Fbewxyz Omymnopqrstu Thailand 22 Hib YES 22-11-5784
+2214 Xexfghijklmn Lhzghijklmno Thailand 42 Diphtheria NO 30-1-1427
+7414 Lwlyz Uthpqrstuvwx Thailand 118 Adenovirus YES 10-0-1426
+2098 Arvqrstuvwxy Rkbmnopqrstu Thailand 118 Polio NO 27-0-8003
+7406 Wlbmnopqrstu Hauyz Thailand 34 Varicella YES 16-3-7490
+3102 Pdgvwxyz Hmmxyz Thailand 120 TheFlu NO 13-1-3472
+7362 Vkquvwxyz Jsjklmnopqrs Thailand 87 Mumps YES 4-10-596

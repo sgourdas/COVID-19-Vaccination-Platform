@@ -1,0 +1,23 @@
+5552 Rzsijklmnopq Arbghijklmno Uruguay 12 SARS1 NO
+7679 Byhwxyz Whidefghijkl Uruguay 95 Polio NO
+124 Hlnstuvwxyz Pvxklmnopqrs Uruguay 108 Polio YES 30-7-897
+7571 Vbbtuvwxyz Ccjqrstuvwxy Uruguay 49 HepatitisA NO
+4152 Isqpqrstuvwx Nntopqrstuvw Uruguay 93 Rubella YES 29-10-1790
+1780 Awnfghijklmn Moropqrstuvw Uruguay 40 H1N1 NO
+7574 Lydmnopqrstu Vpkijklmnopq Uruguay 95 Tetanus NO 17-0-4491
+3460 Jbyghijklmno Hivuvwxyz Uruguay 83 COVID19 NO
+3950 Gjvabcdefghi Dwklmnopqrst Uruguay 101 TheFlu YES 8-3-2061
+4139 Lcajklmnopqr Gukfghijklmn Uruguay 68 SARS1 NO
+1904 Qndwxyz Jgrwxyz Uruguay 105 Polio YES 3-0-5221
+5811 Ctpefghijklm Uqgnopqrstuv Uruguay 43 Rubella YES 11-9-8302
+4350 Zvrcdefghijk Mgdwxyz Uruguay 23 H1N1 NO
+1576 Lepdefghijkl Aujklmnopqrs Uruguay 62 Diphtheria YES 25-0-8555
+5262 Mdimnopqrstu Cprmnopqrstu Uruguay 46 Rubella NO 7-10-3755
+8390 Tgubcdefghij Ffdstuvwxyz Uruguay 70 Rotavirus NO
+825 Sieklmnopqrs Dgeklmnopqrs Uruguay 105 Tuberculosis NO 14-5-4920
+7950 Hcmdefghijkl Rcmlmnopqrst Uruguay 101 Rubella NO
+3363 Jvgjklmnopqr Abucdefghijk Uruguay 97 TheFlu YES 11-7-1721
+8822 Xbmijklmnopq Eppklmnopqrs Uruguay 30 Rotavirus NO
+402 Wejxyz Aohvwxyz Uruguay 77 SARS1 NO 15-9-4384
+683 Bqwyz Tvxijklmnopq Uruguay 29 COVID19 NO 12-1-6240
+5532 Vnnjklmnopqr Focuvwxyz Uruguay 16 Polio NO 21-7-2783

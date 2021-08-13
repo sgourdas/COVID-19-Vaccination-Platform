@@ -1,0 +1,23 @@
+5189 Nplpqrstuvwx Anlghijklmno Benin 4 Mumps YES 27-10-1356
+7951 Hykabcdefghi Lcnyz Benin 8 Diphtheria YES 29-1-7244
+3467 Caudefghijkl Wdyghijklmno Benin 109 Diphtheria YES 9-12-8866
+1357 Hndcdefghijk Vszdefghijkl Benin 117 COVID19 YES 2-1-3017
+2171 Qkrghijklmno Hagwxyz Benin 4 Tetanus NO
+4806 Ddmrstuvwxyz Cqfz Benin 2 H1N1 YES 23-11-2336
+3331 Hcdklmnopqrs Ajvfghijklmn Benin 62 COVID19 NO
+4209 Whcabcdefghi Ruostuvwxyz Benin 72 Polio YES 16-4-3911
+1195 Lggxyz Dgrstuvwxyz Benin 92 Tetanus NO
+7823 Dumjklmnopqr Vqsdefghijkl Benin 37 COVID19 NO 1-7-2233
+1337 Mhsfghijklmn Zlkijklmnopq Benin 13 TheFlu YES 20-7-7777
+6814 Qdyabcdefghi Nydnopqrstuv Benin 16 COVID19 YES 6-11-1910
+6493 Fxgtuvwxyz Zkpbcdefghij Benin 74 SARS1 YES 12-12-4261
+9846 Qoufghijklmn Xqdghijklmno Benin 97 Rotavirus YES 28-8-9070
+2998 Qqxxyz Boaabcdefghi Benin 24 Mumps NO 13-10-1045
+8048 Qeqrstuvwxyz Gfbqrstuvwxy Benin 44 H1N1 NO
+2356 Byhabcdefghi Zplstuvwxyz Benin 62 Rubella NO 23-11-9774
+3601 Jjwxyz Zvnstuvwxyz Benin 72 HepatitisA NO 3-6-4470
+4065 Ptdbcdefghij Cxytuvwxyz Benin 50 SARS1 NO 28-2-2240
+1030 Ghvstuvwxyz Doxpqrstuvwx Benin 117 Chickenpox NO
+4365 Ulbz Xernopqrstuv Benin 94 Rotavirus YES 14-11-1830
+5157 Zlfdefghijkl Vuijklmnopqr Benin 83 Rubella NO 12-5-4147
+1197 Jioopqrstuvw Mgsijklmnopq Benin 42 Chickenpox YES 28-4-3161

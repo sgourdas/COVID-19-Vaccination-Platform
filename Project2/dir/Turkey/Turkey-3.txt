@@ -1,0 +1,19 @@
+7286 Qfxpqrstuvwx Anystuvwxyz Turkey 96 Hib NO
+5274 Yfdvwxyz Cparstuvwxyz Turkey 34 Rubella YES 27-12-4272
+1754 Xulijklmnopq Lusxyz Turkey 79 H1N1 NO
+1908 Wqdghijklmno Dmlbcdefghij Turkey 13 H1N1 NO 3-9-9650
+1800 Wrdhijklmnop Iahqrstuvwxy Turkey 68 SARS1 NO
+9989 Jbhcdefghijk Sdluvwxyz Turkey 1 Testovirus NO
+7213 Xhauvwxyz Enxvwxyz Turkey 94 COVID19 YES 27-6-7396
+8604 Pukabcdefghi Fcivwxyz Turkey 19 Tetanus NO
+9057 Thmpqrstuvwx Rvlqrstuvwxy Turkey 81 H1N1 YES 18-8-8802
+9409 Zeyabcdefghi Wiclmnopqrst Turkey 13 Diphtheria YES 4-7-7129
+4764 Hdwxyz Uyfrstuvwxyz Turkey 24 TheFlu NO
+6425 Zcdfghijklmn Vztfghijklmn Turkey 67 Polio NO
+7940 Ogcwxyz Yxshijklmnop Turkey 7 HepatitisB NO 14-10-7380
+4720 Tgvpqrstuvwx Bzpz Turkey 20 HepatitisA YES 1-9-9596
+2066 Kfldefghijkl Ffwmnopqrstu Turkey 86 HepatitisA NO
+193 Tdbghijklmno Znropqrstuvw Turkey 22 Varicella NO
+285 Mletuvwxyz Sweefghijklm Turkey 5 Polio NO 21-3-5580
+2685 Dplcdefghijk Wegrstuvwxyz Turkey 8 Adenovirus YES 26-1-4790
+3466 Ybcnopqrstuv Ijez Turkey 25 H1N1 YES 29-12-1982

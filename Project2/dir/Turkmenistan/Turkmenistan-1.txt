@@ -1,0 +1,18 @@
+5827 Lqbstuvwxyz Ewhdefghijkl Turkmenistan 1 H1N1 YES 24-5-3658
+5325 Xbgmnopqrstu Peedefghijkl Turkmenistan 61 Rotavirus NO 14-6-8418
+9051 Atzstuvwxyz Avzwxyz Turkmenistan 87 Rotavirus YES 18-10-1259
+2421 Wcatuvwxyz Wpropqrstuvw Turkmenistan 36 Hib YES 18-1-1885
+2107 Tegcdefghijk Mfnghijklmno Turkmenistan 113 Mumps YES 28-10-6048
+3279 Ceaklmnopqrs Mizyz Turkmenistan 72 Tetanus YES 18-4-3878
+9573 Snnghijklmno Eopnopqrstuv Turkmenistan 41 Varicella NO 23-9-4160
+5181 Xwcqrstuvwxy Rmeopqrstuvw Turkmenistan 28 Tuberculosis NO
+3401 Ggkuvwxyz Zwnklmnopqrs Turkmenistan 110 HepatitisB NO 30-6-8396
+9733 Zdyrstuvwxyz Xjrfghijklmn Turkmenistan 71 Rubella YES 18-1-1317
+8193 Qqkopqrstuvw Xehhijklmnop Turkmenistan 78 Tetanus YES 30-7-9592
+8098 Ikjtuvwxyz Lgclmnopqrst Turkmenistan 53 HepatitisA YES 2-7-5421
+1591 Eopmnopqrstu Swllmnopqrst Turkmenistan 20 Rotavirus YES 23-6-2092
+935 Ibecdefghijk Mjtfghijklmn Turkmenistan 65 Tuberculosis YES 15-9-2203
+8490 Iaxuvwxyz Egvwxyz Turkmenistan 104 HepatitisB YES 23-10-9993
+3913 Hujbcdefghij Vqdxyz Turkmenistan 70 Tetanus NO 7-7-3825
+6339 Olcxyz Ecwijklmnopq Turkmenistan 35 TheFlu NO 20-12-8412
+4781 Clqefghijklm Clsghijklmno Turkmenistan 41 Rotavirus NO

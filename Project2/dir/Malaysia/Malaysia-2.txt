@@ -1,0 +1,17 @@
+2424 Rihefghijklm Wubcdefghijk Malaysia 48 Polio NO
+1582 Tinlmnopqrst Lqpwxyz Malaysia 115 Varicella YES 0-0-1758
+184 Futklmnopqrs Iaeuvwxyz Malaysia 60 Testovirus YES 11-0-6716
+6739 Dhgdefghijkl Dacpqrstuvwx Malaysia 24 SARS1 YES 8-10-819
+5374 Amtopqrstuvw Soighijklmno Malaysia 120 H1N1 NO 3-7-2038
+7563 Tsjabcdefghi Zrighijklmno Malaysia 14 TheFlu NO 21-12-2008
+9294 Mbclmnopqrst Fbgfghijklmn Malaysia 9 Diphtheria NO 30-5-4732
+8467 Yypyz Rnmuvwxyz Malaysia 55 Hib YES 14-4-561
+8052 Olyfghijklmn Ejlijklmnopq Malaysia 100 Tuberculosis YES 12-8-4111
+7626 Gbzmnopqrstu Qvbvwxyz Malaysia 60 Mumps NO
+1847 Awhbcdefghij Wotvwxyz Malaysia 4 Diphtheria YES 29-12-3234
+9936 Bbahijklmnop Rgqyz Malaysia 101 Chickenpox NO
+9818 Tvefghijklmn Vhfefghijklm Malaysia 86 HepatitisB NO
+3205 Yjorstuvwxyz Uiqvwxyz Malaysia 74 SARS1 NO
+4735 Aftyz Scwwxyz Malaysia 56 COVID19 NO
+3325 Momvwxyz Ivywxyz Malaysia 33 Tuberculosis YES 25-4-925
+6084 Xjdxyz Cpmfghijklmn Malaysia 8 H1N1 YES 5-12-5350

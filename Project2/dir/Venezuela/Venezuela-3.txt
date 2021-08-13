@@ -1,0 +1,24 @@
+4500 Cjtfghijklmn Ewmhijklmnop Venezuela 111 Polio NO
+5342 Jgcrstuvwxyz Pzvxyz Venezuela 31 SARS1 NO
+7573 Xlofghijklmn Nstvwxyz Venezuela 93 Hib YES 28-8-5922
+1859 Prez Cggdefghijkl Venezuela 73 HepatitisA NO
+4523 Gzmyz Bjfijklmnopq Venezuela 96 Testovirus NO
+4043 Qaaklmnopqrs Aaemnopqrstu Venezuela 89 Tuberculosis NO 4-5-8140
+7953 Bsdhijklmnop Quvpqrstuvwx Venezuela 23 Mumps NO 1-4-9277
+1173 Jlhnopqrstuv Fkimnopqrstu Venezuela 40 COVID19 YES 11-3-3608
+7328 Jqrtuvwxyz Bwluvwxyz Venezuela 51 SARS1 YES 26-3-5314
+4240 Raptuvwxyz Occtuvwxyz Venezuela 74 H1N1 YES 8-1-262
+5264 Qbndefghijkl Murfghijklmn Venezuela 11 Tetanus YES 7-3-725
+5366 Wvjnopqrstuv Ezrijklmnopq Venezuela 100 HepatitisB YES 30-2-4483
+8598 Ftxklmnopqrs Kdcbcdefghij Venezuela 96 Polio NO
+6657 Ghqghijklmno Vkxtuvwxyz Venezuela 71 Polio NO 2-7-4715
+8374 Zvpopqrstuvw Pmeghijklmno Venezuela 7 Polio NO 19-5-178
+3438 Ybvabcdefghi Sydcdefghijk Venezuela 21 Adenovirus NO 10-0-2479
+3209 Lyxz Aqbnopqrstuv Venezuela 45 Polio NO 5-4-8310
+4179 Gxtqrstuvwxy Jokklmnopqrs Venezuela 27 COVID19 NO
+352 Njhfghijklmn Fdbghijklmno Venezuela 10 H1N1 NO 26-8-1211
+4544 Pytfghijklmn Jdwuvwxyz Venezuela 52 Tuberculosis NO 12-11-5141
+6697 Ueuyz Evscdefghijk Venezuela 105 Chickenpox NO
+8018 Sanz Mkujklmnopqr Venezuela 15 Polio YES 9-3-3672
+9328 Qsfz Xjjabcdefghi Venezuela 4 Varicella NO
+2510 Ebxbcdefghij Jxypqrstuvwx Venezuela 4 Polio NO

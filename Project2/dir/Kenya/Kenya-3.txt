@@ -1,0 +1,22 @@
+627 Qfrnopqrstuv Dlgijklmnopq Kenya 104 Polio YES 1-2-1309
+118 Dcfz Wuxqrstuvwxy Kenya 110 Diphtheria NO 3-5-2624
+4002 Pqfabcdefghi Lxkrstuvwxyz Kenya 49 Diphtheria YES 24-0-501
+438 Rwbhijklmnop Eldabcdefghi Kenya 13 HepatitisB NO
+7637 Gobdefghijkl Jtwxyz Kenya 70 H1N1 YES 10-1-5983
+6182 Byopqrstuvwx Nilfghijklmn Kenya 46 Rubella YES 19-9-4679
+2294 Kxaabcdefghi Qsqyz Kenya 20 Varicella YES 12-0-751
+1562 Erbefghijklm Wawvwxyz Kenya 77 Tetanus YES 17-6-9476
+2650 Gonijklmnopq Xhbrstuvwxyz Kenya 78 Rubella YES 7-11-7483
+7092 Sarcdefghijk Dgscdefghijk Kenya 65 Chickenpox YES 15-12-6362
+3295 Pfdijklmnopq Ekiabcdefghi Kenya 111 TheFlu YES 29-3-841
+2062 Xklyz Ebpbcdefghij Kenya 12 Hib NO
+673 Mtkyz Lxtuvwxyz Kenya 34 Chickenpox YES 2-3-1511
+2346 Qqmdefghijkl Mbyxyz Kenya 105 Adenovirus NO 23-1-4878
+8548 Ophjklmnopqr Uqwpqrstuvwx Kenya 27 Chickenpox NO 14-1-2837
+896 Tpmstuvwxyz Wicghijklmno Kenya 46 Chickenpox YES 18-9-9993
+4192 Kojefghijklm Lnnvwxyz Kenya 87 Mumps YES 16-5-1589
+7342 Kaauvwxyz Yjilmnopqrst Kenya 67 HepatitisA NO
+3450 Kisklmnopqrs Uvtijklmnopq Kenya 39 Mumps YES 3-2-2961
+8613 Oaauvwxyz Nwsabcdefghi Kenya 38 Adenovirus NO 6-6-8469
+8689 Kuetuvwxyz Zcjghijklmno Kenya 58 Rubella YES 26-1-5868
+7028 Miucdefghijk Erorstuvwxyz Kenya 114 HepatitisB YES 24-3-8568

@@ -1,0 +1,24 @@
+2844 Vubbcdefghij Atwjklmnopqr Brunei 59 COVID19 YES 16-8-1863
+6347 Unkuvwxyz Rpyxyz Brunei 39 Mumps NO 30-0-6011
+7339 Zhjyz Tgpabcdefghi Brunei 57 Testovirus NO
+5341 Dvawxyz Khvhijklmnop Brunei 91 TheFlu YES 8-1-7477
+8558 Eglopqrstuvw Bcwabcdefghi Brunei 67 COVID19 NO
+5989 Yuuhijklmnop Rnsnopqrstuv Brunei 25 Testovirus NO
+1062 Kpryz Odhpqrstuvwx Brunei 108 Rotavirus YES 28-8-7566
+9125 Uculmnopqrst Ijirstuvwxyz Brunei 102 Adenovirus YES 21-4-7253
+58 Qhyuvwxyz Kpnpqrstuvwx Brunei 120 COVID19 YES 29-2-4906
+8818 Colbcdefghij Atsz Brunei 42 HepatitisA YES 3-6-2148
+3508 Phptuvwxyz Nolabcdefghi Brunei 98 Hib NO
+9475 Llfabcdefghi Lbpabcdefghi Brunei 67 Chickenpox YES 19-9-1238
+4870 Flamnopqrstu Bqwklmnopqrs Brunei 34 H1N1 NO 13-1-2262
+7770 Nkybcdefghij Jbyefghijklm Brunei 62 HepatitisB NO 26-8-1618
+5023 Jupijklmnopq Zhsxyz Brunei 29 Mumps YES 16-7-4725
+417 Zyfghijklmno Ufxhijklmnop Brunei 104 COVID19 YES 5-7-9082
+9437 Wwrjklmnopqr Anodefghijkl Brunei 18 Adenovirus YES 18-5-4993
+1648 Cocpqrstuvwx Iqutuvwxyz Brunei 64 Polio NO
+819 Qwgklmnopqrs Bgvefghijklm Brunei 26 SARS1 YES 0-1-4327
+1394 Snrcdefghijk Rwxfghijklmn Brunei 90 Rotavirus YES 18-4-7908
+6477 Rigghijklmno Aerhijklmnop Brunei 76 Tetanus NO
+2299 Yfspqrstuvwx Cbjopqrstuvw Brunei 10 Chickenpox NO 30-10-3458
+8172 Xeqz Mvylmnopqrst Brunei 112 Chickenpox YES 26-8-7889
+1459 Dqzuvwxyz Cilqrstuvwxy Brunei 17 H1N1 NO

@@ -1,0 +1,17 @@
+120 Dvzhijklmnop Swrxyz Afghanistan 54 COVID19 YES 30-0-8659
+3523 Dodghijklmno Gffbcdefghij Afghanistan 85 Adenovirus YES 20-0-6008
+3092 Brcuvwxyz Tzunopqrstuv Afghanistan 100 Hib YES 28-4-7812
+9696 Ogenopqrstuv Bclwxyz Afghanistan 27 SARS1 YES 2-4-3604
+78 Uptstuvwxyz Ouwpqrstuvwx Afghanistan 11 Polio NO
+6552 Ybadefghijkl Oinabcdefghi Afghanistan 64 Chickenpox YES 25-9-8236
+8085 Xhcabcdefghi Bwyghijklmno Afghanistan 120 COVID19 NO 10-2-6756
+7906 Ksmghijklmno Autwxyz Afghanistan 28 TheFlu YES 17-9-644
+2118 Kqez Xjxcdefghijk Afghanistan 92 Tetanus NO
+3394 Iwppqrstuvwx Tytrstuvwxyz Afghanistan 116 Varicella YES 6-3-752
+3444 Cvztuvwxyz Yjapqrstuvwx Afghanistan 116 Polio YES 12-2-2298
+353 Tqmhijklmnop Bujqrstuvwxy Afghanistan 75 HepatitisA NO 27-9-4876
+4750 Wzsopqrstuvw Jybbcdefghij Afghanistan 100 Tuberculosis NO
+5868 Lhywxyz Sfnijklmnopq Afghanistan 81 Hib YES 5-2-947
+2230 Nmihijklmnop Aarxyz Afghanistan 111 Tuberculosis NO
+1713 Cwzstuvwxyz Jneghijklmno Afghanistan 62 H1N1 YES 24-5-6675
+7518 Cgrqrstuvwxy Uzutuvwxyz Afghanistan 94 TheFlu NO

@@ -1,0 +1,21 @@
+3660 Dwkstuvwxyz Awppqrstuvwx Macedonia 107 Testovirus YES 17-12-2221
+9058 Bmljklmnopqr Blwijklmnopq Macedonia 116 TheFlu YES 0-2-9620
+1857 Mydlmnopqrst Xlzghijklmno Macedonia 39 Rotavirus NO
+183 Aftz Rznvwxyz Macedonia 1 HepatitisA YES 27-9-4356
+5059 Oywopqrstuvw Ksmklmnopqrs Macedonia 99 Tuberculosis NO
+5814 Dbmuvwxyz Bqymnopqrstu Macedonia 44 Tetanus YES 21-1-7347
+7222 Ammyz Jmsghijklmno Macedonia 36 Varicella YES 4-11-3873
+4334 Nqzvwxyz Tgsdefghijkl Macedonia 103 H1N1 NO 19-11-1251
+4239 Apktuvwxyz Vjpz Macedonia 33 Adenovirus NO
+6056 Fbfopqrstuvw Uoewxyz Macedonia 73 COVID19 YES 7-9-3773
+1930 Vwklmnopqrst Cijlmnopqrst Macedonia 74 TheFlu NO
+4507 Oqpbcdefghij Oorhijklmnop Macedonia 37 Diphtheria YES 30-12-6521
+4905 Iaeghijklmno Wdllmnopqrst Macedonia 97 Testovirus NO
+1833 Xndyz Dhbz Macedonia 2 Diphtheria YES 3-0-3712
+1200 Vyvmnopqrstu Upolmnopqrst Macedonia 67 Testovirus YES 8-3-1237
+439 Qvhjklmnopqr Xfrklmnopqrs Macedonia 75 Chickenpox YES 20-4-4076
+4768 Gevefghijklm Zatwxyz Macedonia 106 Testovirus NO
+7890 Eliklmnopqrs Zjqqrstuvwxy Macedonia 103 Varicella YES 27-9-8134
+9705 Aooopqrstuvw Cjgdefghijkl Macedonia 36 Varicella YES 0-3-2577
+6897 Ofgopqrstuvw Rusghijklmno Macedonia 105 Testovirus NO
+5543 Vddz Auquvwxyz Macedonia 7 Rotavirus YES 14-6-1034

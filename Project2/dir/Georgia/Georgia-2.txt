@@ -1,0 +1,18 @@
+8620 Jrdstuvwxyz Fmwlmnopqrst Georgia 17 Adenovirus YES 30-2-406
+4027 Mustuvwxyz Ucgefghijklm Georgia 19 Rotavirus NO
+576 Pfpijklmnopq Qokuvwxyz Georgia 97 Tetanus NO
+8205 Hutijklmnopq Ehuhijklmnop Georgia 28 Rubella NO 10-2-123
+2524 Mdituvwxyz Qaumnopqrstu Georgia 30 Chickenpox YES 23-4-248
+8677 Fhanopqrstuv Wqjrstuvwxyz Georgia 109 Diphtheria YES 2-4-7191
+8693 Huonopqrstuv Pslmnopqrstu Georgia 28 Rubella NO
+6569 Glwlmnopqrst Fbwfghijklmn Georgia 51 Rotavirus NO
+5509 Taoabcdefghi Llgwxyz Georgia 62 Varicella NO
+8270 Yugopqrstuvw Utmz Georgia 82 SARS1 YES 29-12-9927
+6622 Ngarstuvwxyz Tqnmnopqrstu Georgia 7 Testovirus YES 30-2-7517
+476 Ieguvwxyz Azzopqrstuvw Georgia 27 Chickenpox YES 13-9-681
+6568 Ovyrstuvwxyz Grvefghijklm Georgia 97 H1N1 NO 6-1-5935
+8681 Iiudefghijkl Pcfhijklmnop Georgia 73 Mumps NO
+3303 Kfyabcdefghi Sbtijklmnopq Georgia 78 Chickenpox NO
+5271 Lxjefghijklm Kdprstuvwxyz Georgia 52 Polio NO 26-0-624
+7820 Awgbcdefghij Siyrstuvwxyz Georgia 11 Adenovirus YES 24-2-9554
+1065 Dzypqrstuvwx Lxhvwxyz Georgia 63 Testovirus YES 25-9-176

@@ -1,0 +1,20 @@
+2211 Llnghijklmno Jjhjklmnopqr Belize 57 TheFlu YES 4-10-8815
+2161 Otjbcdefghij Esqnopqrstuv Belize 20 TheFlu YES 15-10-187
+6617 Bzzopqrstuvw Tunijklmnopq Belize 69 TheFlu YES 5-7-9761
+6333 Ckbjklmnopqr Nnpdefghijkl Belize 97 Varicella YES 6-11-7095
+5731 Uvmxyz Onupqrstuvwx Belize 6 COVID19 YES 7-0-5683
+2856 Vudvwxyz Cjznopqrstuv Belize 46 Rubella YES 24-3-1251
+1533 Puwcdefghijk Ofiz Belize 118 Hib YES 12-12-5319
+1320 Zhnlmnopqrst Lrewxyz Belize 82 Adenovirus YES 26-10-4152
+1716 Bxvlmnopqrst Jrbmnopqrstu Belize 62 Polio NO
+5584 Kcutuvwxyz Jbgcdefghijk Belize 31 HepatitisB NO
+3945 Swhabcdefghi Wwkefghijklm Belize 68 Tetanus NO
+782 Wvoqrstuvwxy Rkfhijklmnop Belize 74 Tetanus YES 5-12-2147
+7809 Sohlmnopqrst Alnabcdefghi Belize 78 Rubella NO
+2665 Xnmpqrstuvwx Jvez Belize 117 Chickenpox YES 27-7-1307
+1023 Mvytuvwxyz Rlabcdefghij Belize 83 Rubella YES 21-5-9838
+7439 Gduxyz Rjlvwxyz Belize 49 Adenovirus YES 29-3-483
+9372 Cfwcdefghijk Zcfmnopqrstu Belize 79 Chickenpox YES 15-0-3714
+3211 Jkqlmnopqrst Pugnopqrstuv Belize 112 TheFlu YES 26-3-6343
+5465 Aclhijklmnop Ogpijklmnopq Belize 24 Rotavirus YES 12-9-4752
+444 Qzudefghijkl Aagwxyz Belize 23 HepatitisA YES 27-3-9589

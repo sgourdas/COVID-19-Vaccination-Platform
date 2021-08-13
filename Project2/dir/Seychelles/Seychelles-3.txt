@@ -1,0 +1,18 @@
+3110 Bzzfghijklmn Wgzz Seychelles 61 Testovirus NO
+5810 Lpuijklmnopq Opkabcdefghi Seychelles 55 Diphtheria NO 0-1-6804
+7876 Iitabcdefghi Akqstuvwxyz Seychelles 63 COVID19 YES 25-2-3866
+2564 Rlrrstuvwxyz Tgqghijklmno Seychelles 35 Polio YES 4-0-9560
+8453 Quycdefghijk Iecpqrstuvwx Seychelles 66 Varicella NO
+8880 Hkmrstuvwxyz Qajefghijklm Seychelles 107 Testovirus YES 6-11-8854
+2357 Wsvrstuvwxyz Detz Seychelles 94 Rotavirus YES 28-5-2570
+2948 Zabxyz Hpipqrstuvwx Seychelles 37 Testovirus YES 22-8-7270
+3852 Xheopqrstuvw Sherstuvwxyz Seychelles 20 HepatitisB NO
+3720 Zhfbcdefghij Hlzhijklmnop Seychelles 106 Chickenpox NO
+2045 Ttvbcdefghij Pbihijklmnop Seychelles 80 Diphtheria YES 29-10-4888
+9996 Yksabcdefghi Qdexyz Seychelles 118 Chickenpox NO
+10 Xauyz Nwmabcdefghi Seychelles 2 Chickenpox YES 1-7-8112
+8074 Wxbrstuvwxyz Dzeghijklmno Seychelles 104 SARS1 YES 7-7-8472
+6559 Jxamnopqrstu Blulmnopqrst Seychelles 69 Rotavirus YES 30-2-9418
+2711 Mifnopqrstuv Ajlbcdefghij Seychelles 39 Tetanus YES 15-1-1547
+7320 Qovvwxyz Seulmnopqrst Seychelles 76 H1N1 NO
+3963 Mmdjklmnopqr Ltxpqrstuvwx Seychelles 28 Hib YES 29-4-9658

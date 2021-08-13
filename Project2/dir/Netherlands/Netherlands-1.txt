@@ -1,0 +1,20 @@
+6827 Zszvwxyz Beenopqrstuv Netherlands 64 Varicella NO 20-8-8668
+4146 Xwrwxyz Levvwxyz Netherlands 59 Polio YES 20-11-696
+1515 Hlzefghijklm Zadstuvwxyz Netherlands 99 Chickenpox NO
+4652 Rejtuvwxyz Pshabcdefghi Netherlands 45 Rubella NO 15-5-4853
+5255 Obecdefghijk Cmtqrstuvwxy Netherlands 102 Adenovirus YES 2-3-8592
+9672 Gswlmnopqrst Dtkwxyz Netherlands 23 SARS1 NO
+7216 Yacdefghijkl Bvlyz Netherlands 7 HepatitisA NO
+657 Qgtmnopqrstu Xogstuvwxyz Netherlands 48 Adenovirus YES 14-0-7497
+5222 Kxbnopqrstuv Xmzabcdefghi Netherlands 97 Mumps NO
+2463 Ybbefghijklm Gjpmnopqrstu Netherlands 93 Testovirus YES 10-2-180
+3041 Qsalmnopqrst Lapbcdefghij Netherlands 36 Polio NO
+8065 Qnorstuvwxyz Swctuvwxyz Netherlands 50 Rubella NO 8-0-1764
+8575 Mhlabcdefghi Jdfklmnopqrs Netherlands 46 Polio YES 10-3-7943
+7144 Dapvwxyz Prjjklmnopqr Netherlands 47 H1N1 NO
+4736 Hkwxyz Ebebcdefghij Netherlands 9 Polio YES 10-8-4708
+8929 Ftqopqrstuvw Jjemnopqrstu Netherlands 11 Diphtheria NO
+7580 Srnfghijklmn Dpdefghijklm Netherlands 83 TheFlu NO
+8569 Elwmnopqrstu Biighijklmno Netherlands 118 Mumps NO 8-9-9723
+2495 Xaafghijklmn Gbastuvwxyz Netherlands 97 Diphtheria NO
+4802 Rphwxyz Muenopqrstuv Netherlands 16 Hib NO 0-11-876

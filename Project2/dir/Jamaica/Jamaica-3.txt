@@ -1,0 +1,21 @@
+1419 Zxcghijklmno Odvmnopqrstu Jamaica 86 Varicella YES 13-1-9935
+7982 Fazghijklmno Taobcdefghij Jamaica 68 TheFlu YES 13-1-1906
+674 Afqabcdefghi Vamuvwxyz Jamaica 46 Rotavirus YES 10-1-2223
+697 Okfrstuvwxyz Uibabcdefghi Jamaica 85 H1N1 YES 26-7-16
+8877 Ysxefghijklm Rxqcdefghijk Jamaica 27 Diphtheria NO 18-9-5841
+9318 Tjxqrstuvwxy Bdzopqrstuvw Jamaica 102 Rubella YES 19-9-2350
+9752 Sepvwxyz Hjxqrstuvwxy Jamaica 111 H1N1 YES 0-12-6097
+9745 Nblz Cbguvwxyz Jamaica 74 Rubella YES 28-9-9162
+6763 Jyfxyz Lewijklmnopq Jamaica 31 Tuberculosis NO 18-2-687
+9215 Oqjijklmnopq Yklrstuvwxyz Jamaica 17 Adenovirus NO
+1631 Qiepqrstuvwx Ivjabcdefghi Jamaica 37 HepatitisA NO 22-11-360
+8535 Syxabcdefghi Pwwbcdefghij Jamaica 105 Tuberculosis YES 5-5-946
+9760 Ebiwxyz Uwawxyz Jamaica 30 Chickenpox YES 2-11-8450
+7565 Pseefghijklm Ukaabcdefghi Jamaica 6 Polio YES 17-3-9664
+2720 Znzvwxyz Ogpmnopqrstu Jamaica 107 Rubella YES 28-3-8763
+7541 Xzpfghijklmn Sqlijklmnopq Jamaica 86 Hib YES 17-12-3348
+5734 Hcpopqrstuvw Fghlmnopqrst Jamaica 34 Tetanus NO 8-9-3466
+9659 Iuhyz Lxnmnopqrstu Jamaica 85 COVID19 YES 9-6-9067
+4910 Yvwqrstuvwxy Klpz Jamaica 30 Mumps YES 13-0-5972
+2574 Gorhijklmnop Nbxnopqrstuv Jamaica 25 Testovirus NO 10-2-783
+9359 Mogefghijklm Maqz Jamaica 73 Adenovirus YES 18-9-9858

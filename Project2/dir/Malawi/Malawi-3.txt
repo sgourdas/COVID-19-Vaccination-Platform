@@ -1,0 +1,16 @@
+2148 Sbwhijklmnop Xcjz Malawi 86 Tetanus YES 26-4-1206
+5792 Fhqvwxyz Ihgrstuvwxyz Malawi 25 H1N1 YES 20-3-8843
+9395 Kyanopqrstuv Pogghijklmno Malawi 98 Chickenpox NO 11-12-7783
+8732 Qyjdefghijkl Wpajklmnopqr Malawi 48 COVID19 YES 14-9-4512
+3890 Phaopqrstuvw Uxgjklmnopqr Malawi 8 Tuberculosis YES 20-6-6461
+1319 Bgwdefghijkl Dshnopqrstuv Malawi 82 Testovirus NO 26-3-1347
+6200 Muzmnopqrstu Kzgklmnopqrs Malawi 87 Varicella YES 26-5-1190
+9621 Rxshijklmnop Hvjdefghijkl Malawi 22 Tetanus NO
+8511 Jysstuvwxyz Hngwxyz Malawi 97 Rotavirus NO 14-6-9828
+7690 Ihqijklmnopq Kxpfghijklmn Malawi 19 Tuberculosis NO
+2477 Zglvwxyz Cjxuvwxyz Malawi 110 SARS1 YES 29-12-7827
+5848 Bndijklmnopq Pgcuvwxyz Malawi 47 Mumps YES 7-1-3824
+1385 Jkopqrstuvwx Ibwstuvwxyz Malawi 87 Tetanus YES 16-3-9751
+7158 Lngijklmnopq Ezmvwxyz Malawi 28 Rubella YES 27-1-9330
+5595 Slgjklmnopqr Qblyz Malawi 104 Testovirus YES 29-9-783
+2383 Lniz Fecnopqrstuv Malawi 43 TheFlu YES 12-3-904

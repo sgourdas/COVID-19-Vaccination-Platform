@@ -1,0 +1,21 @@
+8684 Njdghijklmno Lvyvwxyz Djibouti 4 HepatitisA YES 7-8-1710
+3270 Rpxyz Egryz Djibouti 15 Rubella YES 17-6-4307
+7138 Xnarstuvwxyz Rxijklmnopqr Djibouti 51 COVID19 NO
+4959 Ortijklmnopq Okcxyz Djibouti 34 Tetanus YES 12-12-2767
+1669 Baiopqrstuvw Ygiefghijklm Djibouti 10 Adenovirus YES 2-11-9997
+6776 Aerefghijklm Bkwdefghijkl Djibouti 45 Polio NO 29-2-8584
+9553 Ntshijklmnop Undghijklmno Djibouti 96 HepatitisB NO
+4769 Qapwxyz Cnfklmnopqrs Djibouti 112 Rotavirus YES 16-12-9340
+6862 Umwqrstuvwxy Gtrefghijklm Djibouti 119 Diphtheria NO
+3716 Qvvhijklmnop Znenopqrstuv Djibouti 76 HepatitisA NO 27-8-2031
+2311 Awoijklmnopq Xkhrstuvwxyz Djibouti 65 Rubella YES 18-9-5287
+3809 Jexjklmnopqr Edrqrstuvwxy Djibouti 117 H1N1 NO
+9367 Gquvwxyz Zuxvwxyz Djibouti 38 H1N1 YES 4-2-4041
+2370 Uhchijklmnop Qdmlmnopqrst Djibouti 116 Tuberculosis YES 2-4-7669
+8854 Mculmnopqrst Wxdcdefghijk Djibouti 62 Varicella NO
+6273 Eogxyz Ucrdefghijkl Djibouti 117 Polio YES 25-7-6222
+5233 Zqfabcdefghi Jmqopqrstuvw Djibouti 109 Varicella YES 4-11-273
+1248 Logmnopqrstu Ofuefghijklm Djibouti 14 H1N1 YES 20-9-2500
+7187 Vccghijklmno Pcyyz Djibouti 56 Rubella NO
+671 Zpzijklmnopq Djkstuvwxyz Djibouti 119 SARS1 YES 2-6-1779
+2932 Olxfghijklmn Lfmpqrstuvwx Djibouti 30 Rotavirus YES 28-6-1808

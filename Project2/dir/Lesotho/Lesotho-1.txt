@@ -1,0 +1,20 @@
+269 Xkxdefghijkl Qwajklmnopqr Lesotho 47 TheFlu YES 4-5-6300
+3653 Mxfmnopqrstu Vlcfghijklmn Lesotho 9 Varicella NO
+2476 Dmxxyz Lpuhijklmnop Lesotho 67 SARS1 YES 30-0-2602
+5242 Gtbfghijklmn Xidjklmnopqr Lesotho 96 Rubella NO 23-8-7711
+2939 Lqljklmnopqr Tcsklmnopqrs Lesotho 35 HepatitisA NO
+4597 Olivwxyz Zxlghijklmno Lesotho 58 HepatitisB NO 26-8-910
+8857 Hyoabcdefghi Cmeefghijklm Lesotho 5 Chickenpox YES 19-0-3471
+8744 Oaystuvwxyz Ssjz Lesotho 25 Testovirus YES 3-11-1627
+3501 Hjbghijklmno Vjhnopqrstuv Lesotho 81 COVID19 YES 11-2-6211
+4108 Zzkdefghijkl Pycbcdefghij Lesotho 52 Tuberculosis YES 5-6-8052
+1226 Tkbxyz Kmkxyz Lesotho 53 Adenovirus NO 6-10-6671
+6261 Nyulmnopqrst Jyqtuvwxyz Lesotho 80 Tuberculosis YES 28-10-839
+6860 Dvtlmnopqrst Akdxyz Lesotho 59 TheFlu NO
+4245 Twsmnopqrstu Ihflmnopqrst Lesotho 13 Mumps NO 1-4-7106
+945 Mjgefghijklm Pamwxyz Lesotho 45 HepatitisA NO 24-12-6264
+8832 Xikdefghijkl Ddpdefghijkl Lesotho 114 Rotavirus NO
+7229 Rtihijklmnop Mgavwxyz Lesotho 84 SARS1 YES 27-9-6862
+622 Xyetuvwxyz Ycnmnopqrstu Lesotho 87 TheFlu NO
+8257 Mvgyz Lbmlmnopqrst Lesotho 66 Rubella NO
+6297 Uhsrstuvwxyz Pkgfghijklmn Lesotho 64 Hib YES 15-2-8585

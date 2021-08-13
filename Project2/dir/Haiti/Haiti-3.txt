@@ -1,0 +1,24 @@
+7358 Swwefghijklm Gbgklmnopqrs Haiti 75 SARS1 NO
+3199 Timyz Dcwefghijklm Haiti 55 Rotavirus YES 15-11-7934
+3908 Xpmbcdefghij Rugbcdefghij Haiti 15 Varicella NO
+9792 Yrgopqrstuvw Dgupqrstuvwx Haiti 5 SARS1 NO
+9228 Bqzijklmnopq Xxfbcdefghij Haiti 91 Rotavirus YES 29-9-8282
+583 Quejklmnopqr Tkgcdefghijk Haiti 53 Diphtheria YES 16-7-502
+737 Nebghijklmno Wxjlmnopqrst Haiti 77 Rubella YES 20-6-2620
+8063 Myzijklmnopq Ylbdefghijkl Haiti 94 Tetanus YES 29-0-2575
+1741 Tsaxyz Sqhmnopqrstu Haiti 120 Varicella NO
+8020 Hirijklmnopq Fpxz Haiti 87 Rotavirus NO 19-3-675
+4254 Hbjstuvwxyz Uteopqrstuvw Haiti 65 Rubella YES 18-4-2433
+2234 Ntimnopqrstu Tnuqrstuvwxy Haiti 39 Mumps YES 18-4-2050
+2132 Vegfghijklmn Satvwxyz Haiti 74 HepatitisB YES 1-6-1101
+4824 Fpsqrstuvwxy Duaopqrstuvw Haiti 97 Rotavirus NO 1-7-4718
+3446 Lilmnopqrstu Wgipqrstuvwx Haiti 64 SARS1 NO
+7517 Wytmnopqrstu Phpuvwxyz Haiti 65 H1N1 NO
+4579 Bxeopqrstuvw Ajylmnopqrst Haiti 89 Testovirus YES 25-2-6828
+9603 Nitmnopqrstu Ktlmnopqrstu Haiti 81 TheFlu NO 11-1-7195
+8754 Lruabcdefghi Zwfklmnopqrs Haiti 91 SARS1 YES 2-1-9828
+7529 Hevwxyz Hpfmnopqrstu Haiti 28 Mumps NO
+5321 Lklvwxyz Zukpqrstuvwx Haiti 1 Rotavirus NO 0-7-3901
+8650 Ftpnopqrstuv Ztnrstuvwxyz Haiti 109 Mumps YES 12-2-3250
+7302 Bxglmnopqrst Fioqrstuvwxy Haiti 16 SARS1 YES 6-2-5816
+1317 Ezcnopqrstuv Ffumnopqrstu Haiti 75 Mumps NO

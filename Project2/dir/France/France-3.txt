@@ -1,0 +1,20 @@
+1451 Xndjklmnopqr Ojxrstuvwxyz France 76 Tetanus YES 23-0-9950
+1975 Bvituvwxyz Knrqrstuvwxy France 28 Adenovirus NO 24-9-4217
+1204 Pisbcdefghij Xmipqrstuvwx France 101 H1N1 NO
+2486 Jstbcdefghij Lqlabcdefghi France 64 Tuberculosis NO
+2831 Amfz Behjklmnopqr France 46 Mumps YES 30-5-5532
+9135 Xcyabcdefghi Wohvwxyz France 26 Rotavirus YES 5-2-8726
+9948 Ovimnopqrstu Vggrstuvwxyz France 80 Hib YES 1-4-6015
+1184 Moqstuvwxyz Ibwxyz France 59 COVID19 YES 3-8-711
+3046 Olvefghijklm Gocghijklmno France 56 Testovirus YES 21-10-4606
+7729 Ijudefghijkl Gpwstuvwxyz France 45 Varicella NO
+8316 Yngyz Eimz France 58 HepatitisB YES 5-10-6475
+6067 Tdkz Ntlyz France 28 Tuberculosis YES 19-7-3727
+6160 Aqdbcdefghij Zosopqrstuvw France 116 HepatitisA YES 30-6-6277
+3114 Jqvabcdefghi Enaabcdefghi France 103 TheFlu NO
+618 Xpqghijklmno Olhvwxyz France 73 H1N1 YES 24-7-357
+4159 Ycxcdefghijk Jzrpqrstuvwx France 2 Chickenpox NO
+7105 Vrcqrstuvwxy Drjvwxyz France 14 Testovirus YES 29-8-9772
+137 Npywxyz Bikhijklmnop France 64 Rotavirus YES 13-5-2209
+9728 Hynstuvwxyz Sbtnopqrstuv France 54 TheFlu YES 25-8-2872
+2047 Pbzrstuvwxyz Mvpyz France 119 H1N1 NO

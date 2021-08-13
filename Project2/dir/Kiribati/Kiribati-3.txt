@@ -1,0 +1,20 @@
+5125 Wdddefghijkl Vllmnopqrstu Kiribati 99 Rubella YES 12-10-6836
+996 Udpstuvwxyz Xkfrstuvwxyz Kiribati 83 Diphtheria NO
+5739 Iqvghijklmno Rpgxyz Kiribati 110 Rotavirus YES 2-2-9011
+7649 Ulnpqrstuvwx Nykfghijklmn Kiribati 4 SARS1 YES 1-1-1481
+155 Zdymnopqrstu Okrz Kiribati 46 Diphtheria YES 30-3-4095
+2329 Zcxz Prostuvwxyz Kiribati 57 Tuberculosis NO 4-7-7784
+4570 Ksluvwxyz Tyccdefghijk Kiribati 21 Polio YES 2-11-7947
+2072 Bbvtuvwxyz Zvcdefghijkl Kiribati 91 HepatitisA NO
+3473 Nltz Xpemnopqrstu Kiribati 70 H1N1 NO 27-5-3726
+7826 Jlistuvwxyz Dbrrstuvwxyz Kiribati 27 Mumps YES 2-10-9747
+6929 Rjaabcdefghi Ctwz Kiribati 93 Testovirus NO
+8024 Rvfdefghijkl Zlvqrstuvwxy Kiribati 5 Chickenpox NO
+969 Bwrdefghijkl Kulrstuvwxyz Kiribati 42 HepatitisB NO
+1059 Gyphijklmnop Cxvabcdefghi Kiribati 57 Polio YES 14-11-7124
+1254 Wontuvwxyz Fqlyz Kiribati 45 Tetanus YES 30-6-2331
+9439 Quadefghijkl Mfmxyz Kiribati 59 Testovirus YES 24-11-5606
+3267 Gsojklmnopqr Rvwghijklmno Kiribati 80 Mumps NO 23-12-9448
+6187 Pzxqrstuvwxy Lybwxyz Kiribati 120 Polio NO
+5245 Emfyz Mkffghijklmn Kiribati 101 H1N1 NO
+9381 Inkcdefghijk Dttklmnopqrs Kiribati 81 Testovirus NO

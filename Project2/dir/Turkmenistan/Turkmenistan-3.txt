@@ -1,0 +1,17 @@
+5738 Gdlxyz Bngcdefghijk Turkmenistan 59 TheFlu NO 13-9-5155
+641 Wsaklmnopqrs Ercmnopqrstu Turkmenistan 101 Hib NO 15-2-745
+1355 Ymwbcdefghij Xyfwxyz Turkmenistan 74 Tuberculosis YES 17-11-8957
+7956 Xqhdefghijkl Gteabcdefghi Turkmenistan 29 Varicella NO
+1041 Iufopqrstuvw Gcwnopqrstuv Turkmenistan 80 Tuberculosis YES 24-8-7442
+1756 Thklmnopqrst Ywlefghijklm Turkmenistan 34 HepatitisA YES 22-10-9559
+8296 Kjhwxyz Vixfghijklmn Turkmenistan 67 Tuberculosis NO
+1383 Wornopqrstuv Jhgz Turkmenistan 56 Hib NO 19-0-9741
+3143 Ihrtuvwxyz Dyptuvwxyz Turkmenistan 76 Polio NO
+4841 Jlzwxyz Hdylmnopqrst Turkmenistan 68 Varicella YES 19-12-8517
+2228 Eqhmnopqrstu Gbupqrstuvwx Turkmenistan 80 Varicella NO 0-8-8157
+1740 Lgimnopqrstu Domstuvwxyz Turkmenistan 15 HepatitisA NO
+4032 Vpjcdefghijk Pocnopqrstuv Turkmenistan 28 Hib YES 9-5-1336
+1925 Zmyrstuvwxyz Zstklmnopqrs Turkmenistan 79 COVID19 YES 28-11-1256
+1326 Zjhefghijklm Frcabcdefghi Turkmenistan 24 Testovirus NO 1-4-6972
+4289 Tfmhijklmnop Bruvwxyz Turkmenistan 33 TheFlu YES 0-9-5826
+2291 Yrtrstuvwxyz Wusopqrstuvw Turkmenistan 52 Adenovirus YES 12-2-1273

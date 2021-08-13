@@ -1,0 +1,17 @@
+1450 Chuhijklmnop Cjcabcdefghi Sudan 109 Tuberculosis NO 5-7-631
+2412 Hehrstuvwxyz Ivpcdefghijk Sudan 58 Tetanus YES 26-11-1522
+7505 Cckabcdefghi Ghymnopqrstu Sudan 53 SARS1 YES 29-0-474
+8383 Gyrtuvwxyz Dbucdefghijk Sudan 74 Rubella NO 7-1-6994
+4918 Grituvwxyz Xnzhijklmnop Sudan 64 Hib YES 28-8-8358
+5961 Jwnmnopqrstu Hoicdefghijk Sudan 11 Varicella NO
+4202 Grsghijklmno Yjlbcdefghij Sudan 61 Polio YES 22-3-4263
+923 Lfdopqrstuvw Hvvfghijklmn Sudan 12 TheFlu YES 27-12-8499
+1264 Dlnz Sisghijklmno Sudan 62 Varicella YES 7-3-6812
+5594 Ogsopqrstuvw Qzcvwxyz Sudan 116 HepatitisA YES 5-6-2278
+3541 Tjjdefghijkl Itwlmnopqrst Sudan 9 HepatitisB YES 0-2-6114
+4840 Bdyabcdefghi Ytgbcdefghij Sudan 45 Rubella YES 25-2-9672
+3701 Wximnopqrstu Dkjjklmnopqr Sudan 24 Hib NO
+6113 Hwmtuvwxyz Gosbcdefghij Sudan 85 Rotavirus YES 30-5-3311
+9365 Mdfstuvwxyz Bunefghijklm Sudan 110 HepatitisB NO 17-7-6500
+9084 Idivwxyz Bqyyz Sudan 46 Tuberculosis NO 1-6-7279
+9007 Zogstuvwxyz Zfwabcdefghi Sudan 60 Rotavirus YES 13-9-7486

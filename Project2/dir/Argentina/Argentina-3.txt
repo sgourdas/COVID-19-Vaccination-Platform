@@ -1,0 +1,21 @@
+6071 Ibyxyz Ojvyz Argentina 84 Chickenpox NO 18-3-3703
+1156 Htdmnopqrstu Xscrstuvwxyz Argentina 100 SARS1 YES 29-6-7180
+3630 Wanrstuvwxyz Qkvjklmnopqr Argentina 28 Tuberculosis NO
+7955 Bnquvwxyz Litqrstuvwxy Argentina 25 Tuberculosis NO 17-7-9849
+9390 Qtmbcdefghij Eoypqrstuvwx Argentina 65 Mumps NO
+953 Zgzlmnopqrst Gqoghijklmno Argentina 28 Rubella NO 11-4-7329
+3632 Hqxbcdefghij Sgnopqrstuvw Argentina 16 HepatitisA YES 4-0-2476
+5820 Oibfghijklmn Eqxxyz Argentina 41 Rotavirus YES 17-12-3300
+5599 Xqtbcdefghij Lzfbcdefghij Argentina 50 Rotavirus YES 24-12-4552
+4949 Gqedefghijkl Kiwopqrstuvw Argentina 20 Varicella YES 1-10-712
+4647 Vwuz Wmvwxyz Argentina 33 Chickenpox YES 29-9-8017
+441 Liwdefghijkl Vimabcdefghi Argentina 73 HepatitisB YES 16-12-457
+7265 Aawbcdefghij Domfghijklmn Argentina 24 SARS1 YES 0-3-9168
+5358 Nrdstuvwxyz Sexdefghijkl Argentina 44 Mumps NO
+5581 Fqchijklmnop Asuqrstuvwxy Argentina 69 Rotavirus YES 10-7-5927
+1104 Vlsfghijklmn Rkyyz Argentina 26 HepatitisA YES 10-9-9440
+1706 Cfbqrstuvwxy Ruoijklmnopq Argentina 43 HepatitisB NO
+9834 Jghmnopqrstu Qkdz Argentina 8 COVID19 YES 13-0-8904
+5836 Aubdefghijkl Sivcdefghijk Argentina 68 Rubella YES 10-5-7356
+7450 Ynvabcdefghi Mziyz Argentina 91 Hib YES 16-12-4533
+5457 Vrnnopqrstuv Jrbefghijklm Argentina 2 Diphtheria NO

@@ -1,0 +1,16 @@
+3633 Cbpfghijklmn Wlwxyz Morocco 92 Rotavirus NO
+2295 Hbrbcdefghij Yrhjklmnopqr Morocco 33 Adenovirus NO
+6229 Gzyhijklmnop Ukwstuvwxyz Morocco 94 Rubella NO 17-10-7201
+5377 Pizijklmnopq Kgnhijklmnop Morocco 36 Polio NO
+6753 Qqfyz Buastuvwxyz Morocco 79 H1N1 NO
+9540 Alpijklmnopq Ukmrstuvwxyz Morocco 53 Adenovirus YES 11-7-3370
+8007 Dutbcdefghij Vvnqrstuvwxy Morocco 6 H1N1 YES 11-6-3265
+2457 Hkcdefghijkl Fnfefghijklm Morocco 69 Rubella NO
+2640 Yojmnopqrstu Ybsghijklmno Morocco 74 Adenovirus YES 2-11-8794
+8821 Dkmijklmnopq Fgwuvwxyz Morocco 41 HepatitisB YES 14-7-1584
+4871 Pqvdefghijkl Dqcfghijklmn Morocco 97 COVID19 NO
+6054 Todbcdefghij Lltstuvwxyz Morocco 55 Testovirus NO
+4713 Wcmopqrstuvw Csoyz Morocco 114 HepatitisB YES 17-1-5387
+4158 Yfilmnopqrst Cwfefghijklm Morocco 81 COVID19 YES 23-7-87
+3714 Ncdz Pivpqrstuvwx Morocco 95 Rotavirus NO
+8712 Jgwabcdefghi Dlirstuvwxyz Morocco 84 HepatitisA NO

@@ -1,0 +1,23 @@
+8042 Hbwefghijklm Tpznopqrstuv Benin 120 Adenovirus NO 25-1-929
+80 Leapqrstuvwx Pfuefghijklm Benin 56 Polio YES 22-0-3445
+7139 Irvghijklmno Xhqpqrstuvwx Benin 97 Tuberculosis NO
+2864 Ljluvwxyz Cyfyz Benin 117 Testovirus NO 7-5-2398
+8305 Almopqrstuvw Hgctuvwxyz Benin 9 SARS1 NO
+813 Wuvnopqrstuv Rzewxyz Benin 49 Tuberculosis YES 5-0-1038
+4829 Dtnijklmnopq Mhuvwxyz Benin 19 Testovirus YES 30-7-2816
+5960 Jjqtuvwxyz Ioabcdefghij Benin 86 Rotavirus YES 16-2-1388
+7070 Bjiopqrstuvw Lxslmnopqrst Benin 77 HepatitisB NO
+2595 Tczvwxyz Wzyrstuvwxyz Benin 33 SARS1 YES 14-9-5048
+3175 Bnquvwxyz Bejwxyz Benin 42 Varicella YES 21-11-8742
+4669 Cqvopqrstuvw Xbhnopqrstuv Benin 49 HepatitisA YES 17-10-6289
+7829 Zsabcdefghij Rogwxyz Benin 74 COVID19 NO
+7804 Vlirstuvwxyz Avmghijklmno Benin 59 COVID19 YES 13-4-9183
+5737 Rsuvwxyz Gfetuvwxyz Benin 13 Rubella NO
+5136 Qtouvwxyz Owxlmnopqrst Benin 92 Testovirus YES 26-7-1745
+8926 Ppipqrstuvwx Ahxhijklmnop Benin 94 HepatitisA NO 25-3-2580
+6359 Becefghijklm Nmgrstuvwxyz Benin 20 Polio YES 27-8-8752
+3725 Xhbxyz Pwzyz Benin 116 Varicella NO
+4724 Kkepqrstuvwx Ephpqrstuvwx Benin 40 COVID19 YES 15-5-5141
+1733 Snfcdefghijk Uteghijklmno Benin 53 TheFlu YES 21-7-413
+3722 Xxtopqrstuvw Lhujklmnopqr Benin 91 HepatitisB YES 9-6-8726
+1860 Vjovwxyz Vgflmnopqrst Benin 62 SARS1 YES 11-2-6369

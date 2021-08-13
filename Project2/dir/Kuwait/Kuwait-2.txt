@@ -1,0 +1,18 @@
+3854 Umwpqrstuvwx Azpuvwxyz Kuwait 7 Rubella NO
+5661 Dhcnopqrstuv Ihwbcdefghij Kuwait 31 H1N1 YES 0-3-1071
+5884 Rsfmnopqrstu Xykijklmnopq Kuwait 22 Varicella NO
+8420 Lpdnopqrstuv Wyybcdefghij Kuwait 55 Diphtheria YES 23-1-7448
+7791 Herghijklmno Zvdtuvwxyz Kuwait 28 H1N1 YES 20-3-3749
+4992 Qhocdefghijk Qkinopqrstuv Kuwait 60 Diphtheria YES 22-12-636
+9458 Tvhwxyz Uohfghijklmn Kuwait 80 Chickenpox YES 0-9-3045
+881 Ukmz Ujuwxyz Kuwait 99 Rotavirus NO
+5069 Pvwyz Kupfghijklmn Kuwait 112 Rotavirus YES 17-4-5418
+4285 Zrxmnopqrstu Ifkefghijklm Kuwait 16 H1N1 NO
+528 Gyhnopqrstuv Qikvwxyz Kuwait 25 SARS1 NO 12-9-8726
+125 Rwaqrstuvwxy Sytbcdefghij Kuwait 1 COVID19 NO 29-8-1804
+7350 Pcflmnopqrst Ixlijklmnopq Kuwait 27 Chickenpox YES 5-2-973
+6704 Sbctuvwxyz Dcwwxyz Kuwait 101 HepatitisA NO
+4426 Wkrnopqrstuv Lkjklmnopqrs Kuwait 29 Chickenpox NO
+7834 Szgstuvwxyz Yijpqrstuvwx Kuwait 60 SARS1 YES 26-3-6700
+3155 Ctwhijklmnop Ajiklmnopqrs Kuwait 74 Hib YES 18-4-1494
+3369 Wgcbcdefghij Zywbcdefghij Kuwait 58 Varicella NO

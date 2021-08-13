@@ -1,0 +1,22 @@
+5395 Ltocdefghijk Jolnopqrstuv Bangladesh 67 Polio NO
+2445 Ugxdefghijkl Xypbcdefghij Bangladesh 41 Rubella NO 30-3-4758
+9974 Gjqdefghijkl Ffhjklmnopqr Bangladesh 78 Tuberculosis NO
+8414 Jkmlmnopqrst Fdgopqrstuvw Bangladesh 120 Mumps NO 29-6-3356
+717 Hsyghijklmno Rygyz Bangladesh 12 HepatitisB NO
+2987 Ziiijklmnopq Psquvwxyz Bangladesh 70 Adenovirus YES 4-1-6701
+3869 Wfnrstuvwxyz Fqxnopqrstuv Bangladesh 12 Hib YES 7-11-1310
+6166 Zleefghijklm Xtcqrstuvwxy Bangladesh 90 Chickenpox YES 6-4-1942
+2321 Jgluvwxyz Cndxyz Bangladesh 30 Testovirus NO
+2672 Qfaghijklmno Lpfmnopqrstu Bangladesh 102 Chickenpox NO
+7356 Kgybcdefghij Nzvhijklmnop Bangladesh 79 Chickenpox NO
+8806 Jcwhijklmnop Yrfdefghijkl Bangladesh 61 COVID19 NO
+5110 Nmftuvwxyz Qzlijklmnopq Bangladesh 115 Chickenpox NO
+9796 Vpwyz Qscmnopqrstu Bangladesh 9 Tuberculosis YES 10-12-3630
+1878 Wirjklmnopqr Qwljklmnopqr Bangladesh 22 Varicella YES 6-2-501
+3642 Xswcdefghijk Bgvefghijklm Bangladesh 4 Adenovirus YES 30-3-273
+4784 Biefghijklmn Snhrstuvwxyz Bangladesh 43 Rubella YES 14-6-9432
+8310 Ptgfghijklmn Wvihijklmnop Bangladesh 19 Testovirus YES 3-3-3532
+4357 Svzijklmnopq Nhxklmnopqrs Bangladesh 88 Chickenpox YES 26-1-1610
+5460 Uimbcdefghij Rrvhijklmnop Bangladesh 7 Tuberculosis YES 29-11-3404
+9261 Dvxz Fxcxyz Bangladesh 105 Tetanus NO
+1314 Bajstuvwxyz Awglmnopqrst Bangladesh 63 Testovirus YES 8-0-3647

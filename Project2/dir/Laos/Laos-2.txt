@@ -1,0 +1,14 @@
+1658 Wbgvwxyz Uwaabcdefghi Laos 101 Mumps YES 17-3-7381
+5443 Gkkxyz Hcmhijklmnop Laos 71 Hib NO 8-9-7821
+681 Xmbdefghijkl Nubrstuvwxyz Laos 63 Chickenpox YES 1-9-8427
+7096 Znnnopqrstuv Kbpfghijklmn Laos 111 Diphtheria YES 2-4-7752
+9289 Mjrpqrstuvwx Mblwxyz Laos 62 Hib YES 1-5-7456
+6900 Agyz Pwctuvwxyz Laos 14 Varicella NO
+109 Mzgvwxyz Lsarstuvwxyz Laos 9 SARS1 NO
+4749 Gskghijklmno Zgpefghijklm Laos 78 HepatitisA YES 15-8-3563
+6614 Tvxyz Zxlopqrstuvw Laos 52 HepatitisB NO
+1795 Eymcdefghijk Hzvjklmnopqr Laos 22 COVID19 YES 13-1-9990
+3893 Fywabcdefghi Nhmnopqrstuv Laos 49 Tuberculosis YES 8-11-2834
+1486 Hloqrstuvwxy Mvsfghijklmn Laos 114 TheFlu NO
+2835 Weqpqrstuvwx Rojhijklmnop Laos 70 H1N1 YES 2-10-7563
+7965 Njzghijklmno Abwxyz Laos 20 HepatitisA YES 10-3-8757

@@ -1,0 +1,20 @@
+2983 Rqfdefghijkl Iviz Moldova 80 Hib NO
+9449 Xlfabcdefghi Bcjghijklmno Moldova 104 Rubella NO
+3887 Ndmxyz Utqyz Moldova 89 Varicella NO 27-9-3241
+7578 Qugxyz Tlxrstuvwxyz Moldova 90 Adenovirus NO
+6471 Qehbcdefghij Skzrstuvwxyz Moldova 40 Rotavirus NO
+2546 Mkyz Embrstuvwxyz Moldova 22 TheFlu NO
+3835 Cffyz Miocdefghijk Moldova 5 SARS1 NO
+7685 Jcyjklmnopqr Cehz Moldova 31 Chickenpox YES 22-0-9683
+5551 Wkgtuvwxyz Nxrcdefghijk Moldova 98 Rubella NO 6-6-3212
+2513 Gtebcdefghij Hwvklmnopqrs Moldova 45 TheFlu NO
+6484 Lhdabcdefghi Yjqrstuvwxyz Moldova 106 Mumps NO
+522 Djjopqrstuvw Arapqrstuvwx Moldova 66 Rubella YES 30-11-9911
+1157 Emeghijklmno Jboz Moldova 36 Tuberculosis NO
+7082 Arjvwxyz Xbkdefghijkl Moldova 7 Varicella YES 20-11-1754
+130 Gdemnopqrstu Uyqabcdefghi Moldova 62 TheFlu NO
+6872 Mvmxyz Aqojklmnopqr Moldova 50 HepatitisB YES 24-4-659
+5986 Jxbuvwxyz Fwbuvwxyz Moldova 67 Hib YES 19-2-2202
+1088 Kfestuvwxyz Iihmnopqrstu Moldova 55 Chickenpox NO 30-7-6561
+4025 Gakhijklmnop Pmymnopqrstu Moldova 79 Testovirus NO
+5849 Ukmjklmnopqr Xqxhijklmnop Moldova 52 Mumps YES 19-12-6559

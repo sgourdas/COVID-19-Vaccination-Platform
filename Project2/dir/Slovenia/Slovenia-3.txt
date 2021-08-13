@@ -1,0 +1,17 @@
+9118 Vwuyz Xcljklmnopqr Slovenia 11 SARS1 YES 12-4-757
+5073 Ywwxyz Cafz Slovenia 107 HepatitisA NO 18-7-804
+5833 Tydabcdefghi Iftyz Slovenia 47 Testovirus NO
+8666 Keetuvwxyz Ylsghijklmno Slovenia 49 TheFlu YES 14-2-175
+8231 Yqajklmnopqr Onvijklmnopq Slovenia 98 H1N1 YES 29-5-3687
+9685 Yvvwxyz Ibdopqrstuvw Slovenia 79 Tetanus NO 26-4-6814
+5485 Setklmnopqrs Nrgqrstuvwxy Slovenia 40 TheFlu YES 21-2-6704
+2200 Wbllmnopqrst Iqustuvwxyz Slovenia 26 Diphtheria NO 13-1-7173
+1637 Ajropqrstuvw Nzdxyz Slovenia 70 Rubella YES 15-5-2686
+9457 Aembcdefghij Ikilmnopqrst Slovenia 89 Rubella NO
+3767 Crnnopqrstuv Reblmnopqrst Slovenia 53 HepatitisB NO 15-11-3382
+2715 Sllvwxyz Goyqrstuvwxy Slovenia 84 SARS1 YES 22-5-4479
+7584 Vttfghijklmn Cswdefghijkl Slovenia 100 Testovirus NO
+6530 Ruqpqrstuvwx Upxfghijklmn Slovenia 63 Diphtheria NO
+8080 Rmolmnopqrst Gxnijklmnopq Slovenia 3 COVID19 NO
+1592 Dpnwxyz Nerklmnopqrs Slovenia 17 Tuberculosis NO
+7125 Oisbcdefghij Wdlwxyz Slovenia 61 TheFlu NO

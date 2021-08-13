@@ -1,0 +1,22 @@
+4777 Dbihijklmnop Malwxyz Switzerland 98 SARS1 YES 7-1-2560
+7483 Fmbopqrstuvw Rmkfghijklmn Switzerland 69 Tetanus YES 7-6-1063
+1498 Oostuvwxyz Cpspqrstuvwx Switzerland 91 Tetanus YES 2-11-9622
+9282 Hgqz Uwxabcdefghi Switzerland 57 Chickenpox YES 8-8-832
+4355 Ovjefghijklm Onzcdefghijk Switzerland 19 Testovirus NO 11-10-1051
+1743 Fjsqrstuvwxy Tibghijklmno Switzerland 98 HepatitisB YES 23-9-2200
+8704 Mzolmnopqrst Mfcstuvwxyz Switzerland 65 Rubella NO 3-0-3595
+9263 Elcefghijklm Axudefghijkl Switzerland 31 Tetanus NO 21-11-8694
+2034 Chtuvwxyz Fjnz Switzerland 51 HepatitisB NO
+494 Rhnvwxyz Xrexyz Switzerland 1 Tetanus YES 5-1-8325
+3958 Sobpqrstuvwx Gmkmnopqrstu Switzerland 73 HepatitisA NO 21-2-3132
+7355 Zdfyz Gympqrstuvwx Switzerland 66 Tuberculosis NO 7-6-6803
+4633 Qnkhijklmnop Gmbabcdefghi Switzerland 38 H1N1 YES 9-7-9216
+8293 Rybijklmnopq Ilkxyz Switzerland 88 TheFlu NO 14-2-2867
+5556 Axflmnopqrst Cbastuvwxyz Switzerland 103 Varicella NO
+8476 Ngjijklmnopq Ymfrstuvwxyz Switzerland 7 Diphtheria YES 10-3-9808
+7435 Eddtuvwxyz Cgxxyz Switzerland 75 Hib NO 21-12-1362
+5414 Avmyz Cgrbcdefghij Switzerland 69 TheFlu NO 21-1-9605
+3724 Upmvwxyz Kgcabcdefghi Switzerland 54 SARS1 YES 28-9-1876
+3315 Fjhuvwxyz Roynopqrstuv Switzerland 27 HepatitisB YES 28-6-4599
+4475 Tnoijklmnopq Zjjrstuvwxyz Switzerland 78 TheFlu YES 4-7-5503
+319 Pizijklmnopq Hfujklmnopqr Switzerland 67 Polio NO

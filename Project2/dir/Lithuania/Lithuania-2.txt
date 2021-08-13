@@ -1,0 +1,22 @@
+5238 Rlpopqrstuvw Jrzvwxyz Lithuania 47 Varicella NO 23-5-7070
+3507 Eexstuvwxyz Fjltuvwxyz Lithuania 110 Tuberculosis NO
+966 Sqfwxyz Rfphijklmnop Lithuania 11 Varicella NO
+6317 Vaafghijklmn Tfhdefghijkl Lithuania 80 Testovirus YES 12-7-412
+6183 Ksfijklmnopq Fuwrstuvwxyz Lithuania 106 Tuberculosis YES 30-12-7657
+8489 Abqstuvwxyz Vnpuvwxyz Lithuania 71 HepatitisA YES 16-9-2442
+4296 Qoiijklmnopq Cphyz Lithuania 11 Diphtheria NO
+2639 Eypvwxyz Pbdwxyz Lithuania 76 Testovirus YES 23-12-5476
+3234 Dbppqrstuvwx Lqptuvwxyz Lithuania 46 Mumps YES 17-5-7868
+5145 Xbxbcdefghij Rynuvwxyz Lithuania 54 Rotavirus YES 0-7-2588
+5652 Latfghijklmn Zusbcdefghij Lithuania 56 Rubella NO
+3810 Hchcdefghijk Dapwxyz Lithuania 27 Rotavirus NO
+7243 Hsgabcdefghi Crzhijklmnop Lithuania 48 TheFlu YES 26-10-6385
+1269 Wagabcdefghi Maxhijklmnop Lithuania 59 Tuberculosis NO 29-11-6344
+9764 Dwyz Qwsbcdefghij Lithuania 59 Polio YES 27-2-427
+5210 Xgecdefghijk Hdhjklmnopqr Lithuania 59 HepatitisA NO
+739 Czoyz Ynoqrstuvwxy Lithuania 43 COVID19 NO
+4635 Fkjefghijklm Cmecdefghijk Lithuania 7 HepatitisA NO 4-12-776
+4035 Zolcdefghijk Dshmnopqrstu Lithuania 47 TheFlu NO 14-12-470
+7495 Ytgxyz Zwtijklmnopq Lithuania 14 Rotavirus YES 22-1-3466
+6520 Npytuvwxyz Fvojklmnopqr Lithuania 102 Adenovirus YES 7-11-522
+2806 Qgtz Pxbcdefghijk Lithuania 19 Testovirus NO 16-7-7550

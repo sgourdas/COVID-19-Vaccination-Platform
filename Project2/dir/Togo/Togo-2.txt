@@ -1,0 +1,20 @@
+9770 Rxsefghijklm Uhsjklmnopqr Togo 103 HepatitisA NO
+3436 Gevklmnopqrs Tzsstuvwxyz Togo 65 Mumps YES 17-3-469
+8328 Hxkstuvwxyz Srrqrstuvwxy Togo 76 Varicella NO
+1753 Wniwxyz Wgxfghijklmn Togo 62 Mumps YES 13-7-6796
+6531 Qbctuvwxyz Jwiqrstuvwxy Togo 50 Varicella NO
+7410 Plwwxyz Givopqrstuvw Togo 2 H1N1 NO 9-3-3222
+1829 Wsouvwxyz Tuaabcdefghi Togo 20 Adenovirus NO 2-8-937
+3017 Favlmnopqrst Ahpstuvwxyz Togo 77 Testovirus YES 18-7-1875
+1056 Omqjklmnopqr Iahmnopqrstu Togo 43 Rubella NO 17-10-2802
+4932 Adbefghijklm Qiavwxyz Togo 35 Chickenpox NO 19-1-5616
+1329 Umkabcdefghi Prfnopqrstuv Togo 31 Varicella YES 1-11-4793
+6990 Jgkghijklmno Qdeklmnopqrs Togo 35 Mumps YES 26-2-9983
+6021 Htcopqrstuvw Juzlmnopqrst Togo 41 COVID19 NO
+180 Mbeyz Qoznopqrstuv Togo 45 Rotavirus NO
+2344 Tyefghijklmn Vajdefghijkl Togo 93 Mumps YES 8-5-1392
+8896 Xrajklmnopqr Gqilmnopqrst Togo 51 Polio NO
+1517 Evsstuvwxyz Nyqxyz Togo 23 H1N1 NO
+2819 Pwxdefghijkl Evgopqrstuvw Togo 90 Polio YES 30-5-8280
+1208 Cehghijklmno Eqxz Togo 7 Varicella YES 7-0-4078
+9509 Fhvvwxyz Gbotuvwxyz Togo 99 Diphtheria NO

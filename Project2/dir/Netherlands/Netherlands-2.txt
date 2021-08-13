@@ -1,0 +1,20 @@
+7000 Kogghijklmno Ejnefghijklm Netherlands 107 Chickenpox NO
+6960 Tynwxyz Vosghijklmno Netherlands 89 Rotavirus NO
+3375 Xzecdefghijk Jtomnopqrstu Netherlands 14 Rotavirus YES 4-3-4510
+5381 Srmpqrstuvwx Npkmnopqrstu Netherlands 42 Rotavirus NO
+2973 Zostuvwxyz Fmjyz Netherlands 105 SARS1 YES 25-3-2469
+7132 Yjcrstuvwxyz Fhgstuvwxyz Netherlands 115 TheFlu YES 20-10-5431
+3959 Wuqqrstuvwxy Safghijklmno Netherlands 11 Rotavirus NO 12-7-1473
+2017 Wpzopqrstuvw Plqtuvwxyz Netherlands 14 Tetanus NO
+4820 Ufonopqrstuv Siomnopqrstu Netherlands 86 HepatitisA YES 14-2-3877
+3555 Mcmbcdefghij Qtsklmnopqrs Netherlands 70 Chickenpox NO
+1146 Teexyz Fnfhijklmnop Netherlands 2 Mumps YES 5-10-2609
+2955 Ufjdefghijkl Hgkrstuvwxyz Netherlands 62 Adenovirus NO
+4619 Hmzz Khjopqrstuvw Netherlands 33 H1N1 YES 7-8-7944
+4979 Rudtuvwxyz Yabklmnopqrs Netherlands 117 Rubella YES 18-6-4321
+4657 Nxjijklmnopq Eiorstuvwxyz Netherlands 47 Rotavirus NO
+2734 Dtgklmnopqrs Ouoz Netherlands 110 Adenovirus YES 13-1-846
+9011 Eaocdefghijk Fchvwxyz Netherlands 48 HepatitisA NO
+9710 Bnunopqrstuv Napvwxyz Netherlands 107 Varicella NO 12-10-4985
+6092 Prqpqrstuvwx Bqhefghijklm Netherlands 105 Tuberculosis NO
+5179 Dnsxyz Wlmcdefghijk Netherlands 72 Adenovirus YES 7-9-2556

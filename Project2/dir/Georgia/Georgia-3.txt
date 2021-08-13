@@ -1,0 +1,17 @@
+2302 Rhqstuvwxyz Ufthijklmnop Georgia 29 Tuberculosis YES 7-12-8494
+6434 Htrnopqrstuv Ydorstuvwxyz Georgia 37 Hib YES 9-0-7547
+9157 Qegz Zsvrstuvwxyz Georgia 52 Varicella NO 23-6-833
+1183 Vpiabcdefghi Zbmwxyz Georgia 12 COVID19 NO 25-6-6357
+3807 Ecxyz Khahijklmnop Georgia 67 SARS1 YES 12-5-1207
+6353 Xbjlmnopqrst Bmrz Georgia 106 Tetanus YES 18-10-999
+3981 Kkyqrstuvwxy Quprstuvwxyz Georgia 61 HepatitisB NO
+4419 Zyjnopqrstuv Yszghijklmno Georgia 47 HepatitisA YES 19-0-7851
+1294 Kamvwxyz Ragwxyz Georgia 107 Diphtheria NO
+1963 Amkwxyz Sddyz Georgia 21 Hib YES 14-12-4269
+2101 Ftkz Vkhrstuvwxyz Georgia 34 Testovirus NO
+1610 Whmabcdefghi Hwfcdefghijk Georgia 115 Polio YES 30-4-509
+2703 Fijstuvwxyz Dhocdefghijk Georgia 94 Tuberculosis YES 6-11-6673
+8685 Pkrijklmnopq Phdtuvwxyz Georgia 31 H1N1 NO
+1343 Wbktuvwxyz Mphpqrstuvwx Georgia 106 COVID19 YES 2-0-6495
+6036 Xisdefghijkl Jkucdefghijk Georgia 22 HepatitisB YES 24-5-4910
+6550 Xbqopqrstuvw Cdjbcdefghij Georgia 116 Testovirus NO 9-11-536

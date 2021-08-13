@@ -1,0 +1,22 @@
+730 Wuqbcdefghij Lweopqrstuvw Ukraine 16 H1N1 NO
+1246 Tccijklmnopq Ammjklmnopqr Ukraine 98 Diphtheria YES 22-2-675
+7208 Qhubcdefghij Bqebcdefghij Ukraine 117 H1N1 YES 18-0-1357
+2215 Iodabcdefghi Jntuvwxyz Ukraine 63 Hib NO
+2807 Bqmopqrstuvw Cnycdefghijk Ukraine 76 Hib NO
+7609 Hnbjklmnopqr Lhspqrstuvwx Ukraine 72 Rotavirus NO 12-4-5753
+188 Sqcvwxyz Kuqnopqrstuv Ukraine 112 Testovirus YES 24-2-4608
+7727 Vevwxyz Ufrklmnopqrs Ukraine 103 COVID19 YES 25-6-3126
+5855 Knsklmnopqrs Yqdefghijklm Ukraine 73 Rubella NO 0-12-6961
+8158 Cuxtuvwxyz Gtcz Ukraine 42 HepatitisA YES 15-4-4734
+8013 Oymghijklmno Jgiqrstuvwxy Ukraine 50 Varicella YES 16-11-3167
+5809 Ybcefghijklm Ecjghijklmno Ukraine 94 Adenovirus NO 0-11-8491
+5128 Dwbpqrstuvwx Wxcghijklmno Ukraine 103 Polio YES 6-1-2384
+6439 Nhouvwxyz Oigstuvwxyz Ukraine 66 Tuberculosis YES 3-1-7903
+4211 Nnrfghijklmn Atnvwxyz Ukraine 109 H1N1 NO
+1000 Ojgfghijklmn Nrlabcdefghi Ukraine 66 Diphtheria NO
+1812 Ajyxyz Sssbcdefghij Ukraine 23 SARS1 YES 25-11-2804
+1074 Lkfwxyz Kbnwxyz Ukraine 19 Chickenpox YES 22-1-5672
+5873 Zhquvwxyz Lsgvwxyz Ukraine 110 H1N1 NO
+533 Qavhijklmnop Idixyz Ukraine 38 Adenovirus YES 7-12-3951
+9526 Ifuqrstuvwxy Czjmnopqrstu Ukraine 30 HepatitisA YES 26-5-686
+238 Wkuefghijklm Pakdefghijkl Ukraine 94 SARS1 NO

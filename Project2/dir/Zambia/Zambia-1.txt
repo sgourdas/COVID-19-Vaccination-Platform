@@ -1,0 +1,20 @@
+4234 Wkchijklmnop Yksefghijklm Zambia 91 Polio YES 15-0-1121
+7738 Ovxvwxyz Wzrstuvwxyz Zambia 63 SARS1 YES 5-7-5712
+2471 Maxtuvwxyz Htwz Zambia 18 Chickenpox YES 28-2-6732
+1063 Vbrrstuvwxyz Vmtghijklmno Zambia 14 Diphtheria YES 12-6-1121
+5471 Uhgefghijklm Pyrlmnopqrst Zambia 50 Tetanus NO 0-2-7707
+8118 Okgvwxyz Cqgklmnopqrs Zambia 61 COVID19 YES 0-6-7025
+9116 Kglxyz Usvijklmnopq Zambia 89 Adenovirus NO
+1126 Prcefghijklm Esucdefghijk Zambia 44 Testovirus NO
+2921 Fdllmnopqrst Zhwabcdefghi Zambia 58 Rubella YES 18-8-7609
+4866 Ahavwxyz Omdjklmnopqr Zambia 4 Testovirus YES 4-2-150
+2306 Hgustuvwxyz Atlvwxyz Zambia 96 Mumps NO
+5190 Qtmhijklmnop Rwwopqrstuvw Zambia 75 Polio NO 30-7-6632
+4006 Xktefghijklm Awjstuvwxyz Zambia 28 SARS1 YES 14-10-675
+7830 Qctnopqrstuv Anipqrstuvwx Zambia 103 SARS1 NO
+1949 Tshfghijklmn Rgjuvwxyz Zambia 92 Polio YES 2-6-7959
+2490 Fbhyz Rjahijklmnop Zambia 116 Tuberculosis NO
+6163 Lmbcdefghijk Qrixyz Zambia 12 Adenovirus NO
+9161 Oqmxyz Plwlmnopqrst Zambia 8 HepatitisB YES 16-0-1752
+8566 Aqlnopqrstuv Itvpqrstuvwx Zambia 51 Polio YES 9-3-9494
+1690 Mlibcdefghij Tfxqrstuvwxy Zambia 61 Rotavirus NO

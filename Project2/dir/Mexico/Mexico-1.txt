@@ -1,0 +1,21 @@
+2449 Cptwxyz Qsgjklmnopqr Mexico 28 Polio YES 22-7-4354
+986 Ijmuvwxyz Ivibcdefghij Mexico 43 Adenovirus NO
+6038 Uhfrstuvwxyz Ggfvwxyz Mexico 73 COVID19 YES 10-5-9597
+2095 Qwcvwxyz Qidwxyz Mexico 13 Tuberculosis YES 27-1-9092
+1117 Nxtabcdefghi Pltcdefghijk Mexico 118 Mumps YES 23-5-2507
+6143 Qifpqrstuvwx Rzzz Mexico 71 H1N1 NO
+9749 Lhsz Ietrstuvwxyz Mexico 34 Mumps YES 26-9-9441
+5636 Jmmdefghijkl Ylrabcdefghi Mexico 76 Testovirus NO 24-9-6101
+5474 Mutlmnopqrst Indqrstuvwxy Mexico 116 Rotavirus YES 25-10-9014
+5978 Cylklmnopqrs Bdevwxyz Mexico 20 SARS1 NO 5-1-3585
+4664 Rygqrstuvwxy Ccbklmnopqrs Mexico 81 SARS1 YES 11-5-5285
+5605 Nzgyz Yrfstuvwxyz Mexico 100 Hib NO 1-6-6703
+2046 Ichghijklmno Uhxmnopqrstu Mexico 19 Testovirus NO 29-5-2314
+3971 Kmfghijklmno Bjicdefghijk Mexico 54 HepatitisA NO
+8526 Nacstuvwxyz Koqtuvwxyz Mexico 25 Tuberculosis YES 20-11-3068
+8192 Znrghijklmno Kppdefghijkl Mexico 71 Chickenpox YES 12-8-1670
+554 Kdubcdefghij Txmuvwxyz Mexico 88 H1N1 YES 11-11-7211
+5818 Gfawxyz Wgdvwxyz Mexico 22 Tetanus YES 14-10-3282
+2113 Ibxlmnopqrst Sklxyz Mexico 103 Rubella YES 17-6-9609
+5050 Yvgjklmnopqr Yhcqrstuvwxy Mexico 67 Diphtheria YES 16-9-2632
+2591 Midyz Vchghijklmno Mexico 53 COVID19 YES 3-4-5697

@@ -1,0 +1,23 @@
+9267 Syostuvwxyz Iartuvwxyz Romania 100 Mumps NO
+5139 Lweabcdefghi Sstjklmnopqr Romania 95 Adenovirus NO 3-3-5580
+3626 Dwyz Ffdjklmnopqr Romania 11 Diphtheria YES 28-6-936
+9811 Jmnrstuvwxyz Jbyklmnopqrs Romania 3 Rotavirus NO 22-4-6011
+8517 Vpstuvwxyz Bjddefghijkl Romania 13 Rubella NO
+4842 Trrz Wcnijklmnopq Romania 16 Testovirus NO
+805 Fgpz Tjbtuvwxyz Romania 29 Rubella NO 13-8-7681
+769 Sqjabcdefghi Cyighijklmno Romania 107 Tetanus NO
+6944 Gjkrstuvwxyz Gallmnopqrst Romania 1 Mumps NO
+6293 Erdcdefghijk Wvmmnopqrstu Romania 118 Hib YES 16-10-5310
+4100 Efsjklmnopqr Nqqklmnopqrs Romania 43 Tuberculosis YES 10-8-9496
+2009 Zkvqrstuvwxy Jjyfghijklmn Romania 73 H1N1 NO 11-4-5972
+9013 Zfzdefghijkl Hytmnopqrstu Romania 65 SARS1 NO
+7917 Djpfghijklmn Pcbvwxyz Romania 43 Hib NO
+1653 Zldxyz Dgtwxyz Romania 7 HepatitisB NO
+5959 Njnmnopqrstu Osvqrstuvwxy Romania 43 Varicella YES 18-4-6124
+2857 Yviwxyz Evbghijklmno Romania 10 Adenovirus NO
+3578 Lfjtuvwxyz Xiccdefghijk Romania 58 Testovirus NO
+2253 Mwvpqrstuvwx Qybyz Romania 41 Rubella YES 3-7-8908
+154 Iysfghijklmn Degwxyz Romania 60 HepatitisB NO 22-10-2189
+1196 Nyxijklmnopq Wduyz Romania 60 Rubella YES 29-9-7227
+7482 Ulmxyz Wsnfghijklmn Romania 110 HepatitisA NO
+5545 Enighijklmno Lzcdefghijkl Romania 107 Adenovirus NO

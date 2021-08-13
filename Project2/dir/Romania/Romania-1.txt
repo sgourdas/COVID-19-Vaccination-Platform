@@ -1,0 +1,23 @@
+4381 Efqmnopqrstu Nptwxyz Romania 69 Adenovirus YES 14-1-8633
+9300 Ogahijklmnop Mwhqrstuvwxy Romania 64 Tetanus YES 20-6-6016
+1113 Xwnabcdefghi Ivvbcdefghij Romania 22 Varicella NO
+7676 Zliz Tnrxyz Romania 64 Rubella NO
+4952 Avbvwxyz Gyepqrstuvwx Romania 38 Rotavirus YES 3-9-3103
+4503 Bvhfghijklmn Plbabcdefghi Romania 32 TheFlu NO 28-0-5895
+9052 Jjuopqrstuvw Svbyz Romania 96 Varicella NO
+4134 Yunxyz Raopqrstuvwx Romania 26 Rubella NO 17-6-708
+1774 Qkaqrstuvwxy Gboqrstuvwxy Romania 21 HepatitisA NO
+5027 Xjsrstuvwxyz Chqxyz Romania 66 Polio NO
+9190 Pjaxyz Zpbcdefghijk Romania 43 HepatitisA NO
+3856 Uaxabcdefghi Rrxefghijklm Romania 14 Tetanus YES 6-5-7011
+7034 Ledvwxyz Pblxyz Romania 56 HepatitisB NO
+4734 Aaucdefghijk Hlbklmnopqrs Romania 52 Varicella NO 12-7-2711
+8868 Nmrz Zhutuvwxyz Romania 72 Diphtheria YES 23-3-2447
+1143 Zdzabcdefghi Tikxyz Romania 77 COVID19 YES 30-5-3860
+6415 Suwqrstuvwxy Dgxcdefghijk Romania 113 Adenovirus NO
+3019 Unvz Vtcnopqrstuv Romania 24 Rotavirus NO
+2504 Qcspqrstuvwx Bbdxyz Romania 74 TheFlu YES 18-2-405
+5055 Opvstuvwxyz Bmaabcdefghi Romania 87 Rubella YES 25-0-958
+9576 Wnnabcdefghi Fsapqrstuvwx Romania 10 SARS1 YES 12-6-2290
+7726 Frqefghijklm Yuaabcdefghi Romania 19 TheFlu YES 6-3-8987
+5997 Nizjklmnopqr Hiqtuvwxyz Romania 36 Adenovirus YES 17-1-6656

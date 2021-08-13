@@ -1,0 +1,19 @@
+3214 Pqebcdefghij Esocdefghijk Italy 113 HepatitisB YES 13-12-892
+5940 Lekcdefghijk Abuuvwxyz Italy 30 Chickenpox YES 10-11-5731
+7549 Kvmtuvwxyz Cgpefghijklm Italy 39 HepatitisB YES 1-11-8633
+5872 Ndjghijklmno Ouxdefghijkl Italy 36 Rubella NO 23-12-1363
+8057 Fajlmnopqrst Ygryz Italy 110 Rotavirus NO
+3128 Vvkefghijklm Fzecdefghijk Italy 60 Rotavirus YES 29-8-9091
+2032 Pykmnopqrstu Jyajklmnopqr Italy 48 TheFlu NO
+8272 Ndqijklmnopq Uvznopqrstuv Italy 13 Rotavirus NO 3-11-3139
+2057 Dkbxyz Qyuklmnopqrs Italy 80 HepatitisB YES 17-0-2490
+169 Uojnopqrstuv Wvydefghijkl Italy 65 H1N1 NO
+16 Gfqijklmnopq Ragqrstuvwxy Italy 78 Diphtheria YES 28-11-886
+4790 Wbwstuvwxyz Naijklmnopqr Italy 108 TheFlu YES 21-1-1829
+6815 Ufaopqrstuvw Lcbqrstuvwxy Italy 112 TheFlu NO
+2688 Mlcstuvwxyz Nxwcdefghijk Italy 29 Rubella YES 24-5-1280
+6075 Obsghijklmno Lcupqrstuvwx Italy 108 TheFlu NO
+3172 Wdmz Xqhvwxyz Italy 23 Diphtheria NO
+4948 Kkhmnopqrstu Qebfghijklmn Italy 105 Testovirus NO 15-10-6785
+6277 Yjtnopqrstuv Pcqcdefghijk Italy 19 Testovirus NO 4-1-2286
+7583 Tcpghijklmno Bahklmnopqrs Italy 12 H1N1 NO

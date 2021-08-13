@@ -1,0 +1,19 @@
+2376 Onpvwxyz Qtxwxyz Liberia 101 Varicella NO
+1354 Yuxtuvwxyz Xrvmnopqrstu Liberia 58 TheFlu YES 9-3-768
+9704 Xphpqrstuvwx Roplmnopqrst Liberia 55 Mumps NO
+8587 Osbuvwxyz Uednopqrstuv Liberia 48 Diphtheria YES 4-6-3197
+6816 Daihijklmnop Dpffghijklmn Liberia 120 Polio NO 19-4-2570
+3130 Idhz Vyfz Liberia 40 H1N1 NO
+6269 Vodstuvwxyz Whlstuvwxyz Liberia 86 Polio YES 12-3-8009
+8326 Ifelmnopqrst Yrhyz Liberia 53 Varicella YES 20-7-4503
+1250 Qewbcdefghij Vnqbcdefghij Liberia 112 SARS1 YES 1-10-1196
+4542 Zuhtuvwxyz Lmojklmnopqr Liberia 7 COVID19 YES 18-12-1657
+1165 Ijpnopqrstuv Pgpklmnopqrs Liberia 14 SARS1 NO 30-1-258
+5235 Teluvwxyz Dxfvwxyz Liberia 100 HepatitisB YES 30-7-527
+3345 Qsdtuvwxyz Arzpqrstuvwx Liberia 18 SARS1 NO
+1403 Ukoopqrstuvw Qmkwxyz Liberia 107 Tuberculosis NO 14-12-3585
+6998 Isropqrstuvw Iuovwxyz Liberia 21 COVID19 NO
+4881 Nicmnopqrstu Fyxhijklmnop Liberia 25 Tuberculosis YES 26-5-715
+700 Aunjklmnopqr Yzvuvwxyz Liberia 64 Varicella YES 26-3-2309
+1755 Vsinopqrstuv Ehffghijklmn Liberia 16 Tuberculosis YES 28-4-8276
+8530 Tziijklmnopq Tpjbcdefghij Liberia 11 Polio NO 21-8-6066

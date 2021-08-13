@@ -1,0 +1,14 @@
+9487 Ejkklmnopqrs Hhxklmnopqrs Cuba 39 Mumps YES 25-6-1092
+7252 Tcgqrstuvwxy Dgbopqrstuvw Cuba 84 SARS1 YES 20-10-9240
+1265 Bzoyz Xqvtuvwxyz Cuba 78 Testovirus YES 26-5-9029
+1152 Rdnghijklmno Usfghijklmno Cuba 25 Hib YES 19-5-1169
+7928 Ngeijklmnopq Jpabcdefghij Cuba 51 HepatitisA YES 22-6-4309
+9162 Hxljklmnopqr Mvoopqrstuvw Cuba 60 Rotavirus YES 16-4-2489
+4666 Sqkxyz Hjsxyz Cuba 44 H1N1 NO 23-11-9013
+2212 Jikwxyz Uhvmnopqrstu Cuba 13 Hib NO
+8090 Yhcijklmnopq Cupqrstuvwxy Cuba 113 Varicella NO
+6335 Zdgxyz Vseefghijklm Cuba 97 Testovirus YES 23-7-5817
+862 Mszklmnopqrs Cgvmnopqrstu Cuba 98 Testovirus NO
+8560 Ennghijklmno Yusdefghijkl Cuba 17 Testovirus YES 1-3-2107
+421 Ajsghijklmno Qfubcdefghij Cuba 45 Rotavirus YES 1-11-1592
+9146 Wxamnopqrstu Achlmnopqrst Cuba 89 Rubella NO

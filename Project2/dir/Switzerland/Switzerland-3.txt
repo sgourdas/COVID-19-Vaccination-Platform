@@ -1,0 +1,21 @@
+8643 Mniuvwxyz Ktdwxyz Switzerland 90 Adenovirus NO 14-6-5496
+9564 Ltpefghijklm Mpsfghijklmn Switzerland 114 COVID19 NO 12-7-6321
+6197 Mupxyz Rwcpqrstuvwx Switzerland 84 Chickenpox NO
+3947 Wqpuvwxyz Vjgstuvwxyz Switzerland 11 Polio YES 14-8-1858
+8263 Jdnqrstuvwxy Sxbvwxyz Switzerland 49 COVID19 YES 28-9-3922
+899 Zgtopqrstuvw Ditklmnopqrs Switzerland 88 COVID19 YES 18-11-3201
+2151 Fjlefghijklm Qmwyz Switzerland 65 Rotavirus NO
+8379 Covpqrstuvwx Qukwxyz Switzerland 66 Tetanus YES 15-1-2397
+7728 Ofkmnopqrstu Kubyz Switzerland 115 Tetanus NO
+4613 Jaixyz Pzzlmnopqrst Switzerland 76 COVID19 YES 20-12-3369
+8075 Tnwlmnopqrst Mdgtuvwxyz Switzerland 105 HepatitisA YES 19-1-1936
+8323 Orzxyz Sputuvwxyz Switzerland 50 HepatitisB YES 3-3-4985
+7464 Klotuvwxyz Mwqrstuvwxyz Switzerland 20 HepatitisB NO
+4848 Jxgxyz Ysycdefghijk Switzerland 68 Diphtheria YES 15-3-6494
+4912 Khlijklmnopq Weiopqrstuvw Switzerland 75 Varicella NO
+4382 Nfrwxyz Ildcdefghijk Switzerland 91 COVID19 YES 10-9-7212
+7622 Yfuxyz Bdxmnopqrstu Switzerland 48 TheFlu NO
+9909 Caoabcdefghi Yladefghijkl Switzerland 85 Tuberculosis NO 26-9-9792
+7758 Qhtvwxyz Bgbefghijklm Switzerland 44 Hib YES 29-2-8872
+6839 Jcghijklmnop Uzkopqrstuvw Switzerland 95 SARS1 YES 6-2-4181
+6836 Cnmtuvwxyz Caejklmnopqr Switzerland 84 COVID19 YES 25-9-3122

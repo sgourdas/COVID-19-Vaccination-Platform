@@ -1,0 +1,19 @@
+4526 Drchijklmnop Czswxyz Tuvalu 68 H1N1 NO
+271 Healmnopqrst Lmijklmnopqr Tuvalu 108 SARS1 YES 6-3-7123
+2694 Bvetuvwxyz Aarrstuvwxyz Tuvalu 89 Tetanus NO 5-1-586
+8266 Acavwxyz Xpkuvwxyz Tuvalu 114 H1N1 NO
+6302 Evfdefghijkl Merbcdefghij Tuvalu 10 Rubella YES 26-6-4264
+8240 Supefghijklm Xiiopqrstuvw Tuvalu 84 H1N1 NO
+7234 Wzgklmnopqrs Awhz Tuvalu 40 SARS1 YES 29-2-17
+6752 Lafcdefghijk Eyffghijklmn Tuvalu 82 H1N1 YES 20-12-1918
+1518 Nhqlmnopqrst Wqajklmnopqr Tuvalu 118 Testovirus NO
+4906 Qyufghijklmn Ogucdefghijk Tuvalu 44 TheFlu YES 23-9-4429
+5602 Xlhlmnopqrst Vqwjklmnopqr Tuvalu 97 H1N1 NO
+1075 Lbqjklmnopqr Btlabcdefghi Tuvalu 95 Polio YES 27-8-4312
+2382 Lvfuvwxyz Jpwxyz Tuvalu 56 Tuberculosis YES 5-8-1761
+8777 Iwaghijklmno Ykcdefghijkl Tuvalu 117 Diphtheria YES 2-6-7071
+4660 Vplstuvwxyz Nljghijklmno Tuvalu 21 Adenovirus NO
+7396 Fmaz Qjmmnopqrstu Tuvalu 66 HepatitisA NO
+8886 Mghbcdefghij Kkvopqrstuvw Tuvalu 117 H1N1 NO 0-1-5116
+1472 Akwijklmnopq Knfwxyz Tuvalu 95 Tuberculosis YES 2-6-9293
+6158 Vlddefghijkl Gnfhijklmnop Tuvalu 5 Rotavirus YES 2-12-5499

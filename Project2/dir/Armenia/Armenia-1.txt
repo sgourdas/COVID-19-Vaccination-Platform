@@ -1,0 +1,24 @@
+8627 Pvqjklmnopqr Eabbcdefghij Armenia 49 Mumps NO 8-3-7269
+2026 Rovefghijklm Xvvrstuvwxyz Armenia 41 Hib NO 23-6-9958
+3575 Dqnijklmnopq Vhzxyz Armenia 78 Polio NO
+2075 Tzvdefghijkl Qsntuvwxyz Armenia 117 Mumps YES 29-12-6451
+9762 Glwdefghijkl Cunopqrstuvw Armenia 117 Tuberculosis YES 7-3-8120
+9172 Ewhabcdefghi Lhomnopqrstu Armenia 15 TheFlu NO
+2322 Znqabcdefghi Sghrstuvwxyz Armenia 59 Testovirus NO 3-7-2187
+3613 Yahnopqrstuv Lsrnopqrstuv Armenia 119 Chickenpox YES 12-12-1280
+2104 Dioyz Wpkz Armenia 52 Varicella YES 30-9-4425
+783 Vjestuvwxyz Yjvpqrstuvwx Armenia 48 Testovirus NO
+2089 Ovhefghijklm Soeabcdefghi Armenia 17 HepatitisB YES 17-12-8224
+5299 Llvijklmnopq Velcdefghijk Armenia 69 COVID19 NO 4-2-6703
+9421 Wsjmnopqrstu Gqvyz Armenia 112 SARS1 NO
+5819 Wardefghijkl Klfqrstuvwxy Armenia 39 Testovirus NO 24-1-9588
+8481 Bryxyz Dxzcdefghijk Armenia 58 Adenovirus NO
+1263 Aprz Rvxmnopqrstu Armenia 55 HepatitisB NO 11-2-3406
+5169 Esrijklmnopq Lftfghijklmn Armenia 98 COVID19 YES 7-1-9960
+5618 Guvcdefghijk Btdcdefghijk Armenia 95 HepatitisB YES 20-11-777
+3970 Mxbopqrstuvw Bnmefghijklm Armenia 48 Varicella YES 20-9-4988
+7023 Jmkyz Tjgstuvwxyz Armenia 76 Rubella YES 8-3-8939
+9927 Zcaghijklmno Drwefghijklm Armenia 101 Mumps YES 3-8-7638
+4822 Foeyz Jwkabcdefghi Armenia 96 COVID19 YES 15-1-5448
+7151 Rolstuvwxyz Eznfghijklmn Armenia 66 Adenovirus YES 24-10-6714
+8339 Phxnopqrstuv Dxlopqrstuvw Armenia 38 Chickenpox NO

@@ -1,0 +1,21 @@
+2995 Rlfhijklmnop Kagbcdefghij Djibouti 17 SARS1 YES 21-0-111
+2379 Eijvwxyz Omovwxyz Djibouti 31 Tetanus YES 10-6-8270
+2808 Mznrstuvwxyz Qfmbcdefghij Djibouti 93 TheFlu NO
+9999 Vbituvwxyz Upzwxyz Djibouti 18 H1N1 NO
+1721 Nwyijklmnopq Boprstuvwxyz Djibouti 24 Chickenpox NO
+979 Xulghijklmno Xyhghijklmno Djibouti 97 H1N1 YES 3-6-685
+8234 Mvgijklmnopq Gnyuvwxyz Djibouti 119 Tuberculosis YES 6-4-750
+1388 Vpwstuvwxyz Ykwtuvwxyz Djibouti 76 COVID19 NO 2-7-7621
+5518 Tdpfghijklmn Swfrstuvwxyz Djibouti 96 Diphtheria NO 9-4-9243
+8578 Zqvdefghijkl Slydefghijkl Djibouti 16 Adenovirus NO
+9110 Jrtwxyz Kuknopqrstuv Djibouti 112 HepatitisB YES 23-7-8593
+6352 Ybwmnopqrstu Bckabcdefghi Djibouti 78 Varicella YES 15-11-9125
+8054 Itrefghijklm Hkklmnopqrst Djibouti 7 TheFlu NO
+6751 Szcstuvwxyz Zdknopqrstuv Djibouti 3 Polio NO 4-7-2885
+2179 Uvbhijklmnop Rbjopqrstuvw Djibouti 54 HepatitisA NO
+6749 Pdglmnopqrst Voppqrstuvwx Djibouti 9 Mumps YES 12-12-8748
+5496 Koqabcdefghi Gjxxyz Djibouti 114 Varicella NO
+5340 Nhgwxyz Ddxpqrstuvwx Djibouti 32 Adenovirus NO
+4436 Ldayz Owjrstuvwxyz Djibouti 61 SARS1 YES 13-1-707
+4878 Arljklmnopqr Gkehijklmnop Djibouti 47 Tetanus NO 22-6-712
+9319 Jywvwxyz Vbijklmnopqr Djibouti 3 Tetanus NO 27-6-2717

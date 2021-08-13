@@ -1,0 +1,22 @@
+926 Iusz Khxstuvwxyz Bulgaria 111 Adenovirus NO
+4476 Ukyijklmnopq Irtvwxyz Bulgaria 12 Tuberculosis YES 14-9-1059
+1558 Mprcdefghijk Eytxyz Bulgaria 3 Tuberculosis YES 22-5-8782
+550 Rxaijklmnopq Ixjcdefghijk Bulgaria 50 HepatitisB YES 5-10-1228
+2686 Xkljklmnopqr Enwghijklmno Bulgaria 120 Rotavirus NO 5-3-3361
+4805 Tzyghijklmno Gvgdefghijkl Bulgaria 37 Tetanus NO 6-9-970
+2488 Irsnopqrstuv Ptvbcdefghij Bulgaria 51 COVID19 YES 16-7-870
+3673 Ruajklmnopqr Wwtefghijklm Bulgaria 19 Mumps YES 1-5-2333
+4938 Ybdtuvwxyz Vkfefghijklm Bulgaria 85 Polio NO
+7702 Efscdefghijk Cntdefghijkl Bulgaria 35 Diphtheria NO
+3698 Lqwpqrstuvwx Jgndefghijkl Bulgaria 60 Adenovirus NO
+255 Dxcijklmnopq Yexijklmnopq Bulgaria 109 COVID19 YES 4-1-1159
+7217 Rhthijklmnop Apnghijklmno Bulgaria 59 Tetanus NO
+2100 Naexyz Phdijklmnopq Bulgaria 25 HepatitisB YES 15-4-6361
+877 Shqnopqrstuv Iwvklmnopqrs Bulgaria 45 Mumps NO
+4602 Sigghijklmno Ljcnopqrstuv Bulgaria 36 SARS1 NO 28-12-3188
+2933 Petqrstuvwxy Sgkyz Bulgaria 73 Diphtheria YES 27-5-1540
+5586 Zjxqrstuvwxy Vmppqrstuvwx Bulgaria 46 Testovirus YES 7-12-5362
+5434 Vayfghijklmn Pbpghijklmno Bulgaria 52 TheFlu YES 7-7-8278
+5346 Gcwqrstuvwxy Ygcqrstuvwxy Bulgaria 119 H1N1 YES 9-9-4253
+4990 Jowrstuvwxyz Givdefghijkl Bulgaria 22 HepatitisB NO
+1245 Tssijklmnopq Vntcdefghijk Bulgaria 98 TheFlu NO

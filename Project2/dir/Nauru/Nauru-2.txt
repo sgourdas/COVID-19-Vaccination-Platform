@@ -1,0 +1,17 @@
+7669 Jquklmnopqrs Fpadefghijkl Nauru 81 Varicella NO 18-5-2316
+3170 Prpmnopqrstu Pwxjklmnopqr Nauru 41 TheFlu YES 22-7-172
+6842 Uiyijklmnopq Ncgijklmnopq Nauru 29 Diphtheria NO
+3437 Nthijklmnopq Xflopqrstuvw Nauru 82 Tetanus NO
+9423 Ljdxyz Dqjnopqrstuv Nauru 2 Testovirus NO
+2739 Tcsz Agodefghijkl Nauru 111 Varicella NO 12-3-6414
+7592 Kumijklmnopq Cqadefghijkl Nauru 112 Polio NO 16-5-5645
+3544 Pwdghijklmno Elvjklmnopqr Nauru 74 Hib YES 22-11-1466
+1454 Chyz Cadefghijklm Nauru 49 Varicella NO
+590 Cptfghijklmn Rcorstuvwxyz Nauru 70 Testovirus NO
+882 Bkkz Nyfbcdefghij Nauru 92 Hib NO
+705 Lnvdefghijkl Wcfrstuvwxyz Nauru 76 Testovirus YES 1-3-6944
+6567 Rztz Qvlfghijklmn Nauru 60 Diphtheria NO 24-1-1873
+4821 Jlzhijklmnop Eiepqrstuvwx Nauru 43 H1N1 NO 20-11-5631
+9183 Ivsz Dhbcdefghijk Nauru 119 Hib NO 30-1-9281
+2848 Edejklmnopqr Cvawxyz Nauru 10 Hib NO
+5926 Mdkyz Ujuefghijklm Nauru 61 TheFlu YES 28-9-470

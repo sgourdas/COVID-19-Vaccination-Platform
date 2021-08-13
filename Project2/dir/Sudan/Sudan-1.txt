@@ -1,0 +1,18 @@
+5487 Jseopqrstuvw Szhdefghijkl Sudan 43 Tuberculosis NO
+2514 Yvqbcdefghij Ysqlmnopqrst Sudan 69 Diphtheria NO
+9403 Zxhuvwxyz Fsexyz Sudan 74 H1N1 YES 6-5-8730
+3717 Qnkijklmnopq Kyzbcdefghij Sudan 105 HepatitisA NO
+8243 Efxxyz Uszuvwxyz Sudan 34 Adenovirus NO
+9205 Jonmnopqrstu Vpwz Sudan 69 Diphtheria YES 5-4-4950
+8574 Bescdefghijk Oxywxyz Sudan 79 Mumps NO 5-6-1406
+6673 Qcivwxyz Zzwtuvwxyz Sudan 1 Varicella NO
+6240 Bssmnopqrstu Amtz Sudan 98 SARS1 NO 15-12-7719
+8062 Srjqrstuvwxy Uwmfghijklmn Sudan 60 HepatitisB NO
+3563 Apqabcdefghi Lxixyz Sudan 74 Diphtheria YES 19-8-4472
+8291 Icpstuvwxyz Knzqrstuvwxy Sudan 21 Adenovirus NO
+4819 Lajrstuvwxyz Zvkjklmnopqr Sudan 111 HepatitisB NO 12-8-6197
+4896 Eqgz Qflmnopqrstu Sudan 107 Adenovirus YES 18-6-661
+6106 Lambcdefghij Dwsdefghijkl Sudan 76 TheFlu YES 1-3-5269
+3179 Czdqrstuvwxy Mxvwxyz Sudan 17 COVID19 YES 21-10-2145
+1103 Cjpmnopqrstu Wdmcdefghijk Sudan 7 Tetanus YES 0-2-2071
+6846 Ctzopqrstuvw Jjixyz Sudan 110 HepatitisA NO

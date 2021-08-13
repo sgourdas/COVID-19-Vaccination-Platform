@@ -1,0 +1,19 @@
+6355 Enayz Wnulmnopqrst Ecuador 14 Varicella NO
+9350 Ylltuvwxyz Cqxbcdefghij Ecuador 104 Rotavirus NO
+8198 Lnmmnopqrstu Jmvdefghijkl Ecuador 55 HepatitisA YES 18-5-112
+8675 Danpqrstuvwx Dbwdefghijkl Ecuador 31 Adenovirus YES 10-12-3212
+725 Ebipqrstuvwx Ccnbcdefghij Ecuador 23 Hib YES 15-9-7797
+2533 Ztiqrstuvwxy Hwfrstuvwxyz Ecuador 66 COVID19 YES 24-6-1716
+4454 Gjadefghijkl Pttxyz Ecuador 44 TheFlu YES 30-4-6834
+7931 Ebhuvwxyz Lnclmnopqrst Ecuador 106 COVID19 NO
+8177 Svyefghijklm Flgghijklmno Ecuador 30 Mumps YES 16-12-9797
+5193 Vciopqrstuvw Lxsz Ecuador 109 Adenovirus YES 30-11-3633
+9937 Wezfghijklmn Oprabcdefghi Ecuador 13 Chickenpox NO
+4525 Jjnqrstuvwxy Bftstuvwxyz Ecuador 29 HepatitisA YES 18-10-7424
+4156 Viustuvwxyz Vwfghijklmno Ecuador 106 H1N1 YES 6-9-4864
+2305 Lkastuvwxyz Oeavwxyz Ecuador 35 Chickenpox YES 26-1-8379
+6087 Bvjbcdefghij Bweklmnopqrs Ecuador 68 COVID19 YES 1-5-3941
+3568 Vdqyz Ctuyz Ecuador 88 COVID19 NO 28-5-5992
+227 Umscdefghijk Jvcbcdefghij Ecuador 15 Adenovirus YES 20-2-4619
+7263 Esxbcdefghij Lksstuvwxyz Ecuador 45 Mumps YES 14-7-8828
+7603 Wvlxyz Khxstuvwxyz Ecuador 26 TheFlu NO 9-2-1883

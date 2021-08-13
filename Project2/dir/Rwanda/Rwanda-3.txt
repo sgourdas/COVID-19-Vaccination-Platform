@@ -1,0 +1,20 @@
+2629 Tflcdefghijk Hedqrstuvwxy Rwanda 87 Rotavirus YES 21-5-2969
+9660 Bcxhijklmnop Rabuvwxyz Rwanda 41 Hib NO
+216 Kuqmnopqrstu Ckdabcdefghi Rwanda 15 Tetanus YES 9-10-5242
+5455 Llnyz Vxxrstuvwxyz Rwanda 87 Chickenpox NO 20-4-376
+6100 Bvdghijklmno Tztabcdefghi Rwanda 23 Rotavirus YES 24-3-164
+6357 Kstvwxyz Oukghijklmno Rwanda 43 H1N1 YES 23-4-2879
+5655 Loxabcdefghi Zgfqrstuvwxy Rwanda 82 Varicella NO 18-8-3661
+9916 Chwabcdefghi Vvystuvwxyz Rwanda 14 Hib YES 5-2-3822
+3506 Ltouvwxyz Hsunopqrstuv Rwanda 108 Mumps YES 3-12-2798
+2589 Ccxbcdefghij Kcdpqrstuvwx Rwanda 31 Testovirus NO
+1303 Pbyuvwxyz Qbcnopqrstuv Rwanda 69 Rotavirus YES 0-0-1080
+1490 Tecijklmnopq Aplhijklmnop Rwanda 60 Rotavirus YES 5-1-2119
+4129 Vsvfghijklmn Xjbopqrstuvw Rwanda 54 Mumps NO
+785 Eooxyz Rmubcdefghij Rwanda 66 Tuberculosis YES 12-0-1174
+4716 Itblmnopqrst Cqwfghijklmn Rwanda 11 HepatitisB YES 27-6-3275
+3085 Oldbcdefghij Jldmnopqrstu Rwanda 95 HepatitisA YES 14-7-7421
+8415 Sufabcdefghi Bvccdefghijk Rwanda 30 H1N1 NO
+5288 Yggwxyz Dhipqrstuvwx Rwanda 18 Rotavirus NO
+6666 Djdvwxyz Pegqrstuvwxy Rwanda 23 Varicella YES 8-1-3520
+6805 Cijstuvwxyz Wngcdefghijk Rwanda 77 Tuberculosis YES 10-10-2461

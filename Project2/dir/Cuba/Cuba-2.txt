@@ -1,0 +1,15 @@
+4887 Gbecdefghijk Ksjfghijklmn Cuba 61 HepatitisA NO
+6286 Uyfhijklmnop Ixonopqrstuv Cuba 97 Tuberculosis NO
+8781 Jyclmnopqrst Ikftuvwxyz Cuba 91 Tuberculosis YES 19-0-8701
+7642 Powstuvwxyz Beqjklmnopqr Cuba 10 Adenovirus NO 10-2-5089
+6263 Eqyxyz Tqxjklmnopqr Cuba 94 Polio NO
+9155 Afdrstuvwxyz Oanlmnopqrst Cuba 29 Tuberculosis NO 11-10-2428
+2043 Mgefghijklmn Vlrcdefghijk Cuba 11 HepatitisB YES 14-7-2965
+267 Rmnjklmnopqr Mafpqrstuvwx Cuba 118 HepatitisA NO 23-11-1679
+5290 Khvtuvwxyz Ergklmnopqrs Cuba 63 Tuberculosis YES 13-6-186
+3372 Bsdqrstuvwxy Farwxyz Cuba 61 Rotavirus NO 29-6-3690
+5153 Tolz Auistuvwxyz Cuba 108 Testovirus NO 23-10-5315
+2450 Hdhghijklmno Qsxdefghijkl Cuba 1 Chickenpox YES 19-2-4856
+3797 Fjorstuvwxyz Odcstuvwxyz Cuba 74 H1N1 YES 1-11-1421
+7627 Zaefghijklmn Spqyz Cuba 35 Rotavirus YES 13-11-5106
+6645 Roxtuvwxyz Ryfefghijklm Cuba 92 Rotavirus NO 4-2-4663

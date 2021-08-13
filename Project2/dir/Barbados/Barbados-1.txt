@@ -1,0 +1,17 @@
+6962 Zlgcdefghijk Vjoxyz Barbados 85 Tetanus NO 0-8-1728
+2828 Kchtuvwxyz Rsoijklmnopq Barbados 7 Tuberculosis YES 10-5-8814
+9754 Tuerstuvwxyz Auxstuvwxyz Barbados 65 Hib YES 3-9-5199
+9014 Ilystuvwxyz Usilmnopqrst Barbados 59 Mumps NO
+7420 Offlmnopqrst Doadefghijkl Barbados 115 HepatitisB NO
+6784 Mvryz Jfsghijklmno Barbados 77 Adenovirus YES 15-2-5711
+9378 Sapuvwxyz Fzaijklmnopq Barbados 12 Rubella NO 20-12-4396
+7214 Ilqz Lkptuvwxyz Barbados 28 HepatitisA NO
+4620 Lpiefghijklm Zceqrstuvwxy Barbados 49 SARS1 YES 11-4-6291
+1941 Lfeqrstuvwxy Innwxyz Barbados 116 COVID19 NO
+2753 Ciqghijklmno Gtmcdefghijk Barbados 37 Chickenpox YES 10-12-4329
+5135 Vmmbcdefghij Btvabcdefghi Barbados 70 Varicella YES 7-2-8736
+589 Mktklmnopqrs Glfstuvwxyz Barbados 87 Hib NO 13-5-3964
+2954 Xhmz Mhfabcdefghi Barbados 21 HepatitisA YES 3-1-9751
+7810 Wnvnopqrstuv Pmopqrstuvwx Barbados 29 Hib YES 22-1-6346
+9732 Jonghijklmno Fcqefghijklm Barbados 13 Mumps NO 19-5-5577
+885 Vieefghijklm Yxprstuvwxyz Barbados 101 TheFlu NO

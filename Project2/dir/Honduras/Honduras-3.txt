@@ -1,0 +1,23 @@
+8994 Ptcbcdefghij Sxflmnopqrst Honduras 59 Tetanus YES 8-11-2477
+7318 Erxfghijklmn Ooijklmnopqr Honduras 25 Testovirus YES 28-10-8839
+3666 Ywvijklmnopq Mdytuvwxyz Honduras 49 Tetanus YES 9-2-4964
+3676 Zaapqrstuvwx Nlocdefghijk Honduras 2 Rubella YES 20-10-9099
+9355 Lrvcdefghijk Jjnefghijklm Honduras 8 SARS1 NO 26-9-7103
+716 Filklmnopqrs Hfrfghijklmn Honduras 13 COVID19 NO 2-6-7850
+7440 Nawghijklmno Jhjbcdefghij Honduras 14 HepatitisB YES 3-2-1822
+2094 Kebtuvwxyz Crkuvwxyz Honduras 85 Diphtheria YES 19-3-9108
+7249 Aeidefghijkl Fsaijklmnopq Honduras 76 Tuberculosis NO
+5345 Ozjz Youabcdefghi Honduras 119 Testovirus NO
+7595 Gyjopqrstuvw Zgjabcdefghi Honduras 23 Rubella NO
+8124 Fwmwxyz Wkfabcdefghi Honduras 3 Tuberculosis YES 14-2-9422
+299 Fivopqrstuvw Owshijklmnop Honduras 116 Chickenpox NO 24-5-200
+506 Sudxyz Yobghijklmno Honduras 8 Tetanus NO
+1779 Sdsklmnopqrs Axhuvwxyz Honduras 59 Polio NO
+7869 Rxhmnopqrstu Ncerstuvwxyz Honduras 58 HepatitisA NO
+9147 Mjsqrstuvwxy Sqhxyz Honduras 99 Varicella NO
+5066 Hihjklmnopqr Wvfjklmnopqr Honduras 67 Rotavirus NO 9-4-2378
+2791 Ajsnopqrstuv Stshijklmnop Honduras 25 Mumps NO
+2385 Xcgz Jvjijklmnopq Honduras 39 HepatitisA YES 16-7-9383
+6077 Vkecdefghijk Unmtuvwxyz Honduras 40 Rubella NO 6-10-9183
+7372 Htynopqrstuv Onpghijklmno Honduras 96 Hib YES 9-0-7488
+2985 Cybfghijklmn Fcrpqrstuvwx Honduras 9 Varicella NO

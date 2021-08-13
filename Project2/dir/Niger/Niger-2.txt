@@ -1,0 +1,27 @@
+8361 Hynefghijklm Aikefghijklm Niger 89 Rubella NO
+4715 Vjkmnopqrstu Aufefghijklm Niger 74 Adenovirus YES 20-5-579
+2353 Devxyz Kqmfghijklmn Niger 38 SARS1 NO
+414 Vvbrstuvwxyz Gloijklmnopq Niger 68 Chickenpox YES 20-5-2071
+5879 Exclmnopqrst Aqfdefghijkl Niger 49 Varicella YES 5-3-6708
+7629 Mqiijklmnopq Tnclmnopqrst Niger 86 SARS1 NO
+7884 Qpaefghijklm Chvnopqrstuv Niger 113 Chickenpox YES 23-11-3372
+355 Ncpyz Bnepqrstuvwx Niger 91 HepatitisB YES 7-0-149
+8066 Wahhijklmnop Nyaijklmnopq Niger 13 Tuberculosis NO
+5301 Oakuvwxyz Djvtuvwxyz Niger 104 HepatitisA YES 9-10-2291
+6235 Ysbyz Pojtuvwxyz Niger 2 HepatitisA NO 30-11-12
+5860 Lsvpqrstuvwx Vveghijklmno Niger 6 SARS1 YES 13-10-1475
+4911 Zrqz Bivjklmnopqr Niger 52 Hib NO
+9295 Ubaghijklmno Kclfghijklmn Niger 4 SARS1 NO
+5878 Znnjklmnopqr Xcjghijklmno Niger 33 TheFlu YES 8-4-7958
+2632 Kdouvwxyz Ssexyz Niger 77 Adenovirus YES 11-2-5816
+3479 Zunxyz Lsbfghijklmn Niger 8 HepatitisB YES 15-1-760
+8933 Qlgcdefghijk Xrdwxyz Niger 15 HepatitisA YES 23-9-4858
+5990 Yscfghijklmn Simvwxyz Niger 97 Mumps YES 5-8-4931
+2077 Aovbcdefghij Ftuvwxyz Niger 48 Hib NO 0-2-8373
+8338 Oivqrstuvwxy Mscijklmnopq Niger 18 Mumps NO
+6199 Juhxyz Bofrstuvwxyz Niger 120 Testovirus NO
+7433 Otlfghijklmn Ggpghijklmno Niger 100 Diphtheria NO
+6313 Cztz Brynopqrstuv Niger 49 COVID19 NO 15-12-327
+3888 Yqtstuvwxyz Ohqklmnopqrs Niger 31 Testovirus YES 21-11-8434
+4548 Glldefghijkl Xvamnopqrstu Niger 96 HepatitisB YES 18-7-6141
+4935 Jxmyz Lguopqrstuvw Niger 90 Tetanus NO 22-2-1768

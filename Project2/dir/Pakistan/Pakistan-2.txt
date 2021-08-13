@@ -1,0 +1,21 @@
+1139 Ucfqrstuvwxy Tanfghijklmn Pakistan 21 SARS1 NO
+7441 Nulklmnopqrs Veppqrstuvwx Pakistan 92 Adenovirus YES 17-7-9475
+3420 Yvhabcdefghi Oejopqrstuvw Pakistan 75 COVID19 YES 14-9-218
+121 Rdoyz Qmuopqrstuvw Pakistan 116 Diphtheria NO 28-1-6967
+6659 Ozpz Zrhqrstuvwxy Pakistan 52 SARS1 YES 10-6-3209
+6748 Fabefghijklm Hrcxyz Pakistan 17 Rubella YES 27-1-5888
+6778 Yborstuvwxyz Jgonopqrstuv Pakistan 114 SARS1 NO
+1891 Jlknopqrstuv Tuwvwxyz Pakistan 63 Testovirus YES 9-9-3268
+3939 Jaeyz Hejz Pakistan 17 Rubella NO 15-7-4199
+1865 Ydwqrstuvwxy Pybfghijklmn Pakistan 83 Rubella YES 6-11-5011
+7120 Bspyz Muvrstuvwxyz Pakistan 26 Hib NO
+4268 Sopnopqrstuv Upnklmnopqrs Pakistan 94 SARS1 NO
+7806 Jvcklmnopqrs Yumpqrstuvwx Pakistan 117 TheFlu YES 28-3-3996
+2997 Svoopqrstuvw Rpidefghijkl Pakistan 3 Testovirus NO
+7321 Peqcdefghijk Vwoqrstuvwxy Pakistan 37 Adenovirus YES 23-8-7828
+5621 Namstuvwxyz Hubijklmnopq Pakistan 74 Mumps NO
+5348 Xfgjklmnopqr Iuhhijklmnop Pakistan 83 Tuberculosis YES 16-1-1095
+5249 Nliijklmnopq Ymeqrstuvwxy Pakistan 89 Mumps NO
+2255 Gaecdefghijk Cogijklmnopq Pakistan 79 Rubella YES 13-5-3173
+6765 Moocdefghijk Mskklmnopqrs Pakistan 45 Testovirus NO
+8897 Dimqrstuvwxy Ztlijklmnopq Pakistan 2 Tuberculosis YES 24-11-4998

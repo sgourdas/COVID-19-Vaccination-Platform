@@ -1,0 +1,21 @@
+5506 Qhtijklmnopq Pctlmnopqrst Argentina 3 H1N1 YES 1-1-8929
+3339 Ofidefghijkl Upzfghijklmn Argentina 59 Rotavirus YES 13-2-56
+7847 Vhsopqrstuvw Fzwfghijklmn Argentina 98 Tetanus YES 23-3-5228
+5963 Kzpdefghijkl Uhxbcdefghij Argentina 47 Adenovirus NO
+8392 Ldsefghijklm Rhrlmnopqrst Argentina 41 HepatitisA YES 5-0-7514
+3105 Piouvwxyz Eyxyz Argentina 114 Rubella YES 25-12-6859
+6610 Iztdefghijkl Zaxtuvwxyz Argentina 79 HepatitisA NO 20-2-1261
+8534 Iwtstuvwxyz Fvnz Argentina 96 Polio YES 8-0-1738
+3492 Uqcghijklmno Ngrabcdefghi Argentina 54 Tuberculosis YES 23-11-8613
+159 Lspopqrstuvw Xgnabcdefghi Argentina 93 Polio YES 17-0-9181
+6764 Fdoz Vpzmnopqrstu Argentina 63 Mumps YES 28-3-1931
+2019 Kblvwxyz Qxiyz Argentina 36 Mumps NO
+5875 Hwuwxyz Vzhbcdefghij Argentina 44 Tuberculosis YES 12-6-1766
+5522 Lmhvwxyz Mudwxyz Argentina 53 H1N1 NO
+7010 Lnrnopqrstuv Xtfrstuvwxyz Argentina 13 Mumps YES 6-2-5302
+5982 Cclklmnopqrs Ousabcdefghi Argentina 113 Tetanus YES 28-7-2015
+4267 Ouacdefghijk Rqrpqrstuvwx Argentina 83 Polio NO 19-2-5141
+4561 Shjbcdefghij Scaxyz Argentina 74 H1N1 NO 17-10-8527
+7802 Fwbopqrstuvw Zyglmnopqrst Argentina 43 COVID19 NO
+7380 Ahgklmnopqrs Iowdefghijkl Argentina 44 Varicella YES 11-12-7239
+8200 Wkcijklmnopq Uphcdefghijk Argentina 116 Adenovirus YES 17-3-6035

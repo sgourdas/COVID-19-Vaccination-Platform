@@ -1,0 +1,19 @@
+4497 Uauuvwxyz Wylfghijklmn India 49 COVID19 NO
+8228 Sfacdefghijk Baddefghijkl India 110 Testovirus NO
+9901 Ioqghijklmno Exurstuvwxyz India 2 Hib YES 12-8-4832
+8838 Bkbklmnopqrs Dcpabcdefghi India 11 Polio NO 7-12-2059
+415 Ovjxyz Ajaopqrstuvw India 29 Adenovirus NO
+3938 Ozahijklmnop Eqvuvwxyz India 93 Mumps YES 5-2-6938
+6820 Perdefghijkl Zanefghijklm India 69 H1N1 NO
+172 Hlidefghijkl Hkyhijklmnop India 91 SARS1 NO
+1177 Dhnopqrstuvw Uwrmnopqrstu India 100 SARS1 NO
+1338 Gcyfghijklmn Zwjmnopqrstu India 62 Testovirus NO 29-7-1259
+3919 Rvfnopqrstuv Frrdefghijkl India 51 COVID19 NO 21-12-8668
+9833 Udplmnopqrst Jsulmnopqrst India 104 Adenovirus YES 20-2-482
+2966 Uwqefghijklm Uagz India 38 COVID19 YES 22-2-8447
+8783 Ablopqrstuvw Sgyxyz India 79 Rotavirus NO 1-11-3627
+2267 Lwrlmnopqrst Prkefghijklm India 60 Adenovirus NO 3-3-1974
+7832 Bbfxyz Eoklmnopqrst India 112 Rubella NO
+3758 Hmsz Qbtyz India 112 Adenovirus NO
+8262 Wamabcdefghi Hgunopqrstuv India 81 Adenovirus NO
+9861 Qzlabcdefghi Uibdefghijkl India 97 COVID19 NO 15-7-8564

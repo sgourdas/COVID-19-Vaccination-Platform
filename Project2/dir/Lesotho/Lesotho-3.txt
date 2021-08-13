@@ -1,0 +1,19 @@
+5796 Xpvz Rndvwxyz Lesotho 50 SARS1 YES 28-7-9430
+8246 Tybklmnopqrs Fcxuvwxyz Lesotho 80 TheFlu YES 14-7-7522
+7136 Gabijklmnopq Tepfghijklmn Lesotho 30 Adenovirus YES 5-0-4274
+6304 Ecknopqrstuv Ynqbcdefghij Lesotho 92 Rotavirus NO 10-8-129
+8673 Pufstuvwxyz Ooyfghijklmn Lesotho 40 Polio NO 24-3-7189
+4803 Nksqrstuvwxy Rmoxyz Lesotho 111 Adenovirus NO
+3376 Xphghijklmno Swanopqrstuv Lesotho 75 Diphtheria NO
+7585 Ybgmnopqrstu Guswxyz Lesotho 100 Rotavirus NO
+4524 Hmelmnopqrst Givz Lesotho 88 Testovirus YES 0-1-4298
+2733 Lmfmnopqrstu Yachijklmnop Lesotho 101 Testovirus YES 12-10-447
+1401 Urbvwxyz Zkvlmnopqrst Lesotho 50 Tetanus YES 10-7-8639
+5103 Rdhqrstuvwxy Mgbefghijklm Lesotho 83 Mumps YES 27-6-1853
+8357 Bhmcdefghijk Acymnopqrstu Lesotho 101 Testovirus YES 8-9-8399
+8527 Zesvwxyz Gbijklmnopqr Lesotho 90 Hib YES 23-7-8023
+3761 Ayrabcdefghi Rvcklmnopqrs Lesotho 92 HepatitisB YES 28-3-1549
+7894 Rpymnopqrstu Hczxyz Lesotho 112 Polio NO 18-1-7117
+6727 Ctnlmnopqrst Oillmnopqrst Lesotho 66 Testovirus NO
+8859 Gmfwxyz Xxyqrstuvwxy Lesotho 23 Hib NO
+811 Abustuvwxyz Owbxyz Lesotho 112 Adenovirus YES 10-0-8437

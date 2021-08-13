@@ -1,0 +1,18 @@
+6509 Vpphijklmnop Jljdefghijkl Nauru 98 COVID19 NO
+8924 Nsixyz Uilyz Nauru 13 H1N1 YES 6-5-7599
+5385 Gykghijklmno Yjkcdefghijk Nauru 70 Polio YES 0-0-4267
+3978 Cyipqrstuvwx Mhlxyz Nauru 82 Mumps YES 6-4-2632
+1482 Pplopqrstuvw Ehxuvwxyz Nauru 66 Tetanus YES 25-4-2148
+9891 Zhanopqrstuv Vjklmnopqrst Nauru 48 HepatitisB YES 14-9-9503
+7833 Pceghijklmno Vuabcdefghij Nauru 16 Adenovirus YES 9-7-148
+2090 Mtdstuvwxyz Adljklmnopqr Nauru 103 Rubella NO
+2550 Zpaghijklmno Ndztuvwxyz Nauru 108 COVID19 YES 7-3-3297
+699 Osyz Awdqrstuvwxy Nauru 95 Tuberculosis YES 17-11-3618
+8849 Xbpghijklmno Foabcdefghij Nauru 104 Rubella NO 28-6-5500
+8082 Nhabcdefghij Zuupqrstuvwx Nauru 107 TheFlu YES 2-8-2581
+9129 Cfjyz Nhidefghijkl Nauru 81 Tetanus YES 16-1-8767
+7943 Txxnopqrstuv Txbuvwxyz Nauru 50 Rotavirus NO
+9669 Mzplmnopqrst Fechijklmnop Nauru 9 Varicella NO
+4595 Pxxmnopqrstu Jrhdefghijkl Nauru 55 Mumps NO 7-0-3671
+911 Skknopqrstuv Bezjklmnopqr Nauru 48 Mumps YES 20-0-5163
+8288 Kzwmnopqrstu Hefz Nauru 35 TheFlu NO

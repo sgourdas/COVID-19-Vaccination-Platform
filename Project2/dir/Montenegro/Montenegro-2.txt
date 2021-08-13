@@ -1,0 +1,23 @@
+6812 Gfqlmnopqrst Yqhhijklmnop Montenegro 118 Tetanus NO
+6539 Kxkstuvwxyz Qbiuvwxyz Montenegro 118 TheFlu NO 11-9-538
+2235 Qdpvwxyz Kisklmnopqrs Montenegro 96 Rubella NO
+2744 Qcalmnopqrst Lucuvwxyz Montenegro 95 Adenovirus NO 6-9-1776
+1020 Kabdefghijkl Eajcdefghijk Montenegro 5 Hib NO
+2375 Diqabcdefghi Zyuefghijklm Montenegro 111 Adenovirus YES 12-5-8655
+8168 Vavijklmnopq Habwxyz Montenegro 111 SARS1 YES 21-12-5006
+532 Doabcdefghij Fbsdefghijkl Montenegro 88 Adenovirus NO
+1390 Yrcklmnopqrs Wrnghijklmno Montenegro 12 Mumps NO 26-6-9691
+2560 Boxhijklmnop Soehijklmnop Montenegro 73 SARS1 NO
+6289 Offghijklmno Wveabcdefghi Montenegro 101 Testovirus NO 7-4-160
+836 Wgcrstuvwxyz Hovyz Montenegro 17 H1N1 NO
+6233 Rxruvwxyz Xrllmnopqrst Montenegro 106 HepatitisB NO
+8785 Mhmklmnopqrs Rhgmnopqrstu Montenegro 48 Chickenpox YES 18-11-2641
+6773 Uxvdefghijkl Cwauvwxyz Montenegro 41 Rotavirus YES 13-6-2612
+3972 Rcojklmnopqr Csmhijklmnop Montenegro 24 Mumps YES 15-2-1739
+8037 Jyyghijklmno Wqtklmnopqrs Montenegro 38 Rubella NO
+3326 Ainjklmnopqr Kdpstuvwxyz Montenegro 103 Adenovirus NO
+4703 Qfxefghijklm Ujmopqrstuvw Montenegro 88 Diphtheria NO
+6030 Gsvklmnopqrs Hpamnopqrstu Montenegro 38 Adenovirus YES 6-1-889
+7907 Iyqz Aquqrstuvwxy Montenegro 117 COVID19 NO
+4023 Aycdefghijkl Xyfyz Montenegro 103 Adenovirus YES 20-0-1180
+8239 Mggdefghijkl Pihnopqrstuv Montenegro 120 Tuberculosis YES 5-6-3914

@@ -1,0 +1,20 @@
+3545 Adughijklmno Sdnbcdefghij Norway 6 Adenovirus YES 17-7-7317
+5913 Eqbhijklmnop Fidabcdefghi Norway 117 TheFlu NO
+3189 Efsfghijklmn Yxewxyz Norway 83 Rotavirus YES 25-3-181
+9278 Oiuklmnopqrs Smgstuvwxyz Norway 35 HepatitisA YES 10-8-5134
+2051 Ytetuvwxyz Uesghijklmno Norway 53 HepatitisA NO
+703 Ujwcdefghijk Nbbpqrstuvwx Norway 53 Rotavirus NO 7-9-8751
+3619 Mcowxyz Hpjjklmnopqr Norway 90 TheFlu YES 10-8-7839
+9242 Denz Stzpqrstuvwx Norway 95 Rubella YES 30-7-4778
+6540 Ulxghijklmno Dqgxyz Norway 70 Tuberculosis NO
+9898 Vbxlmnopqrst Opqstuvwxyz Norway 27 Tuberculosis YES 18-10-5638
+311 Tuighijklmno Kfpefghijklm Norway 42 Adenovirus NO 21-1-7518
+8397 Zqcmnopqrstu Scfstuvwxyz Norway 98 Diphtheria NO
+8609 Jpjxyz Pkgghijklmno Norway 96 SARS1 NO 13-0-245
+1554 Mxsvwxyz Aokdefghijkl Norway 101 Chickenpox YES 22-12-8053
+5406 Wnalmnopqrst Eraefghijklm Norway 57 HepatitisB YES 13-10-6746
+9698 Kzcxyz Uyxlmnopqrst Norway 99 Chickenpox NO
+1532 Dpkjklmnopqr Xromnopqrstu Norway 6 Chickenpox NO 14-12-1334
+2790 Euxklmnopqrs Pndfghijklmn Norway 65 H1N1 YES 23-9-6121
+7504 Tfxxyz Qaunopqrstuv Norway 84 Diphtheria NO 29-3-9525
+6974 Bjwghijklmno Cczz Norway 40 Chickenpox NO

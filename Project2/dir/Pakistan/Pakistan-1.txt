@@ -1,0 +1,22 @@
+7172 Jwnrstuvwxyz Fkflmnopqrst Pakistan 15 Rubella YES 29-12-3661
+8913 Mhytuvwxyz Wzhmnopqrstu Pakistan 71 Diphtheria NO 17-12-6241
+5244 Qravwxyz Iwcz Pakistan 107 Adenovirus YES 17-4-5625
+8484 Ulnpqrstuvwx Rbmyz Pakistan 7 Adenovirus NO 13-5-3077
+3266 Gtyghijklmno Pumpqrstuvwx Pakistan 51 Adenovirus YES 29-2-7131
+4372 Mukbcdefghij Bqspqrstuvwx Pakistan 113 HepatitisA NO
+852 Zowcdefghijk Tzrwxyz Pakistan 107 HepatitisA NO 11-0-7173
+2411 Tjebcdefghij Ifrhijklmnop Pakistan 15 Tuberculosis NO
+9673 Yqyrstuvwxyz Rksfghijklmn Pakistan 119 SARS1 YES 1-11-4457
+3882 Uozmnopqrstu Jolwxyz Pakistan 56 Polio YES 30-5-6120
+5033 Wqkdefghijkl Dgrz Pakistan 14 COVID19 YES 7-1-5973
+5705 Wfadefghijkl Noccdefghijk Pakistan 12 TheFlu YES 25-3-6824
+9757 Wfbmnopqrstu Bbjijklmnopq Pakistan 55 Varicella YES 21-0-3435
+4628 Txquvwxyz Vnztuvwxyz Pakistan 46 Varicella NO
+8600 Lamopqrstuvw Awqstuvwxyz Pakistan 113 Rubella YES 15-2-3857
+3210 Vcbqrstuvwxy Nesklmnopqrs Pakistan 86 H1N1 NO
+7991 Cwpbcdefghij Ahyqrstuvwxy Pakistan 29 Rubella NO
+9531 Yngijklmnopq Dxrstuvwxyz Pakistan 85 Chickenpox YES 24-11-9943
+3861 Xjtz Xyjjklmnopqr Pakistan 13 Diphtheria NO 21-9-3238
+8563 Dqvdefghijkl Vtvbcdefghij Pakistan 5 Mumps NO 24-1-9493
+2243 Llkbcdefghij Rgpklmnopqrs Pakistan 41 HepatitisA NO
+6441 Viowxyz Vkmghijklmno Pakistan 120 HepatitisA YES 14-12-5701

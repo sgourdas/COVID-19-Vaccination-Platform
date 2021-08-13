@@ -1,0 +1,19 @@
+5740 Smtdefghijkl Xyovwxyz Kyrgyzstan 98 SARS1 NO
+8668 Exgqrstuvwxy Esdz Kyrgyzstan 115 Mumps NO
+5711 Avcjklmnopqr Jufabcdefghi Kyrgyzstan 117 Tuberculosis NO
+1668 Jmuklmnopqrs Przghijklmno Kyrgyzstan 60 HepatitisA YES 8-7-567
+4359 Plvvwxyz Qxqvwxyz Kyrgyzstan 30 Varicella NO 23-5-380
+4637 Hmncdefghijk Thqwxyz Kyrgyzstan 82 Adenovirus NO
+720 Aczhijklmnop Dwnlmnopqrst Kyrgyzstan 29 Chickenpox YES 6-0-6210
+5088 Tmcrstuvwxyz Wcivwxyz Kyrgyzstan 79 TheFlu NO
+298 Yhehijklmnop Kxwrstuvwxyz Kyrgyzstan 28 Rotavirus NO 25-5-3507
+4813 Vqwefghijklm Sdoijklmnopq Kyrgyzstan 104 Hib YES 14-4-6626
+3921 Bztwxyz Lgqghijklmno Kyrgyzstan 41 Diphtheria NO
+7100 Elowxyz Jmupqrstuvwx Kyrgyzstan 46 Chickenpox NO
+3901 Plvstuvwxyz Pemvwxyz Kyrgyzstan 73 Tetanus YES 19-6-6942
+8295 Swfqrstuvwxy Fdunopqrstuv Kyrgyzstan 94 Varicella YES 0-6-4577
+2788 Kotghijklmno Nxnwxyz Kyrgyzstan 17 SARS1 NO
+7379 Ugruvwxyz Pwmdefghijkl Kyrgyzstan 109 TheFlu NO 13-7-1119
+9785 Ylropqrstuvw Nvaqrstuvwxy Kyrgyzstan 82 Testovirus YES 20-2-218
+4727 Uibijklmnopq Apsyz Kyrgyzstan 96 Rubella NO
+8426 Zoruvwxyz Zsntuvwxyz Kyrgyzstan 34 COVID19 YES 21-10-6804

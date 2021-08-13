@@ -1,0 +1,20 @@
+3231 Ncexyz Sbplmnopqrst Liberia 78 Tuberculosis NO 1-7-6126
+6447 Qwwefghijklm Dfdabcdefghi Liberia 49 Mumps YES 30-0-7068
+5527 Pugyz Akmvwxyz Liberia 81 Polio NO
+9017 Uayjklmnopqr Ygaz Liberia 73 Diphtheria NO
+5195 Vswijklmnopq Olxqrstuvwxy Liberia 94 Mumps NO 7-7-1396
+7251 Wsjjklmnopqr Aelmnopqrstu Liberia 54 Mumps NO
+9303 Txpcdefghijk Mvmopqrstuvw Liberia 88 Polio NO
+2889 Uzpbcdefghij Fyxcdefghijk Liberia 5 Testovirus NO
+1211 Cgshijklmnop Nadnopqrstuv Liberia 52 Mumps YES 5-8-3473
+5250 Wundefghijkl Byrrstuvwxyz Liberia 79 Mumps YES 6-12-2707
+5680 Nayklmnopqrs Nirdefghijkl Liberia 57 Rotavirus NO 0-11-5128
+6643 Mukklmnopqrs Gxfyz Liberia 29 Rotavirus YES 5-6-2649
+478 Gsbefghijklm Kcshijklmnop Liberia 28 Chickenpox YES 23-2-5011
+1259 Jinlmnopqrst Moerstuvwxyz Liberia 44 Adenovirus NO
+176 Nbwhijklmnop Muustuvwxyz Liberia 5 Polio NO 7-9-3376
+6685 Tltdefghijkl Mticdefghijk Liberia 60 Adenovirus YES 11-5-1320
+2001 Uckmnopqrstu Bjdrstuvwxyz Liberia 4 TheFlu YES 20-1-4286
+5671 Ykqpqrstuvwx Tctlmnopqrst Liberia 46 H1N1 YES 5-0-5182
+5842 Ingvwxyz Zczz Liberia 50 Rotavirus NO
+745 Dixvwxyz Hdyopqrstuvw Liberia 75 Varicella YES 22-8-6573

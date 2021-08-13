@@ -1,0 +1,19 @@
+8319 Lnipqrstuvwx Rttyz Singapore 109 HepatitisA NO
+1014 Guvdefghijkl Lmrhijklmnop Singapore 22 Adenovirus YES 19-12-8616
+1435 Jclklmnopqrs Hfejklmnopqr Singapore 9 COVID19 YES 24-2-9084
+65 Jhtdefghijkl Pafwxyz Singapore 57 Hib NO
+2312 Ikeyz Fdwhijklmnop Singapore 71 Rotavirus NO 17-4-3873
+296 Utbstuvwxyz Eyixyz Singapore 69 SARS1 YES 7-8-7318
+8520 Xgshijklmnop Uldqrstuvwxy Singapore 39 TheFlu YES 17-7-6895
+5517 Irglmnopqrst Llyvwxyz Singapore 41 HepatitisA NO 21-4-9417
+249 Cbuqrstuvwxy Bfyabcdefghi Singapore 13 Polio NO
+1664 Dgfcdefghijk Fagbcdefghij Singapore 1 Tetanus NO 9-0-8624
+1016 Vjvnopqrstuv Lvyabcdefghi Singapore 53 Rubella YES 8-7-4775
+6653 Jrhpqrstuvwx Igmabcdefghi Singapore 53 Polio NO
+8251 Nvkghijklmno Fdfstuvwxyz Singapore 24 Chickenpox NO
+1961 Zujqrstuvwxy Kvojklmnopqr Singapore 38 H1N1 YES 3-9-445
+865 Bsxghijklmno Ctuijklmnopq Singapore 35 COVID19 YES 30-3-188
+2203 Gkgpqrstuvwx Ffrpqrstuvwx Singapore 75 TheFlu NO 21-1-737
+4052 Yepuvwxyz Hzmqrstuvwxy Singapore 103 TheFlu YES 15-6-5368
+2221 Xvjuvwxyz Tkbopqrstuvw Singapore 88 Polio NO
+7242 Lpfz Ebtmnopqrstu Singapore 4 HepatitisA YES 8-7-1110

@@ -1,0 +1,18 @@
+3178 Jfrklmnopqrs Nizxyz Cameroon 48 Chickenpox YES 12-10-9535
+9972 Rcrz Vbnstuvwxyz Cameroon 99 COVID19 YES 17-11-4713
+2689 Hwctuvwxyz Esvklmnopqrs Cameroon 31 SARS1 YES 11-11-1453
+9668 Rwnstuvwxyz Hguuvwxyz Cameroon 111 Testovirus YES 23-0-9809
+6410 Neklmnopqrst Pzjabcdefghi Cameroon 56 Tuberculosis NO
+1460 Isapqrstuvwx Tjirstuvwxyz Cameroon 71 HepatitisB YES 29-11-3402
+5004 Rqicdefghijk Nflopqrstuvw Cameroon 80 Tetanus NO
+9250 Iytrstuvwxyz Iccghijklmno Cameroon 43 H1N1 NO
+2623 Bsswxyz Supfghijklmn Cameroon 2 TheFlu YES 0-12-2888
+9697 Ubdmnopqrstu Bxiabcdefghi Cameroon 31 SARS1 YES 2-5-25
+4455 Kghhijklmnop Irplmnopqrst Cameroon 54 Rubella YES 15-1-2572
+5265 Ncoz Tholmnopqrst Cameroon 20 COVID19 YES 27-2-2604
+86 Nuwvwxyz Dvumnopqrstu Cameroon 63 Varicella NO
+4265 Dfvqrstuvwxy Klkjklmnopqr Cameroon 99 Diphtheria NO
+6553 Tuwmnopqrstu Edvvwxyz Cameroon 84 Rotavirus YES 13-5-8463
+4557 Sbvz Dqobcdefghij Cameroon 17 Rubella NO
+2358 Ioxxyz Limqrstuvwxy Cameroon 79 Adenovirus NO 10-10-5311
+913 Feunopqrstuv Clyuvwxyz Cameroon 4 Polio NO

@@ -1,0 +1,23 @@
+6167 Liedefghijkl Wfqqrstuvwxy Qatar 2 Diphtheria NO 21-5-9432
+5722 Qwsabcdefghi Lyfz Qatar 120 SARS1 YES 15-12-2742
+8768 Nutwxyz Dmzcdefghijk Qatar 13 Mumps NO
+666 Gqyfghijklmn Tudjklmnopqr Qatar 108 H1N1 YES 19-12-4335
+3860 Lofstuvwxyz Ijuabcdefghi Qatar 15 Varicella NO 23-9-3386
+4305 Ndghijklmnop Mhocdefghijk Qatar 2 COVID19 NO 19-1-6824
+5018 Ljbwxyz Qdwjklmnopqr Qatar 88 Rotavirus NO
+2470 Tcoxyz Korefghijklm Qatar 120 COVID19 YES 27-11-9758
+7424 Ftovwxyz Iqkklmnopqrs Qatar 59 Tuberculosis YES 18-9-3676
+9559 Botpqrstuvwx Iydrstuvwxyz Qatar 9 Mumps YES 4-6-2194
+901 Euyfghijklmn Fxyijklmnopq Qatar 48 HepatitisA NO 18-11-3172
+8590 Hsaklmnopqrs Tizopqrstuvw Qatar 96 Rotavirus YES 13-9-9906
+1748 Zxojklmnopqr Xwdmnopqrstu Qatar 7 TheFlu NO
+3207 Tohtuvwxyz Tsdbcdefghij Qatar 49 SARS1 YES 27-7-7693
+5950 Ammyz Ebzefghijklm Qatar 58 COVID19 NO
+1087 Ulzefghijklm Ffqpqrstuvwx Qatar 27 Mumps YES 6-4-2791
+7572 Ardnopqrstuv Xfnijklmnopq Qatar 79 Rubella NO 26-8-6059
+2563 Pkhstuvwxyz Kbhfghijklmn Qatar 111 TheFlu NO
+4865 Dnoxyz Sxfwxyz Qatar 79 Testovirus NO 7-11-3249
+7938 Mudcdefghijk Jcvxyz Qatar 31 Polio NO
+9441 Kbbqrstuvwxy Lprvwxyz Qatar 48 Rubella YES 30-9-9510
+3003 Gxtyz Yisuvwxyz Qatar 39 Diphtheria NO
+2573 Sxbxyz Uophijklmnop Qatar 43 HepatitisA NO

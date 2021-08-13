@@ -1,0 +1,19 @@
+4337 Urxnopqrstuv Ihntuvwxyz Kazakhstan 45 Diphtheria YES 23-0-3945
+4272 Kssmnopqrstu Xnkabcdefghi Kazakhstan 44 H1N1 NO
+6602 Ukqopqrstuvw Vazjklmnopqr Kazakhstan 31 TheFlu YES 8-1-9324
+9773 Hpppqrstuvwx Kvcpqrstuvwx Kazakhstan 118 Adenovirus YES 29-12-3876
+7589 Lppopqrstuvw Woqklmnopqrs Kazakhstan 110 Mumps NO 5-10-7731
+8260 Qrdxyz Zwhabcdefghi Kazakhstan 27 TheFlu NO
+1632 Lkzcdefghijk Yvudefghijkl Kazakhstan 62 Mumps YES 27-3-4336
+2970 Lyjpqrstuvwx Ecauvwxyz Kazakhstan 110 SARS1 YES 29-8-672
+7155 Mkiqrstuvwxy Hcevwxyz Kazakhstan 25 H1N1 YES 17-8-1030
+9262 Gsxtuvwxyz Wacjklmnopqr Kazakhstan 24 Tuberculosis YES 29-5-5120
+9670 Dtsfghijklmn Hhmklmnopqrs Kazakhstan 33 Mumps NO 25-11-6549
+4218 Jvaxyz Penwxyz Kazakhstan 29 Chickenpox YES 30-7-1546
+1493 Lxfghijklmno Vhemnopqrstu Kazakhstan 86 SARS1 NO
+4954 Bcjcdefghijk Hmaefghijklm Kazakhstan 88 Varicella YES 27-6-502
+6348 Uvcghijklmno Jqbqrstuvwxy Kazakhstan 119 Chickenpox NO
+2583 Abcabcdefghi Avpopqrstuvw Kazakhstan 3 Polio NO
+1814 Cbfnopqrstuv Vizuvwxyz Kazakhstan 6 Diphtheria NO 7-3-7971
+6692 Gleijklmnopq Boljklmnopqr Kazakhstan 34 Chickenpox NO
+6922 Oqgcdefghijk Vfznopqrstuv Kazakhstan 67 Tetanus NO

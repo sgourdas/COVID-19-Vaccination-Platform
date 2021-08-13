@@ -1,0 +1,20 @@
+3961 Xrwjklmnopqr Kurcdefghijk Guatemala 54 Diphtheria NO
+1946 Tkvrstuvwxyz Coijklmnopqr Guatemala 97 Rubella YES 29-11-5396
+8206 Cnetuvwxyz Elez Guatemala 118 Mumps NO
+2643 Zmjabcdefghi Mdjvwxyz Guatemala 71 Rotavirus YES 26-6-8655
+3028 Gnrrstuvwxyz Tcqghijklmno Guatemala 3 Hib YES 1-9-2423
+6013 Vnfwxyz Hjmijklmnopq Guatemala 53 COVID19 NO
+7754 Myewxyz Njzlmnopqrst Guatemala 5 HepatitisA YES 4-10-8230
+6702 Mktstuvwxyz Fedwxyz Guatemala 65 Polio NO
+8078 Tfxijklmnopq Xleklmnopqrs Guatemala 84 Hib NO
+2849 Fhyfghijklmn Ndtmnopqrstu Guatemala 45 Hib NO
+8391 Ovwmnopqrstu Iazbcdefghij Guatemala 112 SARS1 NO
+212 Yxknopqrstuv Nnofghijklmn Guatemala 99 SARS1 YES 14-11-3137
+2474 Ykqefghijklm Gokjklmnopqr Guatemala 41 Diphtheria YES 20-12-6434
+9695 Tevfghijklmn Egayz Guatemala 32 COVID19 YES 27-8-947
+5843 Flqopqrstuvw Rvhrstuvwxyz Guatemala 69 SARS1 YES 17-8-5314
+8094 Newopqrstuvw Rdbuvwxyz Guatemala 85 COVID19 NO 18-3-1977
+5503 Auxlmnopqrst Izghijklmnop Guatemala 84 Varicella NO 8-0-9217
+7165 Wqicdefghijk Avdstuvwxyz Guatemala 80 Varicella NO 9-8-1370
+5462 Yoqabcdefghi Tepabcdefghi Guatemala 54 SARS1 YES 16-11-3835
+9868 Iqwbcdefghij Cqqnopqrstuv Guatemala 59 Polio NO

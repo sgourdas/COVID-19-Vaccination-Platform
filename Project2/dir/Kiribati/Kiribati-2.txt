@@ -1,0 +1,20 @@
+5365 Azzjklmnopqr Myeyz Kiribati 96 Mumps NO
+1571 Hlywxyz Lyftuvwxyz Kiribati 100 COVID19 YES 14-2-9046
+6849 Lgocdefghijk Omeyz Kiribati 10 Chickenpox YES 6-8-2548
+8029 Yjiz Eazijklmnopq Kiribati 36 Mumps NO 4-3-6049
+631 Moqlmnopqrst Ggccdefghijk Kiribati 77 Mumps YES 28-7-4898
+8298 Ldnvwxyz Vgbnopqrstuv Kiribati 79 Chickenpox NO
+6513 Qezcdefghijk Enbyz Kiribati 46 Tetanus NO 22-7-8786
+6128 Hwivwxyz Hstbcdefghij Kiribati 77 HepatitisB YES 3-7-4465
+8162 Eovpqrstuvwx Xuhfghijklmn Kiribati 10 Tuberculosis YES 4-1-9573
+9585 Eeoyz Zxrcdefghijk Kiribati 83 Tuberculosis NO
+895 Arycdefghijk Qcqz Kiribati 52 Rotavirus YES 7-12-7217
+3625 Iqcabcdefghi Kwuqrstuvwxy Kiribati 13 Tetanus YES 19-0-9461
+8329 Ollefghijklm Efnwxyz Kiribati 95 Rotavirus YES 30-3-3560
+2018 Obqdefghijkl Dvyfghijklmn Kiribati 52 Mumps YES 18-5-1720
+1298 Rwxghijklmno Ciystuvwxyz Kiribati 59 SARS1 YES 14-7-1629
+5252 Fhaopqrstuvw Ukzopqrstuvw Kiribati 111 SARS1 YES 25-10-6217
+8044 Uoxmnopqrstu Husvwxyz Kiribati 24 Rotavirus YES 9-7-996
+7789 Yeyabcdefghi Ohilmnopqrst Kiribati 12 H1N1 YES 25-5-4453
+1171 Ndghijklmnop Rkvpqrstuvwx Kiribati 7 Hib YES 26-5-2108
+8763 Zqlxyz Yjaabcdefghi Kiribati 108 Adenovirus NO

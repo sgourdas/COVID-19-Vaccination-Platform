@@ -1,0 +1,26 @@
+7343 Vzyz Bhtwxyz Ireland 91 Polio NO 2-5-8403
+1109 Owtmnopqrstu Armopqrstuvw Ireland 64 Tetanus YES 26-3-1895
+3316 Txmlmnopqrst Coxklmnopqrs Ireland 3 HepatitisA NO
+7203 Qjrpqrstuvwx Vvlfghijklmn Ireland 4 SARS1 NO
+8011 Ggcbcdefghij Tziefghijklm Ireland 46 HepatitisA YES 6-6-512
+7792 Xzwklmnopqrs Weedefghijkl Ireland 72 SARS1 YES 18-0-769
+3162 Tubwxyz Azlpqrstuvwx Ireland 41 Hib NO 9-1-7507
+2962 Qctqrstuvwxy Xlkvwxyz Ireland 79 Chickenpox NO
+1235 Yxkvwxyz Bhkabcdefghi Ireland 55 Tuberculosis NO
+1834 Dpkefghijklm Yzvqrstuvwxy Ireland 31 Hib NO
+3364 Dnwnopqrstuv Ypmdefghijkl Ireland 4 Tuberculosis NO 21-3-2201
+3265 Tlqstuvwxyz Bxwtuvwxyz Ireland 20 TheFlu NO
+4998 Gpdhijklmnop Kvvwxyz Ireland 96 Mumps YES 16-1-6167
+3147 Fzxbcdefghij Tjeklmnopqrs Ireland 87 Mumps NO 13-3-3521
+6905 Eupcdefghijk Fyxwxyz Ireland 3 Chickenpox YES 19-10-5747
+7493 Yrxxyz Yvtefghijklm Ireland 81 Mumps YES 26-4-1836
+5880 Rldnopqrstuv Xprwxyz Ireland 47 Tuberculosis NO
+6822 Qlfnopqrstuv Piijklmnopqr Ireland 97 SARS1 NO
+7310 Riwfghijklmn Sitmnopqrstu Ireland 44 Diphtheria YES 20-8-5267
+508 Loaopqrstuvw Skjjklmnopqr Ireland 11 HepatitisB YES 18-2-7485
+6585 Ngjstuvwxyz Iofdefghijkl Ireland 113 H1N1 YES 22-9-1860
+2681 Zdjefghijklm Eqsdefghijkl Ireland 52 Testovirus YES 16-8-8431
+317 Oqzklmnopqrs Rhgklmnopqrs Ireland 96 Diphtheria YES 3-7-8050
+1192 Menpqrstuvwx Sxcghijklmno Ireland 33 COVID19 NO
+7236 Fspefghijklm Keqz Ireland 24 SARS1 YES 20-0-9412
+9593 Vrcefghijklm Oyjpqrstuvwx Ireland 35 Chickenpox YES 18-5-2987

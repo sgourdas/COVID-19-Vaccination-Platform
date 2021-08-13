@@ -1,0 +1,18 @@
+6480 Iytdefghijkl Icixyz Algeria 77 Mumps YES 11-2-8733
+1808 Bckfghijklmn Ylqfghijklmn Algeria 44 HepatitisB NO 6-7-2290
+1684 Xvolmnopqrst Yyqstuvwxyz Algeria 50 Rubella NO
+8623 Tfaabcdefghi Ecznopqrstuv Algeria 97 Rubella NO
+7588 Ikpnopqrstuv Tdpabcdefghi Algeria 59 Diphtheria NO
+1970 Hogjklmnopqr Isipqrstuvwx Algeria 31 Rubella NO
+3648 Znsijklmnopq Mycnopqrstuv Algeria 93 Varicella NO
+6663 Vdvpqrstuvwx Fllvwxyz Algeria 51 Testovirus NO
+239 Ojclmnopqrst Xqtvwxyz Algeria 75 HepatitisA NO
+8741 Erifghijklmn Etkghijklmno Algeria 115 TheFlu YES 3-9-8618
+1134 Ipzvwxyz Uyrefghijklm Algeria 13 SARS1 YES 26-0-5219
+8164 Qgocdefghijk Qmcqrstuvwxy Algeria 23 Chickenpox YES 15-7-1296
+270 Pncqrstuvwxy Klbopqrstuvw Algeria 88 Diphtheria NO 14-9-7892
+9922 Zutstuvwxyz Jodbcdefghij Algeria 21 Testovirus YES 13-3-4378
+5718 Xhnmnopqrstu Llnbcdefghij Algeria 58 Chickenpox YES 8-3-2434
+4610 Cayqrstuvwxy Vlcyz Algeria 118 Polio YES 29-0-9524
+7701 Omrz Ecnmnopqrstu Algeria 117 Diphtheria NO 26-9-1966
+5003 Jwyz Oxdqrstuvwxy Algeria 98 Tuberculosis YES 25-1-3426

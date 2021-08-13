@@ -1,0 +1,19 @@
+2102 Csicdefghijk Ybfvwxyz Poland 67 SARS1 YES 19-8-2628
+4352 Qsotuvwxyz Ocbjklmnopqr Poland 68 Adenovirus NO
+4853 Belxyz Bcudefghijkl Poland 61 Polio YES 24-7-2249
+7611 Uazklmnopqrs Ftestuvwxyz Poland 89 Adenovirus YES 16-5-6001
+1915 Ovvefghijklm Qnixyz Poland 70 Polio NO
+4776 Knqpqrstuvwx Ibxlmnopqrst Poland 70 Mumps NO
+9793 Kjnghijklmno Fjzklmnopqrs Poland 62 COVID19 NO
+6532 Ccljklmnopqr Oadghijklmno Poland 36 Diphtheria NO 16-10-43
+2464 Gtthijklmnop Erocdefghijk Poland 79 Diphtheria NO
+597 Oqkrstuvwxyz Foryz Poland 50 Varicella NO 18-0-7602
+2441 Dtfopqrstuvw Tqtbcdefghij Poland 88 Chickenpox NO 12-4-3185
+9570 Xibklmnopqrs Uwznopqrstuv Poland 18 Hib NO 29-8-6033
+5396 Wwwtuvwxyz Jhlghijklmno Poland 74 Varicella NO 8-10-3263
+82 Gflqrstuvwxy Wywopqrstuvw Poland 21 HepatitisB NO
+6259 Xcmbcdefghij Pwsuvwxyz Poland 37 Polio NO
+6424 Gtdyz Uppopqrstuvw Poland 63 Adenovirus YES 13-3-2308
+5736 Dnhwxyz Kcdnopqrstuv Poland 4 Hib YES 27-2-388
+3059 Aqofghijklmn Uwjfghijklmn Poland 119 Mumps NO 17-8-8522
+7059 Fwyijklmnopq Mmhtuvwxyz Poland 95 Hib NO 0-7-36

@@ -1,0 +1,20 @@
+256 Mopijklmnopq Fhcqrstuvwxy Serbia 46 Diphtheria NO
+5220 Wgixyz Gskrstuvwxyz Serbia 83 Rotavirus NO
+8122 Htbrstuvwxyz Btkvwxyz Serbia 18 H1N1 NO
+5287 Rvcvwxyz Cihcdefghijk Serbia 69 Polio YES 13-3-2564
+5241 Nqvtuvwxyz Sbpjklmnopqr Serbia 59 HepatitisA YES 8-1-8397
+2361 Dvvnopqrstuv Bdmuvwxyz Serbia 96 Varicella NO 10-4-8378
+9425 Rquyz Rzppqrstuvwx Serbia 17 SARS1 YES 10-5-4268
+9596 Cfaghijklmno Bgnwxyz Serbia 19 Tetanus NO
+6214 Ngoghijklmno Lgzjklmnopqr Serbia 78 Mumps YES 17-10-6670
+105 Mzivwxyz Kzdopqrstuvw Serbia 37 SARS1 YES 26-12-2356
+3381 Bvrz Jkrdefghijkl Serbia 97 COVID19 NO
+3150 Pulnopqrstuv Rvgvwxyz Serbia 60 Mumps YES 0-10-6555
+4872 Ohyrstuvwxyz Gdmlmnopqrst Serbia 109 Adenovirus YES 23-1-9282
+4022 Eypvwxyz Yhgcdefghijk Serbia 58 Diphtheria NO 0-10-6286
+337 Fofxyz Fojlmnopqrst Serbia 15 HepatitisA YES 7-4-116
+4016 Kbhdefghijkl Rpwwxyz Serbia 72 Diphtheria NO
+6485 Pgcnopqrstuv Dxttuvwxyz Serbia 60 Mumps YES 17-11-3207
+9931 Wdafghijklmn Mpjnopqrstuv Serbia 56 Chickenpox NO 18-0-3214
+1673 Vzqqrstuvwxy Eesz Serbia 39 H1N1 NO
+3152 Mqnhijklmnop Dhnklmnopqrs Serbia 77 Adenovirus YES 0-10-8759

@@ -1,0 +1,22 @@
+8365 Tearstuvwxyz Dsbwxyz Austria 60 COVID19 NO 30-1-5091
+8701 Ouastuvwxyz Ltnefghijklm Austria 70 COVID19 YES 25-0-5514
+7118 Rfiuvwxyz Shbfghijklmn Austria 37 HepatitisB YES 30-5-6146
+215 Rdyz Kseklmnopqrs Austria 7 Testovirus YES 22-7-248
+930 Xjwwxyz Fosyz Austria 117 TheFlu NO 15-6-9501
+7293 Mdqmnopqrstu Vunvwxyz Austria 111 Hib YES 25-12-6995
+1335 Xupqrstuvwxy Eqpijklmnopq Austria 52 Tetanus YES 19-2-562
+7121 Socxyz Lcoqrstuvwxy Austria 72 COVID19 NO
+4590 Haebcdefghij Wsxcdefghijk Austria 114 Chickenpox YES 4-10-8500
+7718 Qtkbcdefghij Sdnstuvwxyz Austria 64 TheFlu NO
+6798 Lrgklmnopqrs Mdouvwxyz Austria 69 Adenovirus NO 17-7-4718
+9841 Rckklmnopqrs Nqqhijklmnop Austria 31 Hib NO
+6750 Cfiopqrstuvw Njufghijklmn Austria 2 Adenovirus NO 17-12-1669
+5815 Esyabcdefghi Inrbcdefghij Austria 118 Varicella YES 28-3-1253
+1817 Vwdabcdefghi Cjbabcdefghi Austria 89 Chickenpox NO 22-7-8095
+5221 Mxgz Dgvabcdefghi Austria 13 HepatitisA NO
+1597 Dtfstuvwxyz Peeefghijklm Austria 79 SARS1 NO
+248 Vctcdefghijk Buoklmnopqrs Austria 6 Hib NO
+9452 Aoxmnopqrstu Ezgabcdefghi Austria 107 Hib YES 16-2-2346
+6445 Kkbijklmnopq Uryjklmnopqr Austria 64 TheFlu YES 21-9-3585
+6880 Ctprstuvwxyz Zhfuvwxyz Austria 26 H1N1 NO
+8711 Mwrwxyz Rsatuvwxyz Austria 98 Tetanus YES 19-11-5836

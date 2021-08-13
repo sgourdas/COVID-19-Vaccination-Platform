@@ -1,0 +1,19 @@
+3016 Svpefghijklm Dgestuvwxyz Cameroon 66 Tuberculosis NO
+9813 Fnomnopqrstu Muvklmnopqrs Cameroon 114 Hib YES 0-5-4511
+6360 Fwvefghijklm Fxkklmnopqrs Cameroon 8 Tuberculosis NO
+5352 Idoefghijklm Jyvtuvwxyz Cameroon 44 Hib NO 29-0-6977
+1305 Xvfwxyz Wszhijklmnop Cameroon 85 Testovirus NO 8-6-1590
+9175 Aasopqrstuvw Pixqrstuvwxy Cameroon 20 Polio NO
+3924 Nykhijklmnop Yvjvwxyz Cameroon 39 Tuberculosis YES 21-5-5991
+4985 Ksoefghijklm Dgqwxyz Cameroon 3 HepatitisB NO
+6632 Wrdqrstuvwxy Fmylmnopqrst Cameroon 10 Rubella YES 28-9-7471
+2503 Dxjtuvwxyz Pyncdefghijk Cameroon 106 HepatitisB YES 23-0-4122
+4160 Wpayz Gskhijklmnop Cameroon 18 Rotavirus YES 16-2-9605
+1058 Yfaklmnopqrs Cxzz Cameroon 98 HepatitisB NO
+7510 Wwyabcdefghi Hruwxyz Cameroon 48 Rotavirus YES 14-11-5781
+8174 Fefbcdefghij Elvqrstuvwxy Cameroon 38 Adenovirus NO
+6009 Aozefghijklm Rogmnopqrstu Cameroon 82 SARS1 NO
+7008 Mcqxyz Tvgdefghijkl Cameroon 114 Tetanus NO 28-3-47
+6611 Qabghijklmno Vlqlmnopqrst Cameroon 113 Hib NO
+9690 Aaxmnopqrstu Wezabcdefghi Cameroon 24 Hib YES 13-0-6043
+1567 Wphnopqrstuv Dqpstuvwxyz Cameroon 107 TheFlu NO 17-3-1399

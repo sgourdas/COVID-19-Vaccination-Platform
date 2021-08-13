@@ -1,0 +1,23 @@
+747 Pbyhijklmnop Mdbxyz Finland 81 Tetanus YES 14-3-4875
+9873 Tasklmnopqrs Xmlnopqrstuv Finland 5 Varicella YES 7-4-4673
+1364 Rlefghijklmn Lygabcdefghi Finland 35 Mumps NO 30-10-2079
+5755 Fjvefghijklm Qzprstuvwxyz Finland 36 Polio YES 27-0-2042
+6714 Qhnvwxyz Flqdefghijkl Finland 21 Adenovirus NO
+4472 Zwtbcdefghij Hlvstuvwxyz Finland 115 Diphtheria YES 1-7-1336
+6600 Haeijklmnopq Owcbcdefghij Finland 89 TheFlu YES 6-10-1404
+9340 Zjulmnopqrst Vvkpqrstuvwx Finland 119 COVID19 NO
+3378 Lybcdefghijk Vxqlmnopqrst Finland 75 Tetanus NO
+3425 Uhxpqrstuvwx Ahdrstuvwxyz Finland 62 COVID19 YES 1-2-1686
+8059 Avypqrstuvwx Yhpmnopqrstu Finland 93 SARS1 YES 6-12-3589
+1039 Ojmbcdefghij Okppqrstuvwx Finland 47 Hib YES 19-9-3384
+6096 Qnxvwxyz Janyz Finland 15 Diphtheria NO
+3748 Swnefghijklm Jtyabcdefghi Finland 113 Rotavirus NO 4-9-5022
+2750 Ljrhijklmnop Zlbefghijklm Finland 62 Polio YES 16-2-7766
+5098 Acxuvwxyz Jgqijklmnopq Finland 95 HepatitisB YES 26-10-4068
+8218 Gytwxyz Srtrstuvwxyz Finland 3 HepatitisA NO
+9040 Hfpghijklmno Cecpqrstuvwx Finland 111 Diphtheria YES 9-3-1948
+758 Fjlyz Rvpvwxyz Finland 57 Rubella YES 14-4-926
+1759 Olplmnopqrst Lwnpqrstuvwx Finland 27 Mumps NO
+76 Pxnopqrstuvw Ssrbcdefghij Finland 36 HepatitisB NO
+8346 Ubolmnopqrst Ilwuvwxyz Finland 38 COVID19 YES 12-2-2798
+5904 Ufxghijklmno Jyvdefghijkl Finland 9 Rotavirus NO

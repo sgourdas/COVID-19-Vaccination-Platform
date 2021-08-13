@@ -1,0 +1,18 @@
+7395 Euwdefghijkl Fbafghijklmn Mauritania 78 SARS1 NO
+1605 Khqhijklmnop Gcjhijklmnop Mauritania 14 Hib NO 11-3-4437
+7773 Xedhijklmnop Wtnstuvwxyz Mauritania 97 TheFlu NO 5-2-3559
+4241 Skxcdefghijk Vtnwxyz Mauritania 12 TheFlu NO
+5315 Uxdefghijklm Tqkqrstuvwxy Mauritania 21 Rubella YES 13-0-1784
+7720 Xoccdefghijk Rnkghijklmno Mauritania 23 HepatitisA YES 12-0-1253
+9910 Nyvtuvwxyz Nqsrstuvwxyz Mauritania 119 Tuberculosis YES 10-11-9822
+4900 Tencdefghijk Ksbfghijklmn Mauritania 48 HepatitisA YES 22-8-3800
+9275 Cyecdefghijk Cqtabcdefghi Mauritania 87 Diphtheria YES 12-9-8087
+4816 Xxuabcdefghi Gabbcdefghij Mauritania 77 TheFlu YES 24-0-8064
+2775 Mvttuvwxyz Skvabcdefghi Mauritania 58 Adenovirus NO
+5610 Ehunopqrstuv Gdvz Mauritania 14 TheFlu YES 3-10-7845
+8089 Osqfghijklmn Pzacdefghijk Mauritania 88 Varicella NO 17-10-5930
+3955 Pijfghijklmn Secyz Mauritania 6 Mumps NO 18-4-2994
+9101 Mvxvwxyz Lqmbcdefghij Mauritania 76 Tuberculosis NO 13-12-1777
+5426 Tchwxyz Oacfghijklmn Mauritania 108 Chickenpox YES 13-6-9488
+4038 Lyifghijklmn Bfctuvwxyz Mauritania 66 Varicella YES 19-5-9595
+5535 Caarstuvwxyz Pyyopqrstuvw Mauritania 48 COVID19 YES 19-10-922

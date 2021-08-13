@@ -1,0 +1,17 @@
+8344 Eftabcdefghi Ynulmnopqrst Monaco 41 HepatitisA YES 30-8-8464
+8216 Gyfjklmnopqr Ywemnopqrstu Monaco 16 Adenovirus YES 6-1-7133
+9631 Lupghijklmno Dutnopqrstuv Monaco 41 Rubella NO
+7942 Ubfhijklmnop Bhdcdefghijk Monaco 45 HepatitisB NO
+1072 Mnzuvwxyz Hlrefghijklm Monaco 110 Mumps YES 17-11-571
+1791 Aupnopqrstuv Myulmnopqrst Monaco 46 Diphtheria YES 14-8-2745
+4608 Haldefghijkl Edqopqrstuvw Monaco 89 Chickenpox NO
+6875 Hdez Wlnfghijklmn Monaco 2 COVID19 NO
+7531 Cuxnopqrstuv Mvmrstuvwxyz Monaco 94 Rubella YES 4-1-4859
+6033 Smldefghijkl Hupyz Monaco 45 Hib NO 26-8-3035
+8521 Tjhopqrstuvw Owcbcdefghij Monaco 47 HepatitisB NO
+7351 Yjknopqrstuv Pguefghijklm Monaco 6 Adenovirus YES 24-3-1631
+3916 Pysjklmnopqr Fsestuvwxyz Monaco 93 Rubella YES 11-11-9017
+4994 Irfbcdefghij Gwnmnopqrstu Monaco 75 Testovirus YES 29-3-2051
+2323 Coklmnopqrst Zchbcdefghij Monaco 73 Testovirus NO
+2207 Duxz Ntsvwxyz Monaco 113 SARS1 YES 24-6-2605
+9942 Gxzabcdefghi Roshijklmnop Monaco 91 COVID19 YES 6-11-9524

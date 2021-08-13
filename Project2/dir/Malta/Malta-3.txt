@@ -1,0 +1,22 @@
+6664 Omxz Jxplmnopqrst Malta 2 HepatitisA NO
+4799 Clecdefghijk Idlqrstuvwxy Malta 88 H1N1 YES 0-5-8314
+9387 Izvstuvwxyz Ctjjklmnopqr Malta 31 Tetanus NO
+2150 Fjfdefghijkl Iubefghijklm Malta 53 COVID19 YES 13-9-2502
+7330 Rkjbcdefghij Spxcdefghijk Malta 111 SARS1 YES 15-4-7308
+2622 Wypfghijklmn Vxnklmnopqrs Malta 109 Tetanus NO 30-10-6612
+6941 Auynopqrstuv Hwiopqrstuvw Malta 87 Tuberculosis YES 20-11-483
+260 Sedqrstuvwxy Mfmcdefghijk Malta 103 H1N1 NO
+4140 Gifstuvwxyz Fbddefghijkl Malta 29 Rotavirus YES 22-0-3787
+5944 Slzefghijklm Wizfghijklmn Malta 38 Tetanus YES 12-1-5048
+3330 Runopqrstuvw Wylefghijklm Malta 82 H1N1 NO
+2362 Jawdefghijkl Yvpuvwxyz Malta 22 Varicella YES 0-4-7261
+2300 Xscdefghijkl Mkkghijklmno Malta 21 Tetanus YES 12-5-5261
+1939 Vocghijklmno Osgopqrstuvw Malta 29 COVID19 NO
+2125 Xbrhijklmnop Snsklmnopqrs Malta 115 Rotavirus YES 26-4-4118
+3992 Oswklmnopqrs Mdnhijklmnop Malta 111 H1N1 NO 9-0-6986
+3260 Sytvwxyz Sdzstuvwxyz Malta 86 H1N1 YES 19-8-3590
+8876 Nvzfghijklmn Xtgijklmnopq Malta 15 SARS1 YES 26-1-5941
+9140 Ryfklmnopqrs Tlntuvwxyz Malta 83 Hib NO 29-10-5503
+6421 Jpbstuvwxyz Wdyjklmnopqr Malta 96 HepatitisB NO 8-9-7169
+6958 Kzvghijklmno Gblabcdefghi Malta 16 Adenovirus YES 3-12-7062
+734 Kvduvwxyz Cxcfghijklmn Malta 26 COVID19 YES 0-6-9811

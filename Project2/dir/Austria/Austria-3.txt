@@ -1,0 +1,21 @@
+8554 Rxlklmnopqrs Hgzvwxyz Austria 95 Rubella NO
+2869 Tkzabcdefghi Tttpqrstuvwx Austria 75 HepatitisA NO
+8412 Zgdlmnopqrst Oiawxyz Austria 83 Adenovirus YES 16-3-5622
+2126 Yfaxyz Syflmnopqrst Austria 2 Tetanus NO
+7267 Fimxyz Iuywxyz Austria 116 Tuberculosis YES 9-12-5010
+5697 Afwvwxyz Bovpqrstuvwx Austria 40 COVID19 NO 21-6-9493
+994 Ydnijklmnopq Evnklmnopqrs Austria 53 Mumps YES 10-1-8775
+5354 Deighijklmno Gzxvwxyz Austria 54 Tuberculosis NO 9-6-2878
+3787 Hruabcdefghi Bhryz Austria 66 TheFlu YES 20-8-7771
+970 Zkrefghijklm Ozxfghijklmn Austria 63 Rotavirus YES 24-10-5250
+4801 Noaklmnopqrs Ipbrstuvwxyz Austria 24 Rubella YES 6-1-1342
+9597 Mcaopqrstuvw Btjstuvwxyz Austria 65 Tuberculosis NO 14-3-6619
+8443 Furwxyz Sgmopqrstuvw Austria 109 H1N1 NO
+5172 Vdclmnopqrst Euvmnopqrstu Austria 53 Mumps NO
+9803 Vsvjklmnopqr Jnxcdefghijk Austria 38 HepatitisA YES 11-7-8301
+6356 Jtdpqrstuvwx Retrstuvwxyz Austria 50 Diphtheria NO
+5582 Xwjrstuvwxyz Ldrmnopqrstu Austria 110 Varicella NO
+9388 Bimcdefghijk Nrqjklmnopqr Austria 87 Rubella NO 8-12-3660
+7887 Meighijklmno Bsicdefghijk Austria 30 H1N1 NO 0-5-4620
+2159 Btmhijklmnop Erhklmnopqrs Austria 110 Mumps NO 17-1-6998
+284 Qdamnopqrstu Ertijklmnopq Austria 8 H1N1 NO

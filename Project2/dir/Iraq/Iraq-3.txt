@@ -1,0 +1,21 @@
+8631 Bdxjklmnopqr Badghijklmno Iraq 95 Testovirus NO
+8238 Fmouvwxyz Jzsrstuvwxyz Iraq 21 Rubella YES 8-9-7686
+7652 Bdkghijklmno Kknklmnopqrs Iraq 2 Adenovirus YES 9-1-2514
+7002 Ohkopqrstuvw Gxpuvwxyz Iraq 67 TheFlu NO 9-5-2941
+8932 Gsqhijklmnop Sfkhijklmnop Iraq 118 Adenovirus NO
+457 Rbeefghijklm Npcmnopqrstu Iraq 96 Adenovirus YES 12-12-245
+3894 Wtnvwxyz Nrvvwxyz Iraq 86 Hib NO 12-2-5936
+4148 Sskabcdefghi Aqcghijklmno Iraq 37 Rotavirus NO
+6473 Gjedefghijkl Wmpnopqrstuv Iraq 120 Diphtheria YES 25-8-4166
+233 Lhzlmnopqrst Nwzwxyz Iraq 111 Chickenpox YES 28-2-1871
+4535 Mcfabcdefghi Sriwxyz Iraq 43 Tuberculosis NO 19-6-1833
+3367 Jzfuvwxyz Pfhjklmnopqr Iraq 4 Adenovirus NO
+1400 Qpkcdefghijk Mczwxyz Iraq 62 Rotavirus NO 4-7-741
+2136 Wbmtuvwxyz Visfghijklmn Iraq 102 SARS1 NO
+8625 Bvcyz Sxuyz Iraq 29 HepatitisB NO
+9154 Pmzmnopqrstu Yeiklmnopqrs Iraq 50 Polio NO
+5887 Zhmz Qlhuvwxyz Iraq 36 Polio NO
+7361 Tvfqrstuvwxy Wtqopqrstuvw Iraq 80 Chickenpox NO
+3087 Yccqrstuvwxy Zckrstuvwxyz Iraq 32 Tuberculosis NO
+9348 Ydstuvwxyz Hepcdefghijk Iraq 8 HepatitisB NO 29-7-9896
+9539 Jxuklmnopqrs Yjsklmnopqrs Iraq 43 COVID19 NO 27-8-8679

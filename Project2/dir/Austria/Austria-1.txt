@@ -1,0 +1,22 @@
+7418 Rmfcdefghijk Zobqrstuvwxy Austria 84 Diphtheria YES 7-0-5088
+2049 Mgzbcdefghij Fkrfghijklmn Austria 37 SARS1 NO
+8457 Fdywxyz Qarwxyz Austria 61 Rotavirus YES 29-3-2366
+8608 Wanrstuvwxyz Wdohijklmnop Austria 3 SARS1 NO
+38 Khacdefghijk Yadbcdefghij Austria 18 HepatitisA NO 0-0-8371
+7137 Jvavwxyz Sqccdefghijk Austria 107 SARS1 YES 10-1-4989
+6194 Oepfghijklmn Anntuvwxyz Austria 96 HepatitisA YES 21-3-5517
+1906 Jnjbcdefghij Zrkjklmnopqr Austria 26 Hib YES 6-6-1964
+5425 Lxouvwxyz Dflopqrstuvw Austria 3 Tuberculosis NO
+3115 Zoupqrstuvwx Tiaz Austria 51 Tetanus NO
+5591 Gxfjklmnopqr Pjejklmnopqr Austria 94 Rubella NO 27-5-9911
+5284 Ipsyz Gnnbcdefghij Austria 32 HepatitisA NO
+691 Worstuvwxyz Wshmnopqrstu Austria 110 Diphtheria YES 25-5-4671
+9133 Cjoz Itgfghijklmn Austria 70 TheFlu NO
+2738 Ujwtuvwxyz Dchmnopqrstu Austria 87 Rotavirus NO 25-12-9473
+5622 Sjxrstuvwxyz Qgocdefghijk Austria 72 Hib YES 26-2-1175
+2242 Ygmklmnopqrs Svwghijklmno Austria 78 Polio NO
+4194 Goaabcdefghi Ylfxyz Austria 41 Mumps YES 1-4-1653
+274 Rtnqrstuvwxy Nyupqrstuvwx Austria 56 Polio YES 27-0-7820
+3465 Nnnnopqrstuv Qhgklmnopqrs Austria 46 HepatitisB YES 8-3-2271
+4213 Afcxyz Jphpqrstuvwx Austria 106 Adenovirus YES 15-2-3401
+603 Cgnhijklmnop Mepstuvwxyz Austria 31 Testovirus YES 18-6-7998

@@ -1,0 +1,23 @@
+5170 Urhabcdefghi Fsvqrstuvwxy Japan 74 Diphtheria NO
+4844 Hpvrstuvwxyz Hccopqrstuvw Japan 56 Hib YES 26-2-9128
+8539 Xqznopqrstuv Dcgpqrstuvwx Japan 95 HepatitisB NO
+4485 Aollmnopqrst Qdsdefghijkl Japan 15 SARS1 NO 16-8-5064
+3580 Slwabcdefghi Szbvwxyz Japan 3 Tuberculosis YES 26-1-3961
+7908 Ynncdefghijk Kfkyz Japan 65 HepatitisB YES 10-12-4156
+964 Zmddefghijkl Wetz Japan 120 Adenovirus NO 2-3-9537
+132 Xrvghijklmno Iebnopqrstuv Japan 39 Adenovirus YES 27-4-4074
+2575 Hiffghijklmn Jzkhijklmnop Japan 108 Rotavirus NO
+338 Qzxcdefghijk Fbdpqrstuvwx Japan 44 H1N1 YES 12-1-5340
+8303 Dkiyz Rlchijklmnop Japan 84 HepatitisA NO
+3599 Abmyz Nexuvwxyz Japan 46 Rotavirus YES 28-2-6178
+6498 Saccdefghijk Naonopqrstuv Japan 10 Varicella NO
+2967 Ntivwxyz Kkqz Japan 76 H1N1 YES 22-8-6751
+6105 Wjbbcdefghij Wwgopqrstuvw Japan 5 Hib NO
+4922 Fllnopqrstuv Ivnqrstuvwxy Japan 80 HepatitisB YES 14-6-6020
+748 Bolqrstuvwxy Zoqz Japan 81 Varicella NO
+5769 Jdlwxyz Jibghijklmno Japan 80 HepatitisA YES 6-11-4344
+1002 Ycbklmnopqrs Qrmmnopqrstu Japan 8 Rubella YES 19-8-1
+4809 Xgbbcdefghij Isnstuvwxyz Japan 12 Hib YES 4-3-1383
+9197 Cgvz Kvkqrstuvwxy Japan 18 Testovirus NO
+8147 Ynldefghijkl Dwjdefghijkl Japan 54 HepatitisA NO 13-2-5810
+8506 Ggwmnopqrstu Ktsmnopqrstu Japan 112 Polio YES 9-4-1667

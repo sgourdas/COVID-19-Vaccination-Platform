@@ -1,0 +1,21 @@
+568 Ktnijklmnopq Pxbnopqrstuv Germany 86 Chickenpox NO
+4262 Motvwxyz Luyuvwxyz Germany 58 Rotavirus NO
+1913 Izbrstuvwxyz Elhuvwxyz Germany 3 Hib NO 0-3-2413
+5660 Hgeyz Swgopqrstuvw Germany 50 COVID19 YES 30-4-9648
+3153 Mmaxyz Adsijklmnopq Germany 85 Testovirus YES 10-6-3725
+3142 Bilhijklmnop Dqfbcdefghij Germany 2 COVID19 YES 4-11-5592
+2653 Bjjfghijklmn Syrnopqrstuv Germany 73 Diphtheria NO
+6140 Ymwmnopqrstu Kklvwxyz Germany 112 Tuberculosis YES 29-1-5988
+8982 Eznhijklmnop Jqauvwxyz Germany 9 Hib NO
+1216 Asdmnopqrstu Zhiwxyz Germany 72 Testovirus NO
+8716 Aquopqrstuvw Nzyhijklmnop Germany 8 SARS1 NO
+1911 Raxnopqrstuv Bgnz Germany 111 TheFlu NO
+4033 Vdvijklmnopq Lhyz Germany 89 Polio NO
+2691 Rdqopqrstuvw Awsz Germany 110 Tetanus YES 29-8-2386
+2692 Rdxopqrstuvw Mixnopqrstuv Germany 46 TheFlu YES 13-7-4441
+2628 Ktjstuvwxyz Oagabcdefghi Germany 47 Varicella NO
+4349 Cwgdefghijkl Bqflmnopqrst Germany 60 Polio NO
+7749 Fomlmnopqrst Rxaopqrstuvw Germany 115 H1N1 NO 2-3-5768
+3944 Dchrstuvwxyz Anxjklmnopqr Germany 2 COVID19 YES 23-6-5730
+3400 Zainopqrstuv Ulvz Germany 3 Adenovirus YES 10-3-7782
+7050 Ludjklmnopqr Tseyz Germany 25 SARS1 YES 23-12-3838

@@ -1,0 +1,21 @@
+7313 Mlkcdefghijk Uczghijklmno Mauritius 119 Testovirus NO
+5278 Efsabcdefghi Lhcbcdefghij Mauritius 104 Polio NO 2-10-4925
+6683 Wbfvwxyz Cadwxyz Mauritius 117 Chickenpox YES 25-0-2726
+4880 Yppklmnopqrs Zorhijklmnop Mauritius 13 SARS1 NO
+7015 Fmpfghijklmn Gefghijklmno Mauritius 15 SARS1 NO
+4539 Hejuvwxyz Qewyz Mauritius 88 Adenovirus YES 14-4-6184
+1702 Bqlz Qckhijklmnop Mauritius 114 Chickenpox YES 27-1-1702
+2394 Uynyz Hbayz Mauritius 38 Diphtheria NO 7-2-7387
+5514 Arqabcdefghi Uxsz Mauritius 14 Polio NO
+4072 Clywxyz Drez Mauritius 116 Testovirus NO
+2435 Wwoz Qndnopqrstuv Mauritius 102 Adenovirus NO 6-0-8110
+275 Gimopqrstuvw Hxuwxyz Mauritius 66 H1N1 YES 13-12-1037
+8927 Pxfstuvwxyz Mkalmnopqrst Mauritius 70 Adenovirus NO
+4640 Lezrstuvwxyz Dbvuvwxyz Mauritius 9 Chickenpox NO
+1873 Uqeghijklmno Bfayz Mauritius 57 Tuberculosis YES 7-0-2595
+9297 Ozgz Hlypqrstuvwx Mauritius 26 Diphtheria NO
+682 Jkpyz Gvzuvwxyz Mauritius 96 Adenovirus NO 28-8-6483
+3441 Meycdefghijk Bbbhijklmnop Mauritius 75 Rotavirus YES 0-7-7764
+6792 Awiqrstuvwxy Mihbcdefghij Mauritius 8 Tetanus NO 3-12-7038
+1892 Bouabcdefghi Axbklmnopqrs Mauritius 21 COVID19 NO 16-2-9992
+9714 Eqgyz Qwktuvwxyz Mauritius 33 Testovirus YES 9-8-5772

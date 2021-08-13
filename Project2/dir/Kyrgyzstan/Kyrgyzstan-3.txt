@@ -1,0 +1,18 @@
+9238 Ewkopqrstuvw Fkhghijklmno Kyrgyzstan 80 SARS1 YES 20-5-5615
+1758 Bhwdefghijkl Vmmstuvwxyz Kyrgyzstan 49 Tuberculosis NO 0-0-100
+2050 Ksfrstuvwxyz Nnqghijklmno Kyrgyzstan 97 Mumps YES 28-12-1203
+892 Kpxwxyz Weydefghijkl Kyrgyzstan 36 Mumps NO
+6504 Qlsnopqrstuv Gefyz Kyrgyzstan 91 Polio NO
+3954 Itpjklmnopqr Pafdefghijkl Kyrgyzstan 54 TheFlu YES 26-9-8063
+635 Riwfghijklmn Xetpqrstuvwx Kyrgyzstan 80 Hib YES 23-10-9583
+4558 Pqsefghijklm Hbsabcdefghi Kyrgyzstan 36 SARS1 NO
+4434 Eneuvwxyz Jyhpqrstuvwx Kyrgyzstan 10 TheFlu NO
+1693 Oforstuvwxyz Pnxvwxyz Kyrgyzstan 51 Varicella YES 17-3-6025
+2823 Bfsjklmnopqr Cbkopqrstuvw Kyrgyzstan 30 HepatitisA NO
+9591 Nbywxyz Jjglmnopqrst Kyrgyzstan 102 COVID19 YES 26-12-1990
+425 Trtfghijklmn Cfqxyz Kyrgyzstan 114 TheFlu NO
+8025 Jrdopqrstuvw Wshcdefghijk Kyrgyzstan 79 Diphtheria NO
+1888 Flstuvwxyz Eoedefghijkl Kyrgyzstan 99 Chickenpox NO 8-5-4096
+6785 Brjrstuvwxyz Kfewxyz Kyrgyzstan 91 COVID19 NO 5-5-195
+7405 Zljefghijklm Tkkfghijklmn Kyrgyzstan 108 Adenovirus YES 4-1-685
+1163 Aitijklmnopq Wiuhijklmnop Kyrgyzstan 105 Mumps YES 22-7-907

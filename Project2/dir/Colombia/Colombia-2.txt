@@ -1,0 +1,18 @@
+9712 Ezbdefghijkl Ktaqrstuvwxy Colombia 55 SARS1 YES 1-2-7790
+5047 Rrgrstuvwxyz Bllfghijklmn Colombia 45 SARS1 NO
+7146 Yxrlmnopqrst Caayz Colombia 73 COVID19 NO
+5409 Pqtvwxyz Cmhrstuvwxyz Colombia 101 Polio YES 27-3-4938
+6005 Qbzklmnopqrs Rvqefghijklm Colombia 14 Hib YES 18-2-7494
+883 Unvqrstuvwxy Jdicdefghijk Colombia 68 COVID19 NO
+3517 Rgafghijklmn Dvfstuvwxyz Colombia 110 Tuberculosis YES 2-0-6549
+9174 Dwbpqrstuvwx Fihpqrstuvwx Colombia 70 Mumps NO
+1040 Buklmnopqrst Zdrtuvwxyz Colombia 105 COVID19 NO
+7472 Zzrxyz Jkuhijklmnop Colombia 76 Testovirus YES 11-4-5196
+2682 Wwmghijklmno Lukcdefghijk Colombia 80 Mumps NO
+4726 Onjcdefghijk Ounqrstuvwxy Colombia 75 Tetanus YES 27-9-3492
+9771 Hrkbcdefghij Vxtwxyz Colombia 119 TheFlu NO
+1544 Iowstuvwxyz Jbrghijklmno Colombia 11 COVID19 YES 13-6-6311
+7152 Tdehijklmnop Ntnfghijklmn Colombia 91 H1N1 NO 17-3-5621
+5980 Xcdvwxyz Zrkqrstuvwxy Colombia 50 Polio NO 13-7-8401
+8249 Mxuwxyz Nbwcdefghijk Colombia 28 Adenovirus NO
+7116 Khvmnopqrstu Xzkdefghijkl Colombia 49 Rotavirus YES 30-4-4638

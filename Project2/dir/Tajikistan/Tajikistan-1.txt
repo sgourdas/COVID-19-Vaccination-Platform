@@ -1,0 +1,21 @@
+3534 Lhtbcdefghij Vpcabcdefghi Tajikistan 39 COVID19 YES 8-9-9795
+7705 Gwfqrstuvwxy Lzistuvwxyz Tajikistan 69 Mumps YES 1-11-1001
+5020 Nmcghijklmno Srbbcdefghij Tajikistan 110 Rotavirus YES 22-12-3149
+5360 Xkvjklmnopqr Dopnopqrstuv Tajikistan 42 Diphtheria NO
+3928 Mdarstuvwxyz Ughuvwxyz Tajikistan 30 COVID19 YES 14-0-2904
+1321 Shscdefghijk Shvefghijklm Tajikistan 112 Tuberculosis NO
+2210 Obtz Vhrvwxyz Tajikistan 52 Adenovirus YES 23-7-6371
+3895 Pxbijklmnopq Avtjklmnopqr Tajikistan 99 Mumps YES 13-12-934
+7091 Fncjklmnopqr Erotuvwxyz Tajikistan 106 Chickenpox NO
+9525 Fnxxyz Chmnopqrstuv Tajikistan 40 Hib NO
+7011 Sdlijklmnopq Bvntuvwxyz Tajikistan 78 Tuberculosis NO
+6 Esfmnopqrstu Mcjnopqrstuv Tajikistan 59 Diphtheria YES 18-0-8177
+8320 Vjdstuvwxyz Cstjklmnopqr Tajikistan 41 HepatitisB NO 2-1-2245
+9088 Rfjjklmnopqr Gsxhijklmnop Tajikistan 21 H1N1 NO
+376 Ghflmnopqrst Lnwklmnopqrs Tajikistan 80 SARS1 YES 19-1-6618
+4093 Zuhstuvwxyz Haclmnopqrst Tajikistan 98 SARS1 YES 8-4-275
+7579 Uomklmnopqrs Qyzfghijklmn Tajikistan 11 Testovirus NO 30-1-3967
+4774 Hmapqrstuvwx Kmtnopqrstuv Tajikistan 102 Varicella NO
+9987 Dnmrstuvwxyz Ueubcdefghij Tajikistan 51 Varicella NO
+3904 Nqkbcdefghij Bjlhijklmnop Tajikistan 42 Varicella YES 17-4-4326
+9093 Qsfefghijklm Evbrstuvwxyz Tajikistan 74 COVID19 YES 15-5-6542

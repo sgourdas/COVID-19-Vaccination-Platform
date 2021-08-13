@@ -1,0 +1,22 @@
+7437 Lloyz Kchfghijklmn Eritrea 103 Chickenpox YES 0-9-2350
+8746 Rtdpqrstuvwx Wqkdefghijkl Eritrea 61 HepatitisA NO
+5566 Xhzdefghijkl Haehijklmnop Eritrea 9 Mumps YES 8-3-8420
+501 Usdbcdefghij Hzmjklmnopqr Eritrea 101 Polio NO 23-0-7339
+7392 Hqmhijklmnop Kkdstuvwxyz Eritrea 15 Polio YES 23-12-3306
+9085 Thrnopqrstuv Lhdabcdefghi Eritrea 17 Rubella YES 17-6-6971
+1115 Wfbpqrstuvwx Hhhhijklmnop Eritrea 115 Tetanus NO 8-12-3868
+4510 Pppuvwxyz Onwbcdefghij Eritrea 120 Polio NO
+7159 Xarxyz Rftxyz Eritrea 99 Diphtheria YES 7-3-7738
+7871 Hetijklmnopq Vrvtuvwxyz Eritrea 81 Chickenpox NO
+9015 Oaalmnopqrst Jcrbcdefghij Eritrea 33 Adenovirus NO
+1013 Nqxvwxyz Cdurstuvwxyz Eritrea 29 Tuberculosis YES 20-0-1529
+9270 Kuobcdefghij Aogijklmnopq Eritrea 62 Adenovirus NO 15-12-1216
+6719 Zfxklmnopqrs Uvrijklmnopq Eritrea 69 Testovirus YES 0-10-2687
+7307 Rexpqrstuvwx Fjuuvwxyz Eritrea 91 Tetanus NO 9-3-3832
+9042 Twqtuvwxyz Rdgfghijklmn Eritrea 103 Diphtheria NO 0-10-911
+3350 Gbaghijklmno Ijoklmnopqrs Eritrea 39 HepatitisB YES 16-10-8720
+2188 Uxeghijklmno Nskwxyz Eritrea 78 Mumps NO 30-3-2163
+9986 Dlthijklmnop Cadstuvwxyz Eritrea 77 Mumps YES 14-12-6825
+243 Wsipqrstuvwx Telyz Eritrea 7 Rubella NO
+3447 Ugvbcdefghij Cfgtuvwxyz Eritrea 102 SARS1 YES 4-9-8526
+1806 Etsuvwxyz Asapqrstuvwx Eritrea 79 Polio YES 11-8-7272

@@ -1,0 +1,19 @@
+1130 Uazrstuvwxyz Toqghijklmno Uganda 60 H1N1 YES 0-7-3308
+1420 Wuauvwxyz Duqopqrstuvw Uganda 112 Tetanus YES 21-3-3689
+368 Bfjhijklmnop Qalfghijklmn Uganda 53 TheFlu YES 11-0-8149
+8759 Jpnpqrstuvwx Svchijklmnop Uganda 104 Rotavirus NO
+1405 Pvlstuvwxyz Vqidefghijkl Uganda 31 Adenovirus YES 25-3-5300
+2409 Ktydefghijkl Ubwwxyz Uganda 12 Tetanus YES 30-11-7604
+3772 Syilmnopqrst Ekvklmnopqrs Uganda 118 Tuberculosis YES 30-2-5623
+272 Knbnopqrstuv Fcgnopqrstuv Uganda 45 SARS1 NO
+8939 Wqlcdefghijk Clbz Uganda 114 HepatitisB NO 19-3-5093
+6674 Effqrstuvwxy Qdbghijklmno Uganda 31 Rubella YES 5-1-5477
+8419 Ynsghijklmno Klkcdefghijk Uganda 10 Hib YES 0-3-8358
+7250 Aecmnopqrstu Qkxghijklmno Uganda 6 SARS1 NO 27-5-7875
+8001 Mhoefghijklm Plybcdefghij Uganda 93 Adenovirus NO
+4656 Uhplmnopqrst Uhlfghijklmn Uganda 16 Tuberculosis YES 18-4-6149
+8576 Pbfcdefghijk Eicnopqrstuv Uganda 31 Diphtheria NO
+4989 Nkiyz Lxeefghijklm Uganda 12 Testovirus NO
+7711 Olcabcdefghi Elnyz Uganda 120 Rubella NO
+276 Inbcdefghijk Dzkxyz Uganda 105 Testovirus YES 7-3-6895
+2339 Ioeyz Pconopqrstuv Uganda 17 COVID19 YES 26-5-2148

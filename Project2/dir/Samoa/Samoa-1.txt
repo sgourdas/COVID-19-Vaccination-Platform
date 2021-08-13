@@ -1,0 +1,22 @@
+4680 Hsahijklmnop Vbunopqrstuv Samoa 68 HepatitisB YES 25-11-5699
+102 Ynqmnopqrstu Aszpqrstuvwx Samoa 118 H1N1 YES 0-10-5941
+5861 Jlupqrstuvwx Wezhijklmnop Samoa 14 Rotavirus NO 1-6-2224
+3203 Mqymnopqrstu Cwatuvwxyz Samoa 90 HepatitisB NO
+5398 Fiqijklmnopq Hwcqrstuvwxy Samoa 101 H1N1 NO 9-12-9359
+7101 Tidz Jdbuvwxyz Samoa 13 Adenovirus YES 19-5-976
+2792 Otpfghijklmn Otvrstuvwxyz Samoa 81 Mumps NO
+4055 Hcmvwxyz Cocabcdefghi Samoa 120 Mumps YES 20-10-473
+9709 Gqowxyz Ihughijklmno Samoa 39 Tuberculosis NO
+1221 Wxktuvwxyz Fzwabcdefghi Samoa 11 HepatitisB NO
+3951 Hgzxyz Iuonopqrstuv Samoa 16 HepatitisB YES 28-3-5280
+4137 Aqtwxyz Ebbbcdefghij Samoa 33 Diphtheria YES 18-9-9903
+4981 Hwamnopqrstu Isipqrstuvwx Samoa 42 SARS1 NO
+9204 Uyxdefghijkl Koctuvwxyz Samoa 40 Tuberculosis YES 19-8-6147
+9469 Snzopqrstuvw Qijyz Samoa 62 Polio YES 20-0-5113
+7691 Alnstuvwxyz Pdgtuvwxyz Samoa 56 HepatitisA NO
+512 Hgoijklmnopq Yvpijklmnopq Samoa 55 Tetanus NO
+3385 Thybcdefghij Tppqrstuvwxy Samoa 24 Varicella NO
+3338 Adgghijklmno Tzvrstuvwxyz Samoa 16 Tetanus NO
+9572 Lnlefghijklm Uahstuvwxyz Samoa 16 COVID19 NO
+2882 Iiwyz Nopijklmnopq Samoa 7 Tuberculosis YES 2-11-2261
+7025 Jatmnopqrstu Nbntuvwxyz Samoa 5 Diphtheria NO 5-1-893

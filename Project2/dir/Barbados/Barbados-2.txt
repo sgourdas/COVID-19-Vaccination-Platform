@@ -1,0 +1,17 @@
+7689 Ibqcdefghijk Lrtopqrstuvw Barbados 106 Tuberculosis YES 4-10-6767
+2070 Jouklmnopqrs Gtjlmnopqrst Barbados 112 Tuberculosis YES 15-1-6546
+1153 Hylxyz Mnpwxyz Barbados 118 Hib NO
+323 Kzqjklmnopqr Zikmnopqrstu Barbados 12 COVID19 YES 16-6-5320
+5021 Orxrstuvwxyz Zhjbcdefghij Barbados 45 COVID19 YES 4-5-6042
+1824 Wjastuvwxyz Zbsijklmnopq Barbados 13 Polio NO 7-8-1447
+8708 Sfewxyz Mfyhijklmnop Barbados 15 Polio YES 23-5-9797
+1193 Rqkabcdefghi Nbwdefghijkl Barbados 17 Chickenpox NO 18-6-1718
+9614 Wibjklmnopqr Uavxyz Barbados 58 Tuberculosis YES 23-7-3054
+1955 Xjwstuvwxyz Mvofghijklmn Barbados 85 Tuberculosis YES 13-5-834
+9031 Svjyz Keostuvwxyz Barbados 50 Varicella YES 27-12-2945
+1626 Squabcdefghi Zdclmnopqrst Barbados 98 TheFlu NO 17-9-631
+6117 Wsojklmnopqr Scqz Barbados 65 Adenovirus NO 21-7-164
+3412 Sjkqrstuvwxy Sozcdefghijk Barbados 73 Rotavirus NO
+3907 Acyuvwxyz Liwnopqrstuv Barbados 101 Rotavirus YES 24-6-9270
+2389 Qopxyz Xaqdefghijkl Barbados 97 SARS1 NO
+562 Cggwxyz Emmstuvwxyz Barbados 70 Tuberculosis NO 20-10-2893

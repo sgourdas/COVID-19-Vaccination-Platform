@@ -1,0 +1,18 @@
+5433 Giicdefghijk Hxoxyz Poland 104 TheFlu YES 16-5-5646
+4444 Oamefghijklm Tncpqrstuvwx Poland 20 TheFlu YES 3-10-937
+2618 Uqzstuvwxyz Deoklmnopqrs Poland 86 Mumps YES 16-2-9470
+8264 Dkvbcdefghij Accstuvwxyz Poland 6 Mumps YES 23-12-3269
+6310 Kxycdefghijk Xmtijklmnopq Poland 27 Rubella YES 15-9-5095
+607 Osrmnopqrstu Nwyfghijklmn Poland 4 Rubella YES 29-7-287
+7486 Dfhdefghijkl Rmpyz Poland 103 TheFlu YES 2-6-3628
+3637 Caibcdefghij Pbzpqrstuvwx Poland 12 Hib NO
+7281 Njsstuvwxyz Lwbdefghijkl Poland 90 HepatitisB YES 26-6-8080
+7037 Mypdefghijkl Pijvwxyz Poland 35 HepatitisB YES 3-10-8563
+3145 Vfdrstuvwxyz Ntxpqrstuvwx Poland 96 HepatitisB NO
+759 Suzyz Pgelmnopqrst Poland 107 Polio NO 19-6-8448
+4021 Hvacdefghijk Dwyyz Poland 112 Adenovirus NO 21-11-552
+3705 Avbijklmnopq Amoz Poland 58 HepatitisB NO
+795 Yzyghijklmno Smdz Poland 76 Mumps YES 1-4-2187
+4389 Zrituvwxyz Ydoijklmnopq Poland 109 Hib NO 6-6-6030
+9105 Xmupqrstuvwx Erklmnopqrst Poland 31 Chickenpox YES 25-2-4382
+9821 Joacdefghijk Qiwwxyz Poland 20 Testovirus NO 26-4-3818

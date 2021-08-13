@@ -1,0 +1,18 @@
+2975 Masvwxyz Augcdefghijk India 102 Rotavirus YES 7-1-5428
+7755 Cywlmnopqrst Pftghijklmno India 69 Hib NO 12-0-7111
+8945 Rrsdefghijkl Kkjrstuvwxyz India 47 TheFlu NO 28-9-4500
+450 Pxkefghijklm Xqyabcdefghi India 59 Tetanus YES 1-8-2106
+6402 Rcnrstuvwxyz Mpsnopqrstuv India 41 Adenovirus NO 3-12-366
+6068 Uxgdefghijkl Ivituvwxyz India 10 Hib NO
+1595 Jpfstuvwxyz Esstuvwxyz India 79 Mumps YES 26-0-9098
+3045 Xfnmnopqrstu Xotxyz India 3 HepatitisB NO
+2314 Rxoefghijklm Ovimnopqrstu India 53 Hib YES 24-7-7787
+4741 Asfhijklmnop Maxyz India 59 TheFlu NO
+2257 Prpmnopqrstu Zqeopqrstuvw India 52 H1N1 YES 0-0-4453
+2817 Zljijklmnopq Upocdefghijk India 15 Mumps YES 4-2-1261
+2080 Qnrstuvwxyz Xwcrstuvwxyz India 90 Chickenpox NO
+1215 Ygcxyz Dcduvwxyz India 21 HepatitisA NO
+9255 Psywxyz Rrqmnopqrstu India 73 Mumps NO
+2429 Ntdklmnopqrs Xlgijklmnopq India 113 Chickenpox NO
+4728 Ffluvwxyz Jfafghijklmn India 109 Polio YES 5-4-2773
+3281 Yrbabcdefghi Fgjfghijklmn India 88 COVID19 NO

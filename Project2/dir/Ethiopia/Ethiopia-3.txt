@@ -1,0 +1,21 @@
+5693 Blipqrstuvwx Nuocdefghijk Ethiopia 65 Tuberculosis NO
+7303 Gajstuvwxyz Kmkijklmnopq Ethiopia 89 Hib YES 0-2-3200
+1717 Djsmnopqrstu Zqbhijklmnop Ethiopia 104 Tetanus NO 19-4-7415
+5452 Jeaghijklmno Pdswxyz Ethiopia 5 Adenovirus YES 17-7-6096
+2442 Gkawxyz Vtbcdefghijk Ethiopia 102 Tetanus YES 11-12-4961
+1604 Mfvuvwxyz Iawghijklmno Ethiopia 43 Diphtheria YES 28-12-1085
+3606 Utcmnopqrstu Ixnabcdefghi Ethiopia 4 Testovirus NO
+1831 Xxmxyz Xjnxyz Ethiopia 103 HepatitisB NO
+6903 Zrgopqrstuvw Goetuvwxyz Ethiopia 18 Hib NO 5-9-7083
+6186 Aqunopqrstuv Oubpqrstuvwx Ethiopia 34 Tuberculosis NO
+5285 Accjklmnopqr Oeobcdefghij Ethiopia 35 Hib YES 21-2-3207
+9904 Wwfvwxyz Opgijklmnopq Ethiopia 20 Testovirus YES 25-2-6371
+6326 Gxxbcdefghij Pgtmnopqrstu Ethiopia 89 Rotavirus NO 5-3-8298
+3612 Whmyz Hkhabcdefghi Ethiopia 25 SARS1 NO
+664 Nwbrstuvwxyz Nozqrstuvwxy Ethiopia 12 HepatitisB YES 20-1-6418
+9524 Eeaabcdefghi Fpfjklmnopqr Ethiopia 53 TheFlu YES 5-3-8831
+6002 Eguxyz Ludmnopqrstu Ethiopia 110 H1N1 YES 1-12-2784
+8705 Brquvwxyz Zeybcdefghij Ethiopia 81 Polio NO
+9965 Wdtghijklmno Iugghijklmno Ethiopia 70 Testovirus NO
+9418 Qazwxyz Azsopqrstuvw Ethiopia 27 HepatitisB YES 19-8-771
+6936 Zmcefghijklm Kcrabcdefghi Ethiopia 38 Testovirus YES 2-3-371

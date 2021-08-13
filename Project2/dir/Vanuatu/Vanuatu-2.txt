@@ -1,0 +1,22 @@
+7824 Qtrlmnopqrst Jrvcdefghijk Vanuatu 61 Adenovirus YES 16-8-7431
+4188 Ywrxyz Kixjklmnopqr Vanuatu 37 Varicella NO
+8542 Rhlmnopqrstu Gwgabcdefghi Vanuatu 3 HepatitisA YES 19-12-4372
+3977 Nyvxyz Aaznopqrstuv Vanuatu 85 HepatitisA NO
+5550 Owppqrstuvwx Ozhyz Vanuatu 84 HepatitisA NO
+1634 Rwtabcdefghi Mefqrstuvwxy Vanuatu 30 Testovirus YES 12-4-9702
+668 Terqrstuvwxy Irfpqrstuvwx Vanuatu 25 Rubella NO
+6769 Xebcdefghijk Teqghijklmno Vanuatu 30 HepatitisA NO
+1136 Zhalmnopqrst Wouqrstuvwxy Vanuatu 31 SARS1 YES 19-12-3001
+3636 Jedhijklmnop Saqcdefghijk Vanuatu 49 Diphtheria NO
+3628 Dwgdefghijkl Ceuqrstuvwxy Vanuatu 59 Tetanus NO
+9917 Vozcdefghijk Esfuvwxyz Vanuatu 49 Testovirus NO
+3942 Kjeabcdefghi Rjsopqrstuvw Vanuatu 34 Tetanus YES 11-0-9925
+2407 Fefz Rjvnopqrstuv Vanuatu 20 Testovirus YES 27-4-3439
+333 Mcbcdefghijk Vatdefghijkl Vanuatu 34 COVID19 YES 20-8-73
+9952 Kjkrstuvwxyz Xvastuvwxyz Vanuatu 61 TheFlu NO
+9622 Obtyz Ntbabcdefghi Vanuatu 61 Adenovirus YES 11-11-2349
+6239 Oicwxyz Wrsbcdefghij Vanuatu 93 Testovirus YES 25-7-8669
+434 Errbcdefghij Qsmabcdefghi Vanuatu 101 Diphtheria NO 17-0-2415
+3881 Dzzdefghijkl Krqrstuvwxyz Vanuatu 115 Diphtheria YES 0-2-5165
+3469 Tafpqrstuvwx Irihijklmnop Vanuatu 44 HepatitisA YES 23-0-2408
+5870 Rpnbcdefghij Ayaqrstuvwxy Vanuatu 75 Varicella YES 24-12-3105

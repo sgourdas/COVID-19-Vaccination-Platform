@@ -1,0 +1,18 @@
+395 Anstuvwxyz Memhijklmnop Seychelles 49 TheFlu YES 4-12-6727
+649 Jjhopqrstuvw Gjndefghijkl Seychelles 116 Varicella NO 4-11-6818
+5876 Equpqrstuvwx Abvnopqrstuv Seychelles 85 TheFlu YES 2-12-2176
+772 Yjtdefghijkl Chwopqrstuvw Seychelles 98 Testovirus YES 20-10-4451
+5611 Amflmnopqrst Vlsefghijklm Seychelles 40 Hib YES 23-9-4078
+7875 Vmudefghijkl Evoefghijklm Seychelles 25 SARS1 YES 6-2-8193
+8709 Dqypqrstuvwx Esncdefghijk Seychelles 55 Tetanus YES 16-11-8104
+6422 Spxghijklmno Wmzuvwxyz Seychelles 73 Hib NO
+9702 Rjpijklmnopq Nttcdefghijk Seychelles 21 HepatitisB YES 6-3-2662
+2263 Envghijklmno Bglklmnopqrs Seychelles 34 Testovirus NO
+3828 Ybyxyz Hpbabcdefghi Seychelles 113 Diphtheria YES 8-9-8283
+4909 Wksnopqrstuv Pwdmnopqrstu Seychelles 70 Chickenpox NO
+4845 Cbjuvwxyz Dqpyz Seychelles 116 Adenovirus NO
+9343 Olhefghijklm Lhxyz Seychelles 63 Varicella NO
+7430 Nzebcdefghij Traopqrstuvw Seychelles 116 Tuberculosis NO
+9341 Ynyijklmnopq Imufghijklmn Seychelles 24 Diphtheria NO
+4746 Hyfpqrstuvwx Uwdmnopqrstu Seychelles 104 Adenovirus NO
+3751 Tsrdefghijkl Yrjefghijklm Seychelles 97 Tuberculosis YES 4-7-5261

@@ -1,0 +1,23 @@
+1680 Senhijklmnop Xemlmnopqrst Guinea 32 Rotavirus YES 20-4-2299
+1275 Iiqlmnopqrst Elqhijklmnop Guinea 27 Diphtheria YES 20-12-9548
+8629 Xvtcdefghijk Bxbxyz Guinea 79 Tetanus YES 5-8-2109
+6807 Tfsopqrstuvw Godijklmnopq Guinea 7 HepatitisB YES 0-12-9587
+2483 Ahmefghijklm Dnzz Guinea 113 Rubella NO
+3597 Qbcmnopqrstu Vrebcdefghij Guinea 52 HepatitisB YES 18-5-6230
+4440 Akmabcdefghi Npcbcdefghij Guinea 75 Chickenpox YES 28-3-6729
+8055 Ytmghijklmno Dmgabcdefghi Guinea 13 Varicella NO
+8679 Bqrghijklmno Uwjefghijklm Guinea 91 Mumps NO
+9595 Chxwxyz Apbwxyz Guinea 93 HepatitisA YES 25-4-9275
+412 Lbtopqrstuvw Kwtstuvwxyz Guinea 119 HepatitisA YES 4-10-1928
+423 Liez Tonfghijklmn Guinea 20 Tuberculosis NO 10-6-2468
+5723 Dfncdefghijk Vffklmnopqrs Guinea 10 Diphtheria NO
+504 Wadhijklmnop Fzfefghijklm Guinea 106 Polio NO
+63 Fucmnopqrstu Swzhijklmnop Guinea 78 Diphtheria YES 29-9-1651
+2027 Vtoqrstuvwxy Okwrstuvwxyz Guinea 114 Hib YES 4-7-9023
+1377 Wtnvwxyz Jeujklmnopqr Guinea 111 Diphtheria NO 30-3-6960
+5632 Yilqrstuvwxy Ptlrstuvwxyz Guinea 99 Adenovirus YES 8-7-7541
+6387 Wvblmnopqrst Uyeefghijklm Guinea 97 SARS1 YES 12-10-9836
+5712 Xfoxyz Slvbcdefghij Guinea 44 Hib YES 10-9-7727
+9675 Crdabcdefghi Zpxijklmnopq Guinea 27 TheFlu YES 22-6-6811
+8829 Hxrwxyz Pijbcdefghij Guinea 99 H1N1 YES 28-5-6820
+1260 Cgxopqrstuvw Dumhijklmnop Guinea 29 Tuberculosis NO

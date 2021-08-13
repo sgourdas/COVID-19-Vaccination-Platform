@@ -1,0 +1,26 @@
+5441 Wfltuvwxyz Mncabcdefghi Iceland 57 Rotavirus NO 3-7-1869
+4996 Ipvcdefghijk Hszefghijklm Iceland 61 Mumps NO 9-4-1184
+309 Fvrqrstuvwxy Gimnopqrstuv Iceland 112 Chickenpox NO
+2041 Yonjklmnopqr Zwkpqrstuvwx Iceland 31 Rubella NO 17-7-8207
+1613 Vscbcdefghij Ornrstuvwxyz Iceland 68 Diphtheria YES 0-2-9676
+6336 Mhwdefghijkl Zgevwxyz Iceland 1 TheFlu YES 1-7-6693
+2202 Oxyxyz Lnnuvwxyz Iceland 1 COVID19 NO 11-6-7766
+6135 Xiofghijklmn Pgjcdefghijk Iceland 21 COVID19 NO
+7056 Cezlmnopqrst Sqkxyz Iceland 68 Adenovirus YES 21-9-5311
+4396 Newpqrstuvwx Ksuklmnopqrs Iceland 54 TheFlu YES 14-8-2915
+4903 Ncbrstuvwxyz Yhbnopqrstuv Iceland 111 HepatitisA NO 26-5-9786
+4767 Oivfghijklmn Eahghijklmno Iceland 104 Testovirus YES 18-10-1983
+9416 Jlsbcdefghij Fkyuvwxyz Iceland 85 Varicella NO
+7211 Okpijklmnopq Fsddefghijkl Iceland 76 Mumps NO 12-11-5660
+8984 Zvuijklmnopq Wqwpqrstuvwx Iceland 46 H1N1 NO
+9240 Fjgijklmnopq Uakabcdefghi Iceland 108 Hib YES 23-3-8724
+1356 Lhscdefghijk Hkorstuvwxyz Iceland 42 Testovirus NO
+5454 Iqlrstuvwxyz Kfcnopqrstuv Iceland 21 Polio YES 16-11-6497
+847 Defvwxyz Upxmnopqrstu Iceland 91 Adenovirus NO 30-4-5289
+9860 Bvez Vlnxyz Iceland 99 Tetanus YES 12-4-1820
+2697 Nsejklmnopqr Ctkuvwxyz Iceland 10 Rotavirus NO
+2138 Shkabcdefghi Vpgfghijklmn Iceland 105 Hib NO 23-8-8201
+7040 Pkuwxyz Uziopqrstuvw Iceland 120 COVID19 NO 5-1-7736
+2316 Gfbdefghijkl Jbxstuvwxyz Iceland 47 Tuberculosis YES 0-1-2544
+728 Zigjklmnopqr Tjhvwxyz Iceland 98 H1N1 YES 7-11-6140
+9243 Tfiabcdefghi Rsqghijklmno Iceland 44 COVID19 YES 20-11-9509

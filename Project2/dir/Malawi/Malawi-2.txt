@@ -1,0 +1,17 @@
+1004 Phkrstuvwxyz Thsghijklmno Malawi 85 Adenovirus YES 30-1-6354
+7666 Nozrstuvwxyz Lsoefghijklm Malawi 83 SARS1 YES 22-11-381
+5117 Fvulmnopqrst Leapqrstuvwx Malawi 63 SARS1 NO
+1560 Ivncdefghijk Ygptuvwxyz Malawi 64 Hib NO
+7089 Dfjyz Amjqrstuvwxy Malawi 75 COVID19 YES 29-10-4251
+8173 Tmimnopqrstu Piprstuvwxyz Malawi 117 Chickenpox YES 9-11-2389
+6301 Iutwxyz Ynyabcdefghi Malawi 120 Adenovirus YES 19-2-7259
+9628 Wkrcdefghijk Rwiefghijklm Malawi 88 Tetanus YES 4-7-4645
+1894 Unfjklmnopqr Lrwvwxyz Malawi 120 TheFlu NO
+460 Vawwxyz Qnighijklmno Malawi 72 HepatitisB YES 15-9-5001
+8360 Xlvpqrstuvwx Phcwxyz Malawi 88 HepatitisB NO
+8648 Lvhqrstuvwxy Xyufghijklmn Malawi 80 Polio NO
+3532 Sqrz Spdopqrstuvw Malawi 46 HepatitisA YES 11-9-2621
+7481 Rjftuvwxyz Tslcdefghijk Malawi 101 HepatitisA YES 13-4-4513
+1162 Kontuvwxyz Nlfcdefghijk Malawi 119 HepatitisA NO 26-1-5749
+3106 Mnspqrstuvwx Ddynopqrstuv Malawi 102 Polio NO
+1708 Mxswxyz Wlhklmnopqrs Malawi 5 COVID19 YES 17-6-2500

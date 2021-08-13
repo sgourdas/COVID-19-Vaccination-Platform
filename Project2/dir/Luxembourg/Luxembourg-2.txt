@@ -1,0 +1,22 @@
+5184 Tsgxyz Cktvwxyz Luxembourg 71 Polio NO
+1274 Ufmwxyz Lvxcdefghijk Luxembourg 63 Polio YES 27-10-1697
+6867 Vzcbcdefghij Idlxyz Luxembourg 47 TheFlu NO
+844 Ctvopqrstuvw Cujklmnopqrs Luxembourg 56 Rotavirus YES 27-12-5228
+19 Eiqghijklmno Kivtuvwxyz Luxembourg 65 Rotavirus NO 30-12-8303
+2621 Lmiz Hcfqrstuvwxy Luxembourg 48 H1N1 NO
+9747 Uzxnopqrstuv Qyfz Luxembourg 23 Tuberculosis NO 24-3-7478
+3144 Syjijklmnopq Sxtklmnopqrs Luxembourg 69 Adenovirus YES 0-3-8980
+1786 Kbwstuvwxyz Sbdghijklmno Luxembourg 116 Testovirus NO
+2765 Ycflmnopqrst Rawstuvwxyz Luxembourg 35 Tuberculosis NO
+5899 Tafqrstuvwxy Pcez Luxembourg 4 Testovirus YES 5-0-2846
+4153 Ueljklmnopqr Jfimnopqrstu Luxembourg 33 TheFlu YES 4-7-5967
+2288 Fsorstuvwxyz Cnpnopqrstuv Luxembourg 101 Chickenpox YES 28-0-9886
+2851 Ztnabcdefghi Vfewxyz Luxembourg 80 Tuberculosis YES 26-8-6527
+9406 Flefghijklmn Gvlhijklmnop Luxembourg 66 Varicella NO 23-9-7372
+5672 Wsjvwxyz Bmiefghijklm Luxembourg 96 SARS1 NO
+8641 Dnlz Rtpijklmnopq Luxembourg 29 H1N1 YES 20-11-4596
+8499 Ttzdefghijkl Osaz Luxembourg 69 SARS1 NO
+5448 Ycfabcdefghi Qnljklmnopqr Luxembourg 67 SARS1 YES 0-8-1219
+9623 Zapcdefghijk Edoijklmnopq Luxembourg 39 TheFlu NO 13-6-2315
+6066 Mpeefghijklm Hjmnopqrstuv Luxembourg 106 Testovirus YES 30-3-562
+9666 Mszpqrstuvwx Nuaabcdefghi Luxembourg 94 Mumps NO

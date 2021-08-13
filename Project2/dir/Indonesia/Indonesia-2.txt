@@ -1,0 +1,21 @@
+4785 Egxuvwxyz Xwonopqrstuv Indonesia 34 Testovirus YES 10-0-2617
+8844 Hlybcdefghij Pxecdefghijk Indonesia 34 COVID19 YES 3-9-7345
+4428 Naqabcdefghi Awqghijklmno Indonesia 119 Varicella NO 16-1-5979
+9620 Jimmnopqrstu Utpstuvwxyz Indonesia 111 HepatitisB NO
+2369 Pedstuvwxyz Jffstuvwxyz Indonesia 40 Tuberculosis NO
+7325 Twvlmnopqrst Horyz Indonesia 29 HepatitisA YES 24-2-4173
+4467 Fostuvwxyz Nlrvwxyz Indonesia 48 SARS1 NO 27-5-2487
+5192 Eqyqrstuvwxy Dcbxyz Indonesia 117 Adenovirus YES 30-5-3912
+9391 Tcbfghijklmn Cbmwxyz Indonesia 5 Tuberculosis NO
+126 Njwstuvwxyz Bqpklmnopqrs Indonesia 78 COVID19 YES 9-5-1533
+7772 Zbjqrstuvwxy Khhbcdefghij Indonesia 30 Tuberculosis YES 22-7-6862
+7461 Fvkcdefghijk Mcdpqrstuvwx Indonesia 17 Diphtheria NO
+7665 Tqwyz Wznwxyz Indonesia 85 TheFlu NO
+122 Npvrstuvwxyz Rgcmnopqrstu Indonesia 87 Adenovirus NO 18-11-991
+8493 Emzmnopqrstu Hpuuvwxyz Indonesia 74 HepatitisB YES 4-6-5700
+1399 Avfyz Hipwxyz Indonesia 90 SARS1 YES 7-11-9705
+1050 Dddrstuvwxyz Ctkghijklmno Indonesia 50 Testovirus YES 2-7-8134
+967 Jkomnopqrstu Ccbz Indonesia 27 Chickenpox YES 23-7-4166
+3449 Vuxyz Hbdnopqrstuv Indonesia 108 H1N1 YES 10-1-3283
+7349 Afuklmnopqrs Wxestuvwxyz Indonesia 15 Varicella NO 26-12-552
+7687 Ampcdefghijk Yburstuvwxyz Indonesia 72 H1N1 NO

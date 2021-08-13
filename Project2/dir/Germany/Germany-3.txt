@@ -1,0 +1,20 @@
+291 Piumnopqrstu Cwjmnopqrstu Germany 11 Tuberculosis NO
+9268 Vqkuvwxyz Luzqrstuvwxy Germany 106 SARS1 NO 9-6-2457
+4765 Dbvopqrstuvw Krkz Germany 20 Polio NO
+7814 Lvhabcdefghi Vcjbcdefghij Germany 76 Tuberculosis NO
+3030 Ebdefghijklm Axvlmnopqrst Germany 67 Varicella NO
+3685 Hrlfghijklmn Qtgfghijklmn Germany 84 Rubella YES 25-1-7686
+2515 Hthyz Anvghijklmno Germany 51 Tetanus NO 22-1-4320
+3857 Ikxpqrstuvwx Wdftuvwxyz Germany 35 H1N1 NO
+95 Pdnlmnopqrst Jzjnopqrstuv Germany 69 Tuberculosis NO
+6511 Tvwlmnopqrst Wqlstuvwxyz Germany 32 SARS1 NO 17-9-8534
+1111 Ffrxyz Rzonopqrstuv Germany 88 TheFlu YES 28-6-8888
+6205 Vfxyz Vugcdefghijk Germany 120 Tuberculosis NO
+6334 Sdfefghijklm Vdpbcdefghij Germany 97 Testovirus NO
+972 Zzkz Roguvwxyz Germany 29 Adenovirus YES 23-6-6016
+9373 Tbytuvwxyz Ksgwxyz Germany 20 Tuberculosis NO
+3137 Lsldefghijkl Cwgghijklmno Germany 107 Rubella YES 5-8-3614
+2525 Olwdefghijkl Pwimnopqrstu Germany 69 SARS1 YES 19-9-1369
+5031 Rimfghijklmn Pfpxyz Germany 77 SARS1 YES 29-3-7945
+6142 Ybvijklmnopq Uniyz Germany 35 Chickenpox YES 20-5-754
+5851 Avmnopqrstuv Pyepqrstuvwx Germany 47 HepatitisB NO

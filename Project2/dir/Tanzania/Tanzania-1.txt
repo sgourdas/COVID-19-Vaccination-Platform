@@ -1,0 +1,22 @@
+3008 Vreabcdefghi Nysjklmnopqr Tanzania 43 Hib YES 4-2-1226
+1170 Wagqrstuvwxy Znwghijklmno Tanzania 97 Rubella YES 30-12-6307
+6577 Ytrz Aqmtuvwxyz Tanzania 62 Mumps NO
+9746 Xqwlmnopqrst Cvcstuvwxyz Tanzania 20 Tetanus YES 2-2-2557
+9245 Hcinopqrstuv Rmfijklmnopq Tanzania 8 Testovirus NO
+3359 Cahxyz Xpcdefghijkl Tanzania 96 Rubella YES 20-0-4441
+5444 Dfcijklmnopq Bkjghijklmno Tanzania 90 Rotavirus YES 27-0-9770
+6601 Petmnopqrstu Wxhefghijklm Tanzania 7 Polio YES 13-7-628
+2571 Snqnopqrstuv Gylabcdefghi Tanzania 91 Chickenpox NO
+1477 Jytwxyz Tkistuvwxyz Tanzania 5 HepatitisA YES 30-6-5336
+3459 Aogwxyz Xnadefghijkl Tanzania 24 Varicella NO
+1686 Agswxyz Xvdijklmnopq Tanzania 3 Rotavirus YES 9-8-2240
+2169 Ylaklmnopqrs Abjijklmnopq Tanzania 34 Adenovirus YES 29-2-7801
+4573 Wrkklmnopqrs Mbcyz Tanzania 116 Tetanus NO
+8637 Cgeklmnopqrs Vmkvwxyz Tanzania 91 COVID19 YES 14-9-2504
+2892 Hwimnopqrstu Kxrtuvwxyz Tanzania 52 Rotavirus YES 6-0-2082
+77 Zotwxyz Vjwqrstuvwxy Tanzania 111 Rubella YES 16-12-1317
+2496 Vgwlmnopqrst Pgyxyz Tanzania 50 Chickenpox YES 13-11-9304
+6151 Ctbhijklmnop Fkmtuvwxyz Tanzania 13 Hib YES 15-0-7357
+8833 Xmvghijklmno Yfxrstuvwxyz Tanzania 66 HepatitisB YES 21-10-9116
+8139 Chnmnopqrstu Kuhstuvwxyz Tanzania 100 H1N1 NO
+9893 Zabjklmnopqr Snyz Tanzania 78 Hib YES 7-2-949

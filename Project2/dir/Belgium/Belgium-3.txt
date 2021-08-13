@@ -1,0 +1,22 @@
+6648 Djxrstuvwxyz Tonijklmnopq Belgium 118 Tetanus YES 3-10-6125
+9115 Ltjnopqrstuv Vyiopqrstuvw Belgium 14 Mumps NO
+9794 Bymmnopqrstu Szbpqrstuvwx Belgium 1 SARS1 YES 23-0-476
+9478 Bbryz Rljtuvwxyz Belgium 43 H1N1 NO 15-8-936
+7503 Axrklmnopqrs Bpgvwxyz Belgium 47 Adenovirus NO
+5268 Xxmrstuvwxyz Vcqjklmnopqr Belgium 4 Tuberculosis NO
+5137 Rqlz Fxmhijklmnop Belgium 57 Polio YES 12-12-2449
+5084 Ctcstuvwxyz Tbjtuvwxyz Belgium 71 Hib NO 13-11-7849
+4743 Xbmopqrstuvw Wxeuvwxyz Belgium 75 Adenovirus YES 13-2-4317
+2896 Xewcdefghijk Ujsqrstuvwxy Belgium 115 COVID19 NO
+8659 Rdawxyz Otzmnopqrstu Belgium 29 HepatitisB NO
+6608 Qhpopqrstuvw Jvivwxyz Belgium 85 Mumps YES 0-10-7763
+360 Txbefghijklm Thsfghijklmn Belgium 33 Tetanus YES 10-10-9916
+8706 Unuefghijklm Kwpuvwxyz Belgium 93 Diphtheria YES 28-0-5555
+7615 Qtqbcdefghij Osblmnopqrst Belgium 85 COVID19 NO 4-4-8626
+445 Nziklmnopqrs Xugxyz Belgium 49 Hib YES 4-2-8198
+4778 Hxcmnopqrstu Epiwxyz Belgium 107 Polio YES 1-11-66
+318 Pfquvwxyz Fkgdefghijkl Belgium 3 Rubella YES 7-3-1436
+8931 Ntwxyz Xjwcdefghijk Belgium 91 HepatitisA YES 10-5-4108
+9459 Iytklmnopqrs Puufghijklmn Belgium 110 TheFlu YES 19-4-1739
+2492 Dkuwxyz Uywyz Belgium 49 SARS1 YES 29-9-83
+179 Jdthijklmnop Epmuvwxyz Belgium 41 Diphtheria YES 27-12-4588

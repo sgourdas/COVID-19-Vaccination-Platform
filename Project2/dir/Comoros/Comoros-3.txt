@@ -1,0 +1,19 @@
+7899 Crjbcdefghij Qphuvwxyz Comoros 70 H1N1 NO
+4559 Kaustuvwxyz Bcsfghijklmn Comoros 99 Varicella YES 0-7-862
+3589 Jqglmnopqrst Mfufghijklmn Comoros 15 Hib NO
+3842 Mqmdefghijkl Dlblmnopqrst Comoros 117 H1N1 YES 26-4-1118
+8996 Itqpqrstuvwx Lzzghijklmno Comoros 117 Varicella NO
+8043 Ialdefghijkl Nexghijklmno Comoros 74 HepatitisA YES 5-1-2545
+3793 Arawxyz Hxkfghijklmn Comoros 75 HepatitisB NO 13-6-5449
+8714 Dvkuvwxyz Vsfvwxyz Comoros 98 HepatitisA YES 20-1-826
+6244 Ijgcdefghijk Nqrwxyz Comoros 18 Rubella NO
+894 Eiilmnopqrst Hdunopqrstuv Comoros 43 Adenovirus YES 9-12-4890
+617 Klryz Qoycdefghijk Comoros 5 Varicella YES 21-11-2958
+117 Vxrdefghijkl Mplvwxyz Comoros 58 HepatitisB YES 11-4-1368
+6809 Scqnopqrstuv Xjwlmnopqrst Comoros 87 Chickenpox NO 5-5-6068
+2638 Zwiwxyz Qeknopqrstuv Comoros 103 Varicella NO
+6431 Keomnopqrstu Ucmlmnopqrst Comoros 36 SARS1 YES 9-1-1153
+6047 Jdfefghijklm Sgcabcdefghi Comoros 29 COVID19 YES 21-9-7700
+521 Szmhijklmnop Otimnopqrstu Comoros 101 Rotavirus NO
+1596 Txcjklmnopqr Gdgpqrstuvwx Comoros 113 Adenovirus NO
+4236 Bvsnopqrstuv Ubcnopqrstuv Comoros 26 Chickenpox NO

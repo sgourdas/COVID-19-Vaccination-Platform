@@ -1,0 +1,20 @@
+4206 Spqyz Plujklmnopqr Uzbekistan 41 Polio YES 4-2-465
+6420 Qqqdefghijkl Tnkqrstuvwxy Uzbekistan 109 Testovirus NO
+3855 Grbbcdefghij Fmbwxyz Uzbekistan 74 SARS1 NO 20-10-8086
+2937 Wdryz Hqdstuvwxyz Uzbekistan 7 Chickenpox YES 18-9-3622
+9911 Akpopqrstuvw Vacyz Uzbekistan 19 Chickenpox YES 9-6-4713
+8847 Fvtcdefghijk Cpcwxyz Uzbekistan 23 COVID19 NO
+9312 Pruklmnopqrs Ughqrstuvwxy Uzbekistan 90 Chickenpox YES 25-6-5299
+8949 Uqfjklmnopqr Qfmtuvwxyz Uzbekistan 67 Tetanus NO
+8765 Nzjvwxyz Wbgrstuvwxyz Uzbekistan 103 Adenovirus NO 20-10-3637
+2320 Zmustuvwxyz Rhanopqrstuv Uzbekistan 54 COVID19 YES 15-3-7390
+3966 Rqfabcdefghi Ohvtuvwxyz Uzbekistan 70 TheFlu NO
+2642 Pleijklmnopq Dvsdefghijkl Uzbekistan 110 TheFlu NO
+5720 Nlyklmnopqrs Fmjabcdefghi Uzbekistan 40 Mumps YES 13-4-5378
+17 Wzxstuvwxyz Xwqstuvwxyz Uzbekistan 42 Adenovirus YES 29-5-7782
+2830 Uvpfghijklmn Bhnfghijklmn Uzbekistan 10 Adenovirus NO
+2093 Iaiz Ozznopqrstuv Uzbekistan 66 COVID19 NO
+4662 Gjnwxyz Gltdefghijkl Uzbekistan 73 TheFlu YES 6-10-717
+3877 Rubqrstuvwxy Vpqcdefghijk Uzbekistan 85 TheFlu YES 20-0-6497
+6320 Sbkqrstuvwxy Wgcrstuvwxyz Uzbekistan 81 Hib YES 19-9-2074
+3941 Fwcbcdefghij Brrvwxyz Uzbekistan 38 Rubella NO 20-6-3307

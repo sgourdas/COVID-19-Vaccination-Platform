@@ -1,0 +1,21 @@
+8002 Swnxyz Ejvfghijklmn Zimbabwe 104 Adenovirus YES 14-7-2061
+6869 Pmpyz Skbwxyz Zimbabwe 8 Tetanus YES 3-7-8756
+2060 Ouipqrstuvwx Mjzabcdefghi Zimbabwe 27 Polio NO
+1151 Kxpijklmnopq Qdsstuvwxyz Zimbabwe 56 Polio YES 20-9-5340
+9008 Xcgz Hsjabcdefghi Zimbabwe 68 Tuberculosis YES 2-4-7522
+1712 Oygcdefghijk Jlpfghijklmn Zimbabwe 10 COVID19 YES 13-3-8545
+8719 Wbtrstuvwxyz Gonnopqrstuv Zimbabwe 99 Adenovirus YES 6-5-561
+2809 Vnrjklmnopqr Jewrstuvwxyz Zimbabwe 113 Testovirus NO 15-4-8404
+4624 Zuyhijklmnop Mrzabcdefghi Zimbabwe 71 SARS1 NO
+9626 Fststuvwxyz Vkjz Zimbabwe 76 Chickenpox YES 2-7-5644
+5337 Dcvghijklmno Jmmijklmnopq Zimbabwe 1 HepatitisB NO 17-10-478
+9117 Hnbopqrstuvw Axtfghijklmn Zimbabwe 91 Rotavirus YES 21-6-2857
+2666 Cvfz Mbnrstuvwxyz Zimbabwe 74 SARS1 YES 8-9-8393
+1349 Sfkpqrstuvwx Ayehijklmnop Zimbabwe 88 Hib YES 22-1-7827
+672 Hwcxyz Gulghijklmno Zimbabwe 46 Mumps NO
+7171 Zvafghijklmn Xaidefghijkl Zimbabwe 102 Hib YES 28-3-3202
+3680 Zcyuvwxyz Bbwpqrstuvwx Zimbabwe 34 SARS1 NO
+5653 Aiqghijklmno Sfdcdefghijk Zimbabwe 111 HepatitisA YES 9-7-9423
+4143 Xwpopqrstuvw Zgllmnopqrst Zimbabwe 22 COVID19 NO
+4759 Evhcdefghijk Fxbpqrstuvwx Zimbabwe 16 Mumps YES 11-7-6003
+580 Rjwklmnopqrs Dhybcdefghij Zimbabwe 28 Tetanus YES 29-3-9454

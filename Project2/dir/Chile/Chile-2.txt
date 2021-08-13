@@ -1,0 +1,25 @@
+6725 Fmyyz Cbflmnopqrst Chile 41 HepatitisB NO
+5576 Fzzfghijklmn Uydbcdefghij Chile 68 Polio NO
+6450 Abfjklmnopqr Sbzefghijklm Chile 76 Tetanus YES 16-8-2316
+726 Sktcdefghijk Jddfghijklmn Chile 76 Varicella YES 8-3-4543
+6463 Ogbnopqrstuv Dgfqrstuvwxy Chile 76 Rubella YES 11-8-8447
+6375 Bjtfghijklmn Ixfjklmnopqr Chile 60 Testovirus YES 25-6-7870
+3060 Tkmxyz Iksuvwxyz Chile 62 COVID19 NO
+2555 Uqfwxyz Mneghijklmno Chile 84 HepatitisA YES 0-8-3943
+8863 Kozpqrstuvwx Rnaabcdefghi Chile 112 COVID19 NO
+5379 Iuoklmnopqrs Tbmghijklmno Chile 12 SARS1 NO
+1292 Nzqjklmnopqr Lhgpqrstuvwx Chile 44 Rubella YES 7-12-1515
+9640 Tqjmnopqrstu Mherstuvwxyz Chile 55 Rotavirus YES 21-3-2199
+9653 Quiabcdefghi Vpnfghijklmn Chile 30 Varicella YES 28-4-8410
+3689 Lkpstuvwxyz Rhiopqrstuvw Chile 56 Rubella NO
+3756 Tqpijklmnopq Llvcdefghijk Chile 67 Chickenpox NO 10-12-5199
+2529 Keovwxyz Afrtuvwxyz Chile 26 Tuberculosis NO
+6992 Syhz Feeuvwxyz Chile 74 Mumps NO
+1769 Hyxmnopqrstu Spxstuvwxyz Chile 43 Tuberculosis NO
+1851 Yhhqrstuvwxy Fajnopqrstuv Chile 4 H1N1 NO
+1206 Lcwwxyz Fgijklmnopqr Chile 78 Testovirus YES 24-3-5906
+7849 Rxwpqrstuvwx Uxistuvwxyz Chile 23 H1N1 NO
+6724 Szxhijklmnop Nfonopqrstuv Chile 83 Hib NO
+4224 Ymshijklmnop Cjanopqrstuv Chile 54 TheFlu NO
+5969 Bamvwxyz Sdumnopqrstu Chile 69 Hib YES 21-11-997
+14 Lwxefghijklm Udbghijklmno Chile 14 SARS1 YES 7-2-9237

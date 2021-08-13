@@ -1,0 +1,21 @@
+4366 Nkgijklmnopq Yqcrstuvwxyz Mauritius 104 HepatitisA YES 26-12-2656
+1233 Qmobcdefghij Tehijklmnopq Mauritius 12 Varicella NO
+7093 Rcituvwxyz Gmwbcdefghij Mauritius 65 Tetanus NO 0-3-3300
+379 Tpyqrstuvwxy Vexefghijklm Mauritius 80 Testovirus NO
+2860 Dkslmnopqrst Inyqrstuvwxy Mauritius 45 Mumps NO 17-7-5691
+1278 Yponopqrstuv Jxjz Mauritius 114 H1N1 YES 14-4-7926
+928 Jghtuvwxyz Zryqrstuvwxy Mauritius 60 Rotavirus NO
+264 Jiyrstuvwxyz Hmnnopqrstuv Mauritius 56 Testovirus NO
+8005 Sqdefghijklm Foiijklmnopq Mauritius 43 Testovirus NO
+2794 Vgbvwxyz Jwudefghijkl Mauritius 74 SARS1 YES 10-3-9386
+7434 Adwwxyz Gcncdefghijk Mauritius 73 Tetanus NO
+8210 Ifdfghijklmn Hhwabcdefghi Mauritius 27 Tetanus NO
+9307 Pltuvwxyz Lctcdefghijk Mauritius 63 Varicella NO
+5797 Srtcdefghijk Kctyz Mauritius 49 Testovirus YES 6-3-4632
+2273 Gfijklmnopqr Ncwjklmnopqr Mauritius 6 Testovirus NO
+8252 Vixmnopqrstu Gsrfghijklmn Mauritius 86 Varicella YES 23-0-2415
+5577 Pytz Gttklmnopqrs Mauritius 53 Rotavirus NO 22-11-6020
+4073 Dzjcdefghijk Jxoopqrstuvw Mauritius 71 Diphtheria NO
+5624 Yvbefghijklm Wwustuvwxyz Mauritius 81 Tetanus YES 8-3-3887
+2824 Iwucdefghijk Kwsz Mauritius 46 Adenovirus YES 30-10-7477
+3822 Wocuvwxyz Nunhijklmnop Mauritius 71 SARS1 NO

@@ -1,0 +1,24 @@
+5966 Jflbcdefghij Yqeuvwxyz Libya 79 TheFlu YES 23-11-9863
+1202 Fjlyz Agqghijklmno Libya 3 Adenovirus YES 1-11-9753
+3095 Ignmnopqrstu Qzhwxyz Libya 81 Tetanus NO
+3332 Ksituvwxyz Nsrxyz Libya 53 Chickenpox NO 17-11-3117
+6654 Ccjdefghijkl Ufzcdefghijk Libya 78 Testovirus NO 24-3-5206
+5529 Okppqrstuvwx Panvwxyz Libya 3 Varicella NO 2-5-9756
+9604 Duzhijklmnop Avinopqrstuv Libya 45 HepatitisB YES 22-10-188
+4461 Hlsijklmnopq Qaughijklmno Libya 106 H1N1 NO
+422 Tinlmnopqrst Ijyjklmnopqr Libya 11 Tetanus YES 0-5-5125
+2928 Jadxyz Pkamnopqrstu Libya 64 COVID19 NO
+7163 Qkjstuvwxyz Kjanopqrstuv Libya 108 H1N1 NO
+9027 Wptlmnopqrst Ptadefghijkl Libya 46 Varicella NO 1-2-7309
+5124 Agiabcdefghi Yewhijklmnop Libya 36 H1N1 YES 28-5-4994
+3704 Xluyz Dxrqrstuvwxy Libya 24 SARS1 YES 7-9-3570
+781 Lpbwxyz Mtkijklmnopq Libya 52 Diphtheria YES 15-4-3555
+6224 Etvefghijklm Ozluvwxyz Libya 78 Hib YES 7-4-51
+9379 Tsxabcdefghi Xhsyz Libya 81 H1N1 YES 22-1-1839
+5446 Tdwwxyz Wmgdefghijkl Libya 91 Tuberculosis NO
+4564 Ysyijklmnopq Gfjvwxyz Libya 97 H1N1 NO
+5109 Ngnbcdefghij Mikcdefghijk Libya 73 COVID19 NO
+7670 Ezqxyz Dktfghijklmn Libya 104 Rotavirus YES 16-12-8467
+1280 Hjgbcdefghij Btdnopqrstuv Libya 113 Hib YES 9-3-6208
+6937 Vclrstuvwxyz Qfrfghijklmn Libya 58 Hib YES 5-9-4721
+7946 Vgqijklmnopq Yabfghijklmn Libya 120 Hib YES 24-3-8596

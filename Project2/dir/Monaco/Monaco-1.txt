@@ -1,0 +1,17 @@
+3298 Ojjqrstuvwxy Tddghijklmno Monaco 66 Hib NO 19-9-6376
+9606 Zfbbcdefghij Sdihijklmnop Monaco 28 H1N1 NO
+7020 Fymcdefghijk Chvqrstuvwxy Monaco 94 Rotavirus YES 14-5-9670
+612 Bjxghijklmno Hszhijklmnop Monaco 49 TheFlu YES 11-2-9989
+6475 Puvhijklmnop Xhuxyz Monaco 63 H1N1 NO 25-5-9608
+2013 Tjyijklmnopq Hcqefghijklm Monaco 88 Tuberculosis NO
+4427 Iolcdefghijk Cstabcdefghi Monaco 20 Tuberculosis NO
+6524 Zyfcdefghijk Vdlopqrstuvw Monaco 58 HepatitisA NO 20-2-4227
+8745 Gyoghijklmno Jpbqrstuvwxy Monaco 71 Tuberculosis NO
+2751 Tpbqrstuvwxy Svyyz Monaco 1 Adenovirus YES 14-5-2473
+6251 Mrnqrstuvwxy Qhbopqrstuvw Monaco 91 Diphtheria NO 22-2-7118
+8368 Ywsijklmnopq Tgtstuvwxyz Monaco 92 Polio NO
+2770 Iwilmnopqrst Xziklmnopqrs Monaco 13 Varicella NO 30-8-34
+3997 Loyuvwxyz Vonefghijklm Monaco 27 TheFlu YES 11-1-1208
+7182 Nvlopqrstuvw Prvstuvwxyz Monaco 46 COVID19 NO
+1271 Vqldefghijkl Iernopqrstuv Monaco 27 HepatitisB YES 2-12-2164
+5780 Mssnopqrstuv Clxqrstuvwxy Monaco 102 Polio YES 6-2-9778

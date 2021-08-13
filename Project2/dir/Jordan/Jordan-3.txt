@@ -1,0 +1,18 @@
+8606 Gdwdefghijkl Bilfghijklmn Jordan 58 COVID19 YES 13-0-8379
+6676 Hgnxyz Kabbcdefghij Jordan 86 Rubella YES 22-11-5203
+6790 Pfqstuvwxyz Rsphijklmnop Jordan 51 Varicella NO 15-5-3597
+5540 Bwmopqrstuvw Wqtefghijklm Jordan 56 Varicella NO
+9016 Narpqrstuvwx Vnhbcdefghij Jordan 70 Tuberculosis NO
+6287 Sydz Yiaopqrstuvw Jordan 36 Tetanus NO
+8015 Qpxefghijklm Liqz Jordan 112 Chickenpox YES 3-8-3747
+3093 Rqjjklmnopqr Dlfabcdefghi Jordan 19 Rubella YES 5-9-4724
+3252 Yqlcdefghijk Celefghijklm Jordan 14 Tetanus NO
+9186 Qywrstuvwxyz Iukmnopqrstu Jordan 107 TheFlu YES 22-12-2102
+3909 Eqmpqrstuvwx Feaijklmnopq Jordan 12 HepatitisA YES 0-3-3763
+4273 Ptahijklmnop Ftldefghijkl Jordan 74 TheFlu YES 1-5-2676
+3294 Ueprstuvwxyz Bqnrstuvwxyz Jordan 90 Tuberculosis NO
+8341 Ncpjklmnopqr Rnypqrstuvwx Jordan 13 Varicella YES 18-3-5617
+1332 Exgdefghijkl Myetuvwxyz Jordan 104 Adenovirus NO
+5198 Mrybcdefghij Itbvwxyz Jordan 61 Adenovirus NO 6-9-2569
+4793 Aezuvwxyz Qpcnopqrstuv Jordan 96 Rubella YES 0-5-7751
+663 Sadhijklmnop Lhjstuvwxyz Jordan 43 TheFlu NO

@@ -1,0 +1,18 @@
+1227 Rweefghijklm Ddxpqrstuvwx Estonia 72 Tuberculosis NO 12-7-3426
+7292 Jiyuvwxyz Pmudefghijkl Estonia 26 TheFlu NO
+5355 Exmlmnopqrst Lxlvwxyz Estonia 72 HepatitisA NO
+3983 Vvixyz Satrstuvwxyz Estonia 23 Tuberculosis YES 16-8-4262
+9344 Clqvwxyz Kkmlmnopqrst Estonia 97 Polio YES 27-9-7104
+5747 Tlpnopqrstuv Gguabcdefghi Estonia 26 Polio YES 2-2-7279
+2248 Uuaqrstuvwxy Nsxcdefghijk Estonia 37 SARS1 NO
+8408 Lsorstuvwxyz Ojnlmnopqrst Estonia 109 HepatitisB YES 1-12-996
+1623 Nxvqrstuvwxy Mggcdefghijk Estonia 31 Diphtheria NO
+8115 Ivrefghijklm Qgmpqrstuvwx Estonia 119 Chickenpox YES 20-6-3259
+1845 Zdynopqrstuv Uhxz Estonia 61 Varicella YES 2-2-325
+9151 Fevlmnopqrst Soelmnopqrst Estonia 91 Testovirus NO
+889 Nsztuvwxyz Ddzqrstuvwxy Estonia 109 H1N1 YES 1-4-6974
+4397 Yphpqrstuvwx Qtiabcdefghi Estonia 12 Testovirus YES 28-6-4338
+9903 Dkryz Ofhhijklmnop Estonia 19 HepatitisB YES 17-11-7025
+1827 Dnyefghijklm Yduopqrstuvw Estonia 10 HepatitisA YES 12-1-3002
+3383 Mnkhijklmnop Jyqklmnopqrs Estonia 58 Tetanus NO
+8922 Cdhopqrstuvw Jbtghijklmno Estonia 110 Chickenpox YES 20-7-6306

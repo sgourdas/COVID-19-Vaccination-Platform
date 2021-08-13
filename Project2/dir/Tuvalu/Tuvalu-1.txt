@@ -1,0 +1,20 @@
+8212 Xyabcdefghij Zttdefghijkl Tuvalu 119 SARS1 YES 20-4-9810
+6247 Vrsmnopqrstu Ksklmnopqrst Tuvalu 45 Chickenpox YES 23-2-1350
+6131 Rdmyz Plobcdefghij Tuvalu 92 Tuberculosis NO 27-7-4244
+4221 Gsshijklmnop Asiefghijklm Tuvalu 70 Diphtheria NO
+3791 Iqolmnopqrst Quovwxyz Tuvalu 112 Varicella YES 21-5-3268
+9778 Zwknopqrstuv Yjdefghijklm Tuvalu 18 Adenovirus YES 6-7-2314
+3823 Gtkopqrstuvw Izsghijklmno Tuvalu 52 Chickenpox YES 6-11-8499
+7180 Twyfghijklmn Axsghijklmno Tuvalu 116 Rubella NO
+3088 Dgmz Ttlhijklmnop Tuvalu 114 SARS1 YES 22-2-3595
+5297 Jezfghijklmn Gjswxyz Tuvalu 6 H1N1 NO 13-3-1708
+7735 Ujfhijklmnop Vhmuvwxyz Tuvalu 100 Tuberculosis NO
+3327 Qrijklmnopqr Cwgpqrstuvwx Tuvalu 21 Chickenpox NO
+8528 Rusyz Ynavwxyz Tuvalu 72 Polio NO
+4026 Jgrrstuvwxyz Msgfghijklmn Tuvalu 14 SARS1 NO
+4885 Yvvlmnopqrst Nkkfghijklmn Tuvalu 88 Testovirus YES 1-10-5831
+7559 Boxabcdefghi Mvobcdefghij Tuvalu 4 Rubella YES 4-5-734
+575 Flwtuvwxyz Dgtefghijklm Tuvalu 46 TheFlu NO 20-4-2882
+181 Qmzpqrstuvwx Wgfqrstuvwxy Tuvalu 118 SARS1 YES 25-12-6045
+1009 Czvtuvwxyz Jdvopqrstuvw Tuvalu 30 Diphtheria YES 9-7-678
+1957 Rylxyz Nlntuvwxyz Tuvalu 55 COVID19 YES 7-10-422

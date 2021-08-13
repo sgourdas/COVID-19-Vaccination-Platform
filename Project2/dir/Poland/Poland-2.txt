@@ -1,0 +1,19 @@
+7322 Orhlmnopqrst Zmcfghijklmn Poland 50 Rubella NO
+4797 Skblmnopqrst Pbjpqrstuvwx Poland 48 Adenovirus NO 6-4-8288
+5744 Rebjklmnopqr Sapabcdefghi Poland 15 Tetanus NO 13-9-3756
+6787 Efchijklmnop Ogwhijklmnop Poland 91 Polio YES 19-3-1190
+5484 Mqicdefghijk Qtodefghijkl Poland 92 Polio YES 6-11-4967
+7545 Yhoxyz Wtguvwxyz Poland 6 Tetanus NO 26-3-504
+1599 Lmvnopqrstuv Launopqrstuv Poland 112 Tetanus NO
+7586 Vwivwxyz Unxxyz Poland 72 Adenovirus YES 27-12-2938
+4471 Ydbbcdefghij Neuabcdefghi Poland 27 Rotavirus YES 18-8-4256
+5014 Semuvwxyz Jtpstuvwxyz Poland 80 Adenovirus YES 10-1-5331
+9678 Tgvjklmnopqr Nilijklmnopq Poland 8 SARS1 NO
+7019 Jrcstuvwxyz Jptefghijklm Poland 40 Rubella NO
+8840 Hhmcdefghijk Rdbhijklmnop Poland 33 Adenovirus YES 21-1-8237
+9648 Vvxz Pydstuvwxyz Poland 64 Hib NO 21-6-2022
+585 Sbsyz Qgawxyz Poland 79 HepatitisA YES 16-10-395
+5473 Hgkghijklmno Dipnopqrstuv Poland 87 SARS1 NO 10-11-222
+4789 Efkstuvwxyz Jnxfghijklmn Poland 22 Hib YES 3-12-2843
+1164 Hfnpqrstuvwx Lgwuvwxyz Poland 57 COVID19 YES 25-4-4451
+7930 Yfzklmnopqrs Xulijklmnopq Poland 26 Diphtheria NO 28-5-2595

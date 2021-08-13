@@ -1,0 +1,21 @@
+8912 Hksfghijklmn Iceabcdefghi Mexico 82 Tuberculosis NO 24-7-7141
+4142 Htmijklmnopq Mocxyz Mexico 42 Tetanus NO 12-5-2594
+2871 Xleuvwxyz Vzobcdefghij Mexico 16 Tuberculosis YES 30-7-7178
+1336 Ltojklmnopqr Lgynopqrstuv Mexico 112 Adenovirus NO 28-0-7704
+3112 Rtdlmnopqrst Pkqcdefghijk Mexico 51 Polio NO
+3742 Iegtuvwxyz Dxorstuvwxyz Mexico 110 Hib YES 1-6-5179
+2581 Eqwijklmnopq Eogvwxyz Mexico 13 Polio NO 11-5-4099
+4311 Oarfghijklmn Nnjopqrstuvw Mexico 39 Rotavirus YES 12-8-3625
+9767 Dxqcdefghijk Iwddefghijkl Mexico 120 Hib NO
+9676 Ydjrstuvwxyz Zgnabcdefghi Mexico 62 Varicella NO
+7309 Kbkopqrstuvw Trwhijklmnop Mexico 10 COVID19 YES 21-8-2672
+559 Sinklmnopqrs Mmjmnopqrstu Mexico 62 Diphtheria NO
+4145 Wjifghijklmn Xrdrstuvwxyz Mexico 115 Tetanus NO 1-4-2542
+5458 Zypwxyz Koqijklmnopq Mexico 28 Diphtheria YES 3-11-8586
+800 Qnspqrstuvwx Mwlbcdefghij Mexico 102 TheFlu YES 26-5-27
+5719 Hbxmnopqrstu Jfacdefghijk Mexico 86 H1N1 YES 5-12-9172
+7668 Rhjwxyz Yrsxyz Mexico 94 Diphtheria YES 1-11-641
+6107 Uqlwxyz Fgztuvwxyz Mexico 59 HepatitisB YES 1-10-7551
+7551 Ppxopqrstuvw Ivdz Mexico 74 TheFlu NO
+198 Cpexyz Kgrghijklmno Mexico 81 Hib YES 5-4-7680
+7148 Wompqrstuvwx Bjoqrstuvwxy Mexico 64 Chickenpox YES 6-9-7473

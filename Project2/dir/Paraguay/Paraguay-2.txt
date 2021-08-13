@@ -1,0 +1,27 @@
+7295 Toknopqrstuv Nhyrstuvwxyz Paraguay 77 HepatitisA YES 8-3-4453
+2286 Hbxyz Onmcdefghijk Paraguay 115 Rotavirus YES 7-2-7027
+9830 Tdpefghijklm Icxlmnopqrst Paraguay 102 Tuberculosis YES 16-8-6699
+3743 Sgqfghijklmn Mfdrstuvwxyz Paraguay 31 Polio YES 20-2-2064
+3148 Svxxyz Qedijklmnopq Paraguay 33 SARS1 NO
+3009 Vjilmnopqrst Crklmnopqrst Paraguay 50 SARS1 YES 18-6-3767
+3838 Tzamnopqrstu Qnkbcdefghij Paraguay 48 Testovirus NO
+593 Olxxyz Majabcdefghi Paraguay 89 HepatitisB YES 1-1-3780
+2974 Rrxhijklmnop Rtojklmnopqr Paraguay 87 SARS1 YES 8-7-7409
+6225 Lymrstuvwxyz Ypmefghijklm Paraguay 27 HepatitisB YES 15-1-1072
+3991 Sokijklmnopq Zxhabcdefghi Paraguay 83 Hib NO 16-1-5644
+2371 Hespqrstuvwx Bdwfghijklmn Paraguay 86 Hib NO 30-5-7548
+1485 Plwwxyz Gqfnopqrstuv Paraguay 29 H1N1 NO
+2530 Vseefghijklm Uthqrstuvwxy Paraguay 12 TheFlu YES 12-2-7292
+4307 Srmefghijklm Sobqrstuvwxy Paraguay 14 Tuberculosis NO
+8518 Bezfghijklmn Jgxyz Paraguay 94 Testovirus NO
+9912 Aevtuvwxyz Zhjxyz Paraguay 28 Mumps NO
+3259 Xtqmnopqrstu Rqrklmnopqrs Paraguay 67 TheFlu NO
+1019 Smjghijklmno Zrivwxyz Paraguay 119 Mumps NO
+7170 Dkkxyz Opmz Paraguay 101 H1N1 YES 28-7-271
+4405 Npyqrstuvwxy Gwuabcdefghi Paraguay 17 Chickenpox YES 20-8-4618
+1783 Ojkz Bflvwxyz Paraguay 11 HepatitisB NO
+4010 Niqklmnopqrs Swouvwxyz Paraguay 9 Hib NO 5-9-3690
+3498 Ryzqrstuvwxy Qvclmnopqrst Paraguay 20 Hib YES 17-6-3652
+5227 Cjcyz Vthyz Paraguay 110 Tuberculosis YES 26-6-874
+4275 Bdrtuvwxyz Qnmpqrstuvwx Paraguay 3 SARS1 NO
+2440 Qohhijklmnop Xvuyz Paraguay 5 Chickenpox YES 11-4-9932

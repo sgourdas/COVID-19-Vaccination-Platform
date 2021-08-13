@@ -1,0 +1,21 @@
+472 Vbkhijklmnop Mydjklmnopqr Bahamas 22 Adenovirus YES 6-8-841
+1618 Aflvwxyz Jbbwxyz Bahamas 117 HepatitisA NO
+9414 Lsquvwxyz Gyinopqrstuv Bahamas 45 SARS1 NO 9-10-4107
+872 Iakjklmnopqr Wzmjklmnopqr Bahamas 72 Tetanus NO 23-8-8564
+2208 Oelmnopqrstu Nzbwxyz Bahamas 45 Adenovirus YES 20-9-2483
+6270 Nvaqrstuvwxy Bdkhijklmnop Bahamas 94 Tuberculosis NO
+5724 Mixpqrstuvwx Tyjpqrstuvwx Bahamas 109 Hib YES 13-8-3774
+4625 Hwvhijklmnop Rhqstuvwxyz Bahamas 63 Diphtheria YES 29-10-1252
+2239 Ndlpqrstuvwx Qucjklmnopqr Bahamas 37 Testovirus YES 26-11-6535
+8819 Sabopqrstuvw Raehijklmnop Bahamas 11 H1N1 YES 7-5-6338
+5206 Ruxabcdefghi Xxwyz Bahamas 107 Tetanus NO 4-8-2532
+1445 Xtsfghijklmn Hmmnopqrstuv Bahamas 51 Rubella NO 20-5-20
+6045 Ybytuvwxyz Tnobcdefghij Bahamas 38 Varicella YES 27-3-5773
+6354 Kspstuvwxyz Uphopqrstuvw Bahamas 67 Adenovirus YES 4-11-157
+5177 Ybihijklmnop Xxanopqrstuv Bahamas 40 Rubella NO
+1901 Crwvwxyz Aiouvwxyz Bahamas 41 Varicella YES 17-3-2236
+1672 Uaswxyz Trqvwxyz Bahamas 103 HepatitisA YES 27-0-9720
+1977 Ecgklmnopqrs Hpbxyz Bahamas 28 HepatitisB YES 7-12-3136
+9530 Jzwbcdefghij Qntuvwxyz Bahamas 40 COVID19 YES 9-6-4442
+6777 Unqbcdefghij Rmhtuvwxyz Bahamas 41 Adenovirus YES 23-0-401
+6176 Amumnopqrstu Lqodefghijkl Bahamas 57 Rotavirus YES 4-6-4943

@@ -1,0 +1,21 @@
+329 Lwycdefghijk Lrauvwxyz Hungary 47 Diphtheria NO
+7308 Dllz Jkgwxyz Hungary 105 Diphtheria YES 4-9-7762
+2614 Tuzghijklmno Hvqrstuvwxyz Hungary 37 HepatitisA NO 15-10-1835
+6675 Drtijklmnopq Gumxyz Hungary 111 HepatitisA YES 14-3-7750
+5686 Neodefghijkl Ibayz Hungary 44 Rotavirus NO
+9284 Yblyz Lfsijklmnopq Hungary 4 TheFlu NO 24-11-1189
+5603 Ubauvwxyz Rlrbcdefghij Hungary 23 Testovirus YES 1-3-9337
+5423 Tjfghijklmno Ptknopqrstuv Hungary 24 Rubella YES 5-2-1836
+8219 Pnncdefghijk Kznxyz Hungary 45 Testovirus NO
+9103 Imsyz Ddvnopqrstuv Hungary 5 Hib YES 23-0-8248
+2802 Pspfghijklmn Iblnopqrstuv Hungary 52 Tetanus NO
+87 Khlklmnopqrs Yjzstuvwxyz Hungary 65 Tuberculosis YES 4-9-5909
+6395 Fptklmnopqrs Fqjjklmnopqr Hungary 87 COVID19 NO
+6210 Qmxbcdefghij Arvijklmnopq Hungary 15 Polio NO 1-1-1043
+7157 Fxuopqrstuvw Awoxyz Hungary 85 Mumps YES 26-4-4630
+8028 Rilbcdefghij Blvklmnopqrs Hungary 81 Mumps NO
+1811 Jhicdefghijk Rxijklmnopqr Hungary 112 HepatitisB YES 27-4-8954
+8678 Dorefghijklm Smldefghijkl Hungary 61 COVID19 YES 12-7-1299
+613 Lsfyz Bxwhijklmnop Hungary 66 Rubella NO 28-0-9033
+5677 Mhtdefghijkl Hlkghijklmno Hungary 84 HepatitisA NO
+4707 Vixstuvwxyz Hnilmnopqrst Hungary 4 Polio NO 30-10-824

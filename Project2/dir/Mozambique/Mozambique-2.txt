@@ -1,0 +1,20 @@
+6933 Mfxdefghijkl Ggvijklmnopq Mozambique 70 SARS1 YES 27-7-9976
+1154 Dyrjklmnopqr Lumrstuvwxyz Mozambique 61 Diphtheria NO
+8894 Dpolmnopqrst Xpixyz Mozambique 68 Hib YES 20-7-9878
+5419 Gldvwxyz Oaeabcdefghi Mozambique 105 Chickenpox YES 29-9-6795
+4508 Yepstuvwxyz Gyfnopqrstuv Mozambique 5 Adenovirus YES 2-11-7080
+6487 Rzjmnopqrstu Lhdxyz Mozambique 69 SARS1 YES 25-8-9584
+6231 Whez Vgtopqrstuvw Mozambique 84 Tetanus YES 3-3-9489
+3923 Ctlbcdefghij Wdtlmnopqrst Mozambique 93 HepatitisB NO 16-8-6106
+4393 Xbqnopqrstuv Nlacdefghijk Mozambique 48 Polio NO
+7075 Gnughijklmno Gvzopqrstuvw Mozambique 44 Tetanus NO
+431 Buluvwxyz Osmpqrstuvwx Mozambique 22 Chickenpox YES 17-7-5277
+2813 Yjffghijklmn Ihflmnopqrst Mozambique 14 Polio NO 10-6-618
+4509 Irtghijklmno Ecxabcdefghi Mozambique 64 SARS1 NO
+2588 Gdxvwxyz Loncdefghijk Mozambique 36 HepatitisB YES 0-4-9902
+7316 Nvyfghijklmn Qvgwxyz Mozambique 2 Tetanus YES 8-11-836
+5057 Nowz Rxjtuvwxyz Mozambique 107 COVID19 YES 0-6-7320
+2170 Atovwxyz Wogyz Mozambique 62 HepatitisB YES 8-0-980
+7398 Xluopqrstuvw Qylz Mozambique 103 Adenovirus NO
+5668 Bdzopqrstuvw Bdjqrstuvwxy Mozambique 60 H1N1 NO
+2671 Jfddefghijkl Kfoopqrstuvw Mozambique 98 Tuberculosis YES 13-12-180

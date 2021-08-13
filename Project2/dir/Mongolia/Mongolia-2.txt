@@ -1,0 +1,18 @@
+3538 Nbcpqrstuvwx Vjicdefghijk Mongolia 84 Tuberculosis YES 4-11-3901
+8378 Vthklmnopqrs Qjcvwxyz Mongolia 109 Adenovirus NO 0-9-7118
+4406 Uajklmnopqrs Qiflmnopqrst Mongolia 113 HepatitisA NO 22-12-7180
+7042 Daropqrstuvw Iawdefghijkl Mongolia 3 Varicella NO 1-2-522
+9976 Hpxabcdefghi Gyqghijklmno Mongolia 95 Rubella YES 13-6-3952
+1495 Tmzbcdefghij Emfabcdefghi Mongolia 27 HepatitisA YES 23-11-1876
+6016 Rmabcdefghij Meaqrstuvwxy Mongolia 28 Adenovirus NO
+8525 Lhvhijklmnop Mcmqrstuvwxy Mongolia 115 Diphtheria NO
+8214 Kanstuvwxyz Ljdnopqrstuv Mongolia 72 Hib YES 30-11-5813
+3598 Cswopqrstuvw Vlqstuvwxyz Mongolia 32 Tuberculosis YES 9-11-302
+9966 Kpyjklmnopqr Sisbcdefghij Mongolia 42 Varicella YES 6-12-653
+4135 Hmvvwxyz Yfcrstuvwxyz Mongolia 81 HepatitisB YES 12-4-3254
+1249 Rtjrstuvwxyz Brfxyz Mongolia 24 TheFlu YES 24-5-2304
+7134 Qmrrstuvwxyz Nhtghijklmno Mongolia 38 Tuberculosis YES 29-4-2068
+6909 Quenopqrstuv Idjpqrstuvwx Mongolia 53 Rotavirus NO
+6549 Cidopqrstuvw Ljepqrstuvwx Mongolia 37 Diphtheria NO
+9070 Ghebcdefghij Tvqyz Mongolia 71 Testovirus YES 16-8-7369
+8335 Dpmbcdefghij Rjyopqrstuvw Mongolia 103 Rotavirus YES 30-1-767

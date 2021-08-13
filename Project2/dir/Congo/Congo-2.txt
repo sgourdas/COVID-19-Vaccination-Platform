@@ -1,0 +1,16 @@
+4601 Wiqklmnopqrs Ccvlmnopqrst Congo 63 HepatitisB NO 7-6-3279
+7411 Gmiuvwxyz Sddijklmnopq Congo 118 Varicella YES 6-12-589
+7741 Xiidefghijkl Czvqrstuvwxy Congo 109 Rotavirus YES 13-10-4365
+3949 Fnmhijklmnop Surijklmnopq Congo 118 HepatitisA YES 10-2-7591
+6438 Mitnopqrstuv Ducijklmnopq Congo 118 HepatitisA NO
+3769 Vhkcdefghijk Itjjklmnopqr Congo 22 Tetanus NO 27-5-7167
+258 Hhcstuvwxyz Rfcxyz Congo 105 Tetanus NO
+8202 Fillmnopqrst Bywtuvwxyz Congo 61 COVID19 NO
+3287 Gnzyz Pmlpqrstuvwx Congo 89 Mumps YES 0-5-8801
+4457 Uzpvwxyz Vgoopqrstuvw Congo 36 TheFlu YES 2-6-1311
+646 Udouvwxyz Mgostuvwxyz Congo 54 Tuberculosis YES 6-10-5033
+7696 Rvsfghijklmn Oklijklmnopq Congo 21 COVID19 NO 20-6-2449
+1080 Jbtwxyz Zcsabcdefghi Congo 92 SARS1 NO
+9429 Xsoopqrstuvw Rcfklmnopqrs Congo 48 TheFlu NO
+3121 Hpnklmnopqrs Cqoabcdefghi Congo 34 Tetanus YES 29-10-6081
+9520 Oqwvwxyz Rzfcdefghijk Congo 51 Tuberculosis YES 21-9-876

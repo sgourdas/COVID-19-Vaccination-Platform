@@ -1,0 +1,20 @@
+4589 Usxghijklmno Nydstuvwxyz Togo 61 Adenovirus NO
+517 Pasxyz Pwgstuvwxyz Togo 8 H1N1 YES 24-6-5557
+8301 Pdkyz Gavuvwxyz Togo 111 Diphtheria YES 20-8-82
+1548 Edivwxyz Aixlmnopqrst Togo 119 Polio YES 11-0-1471
+3013 Ubfwxyz Yynxyz Togo 40 Diphtheria NO 1-6-5163
+3482 Atgqrstuvwxy Xzmwxyz Togo 71 HepatitisB NO
+1047 Ceyefghijklm Bffhijklmnop Togo 86 Tetanus YES 20-7-87
+7364 Gdbopqrstuvw Ijaz Togo 52 Testovirus NO
+976 Yrnabcdefghi Gqbxyz Togo 109 Chickenpox YES 6-6-1352
+8146 Gsaz Fnttuvwxyz Togo 41 Chickenpox NO
+6132 Eeiwxyz Guwefghijklm Togo 113 H1N1 YES 11-6-3211
+1752 Gllabcdefghi Xafdefghijkl Togo 31 Tuberculosis NO
+4747 Tvmnopqrstuv Jizbcdefghij Togo 110 Adenovirus NO
+3091 Kroabcdefghi Nmlghijklmno Togo 12 HepatitisA NO
+2866 Cjkuvwxyz Hxttuvwxyz Togo 26 Testovirus NO
+959 Xdtrstuvwxyz Wioopqrstuvw Togo 21 H1N1 NO
+3562 Demstuvwxyz Ubxz Togo 83 H1N1 YES 18-0-4032
+8350 Pkgabcdefghi Gntcdefghijk Togo 12 Polio NO
+7947 Qgzdefghijkl Ofibcdefghij Togo 108 Chickenpox NO
+8464 Uoyz Kcujklmnopqr Togo 75 COVID19 NO

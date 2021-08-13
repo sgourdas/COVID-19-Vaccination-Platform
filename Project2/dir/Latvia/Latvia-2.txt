@@ -1,0 +1,24 @@
+4004 Gdpnopqrstuv Pazqrstuvwxy Latvia 15 TheFlu YES 21-0-1483
+5052 Btgxyz Gkimnopqrstu Latvia 42 Rotavirus YES 23-8-4456
+753 Lqjdefghijkl Sxovwxyz Latvia 89 Rubella YES 14-9-8403
+1620 Xnqtuvwxyz Kzsqrstuvwxy Latvia 17 Hib NO
+2226 Cdadefghijkl Iecbcdefghij Latvia 27 Varicella YES 8-3-7205
+9345 Giqwxyz Axsuvwxyz Latvia 64 Mumps NO
+1973 Wucstuvwxyz Hprbcdefghij Latvia 100 Rubella NO 3-4-9165
+7181 Kwnxyz Smfefghijklm Latvia 97 SARS1 NO 19-0-1113
+6681 Qskxyz Kpjfghijklmn Latvia 32 HepatitisB YES 24-4-2237
+7087 Ilouvwxyz Nnrrstuvwxyz Latvia 15 Tetanus NO
+9510 Wrxjklmnopqr Qsnghijklmno Latvia 32 Polio YES 9-3-6873
+6004 Jlnvwxyz Glqqrstuvwxy Latvia 98 Testovirus NO 25-3-4216
+7904 Hbjfghijklmn Nmahijklmnop Latvia 16 HepatitisB YES 1-2-9416
+6003 Ekvxyz Kgsabcdefghi Latvia 40 HepatitisA NO 0-9-9151
+2134 Ihytuvwxyz Ujuefghijklm Latvia 83 COVID19 YES 30-9-6652
+3808 Ysthijklmnop Ywfnopqrstuv Latvia 96 SARS1 YES 19-6-5619
+7522 Guolmnopqrst Ldaxyz Latvia 3 Adenovirus YES 10-6-3098
+4744 Covpqrstuvwx Bhpdefghijkl Latvia 56 Hib YES 2-11-7703
+3503 Qgtxyz Aekbcdefghij Latvia 88 Mumps YES 24-1-7633
+7801 Bzpnopqrstuv Nhhfghijklmn Latvia 44 Hib NO 19-0-1798
+6349 Hwjz Qdiqrstuvwxy Latvia 80 Rotavirus NO
+7658 Xokwxyz Iszdefghijkl Latvia 18 Rubella NO
+4868 Flbwxyz Oqzghijklmno Latvia 71 Adenovirus NO
+6404 Ozighijklmno Drcz Latvia 91 TheFlu NO 14-7-6658

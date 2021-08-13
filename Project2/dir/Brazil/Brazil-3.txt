@@ -1,0 +1,25 @@
+2227 Lvpklmnopqrs Nxcijklmnopq Brazil 34 Testovirus YES 21-12-1704
+6466 Ttblmnopqrst Dsqnopqrstuv Brazil 77 H1N1 YES 5-8-5031
+6630 Bcqefghijklm Zhxcdefghijk Brazil 1 Varicella NO
+8021 Felz Civyz Brazil 108 Varicella YES 13-9-3108
+8454 Wcgabcdefghi Whwijklmnopq Brazil 44 H1N1 NO 2-9-8296
+5472 Gdupqrstuvwx Sarvwxyz Brazil 38 SARS1 YES 11-5-9793
+3744 Jyonopqrstuv Jvztuvwxyz Brazil 23 Polio YES 26-2-4387
+7045 Hsbyz Wpwtuvwxyz Brazil 96 Varicella YES 22-1-6057
+9590 Yfoqrstuvwxy Nrfz Brazil 112 Chickenpox YES 26-0-3492
+5261 Mgqxyz Grmhijklmnop Brazil 69 Adenovirus YES 17-8-3263
+8761 Djhefghijklm Jbkmnopqrstu Brazil 28 Mumps YES 13-2-3075
+7192 Ehnijklmnopq Ahzyz Brazil 31 Diphtheria NO 23-6-5672
+2729 Fiypqrstuvwx Xebopqrstuvw Brazil 42 H1N1 YES 25-4-4418
+9266 Nrkefghijklm Ruzvwxyz Brazil 47 HepatitisA NO
+5436 Ddmmnopqrstu Zltjklmnopqr Brazil 11 Mumps NO 29-5-538
+9507 Xlldefghijkl Atqijklmnopq Brazil 61 Diphtheria NO
+5538 Wbydefghijkl Uopdefghijkl Brazil 90 COVID19 NO 0-6-5461
+1358 Godklmnopqrs Ivncdefghijk Brazil 26 Diphtheria YES 1-4-1173
+1652 Uraqrstuvwxy Kfsjklmnopqr Brazil 5 HepatitisB NO
+4679 Oxtwxyz Ykibcdefghij Brazil 4 H1N1 YES 8-11-9190
+1378 Zjtopqrstuvw Lhbklmnopqrs Brazil 81 Tuberculosis NO 29-11-167
+5979 Rmaghijklmno Lkxfghijklmn Brazil 119 HepatitisB NO
+7878 Voxlmnopqrst Jbhxyz Brazil 42 Adenovirus NO
+4204 Vmtcdefghijk Ijqnopqrstuv Brazil 21 TheFlu YES 20-0-8140
+2554 Hpftuvwxyz Kivyz Brazil 22 Varicella NO

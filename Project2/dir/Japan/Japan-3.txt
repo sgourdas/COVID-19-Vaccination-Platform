@@ -1,0 +1,22 @@
+4309 Ibifghijklmn Ttcxyz Japan 70 Chickenpox NO
+6885 Wkhklmnopqrs Uijtuvwxyz Japan 111 Tuberculosis NO
+7369 Wydmnopqrstu Cwypqrstuvwx Japan 118 HepatitisB YES 7-7-5261
+292 Dqtz Ofwmnopqrstu Japan 108 HepatitisB NO
+5060 Gmughijklmno Vxxpqrstuvwx Japan 85 Rubella NO
+3586 Patvwxyz Rubz Japan 46 SARS1 NO
+3354 Vuuuvwxyz Kiidefghijkl Japan 94 Varicella NO 18-3-4542
+2040 Snbstuvwxyz Eqvtuvwxyz Japan 50 HepatitisA YES 28-9-3714
+9895 Ilkstuvwxyz Ewxfghijklmn Japan 96 Tuberculosis YES 10-3-755
+4929 Fpzz Strcdefghijk Japan 62 COVID19 NO 14-11-8375
+8446 Skuhijklmnop Taorstuvwxyz Japan 78 Mumps NO
+1218 Ghclmnopqrst Oapvwxyz Japan 51 Rotavirus NO
+5130 Qqltuvwxyz Dvwtuvwxyz Japan 67 Chickenpox YES 23-8-8293
+7604 Bhpjklmnopqr Legbcdefghij Japan 41 Testovirus NO
+7067 Gryabcdefghi Qmijklmnopqr Japan 5 Diphtheria YES 24-4-4416
+26 Msudefghijkl Vbmbcdefghij Japan 73 Rotavirus NO
+1910 Jjrbcdefghij Ryjcdefghijk Japan 117 Mumps NO
+7175 Yqmz Pzvefghijklm Japan 13 Hib YES 30-6-4315
+9165 Liztuvwxyz Sgduvwxyz Japan 105 COVID19 YES 7-3-3150
+4279 Dplwxyz Qjwtuvwxyz Japan 82 HepatitisB NO
+6098 Ksfrstuvwxyz Caqxyz Japan 98 HepatitisB YES 6-2-8887
+3513 Mmtpqrstuvwx Atsqrstuvwxy Japan 66 Hib NO 28-9-4810

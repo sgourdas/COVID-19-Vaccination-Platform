@@ -1,0 +1,18 @@
+327 Fejstuvwxyz Pehpqrstuvwx Peru 116 HepatitisB YES 15-8-6425
+6061 Pyolmnopqrst Ovivwxyz Peru 36 HepatitisB NO
+3329 Abeabcdefghi Ajighijklmno Peru 73 HepatitisA YES 8-8-340
+2675 Rlvcdefghijk Zstmnopqrstu Peru 1 Tuberculosis YES 12-0-2649
+5282 Laqcdefghijk Uwxmnopqrstu Peru 100 Tetanus YES 27-11-9640
+1813 Apsmnopqrstu Lkhuvwxyz Peru 81 Rotavirus YES 26-12-1801
+2254 Vvldefghijkl Ydcz Peru 114 COVID19 NO
+1389 Fiwabcdefghi Ziftuvwxyz Peru 52 Polio NO
+843 Bgfpqrstuvwx Zavklmnopqrs Peru 34 Rotavirus NO 10-11-6011
+1962 Uagfghijklmn Ftmz Peru 119 Tuberculosis YES 29-2-5919
+56 Pyvfghijklmn Kvamnopqrstu Peru 115 HepatitisA YES 29-11-5138
+6934 Wapqrstuvwxy Ufwopqrstuvw Peru 36 Rotavirus YES 0-4-6164
+630 Nbyyz Tpjdefghijkl Peru 54 Adenovirus NO
+2167 Jrevwxyz Fgrtuvwxyz Peru 30 Tuberculosis YES 12-9-7091
+9594 Daaz Uloijklmnopq Peru 44 Varicella NO 19-2-2500
+6767 Rcmnopqrstuv Owvhijklmnop Peru 12 Polio NO 10-0-9367
+9874 Wqllmnopqrst Myiefghijklm Peru 116 Varicella NO 10-5-440
+3269 Qnlbcdefghij Ldoz Peru 113 COVID19 NO

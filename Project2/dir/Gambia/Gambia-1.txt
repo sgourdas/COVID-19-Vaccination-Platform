@@ -1,0 +1,20 @@
+4047 Ujmwxyz Npsabcdefghi Gambia 2 Chickenpox YES 17-9-1329
+4059 Jeughijklmno Qgehijklmnop Gambia 91 Mumps NO
+1048 Tqccdefghijk Dntmnopqrstu Gambia 18 Diphtheria YES 6-2-4818
+8034 Ankhijklmnop Eoeopqrstuvw Gambia 98 H1N1 YES 19-4-2478
+9000 Qcrabcdefghi Pnzyz Gambia 55 Varicella NO 1-12-1598
+9798 Lpqrstuvwxyz Ngsxyz Gambia 1 Rotavirus YES 5-4-2576
+5493 Gpmklmnopqrs Cipklmnopqrs Gambia 33 Adenovirus NO
+6490 Lmaqrstuvwxy Focdefghijkl Gambia 66 SARS1 YES 2-10-1243
+8788 Ydbcdefghijk Dwjijklmnopq Gambia 72 SARS1 NO
+5152 Aptmnopqrstu Clxefghijklm Gambia 70 Hib YES 29-12-3466
+8739 Fsqopqrstuvw Puaxyz Gambia 93 HepatitisA YES 10-0-822
+8855 Giydefghijkl Jaqtuvwxyz Gambia 59 HepatitisB YES 6-0-1808
+6581 Ndlmnopqrstu Epmabcdefghi Gambia 93 SARS1 YES 15-8-9944
+7347 Odmabcdefghi Dfwcdefghijk Gambia 42 H1N1 YES 21-7-5848
+8241 Nxdwxyz Qitklmnopqrs Gambia 33 COVID19 NO 9-9-4485
+7363 Xqlabcdefghi Ohbabcdefghi Gambia 15 H1N1 NO
+1503 Iccefghijklm Gmnnopqrstuv Gambia 81 Rubella NO
+3605 Ffauvwxyz Gshmnopqrstu Gambia 107 Polio YES 21-10-9175
+9370 Xaguvwxyz Uxsopqrstuvw Gambia 101 SARS1 NO
+620 Ppgyz Mbfvwxyz Gambia 119 TheFlu YES 28-11-7067

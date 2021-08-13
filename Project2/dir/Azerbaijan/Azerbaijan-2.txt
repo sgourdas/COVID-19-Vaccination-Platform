@@ -1,0 +1,17 @@
+4346 Iqnbcdefghij Afspqrstuvwx Azerbaijan 22 Diphtheria NO
+8382 Oppwxyz Urelmnopqrst Azerbaijan 52 Hib NO
+2190 Yjpnopqrstuv Grgbcdefghij Azerbaijan 38 HepatitisB YES 7-1-3194
+8697 Fzzdefghijkl Otqtuvwxyz Azerbaijan 97 H1N1 NO 16-3-5387
+455 Iyynopqrstuv Qlpefghijklm Azerbaijan 43 Testovirus NO
+3569 Yesrstuvwxyz Avplmnopqrst Azerbaijan 66 COVID19 NO
+4474 Pnzpqrstuvwx Nlulmnopqrst Azerbaijan 101 Adenovirus NO 12-7-4592
+143 Vsktuvwxyz Gdulmnopqrst Azerbaijan 110 Polio YES 16-12-9672
+4689 Siuz Oisuvwxyz Azerbaijan 95 Rubella YES 19-12-8127
+4096 Akyhijklmnop Erpuvwxyz Azerbaijan 87 Adenovirus NO
+1037 Elwcdefghijk Vtnefghijklm Azerbaijan 67 Adenovirus YES 23-1-8390
+5113 Thlrstuvwxyz Wvfbcdefghij Azerbaijan 33 Rotavirus NO 24-6-339
+5953 Nwdijklmnopq Rbkijklmnopq Azerbaijan 117 Testovirus NO
+6877 Mltstuvwxyz Qhfjklmnopqr Azerbaijan 103 TheFlu NO
+1821 Vxxlmnopqrst Jgfcdefghijk Azerbaijan 66 SARS1 NO 2-2-1985
+4121 Ycxuvwxyz Njotuvwxyz Azerbaijan 38 Varicella NO
+3182 Khnstuvwxyz Tmtcdefghijk Azerbaijan 62 H1N1 NO 27-4-6999

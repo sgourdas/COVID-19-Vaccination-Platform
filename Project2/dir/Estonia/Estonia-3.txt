@@ -1,0 +1,17 @@
+4099 Vgidefghijkl Jhpnopqrstuv Estonia 73 Varicella YES 20-9-1311
+3788 Ustefghijklm Cjypqrstuvwx Estonia 75 TheFlu YES 24-2-9612
+8375 Sqflmnopqrst Htnlmnopqrst Estonia 11 Adenovirus YES 20-1-6045
+32 Ddjjklmnopqr Kexbcdefghij Estonia 76 COVID19 NO
+2774 Qadnopqrstuv Vcjfghijklmn Estonia 28 HepatitisB NO 17-4-9212
+729 Ecmrstuvwxyz Tpkz Estonia 68 H1N1 NO
+8229 Dvwabcdefghi Baflmnopqrst Estonia 77 Testovirus YES 21-10-479
+751 Nkzmnopqrstu Dchnopqrstuv Estonia 84 Adenovirus YES 24-7-1402
+6181 Mfyuvwxyz Ymhbcdefghij Estonia 17 TheFlu NO 10-3-3336
+5329 Pvnhijklmnop Pwwcdefghijk Estonia 86 Varicella NO 8-9-6899
+9777 Fbfz Oxgqrstuvwxy Estonia 10 Rubella NO 27-12-7692
+6290 Hfjabcdefghi Bfxrstuvwxyz Estonia 15 Diphtheria NO
+9825 Rvmqrstuvwxy Gbntuvwxyz Estonia 68 SARS1 YES 27-3-6517
+4661 Kyhcdefghijk Cnbbcdefghij Estonia 87 HepatitisB YES 9-3-771
+2982 Xwqlmnopqrst Wyjyz Estonia 67 Polio NO 3-7-8759
+7732 Gcrlmnopqrst Ipkopqrstuvw Estonia 58 Polio YES 5-5-6494
+4431 Fjlfghijklmn Yprijklmnopq Estonia 62 COVID19 NO

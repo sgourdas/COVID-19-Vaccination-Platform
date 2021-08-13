@@ -1,0 +1,17 @@
+6782 Wskdefghijkl Bzkvwxyz Malawi 92 Mumps NO
+7910 Ppajklmnopqr Uigdefghijkl Malawi 58 Tetanus YES 28-10-5249
+4395 Mxsuvwxyz Vrxopqrstuvw Malawi 79 Varicella NO
+8881 Lcgijklmnopq Qawfghijklmn Malawi 44 Chickenpox YES 1-0-6990
+4699 Gdmlmnopqrst Jciyz Malawi 4 Rubella YES 9-10-4163
+8309 Ziclmnopqrst Nyvbcdefghij Malawi 66 Tuberculosis YES 13-4-4687
+6337 Qwiabcdefghi Uyjpqrstuvwx Malawi 69 Diphtheria YES 21-4-5439
+5323 Llpstuvwxyz Lvgxyz Malawi 91 Tetanus YES 2-12-7195
+175 Tmmtuvwxyz Rgfklmnopqrs Malawi 76 Rotavirus YES 15-1-9364
+7297 Bfafghijklmn Ccoefghijklm Malawi 42 Polio NO 19-8-1249
+392 Yvbstuvwxyz Pemmnopqrstu Malawi 120 Adenovirus NO
+5575 Jmucdefghijk Zzfpqrstuvwx Malawi 91 Mumps YES 10-2-7080
+3422 Mhnrstuvwxyz Ngzijklmnopq Malawi 10 Adenovirus YES 25-2-7908
+496 Ylepqrstuvwx Zzbhijklmnop Malawi 102 Mumps NO
+2964 Inpcdefghijk Mtvz Malawi 68 HepatitisA NO
+7004 Kaffghijklmn Zhzklmnopqrs Malawi 109 Tetanus NO
+6278 Qkfrstuvwxyz Yucxyz Malawi 49 Hib YES 28-10-3665

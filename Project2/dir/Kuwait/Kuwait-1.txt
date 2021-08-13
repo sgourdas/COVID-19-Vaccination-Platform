@@ -1,0 +1,18 @@
+5587 Jmarstuvwxyz Qjojklmnopqr Kuwait 102 TheFlu YES 16-3-4478
+6738 Nkedefghijkl Ttkpqrstuvwx Kuwait 52 TheFlu NO 19-8-3705
+4429 Mwknopqrstuv Dfeqrstuvwxy Kuwait 6 Tetanus NO 9-9-5656
+7299 Nvvrstuvwxyz Vbexyz Kuwait 63 COVID19 YES 28-11-8526
+6873 Vxeopqrstuvw Yhthijklmnop Kuwait 83 Hib YES 21-11-523
+3690 Njrefghijklm Uflwxyz Kuwait 7 Adenovirus YES 28-11-3388
+8720 Ybejklmnopqr Vbgrstuvwxyz Kuwait 87 Polio NO
+3906 Rvwdefghijkl Hhjstuvwxyz Kuwait 90 HepatitisB YES 6-11-9060
+3762 Bjvcdefghijk Jophijklmnop Kuwait 116 Polio YES 15-10-9621
+798 Eamwxyz Cqzdefghijkl Kuwait 83 Diphtheria YES 10-6-470
+9815 Wkvfghijklmn Xgrbcdefghij Kuwait 61 COVID19 NO
+3204 Tbbvwxyz Zsebcdefghij Kuwait 17 HepatitisA NO
+3829 Wpjklmnopqrs Kjtstuvwxyz Kuwait 40 Tuberculosis YES 21-3-5565
+4116 Rkawxyz Qjmfghijklmn Kuwait 74 Chickenpox YES 5-1-882
+5637 Vusdefghijkl Hrfqrstuvwxy Kuwait 68 Hib NO
+5519 Jmrdefghijkl Gjarstuvwxyz Kuwait 47 Rotavirus YES 9-2-2069
+4863 Qlfrstuvwxyz Asubcdefghij Kuwait 66 Rotavirus NO 9-7-1167
+8582 Ldsnopqrstuv Muptuvwxyz Kuwait 25 Adenovirus YES 18-1-5725

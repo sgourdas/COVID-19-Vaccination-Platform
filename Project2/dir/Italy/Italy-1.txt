@@ -1,0 +1,19 @@
+3103 Qqtefghijklm Mqmabcdefghi Italy 112 HepatitisB YES 0-10-784
+4490 Kmyghijklmno Eqdxyz Italy 51 Chickenpox YES 5-2-3193
+4041 Fjlghijklmno Hzznopqrstuv Italy 54 H1N1 NO
+5929 Dzzhijklmnop Fldfghijklmn Italy 26 Rotavirus NO
+8250 Mpqstuvwxyz Ubqghijklmno Italy 49 SARS1 YES 16-12-8279
+4907 Lpiefghijklm Ngrxyz Italy 12 SARS1 YES 26-2-9459
+8259 Hbghijklmnop Oyjmnopqrstu Italy 21 COVID19 NO
+8188 Ksxqrstuvwxy Shfuvwxyz Italy 36 Polio NO 2-8-3753
+1185 Kvkghijklmno Ussjklmnopqr Italy 57 Hib NO 17-7-1598
+1853 Vntmnopqrstu Wgrhijklmnop Italy 103 Hib YES 18-7-2206
+2521 Kernopqrstuv Dajabcdefghi Italy 85 Rotavirus NO
+7885 Nkcyz Ctdpqrstuvwx Italy 41 Polio YES 24-2-8442
+1060 Gcajklmnopqr Ybtwxyz Italy 64 Varicella NO
+59 Bteefghijklm Svjyz Italy 107 TheFlu NO 11-8-4996
+5778 Dvkfghijklmn Cpoxyz Italy 50 Chickenpox NO 7-8-4757
+1849 Oczopqrstuvw Xcvvwxyz Italy 6 SARS1 YES 28-1-1740
+3496 Mbwmnopqrstu Befefghijklm Italy 11 Rubella NO
+5408 Jeohijklmnop Gycjklmnopqr Italy 88 H1N1 NO 18-9-6635
+8347 Anbpqrstuvwx Fwkvwxyz Italy 50 COVID19 NO

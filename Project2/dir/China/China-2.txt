@@ -1,0 +1,22 @@
+4606 Yjxnopqrstuv Rvqz China 38 Tuberculosis NO
+5504 Rarklmnopqrs Jhynopqrstuv China 64 Diphtheria YES 5-10-6163
+8617 Ruzdefghijkl Gurghijklmno China 91 Tuberculosis YES 26-11-2154
+468 Cjqfghijklmn Vijmnopqrstu China 35 Hib NO
+5706 Ixfdefghijkl Kjnstuvwxyz China 37 Rotavirus NO 4-0-1546
+5530 Yqnyz Lxwlmnopqrst China 12 Mumps NO
+7815 Dcbcdefghijk Dkvxyz China 38 Hib YES 0-2-4159
+4515 Xfvtuvwxyz Oweyz China 66 Testovirus NO 17-10-9405
+5183 Ezyyz Nesdefghijkl China 9 Polio NO 11-9-9191
+985 Sgqghijklmno Yqhhijklmnop China 12 Diphtheria YES 8-1-5993
+4899 Znwabcdefghi Nfoklmnopqrs China 1 Mumps NO
+1223 Wuabcdefghij Vzaz China 108 Chickenpox YES 6-9-8026
+1924 Wetklmnopqrs Rszuvwxyz China 78 Testovirus YES 6-12-3633
+6589 Rclmnopqrstu Agtyz China 75 Hib NO 0-4-6467
+4695 Eoqz Ribefghijklm China 78 H1N1 NO 4-0-8050
+8387 Tsxijklmnopq Elkqrstuvwxy China 119 Adenovirus YES 1-8-8648
+4053 Baqvwxyz Sdryz China 109 Testovirus YES 26-7-228
+5973 Sawpqrstuvwx Epcopqrstuvw China 36 COVID19 NO
+3297 Iftcdefghijk Jtljklmnopqr China 27 Tuberculosis NO 7-0-7292
+6886 Btmnopqrstuv Qfflmnopqrst China 94 Testovirus NO
+9885 Sxowxyz Uwavwxyz China 26 TheFlu NO 29-5-9311
+3836 Vifmnopqrstu Znmlmnopqrst China 9 Polio YES 27-3-1901

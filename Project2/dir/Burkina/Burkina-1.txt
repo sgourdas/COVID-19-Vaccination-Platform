@@ -1,0 +1,23 @@
+5495 Ruzbcdefghij Awkuvwxyz Burkina 23 H1N1 YES 14-9-7383
+453 Ivuopqrstuvw Nmthijklmnop Burkina 95 Diphtheria YES 23-10-9264
+5478 Dpyrstuvwxyz Nhjijklmnopq Burkina 118 HepatitisB NO
+4719 Hohyz Fxuqrstuvwxy Burkina 40 Hib YES 6-6-9833
+4205 Wyejklmnopqr Asorstuvwxyz Burkina 29 H1N1 YES 25-12-7792
+5971 Giituvwxyz Emvz Burkina 110 HepatitisB NO
+1135 Yvnhijklmnop Hqmghijklmno Burkina 110 SARS1 NO 19-9-590
+330 Tlwxyz Yrlstuvwxyz Burkina 27 TheFlu YES 6-6-2940
+6409 Aaqabcdefghi Sdkdefghijkl Burkina 63 Rubella YES 27-1-5200
+3357 Symtuvwxyz Fcfjklmnopqr Burkina 80 Rotavirus NO
+5508 Iqhklmnopqrs Nhydefghijkl Burkina 16 Rotavirus NO
+7926 Izfefghijklm Bdayz Burkina 15 Chickenpox NO
+2178 Bpmklmnopqrs Nggyz Burkina 87 H1N1 NO
+6859 Iucwxyz Guvtuvwxyz Burkina 74 COVID19 NO
+9482 Wlqhijklmnop Ynpabcdefghi Burkina 117 Diphtheria YES 7-7-9860
+5253 Uzystuvwxyz Uapvwxyz Burkina 54 Chickenpox YES 11-4-1307
+3371 Shajklmnopqr Fjpmnopqrstu Burkina 46 SARS1 YES 7-4-5100
+1999 Cpewxyz Htihijklmnop Burkina 41 Adenovirus NO
+2400 Jmbhijklmnop Tpcqrstuvwxy Burkina 69 Varicella YES 5-2-9707
+4587 Gqyfghijklmn Wkqnopqrstuv Burkina 69 SARS1 NO
+8314 Bmdopqrstuvw Xxhqrstuvwxy Burkina 111 Tuberculosis YES 26-7-1875
+1489 Qfwbcdefghij Klxnopqrstuv Burkina 81 TheFlu YES 19-9-2102
+8425 Ahmvwxyz Cblghijklmno Burkina 8 Testovirus YES 28-5-7793

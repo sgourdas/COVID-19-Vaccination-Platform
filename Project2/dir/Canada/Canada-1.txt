@@ -1,0 +1,20 @@
+1429 Uvwfghijklmn Zvrjklmnopqr Canada 2 Rotavirus YES 24-11-7716
+1376 Trjz Pjntuvwxyz Canada 60 Hib YES 29-4-472
+4102 Rqmjklmnopqr Arpfghijklmn Canada 82 Testovirus NO 9-7-640
+1078 Eiguvwxyz Aqhefghijklm Canada 39 Adenovirus YES 11-9-2719
+5081 Qvaxyz Catklmnopqrs Canada 103 Tuberculosis NO
+3493 Phhqrstuvwxy Ffvfghijklmn Canada 12 Chickenpox NO
+9515 Dvmqrstuvwxy Xboijklmnopq Canada 93 Tuberculosis NO 21-5-3579
+7135 Anwqrstuvwxy Ylrtuvwxyz Canada 46 Hib NO
+8846 Vfaefghijklm Mylhijklmnop Canada 55 Tuberculosis YES 27-8-8769
+8930 Vmwjklmnopqr Qvfqrstuvwxy Canada 60 Adenovirus NO
+7397 Qqkwxyz Zfeabcdefghi Canada 5 Hib NO
+3999 Aufefghijklm Mhlcdefghijk Canada 50 Rotavirus YES 27-1-1328
+9857 Cyfcdefghijk Dcnwxyz Canada 47 COVID19 NO
+9497 Hcbqrstuvwxy Cccghijklmno Canada 111 H1N1 YES 9-5-403
+656 Frpxyz Dkquvwxyz Canada 116 SARS1 NO
+1043 Ixtqrstuvwxy Puwdefghijkl Canada 86 Rubella NO 30-7-3604
+346 Gdjklmnopqrs Awmdefghijkl Canada 14 Tetanus NO 28-4-2233
+7471 Yfoxyz Ufkopqrstuvw Canada 39 H1N1 YES 7-4-9356
+1650 Jloklmnopqrs Tduxyz Canada 18 HepatitisA YES 27-6-3435
+8460 Qtirstuvwxyz Uxebcdefghij Canada 12 Hib NO

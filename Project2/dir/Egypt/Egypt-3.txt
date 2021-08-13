@@ -1,0 +1,24 @@
+1362 Dpuwxyz Pdnmnopqrstu Egypt 59 Chickenpox YES 24-9-6691
+1638 Vfiz Teorstuvwxyz Egypt 69 Adenovirus YES 11-7-3063
+6494 Ohrfghijklmn Dvyabcdefghi Egypt 41 Adenovirus YES 11-2-8098
+7340 Enlqrstuvwxy Upwghijklmno Egypt 113 Mumps NO
+7259 Onurstuvwxyz Aiatuvwxyz Egypt 4 TheFlu NO
+6518 Mnmghijklmno Chkbcdefghij Egypt 73 Diphtheria NO
+5513 Lxhuvwxyz Vwpqrstuvwxy Egypt 109 HepatitisA YES 13-8-1073
+9888 Olystuvwxyz Jrecdefghijk Egypt 44 Testovirus YES 3-6-8696
+5213 Wmbghijklmno Sgjrstuvwxyz Egypt 10 Adenovirus YES 15-7-8277
+8287 Bqmrstuvwxyz Kkowxyz Egypt 97 Hib NO
+6019 Axahijklmnop Jvlyz Egypt 105 Rotavirus YES 20-2-7743
+6761 Gckijklmnopq Pbnz Egypt 106 HepatitisB YES 19-1-1090
+8132 Ayhpqrstuvwx Bbpijklmnopq Egypt 37 Hib NO 3-6-324
+1900 Dpshijklmnop Hqmopqrstuvw Egypt 65 Rubella YES 22-7-8896
+6141 Qphz Fbuklmnopqrs Egypt 89 Varicella YES 19-1-4699
+8724 Kjrtuvwxyz Wpxyz Egypt 41 Chickenpox NO
+8672 Ycdnopqrstuv Mvzabcdefghi Egypt 100 Tuberculosis YES 18-6-1642
+8624 Gsfabcdefghi Coqqrstuvwxy Egypt 84 Chickenpox YES 29-2-446
+9867 Iduvwxyz Jlsjklmnopqr Egypt 79 HepatitisA NO
+9327 Csyqrstuvwxy Ebmabcdefghi Egypt 42 SARS1 NO 26-10-5748
+4303 Sfhrstuvwxyz Hzyz Egypt 87 H1N1 YES 13-0-5490
+3135 Kieqrstuvwxy Paifghijklmn Egypt 9 TheFlu NO 6-5-7486
+9991 Nemqrstuvwxy Yozwxyz Egypt 115 Mumps NO 13-12-5007
+8607 Meexyz Vmwvwxyz Egypt 101 Chickenpox YES 6-8-615

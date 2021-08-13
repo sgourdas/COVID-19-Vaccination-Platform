@@ -1,0 +1,21 @@
+6430 Pceklmnopqrs Rkjmnopqrstu Denmark 55 Hib NO 2-10-7427
+7403 Yzipqrstuvwx Dbpabcdefghi Denmark 103 Diphtheria YES 11-4-7830
+2378 Lxzfghijklmn Aqcrstuvwxyz Denmark 95 Rotavirus NO
+5067 Ujmbcdefghij Cjiuvwxyz Denmark 9 Rotavirus NO 23-12-8475
+685 Irrklmnopqrs Vlvuvwxyz Denmark 55 HepatitisA YES 15-5-2261
+5320 Kuuopqrstuvw Ddbpqrstuvwx Denmark 61 Mumps NO
+5620 Kleqrstuvwxy Vtyghijklmno Denmark 7 Rotavirus YES 13-9-4994
+8688 Srelmnopqrst Ktejklmnopqr Denmark 28 Mumps NO
+6091 Utlvwxyz Cihqrstuvwxy Denmark 67 Testovirus YES 22-0-4807
+266 Oyvefghijklm Ddjlmnopqrst Denmark 37 Rubella NO 4-7-5644
+8899 Jmltuvwxyz Uduefghijklm Denmark 83 H1N1 NO 14-7-1680
+9173 Iljstuvwxyz Iepxyz Denmark 26 Testovirus NO
+8189 Eogtuvwxyz Jxfghijklmno Denmark 33 HepatitisB YES 14-1-8937
+6716 Fsshijklmnop Uftnopqrstuv Denmark 10 Rubella NO 15-5-693
+9599 Oujstuvwxyz Uwwnopqrstuv Denmark 102 Mumps NO
+5958 Slbjklmnopqr Tlnbcdefghij Denmark 55 Testovirus YES 1-2-1793
+1932 Ixmghijklmno Vtvcdefghijk Denmark 52 TheFlu NO
+2547 Myqrstuvwxyz Edvmnopqrstu Denmark 88 Rotavirus YES 9-2-4189
+4223 Lstfghijklmn Lpjvwxyz Denmark 8 Varicella NO
+8906 Sikfghijklmn Mzftuvwxyz Denmark 52 COVID19 YES 0-7-7896
+7933 Epjtuvwxyz Yaevwxyz Denmark 102 Adenovirus NO 8-11-263

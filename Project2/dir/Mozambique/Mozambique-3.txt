@@ -1,0 +1,20 @@
+5885 Lpyopqrstuvw Ncfbcdefghij Mozambique 100 Varicella NO
+6460 Erslmnopqrst Fdrjklmnopqr Mozambique 56 Varicella NO
+9971 Kkvyz Hjdfghijklmn Mozambique 89 Rubella NO 9-10-6534
+8404 Swhjklmnopqr Lsejklmnopqr Mozambique 68 Tuberculosis NO
+1504 Lkrpqrstuvwx Dtqvwxyz Mozambique 104 SARS1 NO
+2684 Fcgjklmnopqr Bbjvwxyz Mozambique 8 Testovirus YES 2-11-3391
+2392 Uslghijklmno Whqvwxyz Mozambique 8 Mumps NO 10-11-5475
+4237 Zqedefghijkl Yhmghijklmno Mozambique 68 HepatitisB YES 23-5-6913
+220 Mojijklmnopq Upbklmnopqrs Mozambique 115 Testovirus YES 30-4-3305
+4839 Fpsbcdefghij Umfhijklmnop Mozambique 8 COVID19 YES 3-11-4169
+4422 Zejmnopqrstu Zbvwxyz Mozambique 26 H1N1 NO 8-8-8964
+3032 Gmnghijklmno Gzyopqrstuvw Mozambique 33 Adenovirus NO
+7492 Hwctuvwxyz Mskqrstuvwxy Mozambique 18 Rubella YES 28-10-9461
+2507 Lpastuvwxyz Nmcpqrstuvwx Mozambique 97 Tuberculosis NO
+971 Ezhstuvwxyz Avlijklmnopq Mozambique 2 TheFlu YES 12-6-2305
+8651 Jwdrstuvwxyz Btrmnopqrstu Mozambique 119 COVID19 NO 25-8-9063
+573 Yjlklmnopqrs Bzsjklmnopqr Mozambique 21 Hib YES 15-0-5571
+7501 Vhkijklmnopq Qafhijklmnop Mozambique 112 Varicella NO 13-1-480
+8439 Kqzxyz Difwxyz Mozambique 73 Rotavirus NO 2-0-385
+5643 Vrhbcdefghij Duqstuvwxyz Mozambique 98 SARS1 YES 1-5-1487

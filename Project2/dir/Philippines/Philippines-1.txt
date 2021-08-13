@@ -1,0 +1,25 @@
+2702 Wzruvwxyz Dvuyz Philippines 115 H1N1 YES 3-2-6237
+5593 Nphuvwxyz Hozstuvwxyz Philippines 50 TheFlu YES 18-0-9608
+6369 Ntolmnopqrst Ohddefghijkl Philippines 70 Testovirus NO 15-1-1538
+5267 Nlxfghijklmn Ngnbcdefghij Philippines 3 TheFlu NO 19-2-116
+5702 Vpgopqrstuvw Tupopqrstuvw Philippines 34 COVID19 YES 18-6-5295
+3726 Serghijklmno Ghrstuvwxyz Philippines 36 Adenovirus NO 1-9-3013
+3976 Mponopqrstuv Cvgrstuvwxyz Philippines 111 HepatitisA NO 21-4-8421
+4945 Czkyz Zyystuvwxyz Philippines 116 Adenovirus NO
+5665 Fnsopqrstuvw Capmnopqrstu Philippines 55 Chickenpox NO 21-8-4246
+8556 Fgrxyz Jufmnopqrstu Philippines 30 Hib YES 5-0-7937
+3741 Bhsopqrstuvw Kxlhijklmnop Philippines 9 Tetanus NO
+1564 Zdqyz Mhhcdefghijk Philippines 93 Polio NO 23-4-7370
+4060 Chgyz Ajnijklmnopq Philippines 38 Rubella NO
+4708 Urnstuvwxyz Jagrstuvwxyz Philippines 35 Varicella NO
+8771 Kqcvwxyz Gaiz Philippines 80 Testovirus NO
+1214 Fkpcdefghijk Dklstuvwxyz Philippines 115 COVID19 YES 13-3-6063
+773 Ceyuvwxyz Lrvklmnopqrs Philippines 70 TheFlu YES 3-6-861
+4502 Dhkcdefghijk Ncltuvwxyz Philippines 82 Polio YES 18-9-6092
+4722 Ohkabcdefghi Orkmnopqrstu Philippines 43 H1N1 NO
+7412 Kuiwxyz Ubprstuvwxyz Philippines 64 Hib NO
+661 Lblz Iepklmnopqrs Philippines 91 SARS1 YES 8-12-2254
+3432 Wdddefghijkl Pbtcdefghijk Philippines 2 Adenovirus YES 12-9-1514
+8839 Nqulmnopqrst Rzqefghijklm Philippines 8 Polio YES 1-2-3467
+4646 Gobyz Otmghijklmno Philippines 23 Rubella NO 18-12-8811
+2779 Rymyz Zeprstuvwxyz Philippines 64 Rotavirus NO

@@ -1,0 +1,19 @@
+7127 Hgpopqrstuvw Hgtdefghijkl Gabon 58 Adenovirus NO 18-9-7198
+282 Cvfnopqrstuv Idyghijklmno Gabon 92 Tetanus YES 28-12-7122
+3336 Dngqrstuvwxy Kultuvwxyz Gabon 48 Polio YES 20-10-9388
+587 Feprstuvwxyz Ksgwxyz Gabon 120 H1N1 YES 9-3-7758
+4215 Ahwnopqrstuv Wvcklmnopqrs Gabon 69 Rubella YES 17-3-5948
+9755 Xbqjklmnopqr Lambcdefghij Gabon 116 HepatitisA NO 1-5-8802
+3522 Scgbcdefghij Epiwxyz Gabon 43 Diphtheria NO
+5859 Zgyklmnopqrs Oyrlmnopqrst Gabon 108 Rotavirus YES 26-11-8493
+588 Pclstuvwxyz Shbuvwxyz Gabon 13 COVID19 YES 15-8-1890
+2924 Akqpqrstuvwx Xkaxyz Gabon 50 Testovirus YES 26-9-2549
+6864 Gqpfghijklmn Ivwopqrstuvw Gabon 109 H1N1 NO
+695 Weuijklmnopq Gpfrstuvwxyz Gabon 92 Varicella YES 6-11-6885
+6307 Wddijklmnopq Puxxyz Gabon 80 Tetanus NO 15-9-2624
+6341 Lrpyz Btfz Gabon 58 Chickenpox YES 5-11-1737
+629 Dvsijklmnopq Ckarstuvwxyz Gabon 66 Polio NO
+9946 Scfbcdefghij Bbmbcdefghij Gabon 54 HepatitisA YES 3-9-5410
+4238 Putnopqrstuv Oodhijklmnop Gabon 50 Tetanus NO
+5996 Bwhdefghijkl Txgfghijklmn Gabon 80 Varicella NO
+775 Unfijklmnopq Loanopqrstuv Gabon 107 Mumps NO

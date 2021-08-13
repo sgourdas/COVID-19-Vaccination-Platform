@@ -1,0 +1,21 @@
+1630 Mtcefghijklm Ifwz Greece 33 H1N1 YES 27-7-2195
+2106 Wcltuvwxyz Qmpxyz Greece 47 TheFlu YES 18-5-8973
+4941 Gcgefghijklm Xhddefghijkl Greece 55 HepatitisB NO
+8547 Fpjdefghijkl Vaehijklmnop Greece 6 HepatitisB YES 9-3-2406
+7074 Jgvstuvwxyz Iguuvwxyz Greece 96 Testovirus NO
+9930 Fwrxyz Exmcdefghijk Greece 105 Mumps NO
+411 Rpxvwxyz Byhqrstuvwxy Greece 76 Rotavirus NO 21-5-6643
+4255 Gnkhijklmnop Duhfghijklmn Greece 71 Tuberculosis YES 17-7-1642
+2158 Hqqbcdefghij Cqncdefghijk Greece 32 HepatitisB NO
+1425 Cuzvwxyz Uioijklmnopq Greece 38 SARS1 NO 24-4-1859
+2163 Inkxyz Eamijklmnopq Greece 76 HepatitisB NO
+2426 Fcdfghijklmn Eqvopqrstuvw Greece 56 Diphtheria NO 21-5-1233
+7036 Hzpfghijklmn Irbz Greece 105 TheFlu YES 24-11-8499
+6560 Xddghijklmno Osltuvwxyz Greece 112 HepatitisB NO
+4020 Gyxopqrstuvw Ntyefghijklm Greece 51 Testovirus NO 30-9-5977
+8794 Tkmwxyz Eqnwxyz Greece 96 Tetanus NO
+4775 Kvymnopqrstu Mogyz Greece 48 Polio NO 18-1-9030
+7423 Sziuvwxyz Alxcdefghijk Greece 69 Hib YES 21-1-2753
+9064 Xafdefghijkl Ehucdefghijk Greece 37 Adenovirus NO
+3579 Fbbijklmnopq Nzmcdefghijk Greece 100 Tetanus YES 15-10-2168
+5585 Lugcdefghijk Otfstuvwxyz Greece 28 HepatitisA NO

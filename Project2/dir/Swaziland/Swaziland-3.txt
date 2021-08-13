@@ -1,0 +1,18 @@
+5935 Kpmmnopqrstu Uymfghijklmn Swaziland 75 COVID19 NO 30-4-5591
+7094 Ubfjklmnopqr Frlopqrstuvw Swaziland 86 Testovirus NO 25-4-6236
+7828 Wkgpqrstuvwx Kmhefghijklm Swaziland 24 Hib YES 14-12-4930
+2238 Yutmnopqrstu Pedefghijklm Swaziland 74 HepatitisA YES 5-1-6698
+9518 Wamjklmnopqr Khuefghijklm Swaziland 40 Polio NO
+9097 Nxuuvwxyz Ehituvwxyz Swaziland 57 COVID19 NO 14-11-9841
+2559 Dkoyz Fxfopqrstuvw Swaziland 120 Varicella NO
+4257 Bxylmnopqrst Vnqcdefghijk Swaziland 100 Polio NO 11-5-4613
+3468 Mhkuvwxyz Jtqstuvwxyz Swaziland 91 Hib NO
+5714 Tbecdefghijk Cbldefghijkl Swaziland 95 HepatitisA NO
+8373 Xppz Ljiijklmnopq Swaziland 98 HepatitisA YES 16-10-2025
+6573 Dbghijklmnop Ovcdefghijkl Swaziland 70 Chickenpox NO 25-7-9636
+6758 Msmtuvwxyz Ejjbcdefghij Swaziland 65 COVID19 NO 20-4-1340
+6955 Jnfklmnopqrs Aitfghijklmn Swaziland 65 Testovirus NO 25-1-371
+7044 Ojftuvwxyz Qzkcdefghijk Swaziland 91 Polio NO
+7710 Rbzqrstuvwxy Fgrlmnopqrst Swaziland 92 Tuberculosis NO
+1799 Kpkwxyz Gdruvwxyz Swaziland 75 HepatitisA YES 18-10-9834
+9050 Yeapqrstuvwx Nltuvwxyz Swaziland 116 H1N1 YES 9-4-1119

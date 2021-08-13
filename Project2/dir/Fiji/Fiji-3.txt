@@ -1,0 +1,23 @@
+5005 Puiklmnopqrs Osoefghijklm Fiji 85 Hib YES 23-6-9732
+1793 Bkndefghijkl Qtzpqrstuvwx Fiji 109 HepatitisB NO
+4403 Ntxstuvwxyz Aegstuvwxyz Fiji 31 Hib NO 23-9-2391
+2219 Xlgjklmnopqr Kdituvwxyz Fiji 108 Varicella YES 27-2-8555
+9727 Dyxpqrstuvwx Qcifghijklmn Fiji 42 Rubella YES 20-11-2894
+2249 Cibbcdefghij Eicnopqrstuv Fiji 19 Diphtheria YES 17-0-7095
+4243 Gseijklmnopq Ufpnopqrstuv Fiji 114 Hib NO 29-11-4299
+878 Bjmyz Zsrqrstuvwxy Fiji 117 Rotavirus YES 9-0-147
+5646 Gasdefghijkl Aonuvwxyz Fiji 75 TheFlu YES 19-1-8568
+5171 Rapmnopqrstu Csvtuvwxyz Fiji 52 Adenovirus NO
+5470 Deiklmnopqrs Wljfghijklmn Fiji 76 Chickenpox NO
+7317 Igsklmnopqrs Opiyz Fiji 13 HepatitisA NO
+7048 Vznvwxyz Ovlstuvwxyz Fiji 80 COVID19 YES 0-10-9866
+5568 Aistuvwxyz Ryqijklmnopq Fiji 57 Rotavirus NO
+6076 Rzmvwxyz Yvuqrstuvwxy Fiji 120 HepatitisB NO
+2552 Alsijklmnopq Eqzijklmnopq Fiji 114 HepatitisA YES 12-2-2736
+8100 Wnscdefghijk Zpez Fiji 3 Hib NO 30-12-7014
+7147 Eebmnopqrstu Zqicdefghijk Fiji 74 Chickenpox YES 11-0-1552
+7821 Jhqopqrstuvw Dtdyz Fiji 34 COVID19 NO
+9346 Quqnopqrstuv Sdqmnopqrstu Fiji 34 Chickenpox NO
+223 Asorstuvwxyz Gcftuvwxyz Fiji 97 COVID19 YES 11-9-1754
+6470 Eckstuvwxyz Smlwxyz Fiji 6 Hib YES 4-12-2616
+405 Fzerstuvwxyz Atrstuvwxyz Fiji 103 HepatitisB NO 30-10-1433

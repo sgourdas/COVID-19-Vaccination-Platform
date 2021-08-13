@@ -1,0 +1,19 @@
+7381 Nsdefghijklm Qfistuvwxyz Netherlands 89 H1N1 NO
+7575 Jliefghijklm Qucxyz Netherlands 45 Mumps NO
+1760 Afmz Gnwabcdefghi Netherlands 96 Chickenpox NO 12-10-1625
+4957 Zcmdefghijkl Ivkz Netherlands 109 H1N1 NO 14-4-2544
+8790 Iqpxyz Jdwpqrstuvwx Netherlands 56 H1N1 YES 21-9-6165
+6843 Sqzefghijklm Oaqghijklmno Netherlands 89 Polio YES 16-12-5187
+5162 Frsyz Xvkz Netherlands 13 Rotavirus NO 19-2-1029
+3969 Tyqabcdefghi Eqlyz Netherlands 37 Hib YES 7-10-8281
+7179 Qifwxyz Csidefghijkl Netherlands 85 Hib NO
+3001 Jvvmnopqrstu Ombuvwxyz Netherlands 68 Mumps YES 19-3-881
+104 Eanvwxyz Caeuvwxyz Netherlands 114 COVID19 NO
+9167 Gnzjklmnopqr Lqypqrstuvwx Netherlands 49 Tuberculosis NO
+5071 Oskvwxyz Hgqghijklmno Netherlands 89 Testovirus YES 7-11-7637
+6838 Sbztuvwxyz Coxefghijklm Netherlands 108 SARS1 YES 26-2-3876
+4795 Dlvstuvwxyz Djwyz Netherlands 86 Polio NO
+5871 Lvevwxyz Lvctuvwxyz Netherlands 112 Tuberculosis YES 21-1-5623
+400 Rttwxyz Aqoz Netherlands 40 Mumps NO 18-6-3642
+8130 Mdnxyz Rcarstuvwxyz Netherlands 14 Mumps NO
+5148 Ypmlmnopqrst Paubcdefghij Netherlands 69 Rubella NO

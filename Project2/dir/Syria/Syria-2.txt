@@ -1,0 +1,25 @@
+9700 Bqquvwxyz Yvjstuvwxyz Syria 40 Hib YES 15-0-2639
+887 Mbhdefghijkl Hxudefghijkl Syria 106 Mumps YES 21-10-9963
+45 Lfcstuvwxyz Ibsvwxyz Syria 20 Mumps YES 8-11-6955
+650 Uaahijklmnop Wqcrstuvwxyz Syria 94 Testovirus NO 24-7-7283
+7178 Pktopqrstuvw Ndbyz Syria 78 HepatitisB YES 14-7-504
+427 Lvluvwxyz Iukuvwxyz Syria 67 SARS1 YES 4-2-8366
+8265 Hdohijklmnop Qisklmnopqrs Syria 51 HepatitisB YES 30-3-4222
+9219 Yfmyz Wtkwxyz Syria 49 HepatitisA YES 12-5-4398
+6650 Htpdefghijkl Vmsdefghijkl Syria 16 Rubella NO 5-3-1553
+3834 Bjzopqrstuvw Oojhijklmnop Syria 119 COVID19 YES 3-10-5164
+3816 Cnrtuvwxyz Lczbcdefghij Syria 38 SARS1 NO 5-11-9769
+5561 Slqxyz Igapqrstuvwx Syria 75 Varicella NO
+8275 Dodefghijklm Ziayz Syria 39 Hib NO
+1301 Pqropqrstuvw Gpzrstuvwxyz Syria 2 HepatitisB NO 7-6-4557
+5389 Lkyghijklmno Tkflmnopqrst Syria 48 Varicella NO 27-10-624
+9941 Hkdjklmnopqr Hcrnopqrstuv Syria 104 Testovirus YES 25-7-2782
+1395 Khndefghijkl Wgnhijklmnop Syria 42 TheFlu NO
+1982 Snhpqrstuvwx Lqbvwxyz Syria 120 Tetanus YES 30-1-2790
+9543 Nasxyz Gclijklmnopq Syria 53 Diphtheria YES 5-0-9733
+61 Xklklmnopqrs Fgystuvwxyz Syria 73 Diphtheria NO 4-8-6298
+6948 Qjuxyz Oudbcdefghij Syria 115 Chickenpox YES 10-2-8475
+854 Ycqijklmnopq Nggijklmnopq Syria 89 Tuberculosis YES 23-8-3683
+1256 Rgdlmnopqrst Jjdbcdefghij Syria 50 H1N1 NO 23-8-8830
+4796 Dkccdefghijk Zipxyz Syria 74 HepatitisB YES 15-3-6961
+3343 Czsklmnopqrs Fatstuvwxyz Syria 75 H1N1 NO

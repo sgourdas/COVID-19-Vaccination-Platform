@@ -1,0 +1,22 @@
+4571 Caqfghijklmn Eekbcdefghij Luxembourg 32 SARS1 NO 7-12-5527
+815 Hfhmnopqrstu Rzyopqrstuvw Luxembourg 28 COVID19 NO 27-9-7816
+1432 Lmzz Gqzjklmnopqr Luxembourg 104 HepatitisA NO
+4492 Ktwnopqrstuv Luwrstuvwxyz Luxembourg 64 Polio YES 2-2-7282
+4284 Hrtcdefghijk Wtscdefghijk Luxembourg 113 Rotavirus YES 30-6-9125
+1344 Auppqrstuvwx Ukyopqrstuvw Luxembourg 102 Diphtheria YES 7-0-3952
+336 Mamfghijklmn Btdefghijklm Luxembourg 43 Adenovirus NO
+371 Mrqijklmnopq Ufymnopqrstu Luxembourg 119 SARS1 YES 5-9-2157
+8555 Frmbcdefghij Xtvxyz Luxembourg 88 Tuberculosis YES 19-6-2110
+2854 Ywhwxyz Hkeopqrstuvw Luxembourg 11 HepatitisB NO
+6619 Hzgwxyz Sicwxyz Luxembourg 9 Varicella NO
+8413 Fjzlmnopqrst Vnkyz Luxembourg 62 Chickenpox NO 0-9-2312
+2968 Izsvwxyz Kulxyz Luxembourg 25 Mumps NO 0-1-3102
+9624 Xgtlmnopqrst Mnldefghijkl Luxembourg 35 Rotavirus NO
+5970 Aelhijklmnop Xavwxyz Luxembourg 46 Adenovirus NO
+7068 Edzrstuvwxyz Ldwhijklmnop Luxembourg 1 Rotavirus NO
+1006 Drywxyz Hogyz Luxembourg 39 Hib YES 15-3-5511
+2838 Eytlmnopqrst Rwrijklmnopq Luxembourg 55 H1N1 NO 16-11-2035
+7426 Mqcwxyz Fleabcdefghi Luxembourg 36 Tuberculosis YES 29-12-2698
+918 Ziotuvwxyz Nwkefghijklm Luxembourg 47 Hib YES 6-4-1379
+2333 Razpqrstuvwx Ljopqrstuvwx Luxembourg 107 Polio YES 30-0-8566
+160 Esamnopqrstu Zbyxyz Luxembourg 47 Hib NO 16-0-38

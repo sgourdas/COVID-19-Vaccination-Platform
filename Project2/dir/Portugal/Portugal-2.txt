@@ -1,0 +1,19 @@
+9436 Bmtxyz Eqgyz Portugal 59 Rubella YES 8-8-2925
+6939 Adtnopqrstuv Sorwxyz Portugal 31 Chickenpox NO
+1017 Lcjxyz Gwzopqrstuvw Portugal 119 Polio NO 0-3-4448
+8370 Wkbabcdefghi Nhutuvwxyz Portugal 31 Varicella YES 0-4-360
+6157 Hxzghijklmno Pbtlmnopqrst Portugal 75 TheFlu YES 13-2-3344
+3439 Twacdefghijk Pnxvwxyz Portugal 47 Mumps YES 6-1-477
+5741 Tpqghijklmno Wamz Portugal 78 Mumps YES 8-3-3218
+4677 Opfabcdefghi Znhefghijklm Portugal 107 SARS1 NO 20-0-5822
+3982 Gicyz Tpyhijklmnop Portugal 41 TheFlu YES 4-11-2875
+1325 Ormklmnopqrs Zoeklmnopqrs Portugal 74 COVID19 NO
+1461 Jwcqrstuvwxy Mctopqrstuvw Portugal 108 HepatitisA NO
+6171 Xxwhijklmnop Ystlmnopqrst Portugal 93 Varicella NO 25-1-7398
+9592 Uydklmnopqrs Kndopqrstuvw Portugal 61 Tetanus YES 9-1-2523
+7476 Rjztuvwxyz Mifghijklmno Portugal 26 SARS1 YES 27-2-8797
+5080 Rialmnopqrst Namnopqrstuv Portugal 16 Tuberculosis YES 17-6-1961
+9202 Ymyz Zbrbcdefghij Portugal 71 Adenovirus NO
+6253 Igmstuvwxyz Xrrjklmnopqr Portugal 98 Tetanus YES 1-3-9753
+6855 Njmklmnopqrs Zpoopqrstuvw Portugal 86 TheFlu NO 14-8-3445
+5070 Xufijklmnopq Bjpdefghijkl Portugal 1 Tuberculosis YES 12-11-4142

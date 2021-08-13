@@ -1,0 +1,14 @@
+2360 Dztghijklmno Hibwxyz Burundi 48 Tuberculosis NO 20-0-7615
+1252 Qoouvwxyz Rzpwxyz Burundi 9 Mumps NO
+5357 Mlbuvwxyz Orkz Burundi 72 SARS1 YES 26-1-3161
+1323 Knzghijklmno Ggcghijklmno Burundi 27 Mumps YES 25-3-8003
+6230 Yxaqrstuvwxy Ivawxyz Burundi 43 Rotavirus NO
+380 Gdldefghijkl Yibtuvwxyz Burundi 120 Rubella NO
+7141 Nrrrstuvwxyz Vysxyz Burundi 43 H1N1 YES 18-12-5929
+1382 Stiuvwxyz Tbanopqrstuv Burundi 32 TheFlu YES 19-6-2069
+1877 Gllijklmnopq Qenijklmnopq Burundi 61 Rotavirus YES 27-2-8710
+251 Yvzjklmnopqr Ijjopqrstuvw Burundi 26 Hib YES 18-11-2800
+7115 Apdyz Eqffghijklmn Burundi 120 Polio YES 26-8-3750
+8902 Hchdefghijkl Nagjklmnopqr Burundi 50 Diphtheria YES 15-3-5201
+7055 Vtnmnopqrstu Elwklmnopqrs Burundi 29 Varicella YES 2-3-5512
+9259 Cyjmnopqrstu Pdostuvwxyz Burundi 87 HepatitisB NO 18-5-8269

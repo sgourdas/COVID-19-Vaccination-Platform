@@ -1,0 +1,26 @@
+1316 Oclvwxyz Axhlmnopqrst Bolivia 70 Hib NO
+5311 Iyhghijklmno Exnz Bolivia 97 Varicella NO
+2481 Tqiuvwxyz Eiestuvwxyz Bolivia 20 Testovirus YES 12-9-2084
+2133 Ppwfghijklmn Muqijklmnopq Bolivia 83 Rubella NO
+755 Wmjvwxyz Bgmlmnopqrst Bolivia 8 Varicella NO
+2668 Llntuvwxyz Hoinopqrstuv Bolivia 60 H1N1 YES 29-2-6934
+6185 Vlchijklmnop Pejbcdefghij Bolivia 42 HepatitisB NO
+6248 Lcjxyz Cppopqrstuvw Bolivia 11 Rotavirus YES 3-3-17
+6388 Yiituvwxyz Ystlmnopqrst Bolivia 70 Tetanus NO 27-12-5960
+5516 Zffhijklmnop Htuefghijklm Bolivia 24 Rotavirus NO 0-6-5538
+1640 Exbstuvwxyz Beuxyz Bolivia 83 Rotavirus YES 30-12-6725
+4684 Lhebcdefghij Txwpqrstuvwx Bolivia 39 HepatitisB YES 22-12-5463
+958 Hujxyz Vepefghijklm Bolivia 76 HepatitisA NO 18-11-5996
+2453 Aaxfghijklmn Nbez Bolivia 14 Rotavirus YES 2-12-6558
+2625 Wzfpqrstuvwx Ogppqrstuvwx Bolivia 111 Varicella YES 29-6-7759
+2934 Kviefghijklm Tsvbcdefghij Bolivia 8 TheFlu NO
+8801 Zuiopqrstuvw Trfdefghijkl Bolivia 10 Rubella NO
+3800 Fkccdefghijk Yqmcdefghijk Bolivia 38 Chickenpox NO
+3573 Zupyz Qgsghijklmno Bolivia 13 Varicella NO
+8009 Sahghijklmno Zraefghijklm Bolivia 74 TheFlu YES 6-7-991
+6538 Hocqrstuvwxy Iakhijklmnop Bolivia 37 HepatitisA YES 3-4-1702
+503 Uddvwxyz Zmqhijklmnop Bolivia 95 TheFlu NO
+9647 Svcfghijklmn Icmdefghijkl Bolivia 5 Mumps NO 13-7-2501
+2315 Ajefghijklmn Cyrklmnopqrs Bolivia 14 Diphtheria YES 25-4-146
+9281 Oizstuvwxyz Ealijklmnopq Bolivia 42 Testovirus YES 30-10-6207
+2912 Pzxvwxyz Bevbcdefghij Bolivia 104 Rotavirus NO 20-9-2621

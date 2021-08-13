@@ -1,0 +1,18 @@
+1615 Veqwxyz Bkcfghijklmn Sudan 113 COVID19 NO
+5074 Ezarstuvwxyz Suvqrstuvwxy Sudan 6 Rotavirus NO
+2351 Mvzefghijklm Cgsopqrstuvw Sudan 31 Testovirus NO
+5776 Xnbabcdefghi Grqhijklmnop Sudan 112 Mumps YES 0-6-9883
+2058 Vbdxyz Gjlqrstuvwxy Sudan 24 COVID19 NO
+7142 Wmvvwxyz Wdwpqrstuvwx Sudan 47 Hib YES 24-12-3953
+2877 Ncwabcdefghi Vcdnopqrstuv Sudan 34 Tetanus NO
+5036 Qwlvwxyz Cqdstuvwxyz Sudan 33 Polio YES 10-4-9431
+7088 Apyxyz Cpgwxyz Sudan 42 Chickenpox YES 19-8-7487
+2670 Vftfghijklmn Bnncdefghijk Sudan 97 Rotavirus YES 16-0-9274
+7916 Soaghijklmno Svdvwxyz Sudan 115 Tetanus YES 25-2-3135
+3462 Jxzyz Wtauvwxyz Sudan 26 Rubella YES 6-3-9302
+6427 Nacyz Pmywxyz Sudan 27 Rubella NO
+5806 Wdcpqrstuvwx Fxddefghijkl Sudan 69 SARS1 YES 26-6-9738
+5205 Daeijklmnopq Bivpqrstuvwx Sudan 120 TheFlu NO 19-11-9692
+4780 Ckrnopqrstuv Riluvwxyz Sudan 7 Rubella YES 7-7-157
+8977 Fcuwxyz Swomnopqrstu Sudan 82 Adenovirus YES 13-7-6851
+4345 Mphuvwxyz Sedrstuvwxyz Sudan 71 COVID19 NO 22-0-2526

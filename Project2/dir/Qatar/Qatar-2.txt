@@ -1,0 +1,23 @@
+625 Myvtuvwxyz Tiyhijklmnop Qatar 42 Tetanus YES 30-9-6133
+3393 Xfnstuvwxyz Scsstuvwxyz Qatar 96 Hib YES 28-10-9051
+1561 Yduhijklmnop Edujklmnopqr Qatar 25 HepatitisB YES 13-11-6867
+1818 Pdltuvwxyz Oxbmnopqrstu Qatar 11 HepatitisB YES 1-6-9066
+4876 Dszstuvwxyz Fhzghijklmno Qatar 66 Polio NO
+6794 Wgwmnopqrstu Zmufghijklmn Qatar 17 COVID19 YES 23-6-1692
+9413 Pjaabcdefghi Uzwbcdefghij Qatar 52 Tuberculosis NO
+8182 Lgiabcdefghi Qkyopqrstuvw Qatar 31 Tetanus NO
+6370 Fzeuvwxyz Ydwhijklmnop Qatar 67 Tuberculosis YES 27-7-4679
+1819 Heiopqrstuvw Rfcwxyz Qatar 15 TheFlu YES 25-5-7880
+2024 Xcclmnopqrst Jpktuvwxyz Qatar 5 Tetanus YES 27-4-2847
+4201 Uknopqrstuvw Dayuvwxyz Qatar 39 Rotavirus NO 23-5-3504
+834 Vseklmnopqrs Pvostuvwxyz Qatar 49 COVID19 NO
+5435 Vzxghijklmno Okbghijklmno Qatar 109 H1N1 YES 23-12-7924
+9688 Dciqrstuvwxy Pilabcdefghi Qatar 42 Adenovirus NO 19-0-7675
+5415 Qnqlmnopqrst Xiaijklmnopq Qatar 19 SARS1 YES 18-5-9457
+4274 Acymnopqrstu Fdpabcdefghi Qatar 68 Diphtheria YES 6-6-4754
+7882 Kmvlmnopqrst Vobefghijklm Qatar 12 HepatitisA YES 24-0-3426
+4831 Znoijklmnopq Mwsmnopqrstu Qatar 23 Hib YES 8-0-2828
+3900 Kmcbcdefghij Cgbvwxyz Qatar 24 SARS1 NO
+8874 Pmqdefghijkl Sxhlmnopqrst Qatar 85 Mumps YES 20-0-4810
+4114 Zchstuvwxyz Jhduvwxyz Qatar 47 Tuberculosis NO 18-4-1037
+6346 Mmonopqrstuv Nsestuvwxyz Qatar 44 SARS1 NO 8-3-2961

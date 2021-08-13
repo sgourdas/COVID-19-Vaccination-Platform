@@ -1,0 +1,20 @@
+8311 Aurfghijklmn Ddjbcdefghij Zambia 116 COVID19 YES 22-7-1226
+4875 Bvydefghijkl Gvgyz Zambia 26 COVID19 YES 21-0-4543
+9481 Bibefghijklm Qjastuvwxyz Zambia 33 Adenovirus NO
+765 Nuaghijklmno Rkwmnopqrstu Zambia 77 Polio NO
+458 Elrcdefghijk Yvctuvwxyz Zambia 24 TheFlu YES 3-7-2938
+2911 Dfefghijklmn Nrnlmnopqrst Zambia 74 HepatitisB NO
+5445 Pjeuvwxyz Zgvefghijklm Zambia 45 Tuberculosis NO
+231 Snnghijklmno Rbgpqrstuvwx Zambia 98 Diphtheria NO
+7838 Occhijklmnop Ptwrstuvwxyz Zambia 113 TheFlu YES 21-10-986
+4706 Zicjklmnopqr Vdkijklmnopq Zambia 15 Hib YES 8-6-2950
+6454 Zfdnopqrstuv Ngwwxyz Zambia 80 Tetanus YES 15-9-873
+3771 Lgoabcdefghi Tqjlmnopqrst Zambia 107 Tetanus YES 12-6-1374
+6392 Wzewxyz Vbtyz Zambia 34 Varicella YES 28-6-1675
+975 Njzlmnopqrst Utgvwxyz Zambia 40 Tetanus YES 1-6-6901
+4040 Jhybcdefghij Iixghijklmno Zambia 22 SARS1 YES 3-0-6452
+6267 Nsvhijklmnop Qelmnopqrstu Zambia 52 Varicella NO
+8936 Pybefghijklm Qjcghijklmno Zambia 39 H1N1 YES 17-10-5697
+3261 Ccjjklmnopqr Ijfijklmnopq Zambia 78 Tuberculosis NO
+8957 Hujvwxyz Mnzhijklmnop Zambia 11 Mumps NO
+1408 Mzbbcdefghij Qkduvwxyz Zambia 93 Testovirus YES 2-7-2806

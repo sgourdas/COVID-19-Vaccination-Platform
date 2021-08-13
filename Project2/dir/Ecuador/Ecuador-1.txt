@@ -1,0 +1,19 @@
+3785 Wtytuvwxyz Mohdefghijkl Ecuador 64 H1N1 NO
+8513 Xcfxyz Xvaabcdefghi Ecuador 4 TheFlu NO 26-0-5299
+6679 Epkbcdefghij Lkalmnopqrst Ecuador 3 Tetanus NO 3-9-9291
+1328 Gvmghijklmno Dwgpqrstuvwx Ecuador 28 SARS1 YES 20-1-3818
+546 Esodefghijkl Engbcdefghij Ecuador 115 HepatitisB NO
+7811 Fhswxyz Gveklmnopqrs Ecuador 49 Hib NO
+7914 Wvycdefghijk Selcdefghijk Ecuador 106 Varicella NO
+29 Ynfbcdefghij Gymcdefghijk Ecuador 108 Chickenpox NO 12-7-2538
+418 Jkgyz Kmzjklmnopqr Ecuador 83 Adenovirus YES 28-3-6068
+341 Wxqyz Fezijklmnopq Ecuador 40 Polio YES 10-11-1221
+1916 Pcejklmnopqr Nlxnopqrstuv Ecuador 73 SARS1 NO 19-6-1102
+9453 Yowabcdefghi Dupklmnopqrs Ecuador 23 TheFlu NO
+6582 Cjxpqrstuvwx Qcxwxyz Ecuador 68 Mumps YES 22-0-5191
+4693 Fvnstuvwxyz Jqfbcdefghij Ecuador 61 HepatitisA YES 17-8-2427
+7006 Ysibcdefghij Vlyfghijklmn Ecuador 88 Rubella YES 13-2-9961
+2947 Umiqrstuvwxy Rfdghijklmno Ecuador 115 SARS1 NO
+4030 Upnbcdefghij Djgz Ecuador 111 Hib NO
+6656 Ddistuvwxyz Gdjz Ecuador 46 Tetanus NO 8-12-169
+5795 Bgnpqrstuvwx Zeastuvwxyz Ecuador 80 Diphtheria NO 16-1-7067

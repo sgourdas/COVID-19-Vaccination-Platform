@@ -1,0 +1,21 @@
+4067 Xyjuvwxyz Djhefghijklm France 90 Diphtheria NO
+4417 Suspqrstuvwx Ktobcdefghij France 49 Rubella NO
+1322 Rvdjklmnopqr Gynhijklmnop France 37 HepatitisA YES 7-2-1152
+752 Jhxuvwxyz Hrkpqrstuvwx France 13 HepatitisA YES 25-1-7320
+1629 Pscyz Qvsopqrstuvw France 69 SARS1 NO 11-6-6123
+3318 Horstuvwxyz Cogwxyz France 24 Rotavirus NO 9-12-2953
+5439 Uqsrstuvwxyz Mcmopqrstuvw France 21 Adenovirus YES 14-3-301
+3216 Hofqrstuvwxy Koxpqrstuvwx France 34 HepatitisA YES 27-6-4651
+2633 Jtzz Poymnopqrstu France 64 Varicella YES 22-4-193
+3072 Bxcyz Nkanopqrstuv France 68 HepatitisB NO
+8330 Zvanopqrstuv Bjkdefghijkl France 117 COVID19 NO
+4164 Hoijklmnopqr Gcbabcdefghi France 82 H1N1 YES 30-7-8745
+1751 Guivwxyz Tbpbcdefghij France 6 Mumps YES 3-4-6061
+1448 Fcwwxyz Truklmnopqrs France 117 TheFlu NO
+5481 Tjylmnopqrst Gqpklmnopqrs France 72 Polio YES 10-11-5544
+7775 Cidopqrstuvw Kzbcdefghijk France 27 SARS1 NO 21-6-7381
+1414 Vdidefghijkl Rcqyz France 113 Adenovirus NO 7-5-4355
+4384 Jweklmnopqrs Kupefghijklm France 96 Varicella YES 17-0-301
+6921 Ugubcdefghij Hkttuvwxyz France 84 HepatitisA NO 5-10-1356
+6423 Xqsvwxyz Tubfghijklmn France 79 Mumps NO
+2042 Xebjklmnopqr Yihqrstuvwxy France 103 Rotavirus NO

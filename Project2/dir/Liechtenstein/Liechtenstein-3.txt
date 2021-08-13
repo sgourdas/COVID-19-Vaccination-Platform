@@ -1,0 +1,20 @@
+7110 Fbaopqrstuvw Sspdefghijkl Liechtenstein 12 SARS1 YES 29-7-3553
+6312 Yzcijklmnopq Wpjuvwxyz Liechtenstein 58 Rubella NO 4-7-9463
+8864 Ccgghijklmno Mvxijklmnopq Liechtenstein 33 H1N1 YES 20-3-6812
+2194 Vqlefghijklm Ydxyz Liechtenstein 9 TheFlu YES 16-7-8604
+621 Paguvwxyz Irkpqrstuvwx Liechtenstein 117 Tetanus YES 0-9-6899
+8405 Zbmghijklmno Yncopqrstuvw Liechtenstein 18 Varicella NO 9-3-2866
+2773 Tmjuvwxyz Ukmlmnopqrst Liechtenstein 2 Tuberculosis NO
+8348 Gohrstuvwxyz Urscdefghijk Liechtenstein 93 Varicella YES 26-9-6623
+4517 Ebmabcdefghi Enihijklmnop Liechtenstein 10 HepatitisB YES 16-5-8981
+1091 Rloefghijklm Bjsqrstuvwxy Liechtenstein 106 TheFlu NO 0-12-1455
+5915 Findefghijkl Mtdmnopqrstu Liechtenstein 76 SARS1 NO
+9083 Rjlrstuvwxyz Idlstuvwxyz Liechtenstein 54 Rubella NO
+2687 Cctpqrstuvwx Tkqefghijklm Liechtenstein 92 Rubella YES 21-9-5551
+4673 Kjpnopqrstuv Vdzrstuvwxyz Liechtenstein 17 Adenovirus NO 28-7-106
+3073 Otabcdefghij Gagstuvwxyz Liechtenstein 40 Adenovirus NO 16-8-1428
+7289 Mfuvwxyz Zddfghijklmn Liechtenstein 94 HepatitisB NO
+6412 Eiiwxyz Xbmabcdefghi Liechtenstein 78 Tetanus YES 21-0-1132
+9368 Pskcdefghijk Ganuvwxyz Liechtenstein 59 Mumps NO
+2341 Owzuvwxyz Socdefghijkl Liechtenstein 88 Hib YES 18-0-3773
+3789 Cmmtuvwxyz Yvytuvwxyz Liechtenstein 66 Diphtheria NO 1-5-544

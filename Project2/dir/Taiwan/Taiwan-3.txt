@@ -1,0 +1,23 @@
+1507 Xjilmnopqrst Nhzcdefghijk Taiwan 75 Polio YES 18-5-305
+8663 Lxgjklmnopqr Rbcjklmnopqr Taiwan 77 Hib YES 6-4-2426
+8508 Uxnopqrstuvw Oiblmnopqrst Taiwan 105 HepatitisB YES 26-2-882
+8500 Jstfghijklmn Zuhtuvwxyz Taiwan 55 Adenovirus NO 2-4-8750
+4685 Dajwxyz Wmjabcdefghi Taiwan 73 Diphtheria YES 5-3-1113
+2822 Qvsxyz Spyuvwxyz Taiwan 98 Tuberculosis YES 20-9-2519
+6275 Wwrxyz Ftquvwxyz Taiwan 59 Adenovirus NO
+6686 Qkjtuvwxyz Vgfpqrstuvwx Taiwan 74 Testovirus NO 11-8-1406
+3098 Gsyfghijklmn Tajwxyz Taiwan 39 Tetanus NO
+3736 Jdsz Kvujklmnopqr Taiwan 27 Rubella YES 28-12-1549
+7262 Ruijklmnopqr Btxklmnopqrs Taiwan 71 H1N1 NO
+3770 Nccxyz Kbwefghijklm Taiwan 38 Tuberculosis YES 22-4-375
+8559 Kuuefghijklm Zvevwxyz Taiwan 1 Tuberculosis NO
+2002 Zkdklmnopqrs Cwxbcdefghij Taiwan 105 SARS1 NO 10-1-1158
+1347 Clhz Mywefghijklm Taiwan 34 Adenovirus NO
+778 Pcgijklmnopq Rhzefghijklm Taiwan 103 HepatitisB NO
+8610 Lyistuvwxyz Modrstuvwxyz Taiwan 75 Tuberculosis NO 3-8-4112
+6468 Qszfghijklmn Rullmnopqrst Taiwan 7 H1N1 NO
+1481 Fwlghijklmno Gcgmnopqrstu Taiwan 91 Tetanus NO
+6957 Bhqyz Qspwxyz Taiwan 97 HepatitisA YES 1-5-3684
+2342 Ckzhijklmnop Ahcz Taiwan 24 HepatitisA YES 11-2-9638
+2731 Jurrstuvwxyz Gtjpqrstuvwx Taiwan 99 HepatitisA NO
+1371 Oxkfghijklmn Csmz Taiwan 19 Tetanus YES 4-7-3322

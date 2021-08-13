@@ -1,0 +1,24 @@
+3141 Iszklmnopqrs Kakklmnopqrs Bahrain 52 Varicella NO
+8786 Hmgdefghijkl Rpqmnopqrstu Bahrain 36 Testovirus YES 7-2-2644
+2870 Vjfghijklmno Qhaxyz Bahrain 111 Rotavirus YES 1-3-1162
+6104 Jntpqrstuvwx Cdoopqrstuvw Bahrain 93 H1N1 NO
+5965 Ujxcdefghijk Sbgxyz Bahrain 101 Hib YES 29-7-4516
+5835 Ozfuvwxyz Wzmz Bahrain 23 Rotavirus NO 30-10-7660
+608 Ifwyz Qsoqrstuvwxy Bahrain 52 Varicella NO 19-2-7926
+1492 Eaerstuvwxyz Yicvwxyz Bahrain 30 Tetanus NO
+1870 Nrprstuvwxyz Gimfghijklmn Bahrain 92 HepatitisA YES 11-8-3400
+8010 Exmz Plrijklmnopq Bahrain 49 H1N1 YES 29-2-8493
+3100 Eoouvwxyz Snqcdefghijk Bahrain 104 SARS1 NO
+486 Kvyyz Jixrstuvwxyz Bahrain 63 Hib NO 3-5-6760
+8908 Muucdefghijk Tpkklmnopqrs Bahrain 116 Tetanus NO
+218 Jfrwxyz Gsjghijklmno Bahrain 15 H1N1 YES 28-5-4862
+4064 Zikuvwxyz Fyrijklmnopq Bahrain 17 Tetanus NO
+5746 Tdaopqrstuvw Qsevwxyz Bahrain 64 SARS1 YES 24-12-2277
+7445 Tkbghijklmno Ycbvwxyz Bahrain 84 HepatitisB YES 23-2-8164
+7736 Tpistuvwxyz Vlsmnopqrstu Bahrain 101 TheFlu NO
+6164 Ywjvwxyz Ajcxyz Bahrain 34 H1N1 NO 17-10-1293
+4814 Owidefghijkl Zazhijklmnop Bahrain 28 Hib NO
+9185 Vcjopqrstuvw Edyxyz Bahrain 61 Testovirus YES 3-2-5062
+224 Daqcdefghijk Acefghijklmn Bahrain 97 Polio YES 15-0-9813
+3373 Bekrstuvwxyz Qurhijklmnop Bahrain 48 Rubella YES 29-5-3969
+6841 Yjkstuvwxyz Skrabcdefghi Bahrain 56 Polio YES 5-8-2112

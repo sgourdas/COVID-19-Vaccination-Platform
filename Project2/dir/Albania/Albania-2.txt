@@ -1,0 +1,22 @@
+9832 Vopz Mjnyz Albania 110 Mumps YES 0-5-8640
+1374 Lmccdefghijk Ryjmnopqrstu Albania 25 HepatitisB YES 16-9-6495
+7032 Cdemnopqrstu Oivfghijklmn Albania 75 Rotavirus YES 2-11-2405
+9132 Wiaxyz Ycgpqrstuvwx Albania 107 Testovirus NO
+3718 Ogkuvwxyz Ojlklmnopqrs Albania 58 Testovirus NO
+1086 Qqdmnopqrstu Adxqrstuvwxy Albania 38 Rotavirus NO
+3740 Iqituvwxyz Gysuvwxyz Albania 7 Chickenpox NO
+9967 Tyomnopqrstu Kpwopqrstuvw Albania 14 Rotavirus NO 6-10-3514
+6906 Utatuvwxyz Abajklmnopqr Albania 57 Chickenpox YES 1-10-1273
+6745 Pmnstuvwxyz Vmpvwxyz Albania 14 Adenovirus YES 14-11-4576
+7444 Kbxtuvwxyz Ufrxyz Albania 94 TheFlu YES 16-12-398
+6689 Nzwefghijklm Tchyz Albania 9 Tetanus YES 28-2-7411
+5428 Magklmnopqrs Cccqrstuvwxy Albania 90 Rubella YES 16-8-8469
+1102 Pzzyz Yeewxyz Albania 89 HepatitisA YES 1-4-5805
+4320 Cwhstuvwxyz Ffzpqrstuvwx Albania 104 COVID19 YES 5-5-2703
+7883 Tidbcdefghij Xulhijklmnop Albania 46 HepatitisB YES 25-12-4388
+8965 Htdmnopqrstu Ihhabcdefghi Albania 6 Tuberculosis YES 12-2-9010
+4729 Htopqrstuvwx Lnedefghijkl Albania 86 Diphtheria NO 1-3-1458
+2330 Alilmnopqrst Nzdxyz Albania 87 Diphtheria YES 22-1-4266
+6291 Odoyz Tqtefghijklm Albania 39 Adenovirus YES 5-12-7087
+669 Twwfghijklmn Jrgxyz Albania 50 H1N1 YES 5-8-1969
+9279 Ziqz Rusrstuvwxyz Albania 51 Polio NO 28-0-5337

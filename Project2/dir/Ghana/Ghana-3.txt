@@ -1,0 +1,20 @@
+4864 Snchijklmnop Jayefghijklm Ghana 24 Polio NO 26-0-5251
+331 Yaqwxyz Rwhbcdefghij Ghana 104 Adenovirus YES 2-2-4945
+8581 Weftuvwxyz Jbvqrstuvwxy Ghana 87 SARS1 NO
+1775 Qqruvwxyz Mksstuvwxyz Ghana 5 TheFlu NO
+2569 Oeejklmnopqr Kinstuvwxyz Ghana 3 Adenovirus YES 16-8-8141
+9513 Nllyz Xbsrstuvwxyz Ghana 36 Diphtheria NO 22-6-1158
+6542 Yiwhijklmnop Lemlmnopqrst Ghana 103 Chickenpox YES 8-10-4118
+21 Myzklmnopqrs Pxyefghijklm Ghana 2 Rotavirus NO
+6712 Hjiz Ghpghijklmno Ghana 78 Diphtheria YES 25-11-9227
+1920 Pgbvwxyz Thvcdefghijk Ghana 48 Tetanus NO 0-7-1369
+6429 Pjfopqrstuvw Abblmnopqrst Ghana 73 HepatitisB YES 17-4-8467
+5016 Iormnopqrstu Rcofghijklmn Ghana 18 Tuberculosis NO 20-1-2266
+8359 Yatyz Lhibcdefghij Ghana 32 SARS1 NO
+7591 Spcijklmnopq Quxklmnopqrs Ghana 29 Mumps NO
+7288 Ooyabcdefghi Mvvhijklmnop Ghana 67 Chickenpox NO
+8402 Qmdfghijklmn Eiwtuvwxyz Ghana 86 HepatitisB NO 28-8-776
+9883 Ogwhijklmnop Lpfnopqrstuv Ghana 56 Tetanus NO
+2580 Dtoklmnopqrs Mjeklmnopqrs Ghana 9 Tuberculosis NO
+1457 Xwddefghijkl Futwxyz Ghana 81 HepatitisA YES 16-0-7474
+2771 Xosyz Arhmnopqrstu Ghana 59 Polio NO

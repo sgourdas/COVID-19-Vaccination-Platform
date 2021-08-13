@@ -1,0 +1,20 @@
+8201 Mnez Yrcdefghijkl Australia 90 Polio YES 20-9-1594
+8131 Vzbdefghijkl Puduvwxyz Australia 9 Adenovirus YES 24-8-3423
+5001 Fkbz Smprstuvwxyz Australia 70 Hib YES 17-10-7076
+474 Gjtefghijklm Bppmnopqrstu Australia 45 Rotavirus YES 0-10-2123
+9271 Jnnnopqrstuv Xalstuvwxyz Australia 45 HepatitisB YES 6-6-4730
+2608 Ugdfghijklmn Eyjrstuvwxyz Australia 99 Hib NO 21-7-3847
+3140 Cxwstuvwxyz Unhuvwxyz Australia 85 COVID19 YES 2-0-5522
+3843 Pcarstuvwxyz Ubntuvwxyz Australia 31 Testovirus NO 10-4-3618
+5560 Ixxmnopqrstu Ahxxyz Australia 34 Rubella YES 13-7-356
+7111 Ykdvwxyz Pwgdefghijkl Australia 33 Diphtheria NO
+6443 Qwmpqrstuvwx Nwwxyz Australia 81 Tetanus YES 18-12-5474
+7941 Mmrghijklmno Uihghijklmno Australia 17 Chickenpox NO
+6508 Tgotuvwxyz Afvlmnopqrst Australia 118 Tuberculosis NO
+9588 Ytdpqrstuvwx Ruhmnopqrstu Australia 26 Hib NO 29-5-1694
+6797 Rejz Vlghijklmnop Australia 23 TheFlu YES 2-8-9041
+4075 Erutuvwxyz Epqwxyz Australia 55 HepatitisB YES 2-7-9140
+9877 Mniwxyz Vfrcdefghijk Australia 110 H1N1 YES 13-4-292
+7210 Hfmrstuvwxyz Aiqabcdefghi Australia 91 Tetanus YES 12-1-9460
+2152 Xkztuvwxyz Vdobcdefghij Australia 45 H1N1 NO
+736 Grktuvwxyz Tmcz Australia 36 Mumps NO

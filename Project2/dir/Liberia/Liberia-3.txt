@@ -1,0 +1,19 @@
+6633 Mcxrstuvwxyz Qgoz Liberia 111 Chickenpox NO
+7150 Eqhvwxyz Pqsnopqrstuv Liberia 68 Tuberculosis YES 5-7-4848
+3418 Gzgyz Dwqijklmnopq Liberia 51 Testovirus NO
+320 Kkzdefghijkl Ogwpqrstuvwx Liberia 105 Rubella YES 12-4-5218
+3230 Ybsdefghijkl Wpwxyz Liberia 14 Polio YES 26-9-1875
+2141 Kaaqrstuvwxy Puuxyz Liberia 1 Adenovirus NO 21-7-2315
+6501 Hmmz Ampjklmnopqr Liberia 78 TheFlu NO
+3825 Lunghijklmno Tiyuvwxyz Liberia 100 Rubella NO
+1954 Tyzdefghijkl Skcklmnopqrs Liberia 85 Diphtheria YES 8-7-5757
+2769 Frhklmnopqrs Zhqijklmnopq Liberia 83 SARS1 YES 0-0-6103
+6671 Jkiuvwxyz Mtkijklmnopq Liberia 25 Rotavirus YES 25-2-8587
+358 Qokrstuvwxyz Rqkklmnopqrs Liberia 48 Chickenpox NO
+1488 Noqklmnopqrs Wqqxyz Liberia 15 Varicella YES 7-9-9400
+2961 Icbabcdefghi Qkvvwxyz Liberia 97 Tuberculosis NO 21-1-1115
+1228 Ktmstuvwxyz Jmjvwxyz Liberia 59 Testovirus YES 29-7-243
+8707 Cbhcdefghijk Ibctuvwxyz Liberia 49 Tuberculosis NO
+757 Jtzopqrstuvw Gjncdefghijk Liberia 11 HepatitisB YES 9-10-1385
+2953 Jeowxyz Ybupqrstuvwx Liberia 109 Testovirus NO 12-10-7406
+978 Mpivwxyz Uksfghijklmn Liberia 90 Mumps NO

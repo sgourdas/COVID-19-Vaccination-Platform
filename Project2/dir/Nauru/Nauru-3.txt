@@ -1,0 +1,17 @@
+4286 Wdnghijklmno Geyvwxyz Nauru 74 SARS1 YES 24-11-5245
+1107 Akgnopqrstuv Hmrbcdefghij Nauru 41 Rubella YES 29-7-1379
+7540 Dzzijklmnopq Btdefghijklm Nauru 56 HepatitisB YES 14-2-2239
+12 Sjgstuvwxyz Cidrstuvwxyz Nauru 7 Varicella YES 13-5-7067
+9176 Aiefghijklmn Eccpqrstuvwx Nauru 18 Diphtheria NO
+144 Rlknopqrstuv Vjoyz Nauru 90 Tetanus NO
+7463 Mrxvwxyz Usejklmnopqr Nauru 9 Polio YES 11-11-4163
+2587 Eaiwxyz Uppnopqrstuv Nauru 105 HepatitisB YES 10-0-1211
+8989 Thslmnopqrst Eoeabcdefghi Nauru 41 Rotavirus NO
+5296 Ifituvwxyz Cchcdefghijk Nauru 63 Varicella NO
+2340 Xfqhijklmnop Ngbghijklmno Nauru 64 Polio NO
+7128 Pzhqrstuvwxy Cdahijklmnop Nauru 57 Rubella NO 28-7-9074
+2000 Ppfz Ionabcdefghi Nauru 24 Rubella YES 19-6-1434
+638 Hepcdefghijk Zabmnopqrstu Nauru 67 Rubella YES 22-5-2641
+2677 Qgiyz Lbcqrstuvwxy Nauru 99 HepatitisA YES 19-0-9662
+3445 Tlnhijklmnop Mukpqrstuvwx Nauru 22 Rubella NO 15-9-8287
+5316 Fiywxyz Byhtuvwxyz Nauru 20 Polio NO 2-9-8155

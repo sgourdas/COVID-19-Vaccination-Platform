@@ -1,0 +1,24 @@
+2444 Tjeklmnopqrs Bylbcdefghij Finland 47 Varicella NO
+2367 Hucjklmnopqr Ldoijklmnopq Finland 47 Varicella NO 16-0-7405
+633 Hfaijklmnopq Ybuabcdefghi Finland 41 Mumps NO
+9237 Qmqabcdefghi Zckdefghijkl Finland 83 Testovirus YES 13-7-872
+6613 Ygkabcdefghi Eyldefghijkl Finland 78 Mumps NO
+5030 Rlnlmnopqrst Wggcdefghijk Finland 63 Chickenpox YES 2-7-7552
+7957 Nlkwxyz Ndiuvwxyz Finland 92 Rubella NO
+8848 Qmqz Toihijklmnop Finland 2 HepatitisB YES 0-4-3027
+9477 Icxrstuvwxyz Hmvwxyz Finland 62 SARS1 NO
+5735 Eaalmnopqrst Ebyklmnopqrs Finland 27 Tetanus YES 25-4-3262
+1978 Kjmnopqrstuv Mkgefghijklm Finland 103 Chickenpox NO
+4642 Zuoefghijklm Siwrstuvwxyz Finland 65 Testovirus NO 17-5-5490
+7248 Vxkjklmnopqr Dtfnopqrstuv Finland 61 Mumps YES 13-7-5520
+8149 Piuwxyz Kltijklmnopq Finland 55 Tuberculosis NO
+7787 Ctenopqrstuv Qldbcdefghij Finland 55 Adenovirus YES 9-3-9850
+5659 Pzcjklmnopqr Zkslmnopqrst Finland 14 Mumps NO
+9130 Pzwfghijklmn Iucz Finland 76 Rotavirus YES 25-1-1634
+5601 Yjsghijklmno Dqxhijklmnop Finland 114 Tetanus NO 3-7-9879
+3328 Nngz Tzpdefghijkl Finland 91 H1N1 NO 14-9-8156
+3892 Qpgvwxyz Wiwyz Finland 66 COVID19 NO 15-8-751
+5520 Psfcdefghijk Egzyz Finland 31 HepatitisA NO
+1649 Hnovwxyz Vgrdefghijkl Finland 23 Rubella NO
+9136 Kzfvwxyz Hujyz Finland 113 Rubella NO
+6977 Hbzabcdefghi Megnopqrstuv Finland 55 COVID19 YES 4-5-1690

@@ -1,0 +1,24 @@
+4877 Zqkhijklmnop Qgdopqrstuvw Taiwan 64 Chickenpox NO
+2920 Durcdefghijk Xfhcdefghijk Taiwan 106 Rotavirus YES 5-9-1821
+2662 Adltuvwxyz Orepqrstuvwx Taiwan 12 HepatitisB NO
+509 Bhicdefghijk Foxcdefghijk Taiwan 100 HepatitisB NO 18-9-2138
+3914 Swvpqrstuvwx Yiylmnopqrst Taiwan 104 Chickenpox NO 20-12-2240
+3782 Cnpnopqrstuv Mudvwxyz Taiwan 35 Rotavirus YES 20-11-312
+6400 Wwcwxyz Gjdopqrstuvw Taiwan 100 Rubella YES 7-8-4764
+7183 Tmmdefghijkl Gzkfghijklmn Taiwan 106 Varicella NO
+221 Sinz Slmcdefghijk Taiwan 114 Tetanus YES 5-8-9752
+8371 Iocklmnopqrs Cjzstuvwxyz Taiwan 62 H1N1 YES 30-3-5801
+1470 Xylhijklmnop Waecdefghijk Taiwan 28 Rotavirus YES 26-4-9225
+3749 Rdvvwxyz Ivjcdefghijk Taiwan 12 Polio NO 19-11-9444
+7813 Droijklmnopq Ojcopqrstuvw Taiwan 61 Hib NO
+5459 Pphwxyz Vjnefghijklm Taiwan 58 H1N1 YES 2-1-574
+4344 Jellmnopqrst Xfsabcdefghi Taiwan 40 Adenovirus NO
+2278 Gsufghijklmn Lbvlmnopqrst Taiwan 73 HepatitisA YES 16-11-5540
+5626 Ajwklmnopqrs Fpbmnopqrstu Taiwan 103 Tuberculosis YES 9-5-1430
+6824 Spwxyz Hleklmnopqrs Taiwan 34 Diphtheria YES 25-4-2600
+8465 Azxcdefghijk Vfeghijklmno Taiwan 54 HepatitisA NO
+3360 Ixfefghijklm Cgcyz Taiwan 4 HepatitisA NO
+1898 Lgxz Jpyklmnopqrs Taiwan 49 Diphtheria NO
+8498 Fcnqrstuvwxy Aqxghijklmno Taiwan 37 Polio YES 7-10-9029
+9541 Zfwvwxyz Knrhijklmnop Taiwan 97 Polio YES 22-8-3754
+9066 Lxawxyz Kdgjklmnopqr Taiwan 63 Rotavirus YES 8-6-9123

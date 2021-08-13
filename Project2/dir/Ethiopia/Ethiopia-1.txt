@@ -1,0 +1,21 @@
+8865 Cmkijklmnopq Gbjbcdefghij Ethiopia 66 HepatitisA YES 30-8-5954
+888 Numyz Rkawxyz Ethiopia 70 Polio YES 17-11-6640
+8236 Makbcdefghij Oiylmnopqrst Ethiopia 105 Rotavirus YES 30-6-5980
+6039 Npsfghijklmn Vfslmnopqrst Ethiopia 102 SARS1 YES 4-12-4320
+1621 Xukopqrstuvw Pedmnopqrstu Ethiopia 65 H1N1 YES 25-2-5465
+7599 Jxxstuvwxyz Obbdefghijkl Ethiopia 75 Adenovirus YES 15-3-418
+8381 Dxofghijklmn Esrghijklmno Ethiopia 41 COVID19 YES 13-9-305
+5307 Wsughijklmno Nllwxyz Ethiopia 24 HepatitisA NO 18-10-3096
+6078 Eexhijklmnop Zkvwxyz Ethiopia 57 Polio YES 24-2-9398
+3504 Jtfghijklmno Uulz Ethiopia 111 Tuberculosis YES 9-11-5593
+6545 Uvtxyz Omswxyz Ethiopia 19 Polio YES 4-3-1694
+2143 Vpclmnopqrst Bkfjklmnopqr Ethiopia 95 Rubella YES 26-5-1420
+1099 Uxdmnopqrstu Ripklmnopqrs Ethiopia 109 Mumps NO
+206 Vjdefghijklm Ytndefghijkl Ethiopia 36 H1N1 NO
+5715 Xwzlmnopqrst Gydabcdefghi Ethiopia 86 Rotavirus NO
+4817 Dnvklmnopqrs Xmvghijklmno Ethiopia 16 Polio YES 20-9-5707
+6193 Fcofghijklmn Chsklmnopqrs Ethiopia 66 Polio YES 27-11-7040
+2855 Lakjklmnopqr Wohabcdefghi Ethiopia 36 HepatitisB YES 13-4-5203
+1110 Xgfbcdefghij Qdcklmnopqrs Ethiopia 93 Chickenpox YES 24-7-6149
+514 Ayoghijklmno Bmzabcdefghi Ethiopia 107 HepatitisB NO 4-7-6652
+4049 Enqopqrstuvw Xdocdefghijk Ethiopia 70 Testovirus NO

@@ -1,0 +1,23 @@
+9385 Zxeopqrstuvw Lnwfghijklmn Vietnam 73 H1N1 YES 0-2-8204
+9870 Jbzijklmnopq Auxtuvwxyz Vietnam 38 Hib NO
+8831 Rsdrstuvwxyz Lkzjklmnopqr Vietnam 27 Rotavirus NO
+6857 Ueaklmnopqrs Vbstuvwxyz Vietnam 23 Diphtheria YES 6-10-1948
+7803 Yaehijklmnop Lthmnopqrstu Vietnam 7 Hib NO
+9522 Uvqijklmnopq Epxvwxyz Vietnam 18 Testovirus YES 3-5-245
+5212 Qyobcdefghij Vwfqrstuvwxy Vietnam 114 Tetanus YES 13-4-9112
+5563 Wyuhijklmnop Vzcefghijklm Vietnam 55 Rotavirus YES 1-0-4756
+4459 Ornklmnopqrs Tpwuvwxyz Vietnam 69 COVID19 YES 26-12-5525
+5882 Jabklmnopqrs Uyulmnopqrst Vietnam 108 Tetanus NO
+1628 Zixvwxyz Aeiwxyz Vietnam 33 Chickenpox NO
+609 Ptzwxyz Mjyefghijklm Vietnam 7 Adenovirus NO
+1848 Zbbhijklmnop Qpjtuvwxyz Vietnam 55 Rotavirus YES 19-8-1349
+2965 Jseopqrstuvw Gekefghijklm Vietnam 18 Rubella YES 22-0-212
+8261 Opduvwxyz Bvjefghijklm Vietnam 61 Rotavirus NO 0-2-1541
+4983 Zdughijklmno Pkzwxyz Vietnam 15 H1N1 NO
+6825 Dnrabcdefghi Cvmfghijklmn Vietnam 78 Mumps NO
+6150 Ywoghijklmno Fwaijklmnopq Vietnam 68 Diphtheria NO 9-7-6231
+3948 Qoawxyz Yaaklmnopqrs Vietnam 96 Rubella YES 3-8-924
+9692 Rcfmnopqrstu Wgluvwxyz Vietnam 68 Chickenpox YES 25-0-9698
+3457 Ioymnopqrstu Aphz Vietnam 105 H1N1 NO
+6695 Opgklmnopqrs Axytuvwxyz Vietnam 104 Diphtheria YES 7-1-4867
+9993 Ycmdefghijkl Tuestuvwxyz Vietnam 12 HepatitisA NO

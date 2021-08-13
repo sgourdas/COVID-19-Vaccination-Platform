@@ -1,0 +1,22 @@
+7757 Bbjghijklmno Htmefghijklm Grenada 67 SARS1 YES 4-6-2137
+8440 Hpaghijklmno Wcpmnopqrstu Grenada 42 SARS1 NO
+3639 Qlfmnopqrstu Tmotuvwxyz Grenada 45 Mumps YES 3-7-7593
+20 Raqtuvwxyz Lhknopqrstuv Grenada 107 Chickenpox YES 4-9-2831
+7881 Ayrdefghijkl Veruvwxyz Grenada 6 Adenovirus NO 20-12-778
+6721 Hqpcdefghijk Bgybcdefghij Grenada 88 H1N1 NO
+8638 Tjcbcdefghij Cbemnopqrstu Grenada 93 Mumps YES 20-10-642
+4383 Ntxcdefghijk Bqkdefghijkl Grenada 5 COVID19 YES 5-7-6612
+8872 Fvighijklmno Wroyz Grenada 23 Hib YES 18-9-6036
+3096 Lzjefghijklm Cqhmnopqrstu Grenada 14 Adenovirus YES 4-1-1410
+5178 Vasz Xaaxyz Grenada 18 HepatitisB YES 9-1-2950
+744 Jgutuvwxyz Rxgpqrstuvwx Grenada 109 TheFlu YES 10-0-8692
+8106 Rfjqrstuvwxy Jidbcdefghij Grenada 38 Tuberculosis YES 11-6-1659
+2139 Grxvwxyz Mqojklmnopqr Grenada 69 HepatitisA NO 21-12-1828
+7976 Imewxyz Lhjdefghijkl Grenada 16 Tetanus NO 20-8-9581
+5985 Egez Ayypqrstuvwx Grenada 51 Hib NO
+9977 Kyjfghijklmn Eiwuvwxyz Grenada 63 Mumps NO
+2732 Mtutuvwxyz Ldzjklmnopqr Grenada 60 Varicella YES 11-3-1389
+8271 Typmnopqrstu Fkmwxyz Grenada 44 Testovirus YES 25-3-4244
+2984 Eosklmnopqrs Kssijklmnopq Grenada 76 Testovirus NO
+7903 Ufxnopqrstuv Kzmfghijklmn Grenada 98 Tuberculosis NO
+3101 Ltsijklmnopq Ftlbcdefghij Grenada 61 Rubella NO

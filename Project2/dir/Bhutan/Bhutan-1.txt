@@ -1,0 +1,18 @@
+7102 Vojijklmnopq Aejrstuvwxyz Bhutan 112 Tuberculosis NO 19-9-831
+4974 Erfstuvwxyz Agwmnopqrstu Bhutan 90 Hib YES 0-8-7478
+2602 Hwistuvwxyz Dffnopqrstuv Bhutan 106 Rotavirus YES 24-5-9706
+2056 Ysabcdefghij Foustuvwxyz Bhutan 49 Mumps YES 2-9-5628
+5903 Qtvabcdefghi Zogz Bhutan 70 Rotavirus YES 15-12-9526
+9299 Ajfnopqrstuv Zksdefghijkl Bhutan 79 TheFlu YES 12-5-6289
+7793 Byxbcdefghij Inxklmnopqrs Bhutan 50 Testovirus NO
+6808 Mvnrstuvwxyz Pdfnopqrstuv Bhutan 113 Adenovirus NO
+4499 Iajghijklmno Rjcefghijklm Bhutan 48 Testovirus YES 14-12-7065
+3780 Itdhijklmnop Lhulmnopqrst Bhutan 44 Testovirus NO
+4193 Osojklmnopqr Warhijklmnop Bhutan 63 Varicella NO
+5229 Suicdefghijk Xslz Bhutan 2 Rubella NO 1-4-8128
+8898 Sttbcdefghij Bqyz Bhutan 106 H1N1 NO
+4712 Edqcdefghijk Vehstuvwxyz Bhutan 9 Polio YES 14-6-4574
+8695 Xvprstuvwxyz Lvnmnopqrstu Bhutan 120 TheFlu YES 12-7-884
+3583 Pguhijklmnop Lwgcdefghijk Bhutan 115 Diphtheria NO 5-12-6339
+9134 Utzuvwxyz Igvyz Bhutan 94 HepatitisA YES 25-6-162
+1809 Gwoxyz Psryz Bhutan 100 Testovirus NO

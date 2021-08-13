@@ -1,0 +1,17 @@
+6505 Cpmnopqrstuv Rsunopqrstuv Afghanistan 109 Hib NO
+6469 Toxz Xozefghijklm Afghanistan 111 Testovirus YES 15-4-3632
+4737 Ptkz Jbeyz Afghanistan 87 Testovirus YES 30-7-7537
+9725 Zpmlmnopqrst Sfhstuvwxyz Afghanistan 79 Chickenpox NO
+6950 Obbdefghijkl Utcyz Afghanistan 28 Rotavirus NO
+8802 Maqcdefghijk Gogklmnopqrs Afghanistan 79 Chickenpox YES 14-6-3999
+1380 Drvfghijklmn Umkuvwxyz Afghanistan 72 Rotavirus NO
+3878 Lytvwxyz Gadqrstuvwxy Afghanistan 63 Adenovirus NO
+2324 Lrfdefghijkl Txhjklmnopqr Afghanistan 4 Rubella YES 15-10-367
+2938 Ekuz Lwcstuvwxyz Afghanistan 72 HepatitisA NO 20-12-9413
+3940 Fjqyz Frtnopqrstuv Afghanistan 72 HepatitisA YES 17-7-2038
+2359 Iczwxyz Bspvwxyz Afghanistan 119 Chickenpox NO
+8283 Gktdefghijkl Lacnopqrstuv Afghanistan 6 Diphtheria NO 24-9-1447
+3551 Jsgmnopqrstu Hwcvwxyz Afghanistan 56 Hib YES 12-7-909
+1180 Kihqrstuvwxy Zjlyz Afghanistan 116 Adenovirus NO 17-12-1582
+5188 Eqtdefghijkl Omhpqrstuvwx Afghanistan 50 TheFlu NO
+8601 Cozefghijklm Bfpghijklmno Afghanistan 65 Hib YES 5-1-4854

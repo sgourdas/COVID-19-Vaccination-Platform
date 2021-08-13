@@ -1,0 +1,23 @@
+9065 Yofbcdefghij Coixyz Iran 44 Tetanus YES 17-5-9845
+3871 Qxwrstuvwxyz Qjtdefghijkl Iran 84 Diphtheria YES 28-11-1335
+7654 Cochijklmnop Hglxyz Iran 10 SARS1 NO
+4650 Seeijklmnopq Qchrstuvwxyz Iran 58 Mumps NO 4-12-3604
+6564 Adojklmnopqr Wuvwxyz Iran 19 Rubella YES 22-1-5218
+2128 Aybxyz Gdtjklmnopqr Iran 82 TheFlu NO
+1923 Rqcqrstuvwxy Wgbyz Iran 50 Varicella YES 8-6-6310
+8101 Jliyz Nsewxyz Iran 10 SARS1 NO
+3455 Icilmnopqrst Poylmnopqrst Iran 15 Adenovirus NO
+1545 Zrpnopqrstuv Iigijklmnopq Iran 65 HepatitisB YES 8-1-2475
+2795 Uibhijklmnop Lkdnopqrstuv Iran 30 Hib YES 27-4-6987
+4363 Zjpqrstuvwxy Hmdhijklmnop Iran 28 Polio NO
+7698 Ayiklmnopqrs Ncavwxyz Iran 101 Tuberculosis YES 3-1-1120
+6241 Aonijklmnopq Rhdlmnopqrst Iran 45 Hib YES 23-7-1799
+9642 Glsbcdefghij Zyeefghijklm Iran 79 Mumps YES 0-12-1520
+2532 Uwcopqrstuvw Krlz Iran 110 Rotavirus NO
+1933 Cmyefghijklm Goyabcdefghi Iran 76 COVID19 NO
+6497 Iibfghijklmn Dvkjklmnopqr Iran 36 COVID19 YES 8-11-1406
+5869 Hgaxyz Unmmnopqrstu Iran 9 Tuberculosis NO
+8889 Kujfghijklmn Fndhijklmnop Iran 93 H1N1 NO
+8784 Jewcdefghijk Iwayz Iran 79 Tetanus YES 18-2-2532
+7997 Cvmhijklmnop Aejfghijklmn Iran 76 Rotavirus NO
+1077 Azsstuvwxyz Wsfmnopqrstu Iran 119 COVID19 NO

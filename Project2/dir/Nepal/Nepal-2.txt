@@ -1,0 +1,21 @@
+6684 Hexuvwxyz Apotuvwxyz Nepal 14 Testovirus NO
+8092 Fwncdefghijk Qlgefghijklm Nepal 9 Tuberculosis NO 27-1-257
+140 Hxdefghijklm Jdwuvwxyz Nepal 13 Diphtheria NO 18-9-1996
+332 Gsdopqrstuvw Hjwvwxyz Nepal 2 Rotavirus YES 10-7-91
+5730 Vrmlmnopqrst Akmrstuvwxyz Nepal 118 HepatitisB YES 26-2-2707
+9408 Iooklmnopqrs Qfidefghijkl Nepal 119 SARS1 NO
+9003 Dqjabcdefghi Iwjxyz Nepal 91 Tuberculosis NO
+2451 Nnhklmnopqrs Rauabcdefghi Nepal 30 Rotavirus NO
+8215 Olvtuvwxyz Mpgghijklmno Nepal 24 SARS1 NO
+3474 Dcpghijklmno Ovwbcdefghij Nepal 75 COVID19 YES 14-1-2433
+6961 Zccpqrstuvwx Gduopqrstuvw Nepal 85 Polio YES 2-9-3838
+8774 Xoxbcdefghij Cpsqrstuvwxy Nepal 107 Testovirus YES 5-7-3986
+3943 Ncvklmnopqrs Bscfghijklmn Nepal 6 H1N1 YES 13-10-6128
+8030 Vgdxyz Jhjklmnopqrs Nepal 108 Polio NO
+1410 Slaxyz Rsxmnopqrstu Nepal 10 TheFlu NO 17-8-9410
+6916 Krdpqrstuvwx Wzwdefghijkl Nepal 43 Rotavirus YES 14-7-4064
+8731 Jpaefghijklm Oxerstuvwxyz Nepal 17 HepatitisA NO
+6741 Kkcopqrstuvw Ceqghijklmno Nepal 51 Varicella YES 12-1-8808
+1665 Dyxlmnopqrst Nefdefghijkl Nepal 88 HepatitisA YES 24-3-9811
+8969 Yenbcdefghij Bxtwxyz Nepal 47 Chickenpox NO
+6969 Gkxnopqrstuv Jkhstuvwxyz Nepal 35 HepatitisA NO 15-9-3250

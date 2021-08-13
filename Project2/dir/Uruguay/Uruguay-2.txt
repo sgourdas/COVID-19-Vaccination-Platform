@@ -1,0 +1,23 @@
+3645 Xuerstuvwxyz Ykcxyz Uruguay 120 Varicella YES 12-6-8186
+839 Exzrstuvwxyz Jezcdefghijk Uruguay 94 Rubella NO
+7620 Iqbabcdefghi Vwxijklmnopq Uruguay 10 HepatitisA NO 11-7-8133
+9959 Rzimnopqrstu Fbez Uruguay 47 TheFlu NO 29-7-4398
+6389 Sgyyz Xikklmnopqrs Uruguay 89 Tuberculosis NO 3-3-8907
+3487 Vrlpqrstuvwx Rjlghijklmno Uruguay 114 Hib YES 15-3-901
+2605 Lmocdefghijk Mlryz Uruguay 101 Rubella YES 23-3-48
+9053 Gtppqrstuvwx Vsumnopqrstu Uruguay 56 Mumps YES 18-0-8953
+8337 Cokpqrstuvwx Tauklmnopqrs Uruguay 40 TheFlu YES 5-6-8361
+7453 Hdrrstuvwxyz Wqlklmnopqrs Uruguay 95 Diphtheria NO 21-0-3112
+1625 Mdhnopqrstuv Fpyyz Uruguay 28 Rubella NO
+5678 Gyvhijklmnop Pslnopqrstuv Uruguay 112 Tuberculosis NO
+9892 Wlystuvwxyz Qpkefghijklm Uruguay 69 Hib NO
+2401 Durcdefghijk Rahvwxyz Uruguay 1 HepatitisB NO
+2992 Zntefghijklm Hfbmnopqrstu Uruguay 56 Testovirus YES 23-1-15
+6519 Duqopqrstuvw Fgoz Uruguay 114 HepatitisA NO
+9039 Vaqvwxyz Lttmnopqrstu Uruguay 99 Rotavirus YES 26-0-1944
+6451 Rxfklmnopqrs Xtzrstuvwxyz Uruguay 17 HepatitisA NO
+4231 Mrzrstuvwxyz Goulmnopqrst Uruguay 66 Varicella NO
+8505 Tsestuvwxyz Lwjstuvwxyz Uruguay 66 Tetanus YES 25-6-5121
+64 Fmyhijklmnop Xaebcdefghij Uruguay 1 H1N1 YES 11-11-6119
+1268 Ijtyz Ucsyz Uruguay 21 Rotavirus NO
+1934 Sxouvwxyz Syppqrstuvwx Uruguay 3 Varicella NO 11-1-3270

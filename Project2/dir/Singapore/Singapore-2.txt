@@ -1,0 +1,19 @@
+7098 Akeuvwxyz Msbuvwxyz Singapore 109 Polio YES 0-12-9192
+1724 Iltijklmnopq Czkefghijklm Singapore 9 Tuberculosis NO 21-4-709
+9812 Rquwxyz Umohijklmnop Singapore 16 HepatitisB NO
+1942 Kewyz Vlorstuvwxyz Singapore 2 Rotavirus NO
+1372 Hahyz Rqhdefghijkl Singapore 55 Polio YES 16-2-8168
+2745 Tcgqrstuvwxy Dpzlmnopqrst Singapore 115 TheFlu YES 29-5-9961
+7443 Ayknopqrstuv Tfqyz Singapore 83 Tetanus YES 14-9-1138
+4410 Ryrlmnopqrst Evscdefghijk Singapore 111 SARS1 YES 21-0-2253
+2387 Ygsfghijklmn Dwjhijklmnop Singapore 1 Varicella YES 22-4-7820
+3002 Kxzghijklmno Enafghijklmn Singapore 45 Mumps NO 4-3-7225
+2187 Znqstuvwxyz Tnbijklmnopq Singapore 84 Polio YES 16-4-1182
+1334 Hzhz Mohstuvwxyz Singapore 53 Mumps NO
+780 Pgtklmnopqrs Cnjklmnopqrs Singapore 1 Testovirus YES 13-0-7936
+8658 Dwvnopqrstuv Dfqefghijklm Singapore 57 Tetanus NO
+7745 Bkuhijklmnop Bsastuvwxyz Singapore 102 Adenovirus YES 16-0-5996
+3321 Hxsrstuvwxyz Mfsbcdefghij Singapore 106 HepatitisB NO 15-2-4682
+9493 Wteabcdefghi Bdjstuvwxyz Singapore 11 Varicella NO
+1737 Jcorstuvwxyz Pmfabcdefghi Singapore 35 Varicella YES 1-0-2802
+8698 Vwpz Otyxyz Singapore 76 Rubella YES 30-2-8226

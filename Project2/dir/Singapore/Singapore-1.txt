@@ -1,0 +1,19 @@
+616 Nxqxyz Smllmnopqrst Singapore 15 Varicella NO
+2612 Eruwxyz Tavmnopqrstu Singapore 72 Chickenpox NO 4-3-3714
+3840 Mfbmnopqrstu Sarstuvwxyz Singapore 78 COVID19 YES 27-6-2670
+2201 Dlppqrstuvwx Xbrabcdefghi Singapore 114 Testovirus YES 21-9-2304
+1219 Kyeabcdefghi Kkgvwxyz Singapore 48 Testovirus YES 1-6-6738
+8112 Qxmbcdefghij Scuz Singapore 98 Adenovirus YES 28-7-5763
+6492 Hrjyz Xxvyz Singapore 92 Adenovirus NO
+7960 Fmhwxyz Axmijklmnopq Singapore 58 Rubella YES 5-7-1935
+8103 Khouvwxyz Ahmqrstuvwxy Singapore 101 Varicella NO 17-2-3001
+4111 Carabcdefghi Pwwijklmnopq Singapore 95 SARS1 YES 12-12-2774
+7594 Iswrstuvwxyz Laelmnopqrst Singapore 39 Varicella YES 25-9-1938
+3996 Exivwxyz Svqpqrstuvwx Singapore 63 H1N1 YES 18-0-6063
+1868 Cxdnopqrstuv Znlopqrstuvw Singapore 29 Tuberculosis YES 19-2-9772
+5092 Lyqmnopqrstu Qhkmnopqrstu Singapore 51 Tuberculosis YES 18-5-1125
+5761 Pecklmnopqrs Vdqrstuvwxyz Singapore 56 H1N1 YES 6-10-8469
+3374 Vnxfghijklmn Fjwxyz Singapore 93 Varicella NO
+9330 Qsnvwxyz Yvomnopqrstu Singapore 54 Hib NO
+5569 Gcwz Rmdwxyz Singapore 12 Adenovirus YES 7-3-64
+459 Tacopqrstuvw Nyxqrstuvwxy Singapore 32 Adenovirus YES 22-12-9825

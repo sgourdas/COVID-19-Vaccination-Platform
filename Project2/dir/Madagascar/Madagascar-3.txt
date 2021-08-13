@@ -1,0 +1,24 @@
+830 Rarefghijklm Uxzklmnopqrs Madagascar 11 HepatitisB NO
+9455 Ofvqrstuvwxy Pwjxyz Madagascar 72 Tuberculosis NO
+1128 Jcqstuvwxyz Brkrstuvwxyz Madagascar 49 SARS1 YES 18-2-1341
+9417 Qbwlmnopqrst Famcdefghijk Madagascar 71 Tuberculosis YES 15-3-6907
+1683 Hkocdefghijk Awfnopqrstuv Madagascar 39 Adenovirus NO
+1124 Tatijklmnopq Vyiuvwxyz Madagascar 69 COVID19 NO
+4968 Ltabcdefghij Twzpqrstuvwx Madagascar 71 Rubella YES 26-6-4993
+4321 Xfjijklmnopq Grwabcdefghi Madagascar 99 SARS1 NO
+8064 Guobcdefghij Weyxyz Madagascar 27 Polio YES 8-11-5240
+9272 Enqhijklmnop Ftdyz Madagascar 52 Rubella YES 26-4-7918
+3491 Wfwyz Qrujklmnopqr Madagascar 71 Diphtheria NO 8-1-5938
+6212 Hdewxyz Ubutuvwxyz Madagascar 118 Varicella YES 7-1-9059
+6201 Qiqpqrstuvwx Kmwtuvwxyz Madagascar 49 HepatitisA NO 17-10-567
+7557 Msutuvwxyz Ogyz Madagascar 84 Tuberculosis NO 22-3-3477
+2035 Xaustuvwxyz Eeluvwxyz Madagascar 48 Rubella NO
+446 Nrbuvwxyz Fbbnopqrstuv Madagascar 61 Tetanus YES 14-0-5817
+3472 Sgswxyz Bwfxyz Madagascar 58 Tuberculosis YES 11-0-944
+5512 Naeghijklmno Lbndefghijkl Madagascar 117 HepatitisA YES 17-5-2571
+5631 Hpyxyz Hpvz Madagascar 72 H1N1 YES 27-7-2113
+7228 Inlmnopqrstu Bhostuvwxyz Madagascar 48 Hib YES 2-10-3307
+9306 Traijklmnopq Mfucdefghijk Madagascar 15 Tetanus YES 3-0-1944
+5789 Jtobcdefghij Amymnopqrstu Madagascar 42 Tuberculosis YES 18-0-3473
+527 Tsfhijklmnop Ktvklmnopqrs Madagascar 87 Rubella YES 7-8-9704
+4251 Ihadefghijkl Vnelmnopqrst Madagascar 65 Varicella NO

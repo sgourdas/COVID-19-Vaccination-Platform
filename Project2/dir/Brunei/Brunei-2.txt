@@ -1,0 +1,23 @@
+302 Dnppqrstuvwx Nlgjklmnopqr Brunei 49 HepatitisB YES 5-9-6492
+6401 Vsffghijklmn Dolghijklmno Brunei 22 HepatitisA NO 19-7-5212
+4630 Gjatuvwxyz Ehiopqrstuvw Brunei 53 HepatitisA NO
+9256 Sgnqrstuvwxy Fkuabcdefghi Brunei 61 Adenovirus NO 5-0-2628
+7542 Qldz Rxemnopqrstu Brunei 117 Rubella NO
+9216 Gpnopqrstuvw Hcwabcdefghi Brunei 38 H1N1 YES 26-5-8018
+9334 Ndiabcdefghi Drecdefghijk Brunei 108 COVID19 YES 0-0-1586
+2859 Nifxyz Zcuopqrstuvw Brunei 74 TheFlu NO
+8540 Syyfghijklmn Zhuklmnopqrs Brunei 63 HepatitisA NO
+7983 Adkuvwxyz Vapcdefghijk Brunei 64 Rotavirus YES 29-11-3875
+3456 Zrndefghijkl Nqiyz Brunei 21 Mumps YES 14-10-2931
+8386 Dmkyz Aqojklmnopqr Brunei 23 H1N1 YES 19-7-4159
+2414 Jbqqrstuvwxy Tetuvwxyz Brunei 81 HepatitisA YES 8-0-6336
+8738 Oqkwxyz Uqrklmnopqrs Brunei 94 Mumps YES 5-1-7873
+9450 Bsez Qftxyz Brunei 25 Testovirus NO
+1500 Trpmnopqrstu Eucfghijklmn Brunei 28 Rotavirus NO
+6052 Wiwstuvwxyz Nwytuvwxyz Brunei 23 HepatitisB NO
+6732 Mnyhijklmnop Qyahijklmnop Brunei 118 Tetanus NO 23-6-2718
+9211 Mnbbcdefghij Zdnhijklmnop Brunei 117 H1N1 NO
+4326 Vizstuvwxyz Uzntuvwxyz Brunei 10 TheFlu YES 15-3-1386
+3312 Gtlz Exauvwxyz Brunei 71 HepatitisA NO
+7737 Xlgwxyz Zlguvwxyz Brunei 73 Mumps NO 18-8-7411
+8157 Tefcdefghijk Jeuefghijklm Brunei 31 HepatitisA YES 25-9-4063

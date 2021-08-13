@@ -1,0 +1,20 @@
+4335 Dxvjklmnopqr Teaabcdefghi Mali 102 Tuberculosis YES 3-4-5477
+3918 Hyjfghijklmn Guzyz Mali 98 Chickenpox NO
+3337 Dalz Tkimnopqrstu Mali 81 Rubella NO
+237 Bbflmnopqrst Dwdhijklmnop Mali 33 Adenovirus YES 26-0-4721
+1391 Ayastuvwxyz Ypmxyz Mali 116 Tuberculosis YES 12-8-3501
+3433 Uabvwxyz Pvecdefghijk Mali 5 Hib NO 23-6-2982
+9371 Moqefghijklm Aoqrstuvwxyz Mali 72 Mumps NO
+8533 Irvnopqrstuv Wwohijklmnop Mali 9 HepatitisB NO 16-9-2678
+8938 Pbbbcdefghij Hugfghijklmn Mali 43 SARS1 YES 19-10-1991
+761 Besabcdefghi Aaquvwxyz Mali 22 SARS1 YES 17-2-221
+8820 Lqvz Joqbcdefghij Mali 21 Mumps NO
+6028 Fbwqrstuvwxy Xrbefghijklm Mali 43 Mumps NO
+1324 Phjz Fauyz Mali 74 Polio YES 0-5-5633
+5830 Nuqdefghijkl Mvdtuvwxyz Mali 1 COVID19 NO 30-8-143
+7962 Ttwnopqrstuv Lyvxyz Mali 38 Varicella NO
+7029 Fsqvwxyz Apfxyz Mali 59 SARS1 YES 27-10-365
+4308 Nskklmnopqrs Rdqrstuvwxyz Mali 108 Adenovirus YES 14-1-3643
+3499 Zieopqrstuvw Bmoopqrstuvw Mali 78 Tetanus YES 10-4-2373
+2183 Giuopqrstuvw Xpibcdefghij Mali 56 Varicella NO
+8586 Tnfhijklmnop Zponopqrstuv Mali 70 COVID19 NO 0-12-262

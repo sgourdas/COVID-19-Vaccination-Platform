@@ -1,0 +1,18 @@
+7848 Vxiklmnopqrs Ebvpqrstuvwx Angola 111 Mumps NO
+1483 Pwimnopqrstu Wxsdefghijkl Angola 114 Hib YES 11-0-59
+8433 Yiclmnopqrst Reuqrstuvwxy Angola 48 H1N1 YES 24-5-4093
+6690 Nryyz Rudyz Angola 119 Tetanus NO 11-11-6849
+1725 Gpoefghijklm Jdfabcdefghi Angola 108 COVID19 YES 22-2-8042
+8585 Jnyrstuvwxyz Uourstuvwxyz Angola 27 Diphtheria NO 18-2-765
+1012 Lvbijklmnopq Ockqrstuvwxy Angola 48 COVID19 NO 15-10-8067
+2030 Jarabcdefghi Oojxyz Angola 7 Rotavirus YES 23-9-2184
+1646 Oazijklmnopq Aniqrstuvwxy Angola 70 Hib YES 29-5-6473
+7624 Itsstuvwxyz Pfnuvwxyz Angola 10 Rubella NO
+2317 Soypqrstuvwx Krighijklmno Angola 9 Rubella YES 25-1-6775
+5151 Cpomnopqrstu Iuawxyz Angola 23 Hib NO
+9220 Voapqrstuvwx Qevabcdefghi Angola 87 Adenovirus YES 12-12-9675
+475 Bcxefghijklm Zitcdefghijk Angola 10 Tuberculosis YES 21-4-7371
+5310 Bbxklmnopqrs Shfyz Angola 112 Chickenpox YES 16-5-1581
+2829 Amoghijklmno Lwlfghijklmn Angola 101 TheFlu NO
+2717 Wltijklmnopq Kwmxyz Angola 118 TheFlu YES 0-8-321
+801 Phhstuvwxyz Ndbtuvwxyz Angola 71 H1N1 NO

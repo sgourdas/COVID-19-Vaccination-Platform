@@ -1,0 +1,19 @@
+186 Jzzvwxyz Kyocdefghijk Jordan 103 Diphtheria NO 30-8-9538
+867 Ketwxyz Zpjijklmnopq Jordan 69 Tuberculosis NO
+3197 Rafz Tcmklmnopqrs Jordan 35 Tuberculosis NO
+6452 Xnmbcdefghij Dcmhijklmnop Jordan 79 TheFlu YES 7-12-1583
+3428 Uywwxyz Oovstuvwxyz Jordan 55 Tetanus NO
+1148 Tuimnopqrstu Rytmnopqrstu Jordan 96 Varicella NO
+3160 Eujklmnopqrs Pqdvwxyz Jordan 93 Testovirus YES 12-4-2615
+804 Sgaxyz Knonopqrstuv Jordan 105 Varicella NO 22-0-3854
+5378 Ohbqrstuvwxy Qcustuvwxyz Jordan 30 TheFlu NO
+6543 Lpdijklmnopq Koprstuvwxyz Jordan 55 HepatitisB YES 8-11-9085
+1917 Vigrstuvwxyz Chrhijklmnop Jordan 63 HepatitisA NO
+6979 Yymklmnopqrs Xlulmnopqrst Jordan 23 Tetanus YES 3-0-1868
+1346 Rflcdefghijk Rtwhijklmnop Jordan 72 Polio YES 22-10-5430
+4532 Pwbuvwxyz Xugqrstuvwxy Jordan 37 HepatitisB NO
+2597 Szbpqrstuvwx Oxkmnopqrstu Jordan 28 HepatitisB NO
+711 Qgwmnopqrstu Vpclmnopqrst Jordan 79 HepatitisB NO
+3406 Dttefghijklm Eiqxyz Jordan 59 Tuberculosis NO
+4377 Hcsmnopqrstu Uxystuvwxyz Jordan 43 Chickenpox NO
+8166 Ufhstuvwxyz Trxabcdefghi Jordan 40 Diphtheria YES 24-0-9324

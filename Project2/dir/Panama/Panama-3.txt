@@ -1,0 +1,21 @@
+6804 Yypstuvwxyz Npmyz Panama 89 Chickenpox NO
+7800 Whzcdefghijk Ifzyz Panama 18 Mumps NO
+1447 Mletuvwxyz Wccwxyz Panama 6 Testovirus NO
+6453 Qrehijklmnop Prwghijklmno Panama 6 Mumps YES 7-11-2219
+2925 Kibefghijklm Xdsqrstuvwxy Panama 19 HepatitisA NO 9-8-5606
+9708 Quipqrstuvwx Lotmnopqrstu Panama 59 TheFlu YES 19-2-6036
+6578 Aucbcdefghij Bsquvwxyz Panama 31 Rotavirus YES 16-0-559
+1746 Uzcklmnopqrs Uptrstuvwxyz Panama 49 Mumps NO 21-12-3159
+1976 Hxxopqrstuvw Cciqrstuvwxy Panama 65 Tuberculosis YES 1-2-4875
+561 Wclfghijklmn Zyhuvwxyz Panama 46 Tetanus YES 17-10-83
+6833 Hlughijklmno Hamefghijklm Panama 37 COVID19 NO
+3929 Pueyz Qfabcdefghij Panama 88 Tetanus NO 21-4-8873
+7007 Ebcqrstuvwxy Ltqyz Panama 22 Mumps NO
+3592 Zofabcdefghi Ohytuvwxyz Panama 77 Testovirus NO 22-4-1612
+6218 Puhmnopqrstu Rqtz Panama 4 SARS1 NO
+4779 Bmuqrstuvwxy Llpnopqrstuv Panama 106 SARS1 NO
+1887 Bjycdefghijk Yulqrstuvwxy Panama 96 Polio YES 15-10-4189
+7255 Kxfyz Kyvwxyz Panama 8 Varicella YES 3-4-5531
+7988 Vugefghijklm Lxdxyz Panama 100 Diphtheria NO
+9034 Dvhijklmnopq Cqwopqrstuvw Panama 38 H1N1 YES 19-11-154
+5853 Zynvwxyz Tcylmnopqrst Panama 65 HepatitisB YES 20-5-2826

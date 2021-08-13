@@ -1,0 +1,27 @@
+1051 Bdpdefghijkl Majqrstuvwxy Suriname 93 TheFlu YES 20-0-8098
+9353 Yjfijklmnopq Ixcopqrstuvw Suriname 23 Adenovirus YES 7-5-8530
+7867 Jxrhijklmnop Gkpijklmnopq Suriname 9 Mumps NO
+4867 Bfzwxyz Ermabcdefghi Suriname 74 Tetanus NO 21-1-5942
+2218 Kwquvwxyz Pocjklmnopqr Suriname 39 Chickenpox NO 21-4-1142
+6344 Baqbcdefghij Lhgtuvwxyz Suriname 103 Rubella YES 5-5-6431
+8247 Yatqrstuvwxy Iamcdefghijk Suriname 9 Varicella YES 29-2-9534
+5372 Eicxyz Tuaxyz Suriname 83 Mumps NO
+3099 Hruyz Eqofghijklmn Suriname 85 HepatitisB NO
+1804 Gucxyz Wmwmnopqrstu Suriname 81 H1N1 NO 9-11-7809
+1694 Rabrstuvwxyz Zrrvwxyz Suriname 84 Mumps NO
+9235 Takghijklmno Qssrstuvwxyz Suriname 48 Polio YES 13-7-1570
+9207 Ydixyz Zmauvwxyz Suriname 91 SARS1 NO
+3552 Gvrqrstuvwxy Qwvabcdefghi Suriname 75 Tetanus NO
+1742 Fvncdefghijk Tuvxyz Suriname 15 Rotavirus YES 11-4-2104
+1100 Eclijklmnopq Lewwxyz Suriname 15 Diphtheria YES 9-3-1218
+4686 Efhopqrstuvw Vgzefghijklm Suriname 30 COVID19 YES 8-10-3204
+8377 Kssefghijklm Xwsabcdefghi Suriname 118 Tuberculosis YES 16-3-9143
+2232 Nwkrstuvwxyz Jrdstuvwxyz Suriname 77 Varicella YES 5-7-9065
+2279 Wbwxyz Axlmnopqrstu Suriname 56 Rubella NO
+8687 Maxjklmnopqr Wzsyz Suriname 56 TheFlu NO
+408 Hqofghijklmn Cwowxyz Suriname 120 SARS1 NO
+1205 Vggdefghijkl Cucklmnopqrs Suriname 17 Tetanus YES 29-4-8048
+9551 Xqchijklmnop Omqghijklmno Suriname 4 Rubella YES 23-4-3507
+8313 Fhzefghijklm Nwijklmnopqr Suriname 27 Mumps NO
+7807 Fyeklmnopqrs Zqwwxyz Suriname 2 COVID19 NO
+7796 Accyz Ilmdefghijkl Suriname 45 Rotavirus YES 4-5-1530

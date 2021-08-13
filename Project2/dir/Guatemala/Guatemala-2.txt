@@ -1,0 +1,20 @@
+1823 Lwcz Hgdefghijklm Guatemala 60 Testovirus NO 9-12-5618
+166 Gxbghijklmno Reujklmnopqr Guatemala 62 Tetanus YES 9-4-3960
+7069 Pkwrstuvwxyz Ditklmnopqrs Guatemala 104 Testovirus YES 19-4-3219
+8169 Udhefghijklm Nklcdefghijk Guatemala 6 Tuberculosis YES 1-1-5991
+5699 Xxsz Agkvwxyz Guatemala 33 Testovirus YES 11-5-1136
+2865 Cfwrstuvwxyz Vygtuvwxyz Guatemala 90 Chickenpox NO
+9758 Iwlvwxyz Cwfhijklmnop Guatemala 104 Polio YES 25-0-164
+8995 Tijijklmnopq Iqghijklmnop Guatemala 119 Polio NO
+2659 Nnnz Hikqrstuvwxy Guatemala 85 COVID19 YES 8-3-465
+8961 Lzvuvwxyz Uddghijklmno Guatemala 45 COVID19 YES 1-4-620
+6023 Bknhijklmnop Humjklmnopqr Guatemala 101 Varicella NO
+8660 Gceuvwxyz Scynopqrstuv Guatemala 76 H1N1 NO 8-11-1811
+714 Rpuqrstuvwxy Vfqopqrstuvw Guatemala 102 Chickenpox YES 0-2-4683
+4710 Mlidefghijkl Xlbtuvwxyz Guatemala 70 SARS1 YES 5-12-3213
+7223 Gyldefghijkl Oigpqrstuvwx Guatemala 103 TheFlu YES 1-7-9030
+7925 Ykbbcdefghij Vsvdefghijkl Guatemala 24 Varicella YES 24-9-866
+4574 Irajklmnopqr Gimopqrstuvw Guatemala 76 Tetanus YES 28-5-2203
+6315 Yfvvwxyz Ogluvwxyz Guatemala 107 Polio NO
+7021 Egbcdefghijk Vuuklmnopqrs Guatemala 69 SARS1 NO
+1054 Vyehijklmnop Yqwxyz Guatemala 106 Testovirus NO

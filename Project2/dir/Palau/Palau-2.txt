@@ -1,0 +1,23 @@
+1938 Iigdefghijkl Uantuvwxyz Palau 97 Mumps NO
+3004 Bfwlmnopqrst Quqqrstuvwxy Palau 58 Polio YES 0-1-4060
+6609 Wycopqrstuvw Judklmnopqrs Palau 50 HepatitisB YES 23-9-2474
+3461 Vowwxyz Qudijklmnopq Palau 82 HepatitisA YES 14-0-300
+789 Twvhijklmnop Ksctuvwxyz Palau 41 HepatitisA NO
+1981 Hxupqrstuvwx Fwhuvwxyz Palau 44 Varicella NO
+1424 Lhcpqrstuvwx Hmamnopqrstu Palau 28 Adenovirus YES 4-6-8180
+9781 Khndefghijkl Ndobcdefghij Palau 60 Testovirus YES 25-3-2040
+2630 Vojghijklmno Pybabcdefghi Palau 22 Tetanus YES 26-10-691
+8667 Swnwxyz Eaipqrstuvwx Palau 31 Varicella YES 4-2-5757
+7553 Jffnopqrstuv Zarrstuvwxyz Palau 12 Tuberculosis NO
+8599 Tdglmnopqrst Jzaghijklmno Palau 102 SARS1 NO 23-11-2381
+5196 Yasuvwxyz Bhcqrstuvwxy Palau 116 HepatitisA NO
+7590 Vfcz Cgjwxyz Palau 94 Chickenpox NO
+5928 Mblxyz Gnaijklmnopq Palau 116 Tuberculosis NO
+876 Nqohijklmnop Tgkmnopqrstu Palau 80 Polio YES 28-3-7915
+735 Ivkabcdefghi Fohlmnopqrst Palau 61 Hib NO
+92 Mdzpqrstuvwx Iitwxyz Palau 98 COVID19 YES 8-5-1910
+2127 Mzflmnopqrst Udzrstuvwxyz Palau 108 Adenovirus NO
+5992 Iupklmnopqrs Wbffghijklmn Palau 48 Tetanus YES 30-2-4008
+9521 Jdyghijklmno Elsefghijklm Palau 30 COVID19 NO
+8421 Tsvuvwxyz Dylnopqrstuv Palau 72 Rubella YES 25-7-1455
+6080 Psepqrstuvwx Maxpqrstuvwx Palau 30 HepatitisB YES 14-0-2194

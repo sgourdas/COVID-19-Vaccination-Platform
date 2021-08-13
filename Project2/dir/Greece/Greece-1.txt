@@ -1,0 +1,22 @@
+1580 Puzwxyz Huphijklmnop Greece 17 Mumps NO
+8769 Xuiz Gejbcdefghij Greece 5 Mumps NO
+7697 Xdapqrstuvwx Uurabcdefghi Greece 27 Adenovirus YES 30-6-3505
+5044 Wgaklmnopqrs Hycyz Greece 54 Testovirus YES 16-6-3963
+6615 Shrnopqrstuv Wsdpqrstuvwx Greece 99 Rotavirus YES 5-6-4062
+6208 Bkvghijklmno Wuhstuvwxyz Greece 8 SARS1 YES 2-12-5032
+209 Upfrstuvwxyz Wpzxyz Greece 70 SARS1 YES 29-2-340
+2601 Raqdefghijkl Vofpqrstuvwx Greece 100 Hib YES 26-1-3363
+581 Gvefghijklmn Jnvbcdefghij Greece 45 Rotavirus NO 16-8-7955
+7077 Dunstuvwxyz Msvstuvwxyz Greece 94 Tetanus YES 14-4-336
+6464 Kegijklmnopq Imlyz Greece 43 TheFlu NO
+6956 Muyyz Lkfefghijklm Greece 74 HepatitisA NO
+1583 Yugefghijklm Zccqrstuvwxy Greece 15 Varicella NO
+1959 Spzopqrstuvw Kkkz Greece 58 H1N1 NO 4-7-7268
+2293 Towmnopqrstu Sclghijklmno Greece 87 Hib NO
+7855 Zfsxyz Jihz Greece 69 Mumps NO 30-10-3603
+5167 Wxohijklmnop Jqzmnopqrstu Greece 90 COVID19 YES 16-8-9402
+8860 Ombqrstuvwxy Ckrklmnopqrs Greece 81 Testovirus YES 26-3-6394
+2785 Rrjijklmnopq Wotyz Greece 58 Rubella YES 17-5-7641
+4077 Wirvwxyz Jewcdefghijk Greece 33 H1N1 NO 17-12-3127
+8170 Oxuqrstuvwxy Ofxxyz Greece 48 TheFlu NO 19-12-777
+7647 Yaituvwxyz Xmkbcdefghij Greece 5 Testovirus NO 29-3-3098

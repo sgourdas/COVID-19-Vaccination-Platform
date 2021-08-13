@@ -1,0 +1,22 @@
+9005 Tfbstuvwxyz Mlhefghijklm Nigeria 17 Varicella YES 1-3-8408
+9092 Patijklmnopq Gnzrstuvwxyz Nigeria 68 HepatitisB NO 19-12-8279
+4958 Bbdabcdefghi Jpoghijklmno Nigeria 71 Rotavirus NO
+8843 Sniklmnopqrs Xykyz Nigeria 49 Chickenpox YES 10-3-584
+3549 Byzz Teknopqrstuv Nigeria 100 SARS1 YES 7-9-7993
+8332 Msgqrstuvwxy Rldcdefghijk Nigeria 31 Testovirus YES 15-7-5215
+5952 Pczklmnopqrs Askyz Nigeria 118 Hib YES 11-2-3004
+1682 Gdlqrstuvwxy Jglstuvwxyz Nigeria 92 Testovirus NO 22-11-5235
+3925 Rexnopqrstuv Tairstuvwxyz Nigeria 63 Polio NO 4-8-81
+8536 Stkabcdefghi Dwdopqrstuvw Nigeria 43 Tetanus NO
+5343 Pnihijklmnop Yluyz Nigeria 39 Rotavirus NO
+5773 Uhryz Sjxghijklmno Nigeria 26 COVID19 NO 23-6-2622
+7643 Ebvqrstuvwxy Ijropqrstuvw Nigeria 3 H1N1 YES 18-8-8390
+8352 Zoccdefghijk Dkddefghijkl Nigeria 55 COVID19 YES 22-9-2089
+7436 Wfmklmnopqrs Mawvwxyz Nigeria 63 Polio NO 13-0-4343
+3694 Mdcjklmnopqr Fuotuvwxyz Nigeria 7 HepatitisA NO
+3366 Gtwqrstuvwxy Cclklmnopqrs Nigeria 85 Chickenpox YES 5-11-226
+7391 Eghyz Zcuijklmnopq Nigeria 88 Adenovirus NO
+8081 Edpxyz Kszmnopqrstu Nigeria 38 Tetanus YES 15-2-890
+315 Igxqrstuvwxy Hofz Nigeria 90 Hib YES 8-12-4241
+9840 Fhtabcdefghi Jpvcdefghijk Nigeria 92 COVID19 NO
+6733 Anicdefghijk Jtmklmnopqrs Nigeria 116 HepatitisA YES 2-11-5745

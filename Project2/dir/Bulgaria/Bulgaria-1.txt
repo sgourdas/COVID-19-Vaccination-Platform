@@ -1,0 +1,23 @@
+2916 Xwauvwxyz Vnlabcdefghi Bulgaria 112 Rubella YES 28-0-6034
+1094 Jcjmnopqrstu Aszmnopqrstu Bulgaria 84 H1N1 YES 2-10-1473
+6580 Ljyz Okijklmnopqr Bulgaria 37 COVID19 YES 9-12-7879
+5045 Idamnopqrstu Brufghijklmn Bulgaria 19 HepatitisB YES 3-11-2415
+5182 Rbhbcdefghij Vcbabcdefghi Bulgaria 94 Mumps YES 10-5-1603
+3395 Ioltuvwxyz Zqtjklmnopqr Bulgaria 99 Polio NO
+2763 Rmnklmnopqrs Clvlmnopqrst Bulgaria 96 HepatitisB NO
+8589 Dfcpqrstuvwx Ioipqrstuvwx Bulgaria 102 HepatitisA YES 10-11-6344
+4936 Dsluvwxyz Okkpqrstuvwx Bulgaria 13 Hib NO 21-7-9105
+1416 Gehxyz Nxjlmnopqrst Bulgaria 59 Hib YES 11-6-3863
+8104 Xthnopqrstuv Xvdbcdefghij Bulgaria 38 Mumps NO 12-12-2869
+3686 Beqabcdefghi Cishijklmnop Bulgaria 116 Testovirus NO 13-5-9317
+3616 Btqdefghijkl Lhkcdefghijk Bulgaria 25 Polio YES 27-10-2297
+6478 Mljxyz Xjcyz Bulgaria 57 Tuberculosis YES 29-4-776
+8458 Ywxopqrstuvw Fcmijklmnopq Bulgaria 43 Varicella YES 4-9-9140
+6073 Xuhwxyz Rmhopqrstuvw Bulgaria 12 Chickenpox YES 25-8-2106
+5347 Mnistuvwxyz Qdwqrstuvwxy Bulgaria 105 Rubella YES 10-7-2911
+3641 Mnkpqrstuvwx Ghjz Bulgaria 11 Varicella NO
+5302 Yqbz Ydmcdefghijk Bulgaria 108 Rubella NO
+3495 Dgjz Tljstuvwxyz Bulgaria 93 Tetanus NO
+822 Caqdefghijkl Aecjklmnopqr Bulgaria 59 Polio NO
+8925 Tilrstuvwxyz Mouefghijklm Bulgaria 50 Tuberculosis NO
+9713 Rwughijklmno Tbxvwxyz Bulgaria 78 Adenovirus NO

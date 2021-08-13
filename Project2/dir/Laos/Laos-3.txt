@@ -1,0 +1,14 @@
+8027 Hsmwxyz Hiutuvwxyz Laos 81 HepatitisA YES 8-5-672
+8762 Kzclmnopqrst Azwz Laos 23 Polio NO
+5432 Farrstuvwxyz Ogkefghijklm Laos 59 HepatitisA NO
+3470 Vbmfghijklmn Ijebcdefghij Laos 84 Tetanus YES 8-5-746
+1133 Zvfwxyz Kovstuvwxyz Laos 66 Hib NO 8-11-2381
+1302 Udcstuvwxyz Mlmrstuvwxyz Laos 14 Adenovirus NO
+2074 Frtmnopqrstu Mhfhijklmnop Laos 18 Mumps YES 6-12-7610
+9679 Ppuvwxyz Pyttuvwxyz Laos 94 COVID19 YES 13-5-6326
+2262 Bjjnopqrstuv Vpefghijklmn Laos 96 Mumps YES 16-5-9262
+9862 Datqrstuvwxy Mxpyz Laos 14 HepatitisA YES 23-8-3976
+3235 Fphfghijklmn Svfabcdefghi Laos 26 Adenovirus NO
+9301 Dlccdefghijk Ffamnopqrstu Laos 74 H1N1 YES 24-3-1692
+9889 Iibbcdefghij Tuuopqrstuvw Laos 6 Rotavirus YES 10-4-1066
+3254 Negklmnopqrs Xtelmnopqrst Laos 5 Testovirus NO 19-2-7033

@@ -1,0 +1,21 @@
+4216 Rqvlmnopqrst Skyz Ghana 27 HepatitisB YES 13-9-6938
+1692 Arwz Txhbcdefghij Ghana 76 Varicella YES 0-8-4707
+8281 Zxtvwxyz Yvaklmnopqrs Ghana 54 Testovirus NO
+3011 Icglmnopqrst Uecwxyz Ghana 116 Tetanus YES 20-10-5472
+9654 Dhybcdefghij Ynuz Ghana 2 Testovirus YES 28-5-5493
+1032 Machijklmnop Flrwxyz Ghana 7 COVID19 NO 25-6-6856
+886 Nhthijklmnop Paopqrstuvwx Ghana 105 Adenovirus YES 12-9-3969
+2776 Xiiyz Kymz Ghana 21 Mumps YES 2-3-2148
+281 Rmxtuvwxyz Wnifghijklmn Ghana 104 HepatitisA NO
+2553 Gkcrstuvwxyz Dyuabcdefghi Ghana 12 Tuberculosis NO
+7762 Cyufghijklmn Xdpuvwxyz Ghana 30 COVID19 NO
+1675 Knpefghijklm Ohxhijklmnop Ghana 30 Tetanus YES 0-5-2336
+7536 Gvbabcdefghi Wvshijklmnop Ghana 29 Diphtheria NO
+8488 Jqulmnopqrst Fhjfghijklmn Ghana 85 Chickenpox YES 7-10-7148
+9919 Cuepqrstuvwx Uqpuvwxyz Ghana 40 Polio NO 24-11-9944
+2811 Izaefghijklm Gmicdefghijk Ghana 24 Testovirus NO
+6607 Ddituvwxyz Bbuvwxyz Ghana 53 Varicella YES 8-3-6122
+2110 Uqadefghijkl Wtzqrstuvwxy Ghana 63 Varicella NO
+776 Vdwyz Bglstuvwxyz Ghana 16 Varicella YES 17-12-2655
+99 Bskmnopqrstu Jhzlmnopqrst Ghana 52 COVID19 NO 19-1-2604
+7523 Becpqrstuvwx Jmiabcdefghi Ghana 27 Hib NO 14-1-4764

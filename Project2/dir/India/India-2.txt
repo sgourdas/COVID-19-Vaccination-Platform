@@ -1,0 +1,19 @@
+7001 Blnjklmnopqr Vmwvwxyz India 89 Adenovirus NO
+7066 Jwuefghijklm Fpfefghijklm India 113 Hib YES 19-4-7337
+3665 Lcbvwxyz Rutxyz India 39 Rotavirus NO 6-7-9823
+577 Oopstuvwxyz Otapqrstuvwx India 114 Adenovirus YES 30-4-350
+3539 Jzjvwxyz Jfkcdefghijk India 94 Tetanus NO 15-7-8774
+6670 Wwaabcdefghi Jqabcdefghij India 18 Varicella NO
+8992 Splbcdefghij Pfgcdefghijk India 55 Diphtheria NO
+6852 Addz Wxexyz India 57 Tuberculosis NO
+8417 Pxicdefghijk Hisrstuvwxyz India 4 Rubella YES 14-4-9912
+4110 Spwz Vhgjklmnopqr India 88 Tetanus YES 30-5-4633
+9198 Ejhpqrstuvwx Uzehijklmnop India 116 Polio YES 0-11-475
+2174 Khnpqrstuvwx Qogz India 70 Polio NO
+9227 Dqwwxyz Eazhijklmnop India 110 Diphtheria YES 20-5-1292
+6311 Pldopqrstuvw Gebz India 59 Rotavirus NO 22-5-912
+3097 Tmjtuvwxyz Vyiyz India 51 COVID19 NO
+9995 Wtcvwxyz Maspqrstuvwx India 83 Tetanus YES 23-7-4683
+9681 Ffhtuvwxyz Ijnjklmnopqr India 19 Rubella NO
+5451 Qgmmnopqrstu Qnpbcdefghij India 7 Diphtheria NO
+1407 Yylijklmnopq Nfdmnopqrstu India 39 Varicella YES 8-2-2461

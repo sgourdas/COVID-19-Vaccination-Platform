@@ -1,0 +1,20 @@
+7825 Qzcqrstuvwxy Vxnuvwxyz Norway 63 Polio NO
+5129 Rczopqrstuvw Rogqrstuvwxy Norway 5 Tuberculosis NO 3-0-1352
+5825 Lwdlmnopqrst Fnmdefghijkl Norway 92 Hib NO
+1464 Pcgwxyz Tgughijklmno Norway 28 Adenovirus YES 22-10-1848
+8233 Vwivwxyz Dkpnopqrstuv Norway 39 Adenovirus YES 27-12-212
+3192 Wihijklmnopq Efnfghijklmn Norway 26 Polio NO 21-6-3889
+9407 Mlidefghijkl Faopqrstuvwx Norway 109 SARS1 NO 8-0-5337
+6089 Ppsuvwxyz Coystuvwxyz Norway 12 Mumps NO
+4130 Ymgabcdefghi Jgeyz Norway 17 Mumps YES 26-2-7530
+687 Ebuxyz Luyopqrstuvw Norway 30 Adenovirus YES 4-2-3771
+9054 Navcdefghijk Apsopqrstuvw Norway 112 Diphtheria NO 21-6-9735
+8429 Bbzcdefghijk Bhzijklmnopq Norway 86 Diphtheria YES 15-3-2353
+469 Acyijklmnopq Msqrstuvwxyz Norway 5 TheFlu YES 3-3-6273
+9380 Wdzefghijklm Afgnopqrstuv Norway 44 Adenovirus NO
+6997 Hdfcdefghijk Halrstuvwxyz Norway 82 Varicella NO
+2518 Vnupqrstuvwx Jawijklmnopq Norway 54 TheFlu YES 6-10-2534
+22 Ubhcdefghijk Vcpghijklmno Norway 68 Chickenpox NO
+6584 Kjryz Zqkefghijklm Norway 1 Polio NO 9-5-795
+7164 Niyghijklmno Iafjklmnopqr Norway 105 HepatitisA YES 26-2-6492
+1703 Vjcabcdefghi Yoxnopqrstuv Norway 88 Tuberculosis NO

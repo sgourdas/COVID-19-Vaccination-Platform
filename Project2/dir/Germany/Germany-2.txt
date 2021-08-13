@@ -1,0 +1,20 @@
+4591 Jkfz Wtkdefghijkl Germany 108 Mumps NO 21-12-3067
+7695 Miqdefghijkl Gxbdefghijkl Germany 34 Varicella NO
+6923 Iwbtuvwxyz Ubrijklmnopq Germany 43 Varicella NO
+1971 Ifrcdefghijk Odpdefghijkl Germany 111 Chickenpox YES 9-7-3471
+2146 Zwpz Dnxuvwxyz Germany 24 Tuberculosis NO
+8220 Rennopqrstuv Vzmbcdefghij Germany 26 H1N1 YES 28-2-6242
+4446 Ntryz Usvqrstuvwxy Germany 14 HepatitisB NO
+3089 Uqcuvwxyz Lcuijklmnopq Germany 120 Polio YES 24-5-9066
+8944 Aopnopqrstuv Lhvhijklmnop Germany 105 Tetanus YES 23-8-9012
+5247 Ofqqrstuvwxy Ftydefghijkl Germany 109 Diphtheria YES 10-8-9305
+6035 Yztghijklmno Zeocdefghijk Germany 34 Rubella NO
+7874 Ixjuvwxyz Ohawxyz Germany 92 Polio NO
+2364 Abtrstuvwxyz Rofuvwxyz Germany 7 SARS1 YES 24-1-2949
+2176 Rqlbcdefghij Aupghijklmno Germany 74 COVID19 NO
+6110 Smkijklmnopq Pmiz Germany 98 Tuberculosis NO
+4330 Hefcdefghijk Surmnopqrstu Germany 96 H1N1 YES 21-4-7327
+6806 Izjghijklmno Ayjdefghijkl Germany 39 H1N1 YES 20-0-3812
+505 Afyuvwxyz Vxidefghijkl Germany 107 Diphtheria YES 2-10-8381
+4115 Kavstuvwxyz Oidijklmnopq Germany 113 Diphtheria NO
+3766 Iganopqrstuv Wcmdefghijkl Germany 47 Diphtheria NO 18-0-2350

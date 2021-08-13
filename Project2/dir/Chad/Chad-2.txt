@@ -1,0 +1,17 @@
+6249 Jwqqrstuvwxy Gcjabcdefghi Chad 33 Tuberculosis NO
+1090 Fqkklmnopqrs Htcklmnopqrs Chad 108 H1N1 YES 22-1-5062
+8507 Eekopqrstuvw Jpgwxyz Chad 41 Chickenpox NO 16-11-6664
+1243 Hkhijklmnopq Entijklmnopq Chad 63 COVID19 YES 4-4-3188
+7768 Jqkabcdefghi Lpdmnopqrstu Chad 110 Adenovirus NO
+115 Huuijklmnopq Jykxyz Chad 77 Tetanus NO
+1619 Nxqfghijklmn Lsgdefghijkl Chad 18 Adenovirus YES 12-10-5805
+9947 Xnzrstuvwxyz Iwefghijklmn Chad 99 SARS1 NO
+3122 Ykevwxyz Kkgrstuvwxyz Chad 48 HepatitisB YES 4-5-1169
+7723 Kceabcdefghi Zbrwxyz Chad 69 HepatitisB NO
+6932 Ikcmnopqrstu Otiyz Chad 55 TheFlu NO
+9990 Uzhxyz Htkcdefghijk Chad 17 Rotavirus YES 17-11-1264
+4313 Zqhxyz Vtdefghijklm Chad 91 Adenovirus YES 15-12-104
+3755 Ljxdefghijkl Pcfpqrstuvwx Chad 55 HepatitisA YES 15-4-111
+3672 Tbfghijklmno Kfjijklmnopq Chad 45 HepatitisA YES 5-9-9960
+8431 Dsoghijklmno Sscdefghijkl Chad 70 SARS1 NO
+7061 Fpbz Cdlpqrstuvwx Chad 20 Adenovirus YES 5-5-7587

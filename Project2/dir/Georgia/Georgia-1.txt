@@ -1,0 +1,18 @@
+6693 Lrblmnopqrst Hmumnopqrstu Georgia 84 H1N1 YES 4-0-5356
+5012 Pvmyz Irvlmnopqrst Georgia 11 Adenovirus NO
+4654 Tzelmnopqrst Sftnopqrstuv Georgia 91 HepatitisA YES 24-4-9187
+4292 Subhijklmnop Rtxrstuvwxyz Georgia 92 SARS1 YES 8-8-631
+8308 Tnfxyz Fahstuvwxyz Georgia 82 Varicella YES 4-8-8221
+651 Edxpqrstuvwx Rkxrstuvwxyz Georgia 47 Tuberculosis YES 2-12-7773
+2191 Koiyz Imevwxyz Georgia 36 Chickenpox YES 29-4-520
+7058 Jcoghijklmno Cftbcdefghij Georgia 21 Mumps YES 27-2-7591
+8448 Bkrhijklmnop Combcdefghij Georgia 104 H1N1 YES 8-10-4825
+7124 Ejbwxyz Zonjklmnopqr Georgia 46 Varicella NO 30-8-254
+4962 Gogbcdefghij Jcsxyz Georgia 57 Mumps NO 30-10-853
+6835 Ffluvwxyz Esqghijklmno Georgia 43 Tuberculosis NO
+8883 Uoighijklmno Flutuvwxyz Georgia 42 H1N1 NO
+524 Dchmnopqrstu Lpyklmnopqrs Georgia 30 HepatitisB NO
+7046 Premnopqrstu Mxbvwxyz Georgia 13 Rotavirus YES 7-7-8428
+2368 Yikjklmnopqr Txjijklmnopq Georgia 71 Hib YES 18-1-7894
+163 Yejrstuvwxyz Nodvwxyz Georgia 16 Rubella NO 19-1-1670
+250 Honuvwxyz Bvystuvwxyz Georgia 54 SARS1 YES 8-8-8641

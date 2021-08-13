@@ -1,0 +1,19 @@
+6024 Xfcijklmnopq Tjnlmnopqrst Dominica 80 Hib YES 15-0-9561
+448 Fbrdefghijkl Mhvhijklmnop Dominica 65 Tuberculosis YES 14-8-9919
+7291 Pphnopqrstuv Ecpyz Dominica 40 Varicella YES 11-12-2207
+8596 Snsbcdefghij Nizjklmnopqr Dominica 71 Rubella YES 14-7-1173
+1064 Aimghijklmno Tribcdefghij Dominica 103 HepatitisB YES 13-0-1
+639 Ffkijklmnopq Mhuklmnopqrs Dominica 32 Tuberculosis NO
+4946 Iyhpqrstuvwx Ezcjklmnopqr Dominica 1 Diphtheria YES 13-8-633
+3650 Goaxyz Pbpopqrstuvw Dominica 112 Polio NO
+1612 Awmdefghijkl Agddefghijkl Dominica 29 Mumps NO
+2004 Fyawxyz Sutmnopqrstu Dominica 44 Hib YES 24-12-5246
+4692 Gwnhijklmnop Vilhijklmnop Dominica 8 H1N1 YES 14-11-7294
+7777 Fmtopqrstuvw Ilfz Dominica 61 Chickenpox YES 24-4-6001
+678 Pwubcdefghij Aqmstuvwxyz Dominica 91 Tetanus YES 8-0-3584
+9322 Qhuopqrstuvw Ihhcdefghijk Dominica 21 HepatitisB YES 9-3-9954
+4926 Zvtuvwxyz Rqzpqrstuvwx Dominica 7 HepatitisA NO
+916 Yawuvwxyz Locefghijklm Dominica 116 TheFlu NO
+7449 Uxzfghijklmn Ggoijklmnopq Dominica 1 Testovirus YES 26-9-6071
+8686 Afalmnopqrst Rrudefghijkl Dominica 83 HepatitisA NO
+4281 Vkyxyz Ttslmnopqrst Dominica 92 Chickenpox YES 23-0-4302

@@ -1,0 +1,21 @@
+937 Dkkyz Hogijklmnopq Macedonia 115 SARS1 NO
+9257 Cmexyz Iegbcdefghij Macedonia 38 Tuberculosis YES 3-7-2422
+2419 Ippdefghijkl Hrkabcdefghi Macedonia 42 Rotavirus YES 7-1-3224
+7514 Lccfghijklmn Wzostuvwxyz Macedonia 66 TheFlu NO 16-6-585
+1415 Ajxcdefghijk Edeopqrstuvw Macedonia 103 Diphtheria NO 22-9-8088
+934 Pwexyz Stmdefghijkl Macedonia 15 Hib NO 6-1-3873
+8471 Mgvyz Mgynopqrstuv Macedonia 113 Varicella NO 18-4-9091
+4761 Rwcbcdefghij Ymdz Macedonia 107 HepatitisA YES 11-9-2217
+2908 Oesghijklmno Dwituvwxyz Macedonia 13 HepatitisB NO
+951 Lsojklmnopqr Gadhijklmnop Macedonia 72 HepatitisA YES 19-9-5437
+1417 Lbvz Ttpopqrstuvw Macedonia 116 Rotavirus NO
+5938 Ugixyz Pjolmnopqrst Macedonia 14 Tetanus YES 21-1-3864
+791 Bcdwxyz Okonopqrstuv Macedonia 7 COVID19 YES 17-1-5530
+2603 Dtiklmnopqrs Smmabcdefghi Macedonia 28 COVID19 YES 27-2-5840
+1711 Pkqghijklmno Kiqpqrstuvwx Macedonia 99 Adenovirus YES 10-7-9838
+5079 Qafz Txtopqrstuvw Macedonia 106 SARS1 NO
+5026 Ndnabcdefghi Tysstuvwxyz Macedonia 92 Varicella NO
+9468 Esbvwxyz Xcxvwxyz Macedonia 36 Tuberculosis NO
+4415 Rxzefghijklm Dwcijklmnopq Macedonia 72 Tuberculosis NO 12-6-5879
+1534 Pjcdefghijkl Gzjrstuvwxyz Macedonia 41 Diphtheria YES 0-4-5909
+6527 Apojklmnopqr Sphwxyz Macedonia 19 Adenovirus YES 21-11-7195

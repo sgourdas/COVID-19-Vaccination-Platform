@@ -1,0 +1,20 @@
+4315 Fhqxyz Lzrbcdefghij Bahamas 43 Varicella YES 24-11-5015
+8006 Qhquvwxyz Mlnxyz Bahamas 15 Chickenpox YES 28-4-2361
+2647 Dluvwxyz Yxblmnopqrst Bahamas 30 TheFlu NO
+30 Rnowxyz Cocdefghijkl Bahamas 107 Rubella YES 9-12-8042
+2956 Exdbcdefghij Kqquvwxyz Bahamas 98 Hib NO 17-5-1
+9499 Jnvxyz Nuzdefghijkl Bahamas 71 Chickenpox NO
+4758 Armlmnopqrst Vmnopqrstuvw Bahamas 111 SARS1 NO 20-11-2375
+5924 Mnkwxyz Vjuklmnopqrs Bahamas 42 Testovirus YES 3-3-2131
+165 Geiopqrstuvw Cpujklmnopqr Bahamas 65 Diphtheria NO
+4416 Qmylmnopqrst Odjijklmnopq Bahamas 31 Tetanus YES 11-11-2752
+9126 Auidefghijkl Kormnopqrstu Bahamas 31 Chickenpox YES 22-8-7015
+1446 Uuuvwxyz Qdlpqrstuvwx Bahamas 22 SARS1 YES 10-12-9166
+2044 Rzpopqrstuvw Rllvwxyz Bahamas 113 HepatitisA YES 26-4-6365
+2487 Xlklmnopqrst Mmcklmnopqrs Bahamas 6 Polio YES 17-3-5837
+410 Xauopqrstuvw Rsjtuvwxyz Bahamas 73 Chickenpox NO
+5525 Jibrstuvwxyz Uzvijklmnopq Bahamas 110 H1N1 YES 19-5-7019
+8895 Oummnopqrstu Kqrpqrstuvwx Bahamas 7 Mumps YES 17-2-2166
+4252 Xzgabcdefghi Farcdefghijk Bahamas 31 COVID19 YES 29-2-4246
+6652 Kepxyz Aymlmnopqrst Bahamas 10 TheFlu YES 18-6-8870
+866 Cnphijklmnop Eimpqrstuvwx Bahamas 114 Diphtheria YES 18-9-8781

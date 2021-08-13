@@ -1,0 +1,24 @@
+8532 Evqlmnopqrst Ahfuvwxyz Haiti 88 SARS1 NO
+7753 Ifqbcdefghij Gpkrstuvwxyz Haiti 106 Chickenpox YES 16-7-9560
+8366 Obpvwxyz Bodbcdefghij Haiti 107 TheFlu NO
+7122 Jgejklmnopqr Dbnstuvwxyz Haiti 118 Rubella NO
+4343 Lgdlmnopqrst Iiklmnopqrst Haiti 33 Tetanus YES 26-3-3625
+7275 Rsmbcdefghij Ldlnopqrstuv Haiti 116 Chickenpox NO 18-5-9001
+9428 Ugmpqrstuvwx Ruylmnopqrst Haiti 38 Varicella YES 25-2-570
+904 Epabcdefghij Dvjijklmnopq Haiti 16 TheFlu YES 2-9-3597
+1310 Zocstuvwxyz Janlmnopqrst Haiti 66 Diphtheria YES 4-12-2262
+5361 Iqkcdefghijk Ecfnopqrstuv Haiti 62 Diphtheria YES 9-2-3609
+3994 Uukyz Kwxbcdefghij Haiti 24 Rotavirus YES 21-7-6296
+4277 Ycwghijklmno Qxwvwxyz Haiti 45 Adenovirus NO
+9200 Ailopqrstuvw Jwkabcdefghi Haiti 92 H1N1 NO
+9743 Svytuvwxyz Nwtqrstuvwxy Haiti 6 COVID19 YES 21-7-6459
+2701 Omgqrstuvwxy Twkfghijklmn Haiti 64 Tetanus YES 4-9-8918
+4460 Bwgtuvwxyz Bhcabcdefghi Haiti 37 COVID19 NO 12-2-6808
+828 Kmjz Ygfpqrstuvwx Haiti 54 Varicella YES 16-12-2187
+3795 Mqctuvwxyz Pjpabcdefghi Haiti 42 Hib NO 7-6-8252
+9376 Iiiefghijklm Vieijklmnopq Haiti 36 Mumps NO
+7244 Tssdefghijkl Nnhtuvwxyz Haiti 5 Rotavirus NO
+8422 Qrkcdefghijk Yrrpqrstuvwx Haiti 96 HepatitisA NO
+1570 Itoghijklmno Ztjklmnopqrs Haiti 5 HepatitisB YES 30-0-287
+599 Uuerstuvwxyz Tjzefghijklm Haiti 87 Rubella NO
+3692 Udfuvwxyz Eycz Haiti 105 TheFlu NO

@@ -1,0 +1,17 @@
+1210 Rinefghijklm Ixgijklmnopq Bhutan 76 Mumps YES 9-7-7928
+2620 Defnopqrstuv Ehuklmnopqrs Bhutan 119 Polio NO
+9002 Gxbijklmnopq Zohhijklmnop Bhutan 32 Rubella YES 15-4-191
+1608 Epnlmnopqrst Naujklmnopqr Bhutan 63 Adenovirus NO
+3273 Qatuvwxyz Ehmtuvwxyz Bhutan 43 Polio YES 16-8-2347
+5231 Flsz Kvljklmnopqr Bhutan 62 Tuberculosis NO
+3061 Fyfmnopqrstu Ftarstuvwxyz Bhutan 32 SARS1 NO
+4576 Nkwghijklmno Ewznopqrstuv Bhutan 116 SARS1 NO
+9951 Qrzfghijklmn Mfuvwxyz Bhutan 41 SARS1 NO 8-10-1250
+4495 Dfxijklmnopq Rxydefghijkl Bhutan 69 Tetanus NO 3-0-6469
+2894 Mznklmnopqrs Srhhijklmnop Bhutan 5 COVID19 YES 10-11-8418
+5832 Tpsefghijklm Pxstuvwxyz Bhutan 39 H1N1 NO
+6770 Tqepqrstuvwx Eowqrstuvwxy Bhutan 89 Tetanus YES 2-1-3446
+3540 Bysklmnopqrs Hredefghijkl Bhutan 62 Testovirus NO 23-8-7141
+4253 Kryvwxyz Oaeijklmnopq Bhutan 99 HepatitisB NO
+147 Feuefghijklm Flffghijklmn Bhutan 83 HepatitisB YES 28-6-6910
+6904 Pogbcdefghij Iwqjklmnopqr Bhutan 101 Hib NO 3-0-4070

@@ -1,0 +1,18 @@
+5991 Pzmabcdefghi Pfhbcdefghij Afghanistan 12 Diphtheria YES 1-2-6150
+1763 Njnefghijklm Edaopqrstuvw Afghanistan 31 Adenovirus YES 9-2-5082
+6544 Fvjklmnopqrs Fbxqrstuvwxy Afghanistan 6 Mumps YES 30-6-9485
+1508 Yhhstuvwxyz Xnpyz Afghanistan 108 Chickenpox YES 4-11-1150
+1516 Esvcdefghijk Ckthijklmnop Afghanistan 96 Rubella NO
+1875 Hlkdefghijkl Jpfbcdefghij Afghanistan 20 COVID19 YES 3-3-2452
+9159 Acllmnopqrst Hytyz Afghanistan 31 HepatitisA NO
+6321 Ojyxyz Spfz Afghanistan 109 Rubella YES 9-9-5092
+6206 Blrjklmnopqr Vtbvwxyz Afghanistan 65 Mumps NO
+2891 Wskbcdefghij Ocsvwxyz Afghanistan 31 Diphtheria YES 19-0-228
+5424 Mdkz Rgfrstuvwxyz Afghanistan 26 HepatitisB NO 10-8-908
+1144 Hwmpqrstuvwx Fmrfghijklmn Afghanistan 38 Mumps NO 19-6-4709
+1293 Npjghijklmno Avgjklmnopqr Afghanistan 65 Polio YES 15-5-2293
+4566 Lsglmnopqrst Zyqijklmnopq Afghanistan 11 Hib YES 12-5-7013
+9336 Jtynopqrstuv Fvzbcdefghij Afghanistan 105 Varicella YES 25-11-6129
+7012 Icslmnopqrst Dbwwxyz Afghanistan 59 Rotavirus YES 30-8-5776
+4126 Hbxefghijklm Hcpghijklmno Afghanistan 25 Polio YES 7-7-8882
+4433 Ychlmnopqrst Apanopqrstuv Afghanistan 59 Rubella NO

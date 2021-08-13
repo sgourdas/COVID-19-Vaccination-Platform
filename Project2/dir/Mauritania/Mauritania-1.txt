@@ -1,0 +1,18 @@
+2231 Znopqrstuvwx Hjjopqrstuvw Mauritania 71 Varicella NO
+4522 Tvscdefghijk Wyicdefghijk Mauritania 41 Mumps YES 12-9-243
+8144 Ysjyz Hfjvwxyz Mauritania 100 H1N1 YES 8-7-1586
+9955 Oajijklmnopq Xwquvwxyz Mauritania 99 COVID19 YES 21-2-8378
+8399 Hnnijklmnopq Tmfxyz Mauritania 40 COVID19 NO
+5987 Jeqtuvwxyz Mqrqrstuvwxy Mauritania 12 Rubella NO
+1593 Mdabcdefghij Uecxyz Mauritania 77 Mumps NO
+1788 Jeexyz Qodcdefghijk Mauritania 51 Rotavirus YES 18-2-8282
+2175 Odgklmnopqrs Tkovwxyz Mauritania 71 SARS1 NO
+5411 Egauvwxyz Zhbjklmnopqr Mauritania 10 Rotavirus NO
+3622 Cqhefghijklm Yrjtuvwxyz Mauritania 3 TheFlu YES 17-3-9178
+982 Leguvwxyz Xjrz Mauritania 3 Testovirus YES 15-6-9693
+5202 Jcglmnopqrst Csavwxyz Mauritania 82 Rubella NO
+8450 Fknstuvwxyz Ovqfghijklmn Mauritania 51 Tetanus NO
+7095 Alqpqrstuvwx Johyz Mauritania 45 SARS1 YES 24-9-6055
+2505 Bdspqrstuvwx Qqhnopqrstuv Mauritania 72 HepatitisA NO 15-10-8516
+3127 Nyropqrstuvw Gqonopqrstuv Mauritania 34 H1N1 NO
+8180 Ducstuvwxyz Xyustuvwxyz Mauritania 29 Tetanus YES 21-5-5012

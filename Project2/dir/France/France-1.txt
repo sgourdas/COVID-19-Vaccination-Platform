@@ -1,0 +1,21 @@
+5180 Uauabcdefghi Axqstuvwxyz France 72 Diphtheria YES 20-12-5708
+3271 Rpbfghijklmn Fmoopqrstuvw France 42 Chickenpox NO
+5907 Fgohijklmnop Rlznopqrstuv France 49 Tetanus YES 12-7-1633
+4260 Qbmhijklmnop Twsefghijklm France 97 Chickenpox YES 14-2-1781
+3212 Dcmwxyz Enfpqrstuvwx France 15 Chickenpox NO
+46 Gxbjklmnopqr Qlebcdefghij France 115 Diphtheria NO
+2759 Jppz Jblyz France 74 Rubella NO
+8968 Rytghijklmno Rcwabcdefghi France 33 Diphtheria NO
+2325 Vfoopqrstuvw Brrcdefghijk France 1 Testovirus NO
+670 Cheuvwxyz Mubijklmnopq France 39 Chickenpox YES 27-7-616
+6915 Avrcdefghijk Bftnopqrstuv France 88 Tuberculosis NO 6-8-5691
+1511 Xdmlmnopqrst Tvrnopqrstuv France 34 Hib NO
+2874 Pqfcdefghijk Beeefghijklm France 93 H1N1 NO
+8858 Uabwxyz Rrcnopqrstuv France 106 Hib NO
+9324 Kedz Kgzmnopqrstu France 48 Tuberculosis NO 16-1-5098
+9632 Ssnqrstuvwxy Xdiijklmnopq France 55 TheFlu YES 16-9-7671
+6026 Dcknopqrstuv Wbjdefghijkl France 2 HepatitisA NO
+2558 Rajpqrstuvwx Ztfabcdefghi France 11 Polio YES 5-3-4846
+1247 Cgxstuvwxyz Tiwabcdefghi France 115 SARS1 YES 26-7-4212
+8516 Fepklmnopqrs Wlgmnopqrstu France 15 HepatitisB YES 19-12-1129
+7176 Plyopqrstuvw Fmuz France 92 Hib YES 0-9-8783

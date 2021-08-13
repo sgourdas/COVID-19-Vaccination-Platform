@@ -1,0 +1,19 @@
+7400 Eysbcdefghij Tbsbcdefghij Somalia 43 H1N1 YES 24-11-2165
+2579 Eetpqrstuvwx Mlhqrstuvwxy Somalia 6 Chickenpox YES 4-9-261
+287 Kenijklmnopq Vnlrstuvwxyz Somalia 119 Rubella YES 24-0-3729
+7296 Mygwxyz Nmwcdefghijk Somalia 30 COVID19 NO 23-8-8620
+2996 Lrcrstuvwxyz Hnxstuvwxyz Somalia 69 HepatitisB NO
+306 Ylcxyz Pcgtuvwxyz Somalia 14 HepatitisA YES 8-12-4492
+447 Hdnghijklmno Axxz Somalia 15 Mumps NO 12-2-9535
+7986 Bhjrstuvwxyz Smxfghijklmn Somalia 111 Polio NO 8-1-6037
+3442 Llwbcdefghij Lheabcdefghi Somalia 41 HepatitisB NO 11-12-7481
+9024 Yosrstuvwxyz Tsjvwxyz Somalia 108 H1N1 NO 18-0-7571
+6396 Dghyz Mrouvwxyz Somalia 116 HepatitisA YES 23-7-1402
+8639 Uybijklmnopq Zeuz Somalia 96 SARS1 NO 6-10-1537
+4437 Vxhbcdefghij Ngbqrstuvwxy Somalia 9 Tuberculosis YES 12-12-7765
+2217 Xlfabcdefghi Oqidefghijkl Somalia 41 Tuberculosis YES 15-0-8022
+1190 Jbrz Oijabcdefghi Somalia 16 Varicella NO
+8975 Mgsrstuvwxyz Mkkstuvwxyz Somalia 61 Adenovirus NO 11-7-5810
+5295 Lsxstuvwxyz Bqeefghijklm Somalia 45 HepatitisB NO
+5118 Gdlabcdefghi Asxfghijklmn Somalia 49 TheFlu NO
+7973 Ncufghijklmn Biwmnopqrstu Somalia 49 HepatitisB YES 24-2-7787

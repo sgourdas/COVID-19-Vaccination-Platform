@@ -1,0 +1,23 @@
+9580 Widbcdefghij Elkefghijklm Spain 118 Chickenpox NO 15-8-3654
+5215 Pzvqrstuvwxy Iycz Spain 90 HepatitisA NO
+8053 Bkyhijklmnop Ltchijklmnop Spain 116 Varicella YES 12-12-8982
+9558 Xezrstuvwxyz Ousyz Spain 119 Polio YES 30-4-1251
+279 Wrzdefghijkl Pkmmnopqrstu Spain 114 HepatitisA YES 14-12-3842
+4000 Pfeghijklmno Jtmghijklmno Spain 7 Hib NO
+41 Pakxyz Izsghijklmno Spain 101 TheFlu NO
+6574 Kwlvwxyz Kofklmnopqrs Spain 94 Diphtheria NO 3-2-6402
+3131 Lhfjklmnopqr Iocnopqrstuv Spain 102 COVID19 YES 23-3-4589
+655 Tsxstuvwxyz Aijz Spain 63 Testovirus YES 6-2-9342
+3453 Olbuvwxyz Ycjabcdefghi Spain 3 Diphtheria NO
+3920 Hecqrstuvwxy Kpkfghijklmn Spain 49 SARS1 YES 25-8-4482
+6660 Gpjstuvwxyz Ebgfghijklmn Spain 37 Diphtheria NO
+9816 Gmvcdefghijk Afydefghijkl Spain 44 Polio YES 21-9-6430
+4227 Fmytuvwxyz Vbwlmnopqrst Spain 47 Rubella NO
+1352 Fwdxyz Jwnbcdefghij Spain 20 HepatitisB YES 27-9-5096
+3651 Ksedefghijkl Zevdefghijkl Spain 77 Testovirus YES 21-4-7253
+5804 Ooprstuvwxyz Fkxdefghijkl Spain 35 Mumps NO
+1972 Wjnopqrstuvw Zhiwxyz Spain 109 TheFlu YES 9-10-9177
+6442 Rdyfghijklmn Typmnopqrstu Spain 73 TheFlu YES 10-1-675
+202 Ohmijklmnopq Jaxnopqrstuv Spain 5 Polio YES 30-1-7684
+6216 Uumghijklmno Yotrstuvwxyz Spain 48 Polio NO 15-1-1506
+652 Ieomnopqrstu Xsvhijklmnop Spain 88 Tuberculosis YES 6-4-5466

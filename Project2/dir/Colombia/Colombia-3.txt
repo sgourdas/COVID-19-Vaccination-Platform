@@ -1,0 +1,18 @@
+8356 Lcwcdefghijk Rftijklmnopq Colombia 34 SARS1 YES 0-3-364
+4185 Ibzdefghijkl Lytqrstuvwxy Colombia 90 H1N1 YES 9-4-1682
+2690 Jnwefghijklm Zcnxyz Colombia 72 Varicella NO 22-10-1110
+9538 Gnbstuvwxyz Lxfhijklmnop Colombia 70 SARS1 YES 17-2-6236
+7377 Egaz Hpbopqrstuvw Colombia 4 HepatitisB NO 6-4-7799
+2727 Dlnefghijklm Dbodefghijkl Colombia 64 H1N1 NO
+7154 Wnqbcdefghij Erkhijklmnop Colombia 23 HepatitisB YES 19-8-9526
+2910 Owfxyz Vccrstuvwxyz Colombia 110 COVID19 NO
+806 Fkgyz Kfgdefghijkl Colombia 7 Tuberculosis NO
+4418 Gjjstuvwxyz Aeinopqrstuv Colombia 71 Testovirus YES 11-12-903
+2135 Ljqhijklmnop Hwwefghijklm Colombia 28 Hib NO
+1820 Kaxxyz Icnhijklmnop Colombia 19 SARS1 YES 14-8-4040
+1762 Pgzijklmnopq Xhfvwxyz Colombia 102 COVID19 YES 3-0-2311
+6058 Pcqz Nqmbcdefghij Colombia 92 Tuberculosis NO
+9354 Ugustuvwxyz Clkjklmnopqr Colombia 99 Rubella YES 24-4-4570
+2644 Jnfyz Nixyz Colombia 119 Varicella NO
+4469 Wkrqrstuvwxy Gfbz Colombia 53 TheFlu YES 16-8-5244
+5502 Rlrjklmnopqr Yzcmnopqrstu Colombia 100 Tetanus YES 13-11-3563

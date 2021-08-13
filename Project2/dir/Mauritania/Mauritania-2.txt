@@ -1,0 +1,18 @@
+764 Vbmmnopqrstu Uzlbcdefghij Mauritania 97 Testovirus NO 18-10-5618
+2898 Godijklmnopq Ookwxyz Mauritania 90 Tetanus YES 17-6-7461
+5698 Igyqrstuvwxy Yrqvwxyz Mauritania 36 Rotavirus NO 29-8-6617
+7103 Tjsxyz Yczqrstuvwxy Mauritania 83 Tuberculosis NO 13-10-1479
+9839 Jxotuvwxyz Vygyz Mauritania 94 Tuberculosis NO
+4808 Vgfyz Munklmnopqrs Mauritania 78 COVID19 YES 24-0-3482
+3163 Umqxyz Bhdtuvwxyz Mauritania 116 Hib NO
+8496 Vyjqrstuvwxy Xiyfghijklmn Mauritania 73 Rubella YES 6-8-8125
+6332 Eeryz Vmyyz Mauritania 74 Tetanus YES 5-7-5103
+8733 Vnsz Smcefghijklm Mauritania 74 Tuberculosis NO 18-3-9438
+4385 Mqjdefghijkl Ieqijklmnopq Mauritania 13 Varicella NO
+5464 Jfhpqrstuvwx Jsftuvwxyz Mauritania 43 HepatitisB YES 1-9-2003
+7280 Tktklmnopqrs Fbejklmnopqr Mauritania 66 Tuberculosis NO
+4157 Celijklmnopq Hepmnopqrstu Mauritania 22 Hib YES 15-4-3773
+293 Rinvwxyz Ilvtuvwxyz Mauritania 6 Rubella YES 24-9-6877
+4894 Onkhijklmnop Hrlfghijklmn Mauritania 37 Rubella YES 15-9-6995
+3739 Gzxstuvwxyz Gwdpqrstuvwx Mauritania 37 Adenovirus NO
+3118 Satstuvwxyz Eulxyz Mauritania 6 Rubella YES 0-3-6579

@@ -1,0 +1,20 @@
+6034 Zlpuvwxyz Xapfghijklmn Uganda 36 Polio YES 20-4-8465
+2853 Jreqrstuvwxy Ohwabcdefghi Uganda 88 Rubella YES 14-5-4137
+2863 Jywtuvwxyz Imlmnopqrstu Uganda 43 COVID19 NO
+6040 Uknabcdefghi Jrjefghijklm Uganda 60 Chickenpox YES 12-12-4370
+4498 Vegbcdefghij Gnwvwxyz Uganda 18 Polio NO
+4180 Wakhijklmnop Wtbklmnopqrs Uganda 70 Rotavirus YES 1-1-9684
+8019 Zpughijklmno Wnxlmnopqrst Uganda 11 Rotavirus NO 26-0-4593
+6965 Pxdopqrstuvw Eqsabcdefghi Uganda 40 COVID19 YES 24-5-5956
+3876 Uxnuvwxyz Qemabcdefghi Uganda 14 Varicella YES 21-11-6039
+3883 Hrerstuvwxyz Peehijklmnop Uganda 65 Diphtheria YES 22-5-3994
+7852 Kkxrstuvwxyz Raarstuvwxyz Uganda 39 TheFlu NO
+7730 Nlwcdefghijk Wefabcdefghi Uganda 27 HepatitisB NO
+8452 Opfbcdefghij Oopvwxyz Uganda 99 Polio NO
+1270 Sehz Slywxyz Uganda 39 Diphtheria YES 9-3-5073
+4956 Tlubcdefghij Yfqvwxyz Uganda 110 Varicella YES 4-11-667
+3730 Tsmuvwxyz Zupopqrstuvw Uganda 89 Tuberculosis NO
+7017 Wcjlmnopqrst Oiobcdefghij Uganda 37 H1N1 YES 11-5-3478
+8056 Dnnqrstuvwxy Mglstuvwxyz Uganda 102 Chickenpox YES 9-5-9140
+7750 Pfqrstuvwxyz Bwacdefghijk Uganda 87 Tetanus YES 27-4-6698
+7073 Ykaabcdefghi Gqrnopqrstuv Uganda 31 COVID19 YES 11-0-7215

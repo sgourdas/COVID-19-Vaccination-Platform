@@ -1,0 +1,18 @@
+4667 Vmofghijklmn Xfivwxyz Mongolia 114 Diphtheria NO
+9410 Ibxdefghijkl Zfoefghijklm Mongolia 65 Diphtheria NO
+3233 Nujefghijklm Cltrstuvwxyz Mongolia 110 Rotavirus NO
+7276 Spiz Udfmnopqrstu Mongolia 5 HepatitisB NO 22-0-6756
+1556 Bhdtuvwxyz Vsbjklmnopqr Mongolia 95 SARS1 NO
+8764 Tzastuvwxyz Pvfuvwxyz Mongolia 72 H1N1 YES 8-3-4545
+7587 Lgynopqrstuv Zygdefghijkl Mongolia 4 Polio YES 7-6-1984
+4242 Uejbcdefghij Skvrstuvwxyz Mongolia 95 Varicella NO
+3185 Zyighijklmno Bxxuvwxyz Mongolia 3 Varicella YES 12-1-987
+8729 Tsbvwxyz Jxrmnopqrstu Mongolia 17 Adenovirus NO
+5032 Wqewxyz Udshijklmnop Mongolia 29 SARS1 YES 4-11-7355
+5743 Zioefghijklm Khwfghijklmn Mongolia 114 Adenovirus YES 23-0-9387
+7279 Yhffghijklmn Oszdefghijkl Mongolia 5 HepatitisA YES 24-9-7189
+1837 Kgwz Povcdefghijk Mongolia 35 Mumps NO 17-1-8165
+1674 Yrwijklmnopq Coejklmnopqr Mongolia 81 TheFlu YES 17-10-9389
+5852 Mrxopqrstuvw Yytbcdefghij Mongolia 87 Testovirus NO
+4342 Zjuvwxyz Zenz Mongolia 25 Tetanus NO
+4581 Kziijklmnopq Ugjnopqrstuv Mongolia 60 Chickenpox YES 21-11-5814

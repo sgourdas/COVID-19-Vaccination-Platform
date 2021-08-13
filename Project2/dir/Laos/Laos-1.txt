@@ -1,0 +1,15 @@
+8325 Ziemnopqrstu Uhmlmnopqrst Laos 104 Tetanus NO
+973 Nsgdefghijkl Ptxnopqrstuv Laos 92 Tuberculosis YES 7-10-9583
+3323 Zwyrstuvwxyz Hwgrstuvwxyz Laos 91 SARS1 NO
+6926 Qzcpqrstuvwx Cvbghijklmno Laos 46 Mumps YES 17-12-5632
+1456 Wkmjklmnopqr Wthstuvwxyz Laos 49 TheFlu YES 12-8-2987
+5317 Lyujklmnopqr Vnzxyz Laos 42 Tetanus NO
+5101 Jpbrstuvwxyz Wilwxyz Laos 95 H1N1 NO 16-4-5100
+8455 Klvjklmnopqr Seixyz Laos 87 Tetanus NO
+83 Jwxefghijklm Kjapqrstuvwx Laos 22 Mumps YES 15-4-6524
+2165 Sapefghijklm Dcdefghijklm Laos 34 Hib YES 18-7-5259
+4387 Fbctuvwxyz Wcxpqrstuvwx Laos 27 Hib NO
+4024 Fbighijklmno Fbgefghijklm Laos 117 SARS1 NO
+3262 Tahopqrstuvw Rwzcdefghijk Laos 3 Adenovirus NO 15-11-4226
+6555 Uhqfghijklmn Dotcdefghijk Laos 20 Testovirus NO
+9512 Ntmyz Pcvbcdefghij Laos 111 Rotavirus YES 19-3-2783

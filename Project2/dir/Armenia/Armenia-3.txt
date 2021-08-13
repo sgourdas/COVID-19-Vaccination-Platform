@@ -1,0 +1,24 @@
+8409 Ctacdefghijk Qriwxyz Armenia 48 Testovirus YES 30-8-3328
+8179 Uvjijklmnopq Mcbfghijklmn Armenia 109 Varicella NO 23-7-4178
+3570 Kqqqrstuvwxy Qnmmnopqrstu Armenia 120 Testovirus NO 19-6-4576
+4452 Xxllmnopqrst Julghijklmno Armenia 14 TheFlu YES 2-1-549
+3319 Cafhijklmnop Xehefghijklm Armenia 89 HepatitisB YES 8-7-7056
+6729 Ixmhijklmnop Dyymnopqrstu Armenia 28 Rubella YES 8-5-9500
+4288 Qqihijklmnop Sisuvwxyz Armenia 115 Tuberculosis NO
+6465 Yzxqrstuvwxy Xwlhijklmnop Armenia 79 HepatitisA YES 7-2-1243
+8017 Laeuvwxyz Urglmnopqrst Armenia 48 HepatitisB YES 3-9-1180
+3146 Ykkyz Evbhijklmnop Armenia 43 Chickenpox NO
+7123 Hzgklmnopqrs Ebcmnopqrstu Armenia 20 Polio YES 19-6-8957
+1842 Knrz Puwbcdefghij Armenia 53 SARS1 NO
+6951 Jmobcdefghij Cioopqrstuvw Armenia 57 Rubella YES 29-1-3337
+8299 Bzvefghijklm Dcsefghijklm Armenia 112 Adenovirus YES 24-6-3416
+6631 Uutjklmnopqr Hdnqrstuvwxy Armenia 37 TheFlu YES 15-3-4205
+5373 Lysbcdefghij Ourmnopqrstu Armenia 65 Rotavirus YES 5-3-8268
+2289 Uopstuvwxyz Bldjklmnopqr Armenia 18 Adenovirus NO
+8331 Fbbwxyz Vgrnopqrstuv Armenia 5 Diphtheria YES 25-7-8679
+3341 Rfdz Ozsghijklmno Armenia 110 Tetanus YES 9-10-1511
+2472 Funbcdefghij Nnhklmnopqrs Armenia 16 H1N1 YES 28-7-956
+9411 Lwmijklmnopq Ombcdefghijk Armenia 70 Rubella YES 13-7-1197
+8088 Nyqxyz Tbtqrstuvwxy Armenia 10 Adenovirus NO 23-5-2798
+530 Plwmnopqrstu Goqbcdefghij Armenia 7 H1N1 NO
+9352 Mkndefghijkl Kytz Armenia 50 TheFlu NO

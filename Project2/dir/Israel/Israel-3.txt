@@ -1,0 +1,18 @@
+1434 Ahvklmnopqrs Bsrmnopqrstu Israel 27 TheFlu NO
+4999 Tuyabcdefghi Ogwbcdefghij Israel 1 Mumps NO
+4838 Yixpqrstuvwx Qtwklmnopqrs Israel 2 Varicella YES 25-12-7254
+3419 Srllmnopqrst Xpgcdefghijk Israel 118 Rotavirus NO 18-12-8809
+2425 Ujgtuvwxyz Usfrstuvwxyz Israel 29 Rotavirus NO
+5008 Hyvuvwxyz Bepmnopqrstu Israel 50 Chickenpox NO
+2837 Whvklmnopqrs Cpnstuvwxyz Israel 112 Adenovirus NO
+8919 Wjxcdefghijk Jpmxyz Israel 39 Adenovirus YES 3-1-7738
+84 Lxeefghijklm Gvqnopqrstuv Israel 18 Hib YES 17-5-9554
+1697 Gaowxyz Lsttuvwxyz Israel 32 HepatitisA NO
+4391 Dtylmnopqrst Bbkklmnopqrs Israel 8 HepatitisA YES 29-9-5350
+5308 Jvotuvwxyz Waxhijklmnop Israel 36 COVID19 NO
+9169 Tbvnopqrstuv Ouwhijklmnop Israel 62 Mumps YES 4-8-2639
+5248 Szjz Xldpqrstuvwx Israel 43 Hib NO
+1710 Apmopqrstuvw Flkjklmnopqr Israel 104 COVID19 YES 22-12-2728
+7031 Cfuuvwxyz Gtujklmnopqr Israel 92 Chickenpox NO 22-7-8438
+6665 Bhtyz Pklefghijklm Israel 116 Chickenpox NO
+6865 Hsluvwxyz Cjgdefghijkl Israel 4 H1N1 NO 0-9-2787

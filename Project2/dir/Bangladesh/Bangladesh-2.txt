@@ -1,0 +1,21 @@
+451 Ljppqrstuvwx Jsjfghijklmn Bangladesh 93 Diphtheria YES 29-6-2049
+9339 Rcixyz Njsopqrstuvw Bangladesh 44 Polio NO 12-4-5691
+1766 Wawtuvwxyz Ztdopqrstuvw Bangladesh 35 Polio NO
+1437 Fttghijklmno Hlpyz Bangladesh 28 Rubella NO
+9177 Cfjopqrstuvw Ikktuvwxyz Bangladesh 76 SARS1 YES 18-5-4229
+7226 Myqvwxyz Qvyxyz Bangladesh 79 HepatitisA NO
+4598 Rqjhijklmnop Lbuxyz Bangladesh 77 Diphtheria YES 5-3-61
+6943 Mbpjklmnopqr Yfwuvwxyz Bangladesh 80 Varicella NO
+3688 Nrfvwxyz Jigdefghijkl Bangladesh 120 Polio NO
+7312 Tzkcdefghijk Zivz Bangladesh 60 Diphtheria YES 10-5-3686
+4009 Sifbcdefghij Ujblmnopqrst Bangladesh 87 Hib NO 23-3-5666
+1867 Nnyjklmnopqr Gjfuvwxyz Bangladesh 60 Hib NO
+5477 Wmxefghijklm Yxkz Bangladesh 7 Varicella YES 0-5-3623
+645 Jdwpqrstuvwx Xyyabcdefghi Bangladesh 80 Rubella YES 5-11-1651
+8987 Ittcdefghijk Xiaz Bangladesh 25 Mumps NO
+9552 Rebghijklmno Bvlbcdefghij Bangladesh 117 Mumps YES 24-1-154
+998 Xlcopqrstuvw Xjnnopqrstuv Bangladesh 9 Polio YES 23-5-8521
+9062 Ewuqrstuvwxy Szfjklmnopqr Bangladesh 9 Testovirus YES 21-2-85
+7684 Pwcmnopqrstu Tdoqrstuvwxy Bangladesh 56 HepatitisB YES 10-8-5066
+6264 Slrtuvwxyz Vvzyz Bangladesh 45 Mumps YES 12-3-4309
+5716 Cosrstuvwxyz Ecgcdefghijk Bangladesh 30 Tetanus YES 13-0-3952

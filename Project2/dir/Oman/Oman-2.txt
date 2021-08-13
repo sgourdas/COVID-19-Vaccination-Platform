@@ -1,0 +1,22 @@
+308 Ajistuvwxyz Iyrefghijklm Oman 96 H1N1 YES 10-7-8062
+558 Qqewxyz Viaabcdefghi Oman 120 Adenovirus YES 21-5-4462
+9945 Jkmrstuvwxyz Ayarstuvwxyz Oman 54 Adenovirus NO 5-6-9289
+8593 Wrcopqrstuvw Snzz Oman 3 Tuberculosis YES 7-4-6870
+8113 Qcpghijklmno Wmbmnopqrstu Oman 20 Mumps NO 11-1-8322
+3213 Srjstuvwxyz Ihjz Oman 45 Hib NO
+3995 Thwcdefghijk Zasxyz Oman 89 Chickenpox NO
+6258 Edzstuvwxyz Mktnopqrstuv Oman 63 TheFlu NO
+4604 Bsrz Crejklmnopqr Oman 84 Tetanus NO 17-0-1077
+397 Rjgdefghijkl Pnlfghijklmn Oman 38 Tuberculosis YES 18-10-5402
+9738 Vxxjklmnopqr Yjnpqrstuvwx Oman 79 Diphtheria NO
+7257 Yzqjklmnopqr Wwpuvwxyz Oman 117 H1N1 NO 27-1-8986
+1655 Vyomnopqrstu Lyvz Oman 2 COVID19 YES 15-0-2368
+2076 Qbpefghijklm Zdvyz Oman 86 SARS1 NO
+493 Qmjghijklmno Gkacdefghijk Oman 118 SARS1 YES 16-2-1627
+4639 Hwavwxyz Ezpijklmnopq Oman 39 HepatitisB NO 20-4-7231
+7027 Iydwxyz Nuffghijklmn Oman 3 Varicella YES 5-8-8812
+859 Ekughijklmno Galwxyz Oman 16 Rubella NO 2-2-5054
+8472 Izjz Wfuijklmnopq Oman 34 TheFlu NO
+8117 Ygwxyz Urirstuvwxyz Oman 104 Rotavirus YES 12-0-1558
+6628 Usgcdefghijk Bkkijklmnopq Oman 42 Testovirus YES 9-4-4297
+3166 Wdvstuvwxyz Nznxyz Oman 10 HepatitisA NO 24-7-7266

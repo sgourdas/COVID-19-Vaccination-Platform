@@ -1,0 +1,24 @@
+1116 Khxlmnopqrst Oplrstuvwxyz Botswana 111 Adenovirus NO
+9740 Gugopqrstuvw Zedfghijklmn Botswana 82 HepatitisB YES 13-2-230
+7260 Zsaklmnopqrs Jbalmnopqrst Botswana 118 Diphtheria YES 25-11-2730
+3405 Iuifghijklmn Tlvhijklmnop Botswana 1 Testovirus NO
+2527 Izfz Lheghijklmno Botswana 75 COVID19 NO
+6913 Mfgklmnopqrs Xkntuvwxyz Botswana 28 Varicella YES 1-2-985
+9060 Vvojklmnopqr Ibkrstuvwxyz Botswana 58 SARS1 YES 27-2-1468
+8353 Lnjhijklmnop Obexyz Botswana 80 TheFlu YES 24-5-6697
+3712 Lqxqrstuvwxy Xeqnopqrstuv Botswana 116 Rubella YES 30-10-6680
+6566 Feicdefghijk Jcwtuvwxyz Botswana 38 Diphtheria YES 22-4-2027
+5176 Bzhvwxyz Ekyefghijklm Botswana 87 Varicella YES 8-7-6239
+3662 Dzmopqrstuvw Cqguvwxyz Botswana 30 Polio NO
+4668 Gmlvwxyz Vnltuvwxyz Botswana 65 Diphtheria YES 22-10-118
+4927 Nxwyz Xmuz Botswana 62 HepatitisB NO
+3536 Ohicdefghijk Erkrstuvwxyz Botswana 89 Polio YES 25-5-5861
+1342 Lpqz Hlupqrstuvwx Botswana 119 Rotavirus YES 14-3-1354
+5107 Tlgmnopqrstu Dhvz Botswana 63 TheFlu YES 25-1-3859
+8891 Tgvcdefghijk Ixdopqrstuvw Botswana 15 Tuberculosis NO
+675 Qpfopqrstuvw Yvguvwxyz Botswana 43 Chickenpox YES 5-2-5301
+1874 Jcxopqrstuvw Oqlhijklmnop Botswana 112 Rubella YES 22-4-1325
+1288 Xdtnopqrstuv Akeijklmnopq Botswana 82 COVID19 YES 5-4-4088
+2693 Ogpdefghijkl Hoswxyz Botswana 65 HepatitisA NO 15-2-2591
+7173 Rbfvwxyz Tevijklmnopq Botswana 35 H1N1 YES 29-11-6245
+1289 Oejefghijklm Arhlmnopqrst Botswana 8 Tetanus NO 16-6-661

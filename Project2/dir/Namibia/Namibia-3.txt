@@ -1,0 +1,25 @@
+366 Hqgbcdefghij Naxdefghijkl Namibia 9 Hib YES 19-2-46
+6018 Snropqrstuvw Sdvklmnopqrs Namibia 85 Varicella NO 22-5-8542
+1770 Hohijklmnopq Wpsyz Namibia 110 Tuberculosis NO 30-8-9865
+3018 Ltsfghijklmn Mjituvwxyz Namibia 10 Tetanus YES 17-10-5994
+4919 Eccpqrstuvwx Vyuwxyz Namibia 108 Mumps YES 24-0-6865
+1095 Igxxyz Gynwxyz Namibia 19 Rubella YES 8-0-4355
+8121 Ppeyz Lsvxyz Namibia 110 HepatitisB YES 15-6-8487
+4018 Tbmnopqrstuv Nmthijklmnop Namibia 28 Mumps YES 4-12-7132
+8652 Nadklmnopqrs Fzlijklmnopq Namibia 118 COVID19 NO 5-7-2414
+4154 Iqyklmnopqrs Dncfghijklmn Namibia 118 Tuberculosis YES 17-11-316
+1528 Inzjklmnopqr Slonopqrstuv Namibia 28 HepatitisB YES 25-10-365
+3187 Tdvpqrstuvwx Sufmnopqrstu Namibia 120 HepatitisA NO
+2284 Atzmnopqrstu Dkwbcdefghij Namibia 17 Chickenpox YES 30-9-2323
+464 Baprstuvwxyz Mdzabcdefghi Namibia 32 Hib NO
+5143 Yyjcdefghijk Yqtpqrstuvwx Namibia 90 H1N1 YES 15-10-1619
+4172 Gtecdefghijk Lwzcdefghijk Namibia 106 SARS1 YES 10-6-9464
+5837 Nwlijklmnopq Ukacdefghijk Namibia 80 SARS1 YES 10-0-6598
+2374 Vjyhijklmnop Zdvqrstuvwxy Namibia 93 HepatitisA NO
+5105 Hwobcdefghij Zjdxyz Namibia 51 Rotavirus NO
+7169 Ulavwxyz Rngijklmnopq Namibia 108 Diphtheria NO
+6700 Yyrpqrstuvwx Dwghijklmnop Namibia 21 Polio NO
+2536 Tiqijklmnopq Tbhlmnopqrst Namibia 112 Varicella YES 23-10-8305
+5228 Yxzijklmnopq Rrxopqrstuvw Namibia 23 Tetanus NO
+7798 Gmelmnopqrst Zgprstuvwxyz Namibia 108 HepatitisB NO
+3818 Ogxpqrstuvwx Nmtghijklmno Namibia 37 Chickenpox YES 8-0-7554

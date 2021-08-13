@@ -1,0 +1,20 @@
+9260 Nocwxyz Rkkxyz Lebanon 7 Testovirus NO 23-11-3242
+4874 Zjez Itituvwxyz Lebanon 39 COVID19 YES 6-9-4995
+9086 Hvhmnopqrstu Wvchijklmnop Lebanon 98 COVID19 NO
+2861 Acfijklmnopq Yzsbcdefghij Lebanon 46 Adenovirus YES 1-6-3164
+6213 Imhtuvwxyz Xdqfghijklmn Lebanon 54 HepatitisB YES 6-9-3075
+8928 Iaenopqrstuv Uyrabcdefghi Lebanon 32 TheFlu NO 21-6-2029
+9274 Watcdefghijk Lweopqrstuvw Lebanon 81 Rubella YES 20-8-7835
+4477 Vlbstuvwxyz Luvjklmnopqr Lebanon 73 Rotavirus NO
+2484 Rrvklmnopqrs Ggsmnopqrstu Lebanon 44 Testovirus NO
+4678 Rcdz Vfdijklmnopq Lebanon 88 Testovirus YES 26-1-1953
+3077 Ildjklmnopqr Lvmabcdefghi Lebanon 100 COVID19 YES 6-7-2876
+515 Zzuhijklmnop Injabcdefghi Lebanon 96 HepatitisB YES 10-12-9526
+4898 Fkebcdefghij Qgvopqrstuvw Lebanon 77 SARS1 YES 8-11-6019
+8541 Emcpqrstuvwx Plldefghijkl Lebanon 76 Testovirus YES 29-10-6914
+579 Txnpqrstuvwx Tifmnopqrstu Lebanon 32 Mumps NO 11-2-8874
+2619 Xpxklmnopqrs Ggqstuvwxyz Lebanon 3 COVID19 YES 5-0-1631
+2615 Kxetuvwxyz Stzabcdefghi Lebanon 30 Chickenpox NO 16-8-4825
+6890 Heilmnopqrst Njeuvwxyz Lebanon 79 HepatitisB YES 1-9-1142
+9886 Qqnrstuvwxyz Wcmuvwxyz Lebanon 75 Mumps YES 26-7-2399
+4920 Ncbfghijklmn Wrruvwxyz Lebanon 53 Testovirus YES 10-3-7456

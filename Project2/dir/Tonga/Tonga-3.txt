@@ -1,0 +1,23 @@
+1398 Cpkz Kfdstuvwxyz Tonga 80 Polio YES 25-2-9714
+4771 Tngcdefghijk Dewfghijklmn Tonga 86 Tetanus NO 17-1-4559
+2789 Itytuvwxyz Rqdqrstuvwxy Tonga 28 HepatitisA NO
+1549 Coestuvwxyz Difefghijklm Tonga 10 Diphtheria NO
+153 Lkcuvwxyz Btcbcdefghij Tonga 86 Varicella NO 5-4-9714
+5831 Fyhefghijklm Njrtuvwxyz Tonga 119 Tetanus YES 25-11-8316
+1918 Nrtjklmnopqr Qysqrstuvwxy Tonga 98 TheFlu NO 25-1-1052
+8953 Aytpqrstuvwx Molz Tonga 83 HepatitisA NO
+9119 Qjilmnopqrst Rzklmnopqrst Tonga 43 Tetanus YES 25-0-9972
+7520 Ohzwxyz Lyihijklmnop Tonga 50 COVID19 YES 13-4-9640
+6576 Epgfghijklmn Ljcyz Tonga 12 Tuberculosis YES 17-1-7075
+377 Fplqrstuvwxy Tntlmnopqrst Tonga 116 Adenovirus NO 13-3-4667
+988 Earghijklmno Tkfopqrstuvw Tonga 107 Tetanus YES 19-5-8350
+9984 Ufqqrstuvwxy Uxoopqrstuvw Tonga 86 Varicella YES 18-1-5097
+1617 Rssz Daddefghijkl Tonga 7 Hib NO 0-8-699
+351 Nhfijklmnopq Mwctuvwxyz Tonga 23 Adenovirus NO
+4984 Jmcmnopqrstu Lqebcdefghij Tonga 70 Chickenpox NO
+4671 Lytklmnopqrs Likklmnopqrs Tonga 78 Polio YES 1-6-592
+4186 Lxycdefghijk Jhsstuvwxyz Tonga 95 TheFlu NO 10-12-4365
+4012 Wqucdefghijk Rcehijklmnop Tonga 32 Rotavirus YES 19-5-7043
+2039 Eryopqrstuvw Dztcdefghijk Tonga 118 COVID19 NO
+5489 Jjhklmnopqrs Nwcabcdefghi Tonga 19 TheFlu YES 9-9-5096
+7254 Lzluvwxyz Opotuvwxyz Tonga 55 Adenovirus YES 15-11-2037

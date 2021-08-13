@@ -1,0 +1,23 @@
+7305 Vujlmnopqrst Aykijklmnopq Kenya 120 Tetanus NO 7-10-871
+7384 Jqfxyz Ciacdefghijk Kenya 8 Hib NO 12-6-3233
+8033 Dkystuvwxyz Khujklmnopqr Kenya 119 Tetanus NO
+8401 Jmwefghijklm Crxfghijklmn Kenya 24 Rotavirus YES 29-11-5131
+1747 Veoyz Shulmnopqrst Kenya 1 COVID19 YES 2-4-7870
+1856 Cdjbcdefghij Wiovwxyz Kenya 24 HepatitisB NO
+9361 Jkplmnopqrst Dhpghijklmno Kenya 110 Diphtheria NO
+2264 Bitpqrstuvwx Gycz Kenya 111 COVID19 NO
+4117 Mzqghijklmno Hsmfghijklmn Kenya 3 SARS1 NO
+5515 Zaoqrstuvwxy Hlcpqrstuvwx Kenya 32 Varicella NO 22-0-6965
+2272 Irlklmnopqrs Seaxyz Kenya 102 Hib NO 28-8-5695
+5544 Mixnopqrstuv Naolmnopqrst Kenya 7 H1N1 YES 21-10-5867
+6238 Runwxyz Kraghijklmno Kenya 111 SARS1 YES 26-3-6162
+7840 Bosijklmnopq Mrfjklmnopqr Kenya 64 Mumps YES 20-11-4379
+7581 Bmilmnopqrst Nfsqrstuvwxy Kenya 119 Polio YES 27-0-4129
+9729 Zimbcdefghij Ttsabcdefghi Kenya 1 Hib YES 5-7-2573
+9851 Dtstuvwxyz Malwxyz Kenya 64 HepatitisB NO
+3484 Xbqtuvwxyz Rdznopqrstuv Kenya 80 Varicella YES 18-7-2587
+9505 Fntwxyz Rdlnopqrstuv Kenya 79 TheFlu YES 9-4-9312
+4109 Atgz Jgfuvwxyz Kenya 9 COVID19 YES 6-8-2060
+7057 Cwxbcdefghij Pgmvwxyz Kenya 20 Rotavirus NO
+7153 Tlihijklmnop Dnsqrstuvwxy Kenya 57 Chickenpox NO
+9366 Gudz Vidvwxyz Kenya 63 Mumps YES 13-8-4887

@@ -1,0 +1,22 @@
+1367 Hroqrstuvwxy Typxyz Andorra 30 Testovirus NO
+4037 Epsjklmnopqr Bgsmnopqrstu Andorra 56 Tuberculosis YES 8-0-4058
+1034 Mtztuvwxyz Ikaklmnopqrs Andorra 34 Rubella NO 14-9-2150
+7554 Cxjopqrstuvw Uikpqrstuvwx Andorra 120 SARS1 YES 20-2-9298
+2310 Sljmnopqrstu Qggfghijklmn Andorra 49 Tuberculosis NO 6-8-9355
+2914 Ncyhijklmnop Jdwcdefghijk Andorra 98 Chickenpox YES 8-9-9137
+8910 Mblrstuvwxyz Tejxyz Andorra 110 Polio YES 6-9-3752
+874 Xicpqrstuvwx Qfvpqrstuvwx Andorra 55 SARS1 YES 11-1-857
+8748 Pxyefghijklm Lhchijklmnop Andorra 65 HepatitisB YES 7-7-7420
+2155 Pepvwxyz Iqoxyz Andorra 54 Tetanus NO
+7651 Xblcdefghijk Tydbcdefghij Andorra 52 HepatitisA NO
+3847 Lxpqrstuvwxy Anlz Andorra 49 COVID19 NO 28-6-6689
+849 Ndgpqrstuvwx Gbfuvwxyz Andorra 21 TheFlu YES 22-12-4265
+7413 Kurtuvwxyz Agmqrstuvwxy Andorra 83 SARS1 NO
+2872 Xlhxyz Laqcdefghijk Andorra 7 Mumps YES 14-3-7412
+1276 Wneefghijklm Gwacdefghijk Andorra 100 Tuberculosis NO
+1379 Fchrstuvwxyz Zgkhijklmnop Andorra 57 Tuberculosis NO 26-12-9389
+8962 Injfghijklmn Huhuvwxyz Andorra 49 Tuberculosis NO
+6172 Hcxjklmnopqr Ewjz Andorra 60 Adenovirus YES 3-5-5001
+8702 Wgdopqrstuvw Nrjstuvwxyz Andorra 75 Rotavirus NO
+5784 Vyomnopqrstu Icgxyz Andorra 6 Rotavirus NO 18-1-7556
+1897 Qyipqrstuvwx Mauz Andorra 98 Tetanus YES 6-1-6856

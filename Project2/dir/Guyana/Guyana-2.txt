@@ -1,0 +1,21 @@
+1431 Xsoefghijklm Xkfefghijklm Guyana 60 H1N1 YES 5-0-7957
+5456 Vgcabcdefghi Qmicdefghijk Guyana 8 Tuberculosis YES 5-7-6690
+4580 Zhvjklmnopqr Wqlcdefghijk Guyana 23 HepatitisA NO
+3195 Awjstuvwxyz Tcfcdefghijk Guyana 87 Mumps YES 14-0-3427
+9739 Pdiyz Gfqyz Guyana 82 TheFlu YES 27-11-4452
+7655 Mlcuvwxyz Yibcdefghijk Guyana 41 HepatitisA NO 9-5-8797
+2251 Eiastuvwxyz Ylwabcdefghi Guyana 2 TheFlu NO
+4278 Dxxmnopqrstu Mbqabcdefghi Guyana 52 Hib NO 0-2-8414
+9232 Lvkyz Ktrfghijklmn Guyana 88 Hib YES 3-11-6257
+9164 Iwdqrstuvwxy Fjrwxyz Guyana 37 Adenovirus YES 9-0-4602
+8237 Qbolmnopqrst Kjymnopqrstu Guyana 33 Hib NO
+4730 Hvtbcdefghij Ctrlmnopqrst Guyana 5 HepatitisA YES 23-12-2124
+1212 Qhgpqrstuvwx Cpyz Guyana 12 SARS1 YES 25-6-8557
+1487 Airklmnopqrs Auxlmnopqrst Guyana 56 TheFlu NO 17-3-8127
+2297 Peptuvwxyz Xwguvwxyz Guyana 16 Rotavirus YES 0-2-6200
+9894 Suuklmnopqrs Kyzcdefghijk Guyana 100 Adenovirus YES 13-10-9795
+2053 Easklmnopqrs Cjjjklmnopqr Guyana 77 H1N1 YES 24-5-7846
+6925 Bveklmnopqrs Prcabcdefghi Guyana 56 Testovirus NO 5-12-8270
+1345 Mqbnopqrstuv Mbylmnopqrst Guyana 39 Adenovirus NO
+7535 Yzxbcdefghij Wihcdefghijk Guyana 88 Varicella YES 15-5-9764
+8755 Niglmnopqrst Iqpstuvwxyz Guyana 93 Adenovirus YES 20-11-1887

@@ -1,0 +1,19 @@
+1181 Gywdefghijkl Wnaopqrstuvw Lebanon 44 Rubella YES 6-10-4582
+449 Irtfghijklmn Eamklmnopqrs Lebanon 23 Tetanus YES 18-5-1638
+9838 Nwvklmnopqrs Kqeefghijklm Lebanon 1 Chickenpox YES 18-1-8437
+8657 Dhsrstuvwxyz Sqrdefghijkl Lebanon 1 Testovirus NO
+3858 Fwkghijklmno Hdeyz Lebanon 88 COVID19 NO 11-2-3656
+7949 Wgtxyz Fowlmnopqrst Lebanon 52 Tuberculosis NO 28-6-344
+4942 Jcatuvwxyz Pbmtuvwxyz Lebanon 99 Tuberculosis NO 1-3-1532
+4323 Wyzfghijklmn Uovklmnopqrs Lebanon 66 H1N1 NO 24-0-4248
+4930 Pjouvwxyz Vwbbcdefghij Lebanon 25 H1N1 YES 3-3-6314
+6718 Cczz Hjlklmnopqrs Lebanon 47 HepatitisB NO
+8211 Pfdpqrstuvwx Cjvbcdefghij Lebanon 96 Varicella NO
+3529 Ykzghijklmno Bdjqrstuvwxy Lebanon 5 Polio NO
+6405 Zpqmnopqrstu Czlstuvwxyz Lebanon 38 Adenovirus YES 10-10-5185
+6292 Rawrstuvwxyz Hsoabcdefghi Lebanon 64 Chickenpox NO 13-9-330
+5062 Onqyz Ldjbcdefghij Lebanon 26 Mumps NO
+3700 Mwaopqrstuvw Ycez Lebanon 82 TheFlu YES 12-4-4289
+7992 Ikgmnopqrstu Rwofghijklmn Lebanon 66 HepatitisB YES 12-10-3782
+1903 Bchvwxyz Lxkrstuvwxyz Lebanon 18 Diphtheria YES 17-1-4899
+4969 Ijlz Fkgwxyz Lebanon 21 Diphtheria NO

@@ -1,0 +1,25 @@
+9616 Dfabcdefghij Thopqrstuvwx Yemen 100 COVID19 YES 11-11-3464
+2303 Rfyklmnopqrs Brcijklmnopq Yemen 2 Rubella NO
+6448 Zjtqrstuvwxy Srocdefghijk Yemen 10 HepatitisA NO
+2395 Wasvwxyz Nplz Yemen 25 Hib YES 15-7-5215
+5048 Aukbcdefghij Dngcdefghijk Yemen 33 HepatitisB YES 6-10-8002
+2259 Gtfhijklmnop Sthlmnopqrst Yemen 110 Testovirus YES 20-4-267
+5864 Dvgwxyz Iwfjklmnopqr Yemen 76 Varicella YES 28-10-4755
+5562 Oygcdefghijk Mmmyz Yemen 112 SARS1 NO 6-10-810
+6706 Ppuyz Uspqrstuvwxy Yemen 103 Polio NO
+7078 Zhamnopqrstu Xkblmnopqrst Yemen 20 Tuberculosis NO
+9363 Zliyz Ozmcdefghijk Yemen 28 Diphtheria NO
+3934 Oqfyz Uqoopqrstuvw Yemen 36 Diphtheria YES 19-7-6702
+4462 Tycuvwxyz Awaqrstuvwxy Yemen 19 Rubella NO
+8292 Vzyfghijklmn Uvqlmnopqrst Yemen 36 HepatitisB YES 3-7-3867
+8503 Shavwxyz Evnfghijklmn Yemen 109 HepatitisA NO 5-7-2831
+4276 Jvxhijklmnop Mdkrstuvwxyz Yemen 87 Rubella NO 18-6-7412
+342 Edhjklmnopqr Xfiuvwxyz Yemen 115 Polio YES 15-5-981
+4534 Orcyz Litz Yemen 1 TheFlu YES 27-6-2829
+6514 Hsbdefghijkl Gzkfghijklmn Yemen 27 TheFlu NO 13-12-8306
+565 Omzghijklmno Omez Yemen 44 SARS1 NO 28-6-7511
+3602 Gvzmnopqrstu Vdistuvwxyz Yemen 39 Adenovirus NO
+7725 Owwcdefghijk Xdmz Yemen 4 Mumps NO
+5537 Bxzuvwxyz Xjztuvwxyz Yemen 15 Mumps YES 3-6-6082
+4340 Crmghijklmno Iqgstuvwxyz Yemen 57 Adenovirus NO
+2420 Jmdefghijklm Bpxhijklmnop Yemen 88 COVID19 YES 30-12-6253

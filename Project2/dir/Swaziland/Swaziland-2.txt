@@ -1,0 +1,18 @@
+8148 Gtivwxyz Dvetuvwxyz Swaziland 47 H1N1 YES 24-0-8670
+2270 Wbkklmnopqrs Kzxnopqrstuv Swaziland 46 Mumps NO
+3896 Ozxyz Edknopqrstuv Swaziland 59 Rubella YES 30-1-9170
+8803 Gcpabcdefghi Qzxdefghijkl Swaziland 37 Diphtheria YES 20-1-1520
+3012 Oqzefghijklm Ltzfghijklmn Swaziland 11 HepatitisA NO 30-0-2037
+499 Zdnvwxyz Ijpwxyz Swaziland 80 Rubella YES 2-8-5375
+4655 Pejghijklmno Notvwxyz Swaziland 48 Diphtheria YES 18-10-7474
+1081 Prystuvwxyz Qjftuvwxyz Swaziland 12 Rubella NO
+9963 Drhabcdefghi Zsopqrstuvwx Swaziland 100 TheFlu YES 16-8-1993
+35 Zoscdefghijk Sduxyz Swaziland 89 TheFlu YES 29-4-1219
+6522 Rlrrstuvwxyz Mwgxyz Swaziland 54 Hib YES 4-3-3246
+9723 Glenopqrstuv Jncklmnopqrs Swaziland 25 Hib YES 20-3-9520
+5306 Phzijklmnopq Xefxyz Swaziland 47 SARS1 NO
+2542 Cgbnopqrstuv Drbefghijklm Swaziland 37 Hib NO
+3094 Zxrqrstuvwxy Vnbhijklmnop Swaziland 4 Chickenpox YES 2-5-836
+3362 Lcvbcdefghij Zdmjklmnopqr Swaziland 76 COVID19 YES 26-12-3331
+4483 Psanopqrstuv Ardcdefghijk Swaziland 112 Tetanus NO 0-11-9878
+560 Cxthijklmnop Fsuvwxyz Swaziland 46 Hib NO 2-6-6598

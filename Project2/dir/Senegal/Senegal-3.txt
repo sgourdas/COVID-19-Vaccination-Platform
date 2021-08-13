@@ -1,0 +1,20 @@
+9199 Imbklmnopqrs Kuwstuvwxyz Senegal 14 Rubella YES 25-8-7570
+8315 Rwuuvwxyz Uawstuvwxyz Senegal 62 Testovirus YES 30-1-3472
+3293 Bgwstuvwxyz Lluhijklmnop Senegal 118 Testovirus NO
+9214 Awddefghijkl Kkfabcdefghi Senegal 23 Mumps YES 26-11-9582
+5897 Fiqefghijklm Kvibcdefghij Senegal 10 Testovirus NO
+3635 Kgkijklmnopq Vbeqrstuvwxy Senegal 73 H1N1 YES 19-2-4490
+1588 Zggz Rcxjklmnopqr Senegal 75 Hib YES 1-11-7206
+6260 Ntgabcdefghi Zhgtuvwxyz Senegal 58 Polio NO
+4328 Znlpqrstuvwx Wagbcdefghij Senegal 66 Tuberculosis NO
+1101 Eusabcdefghi Zzopqrstuvwx Senegal 86 HepatitisA NO 8-3-2851
+5440 Zuhtuvwxyz Myznopqrstuv Senegal 40 Diphtheria YES 9-3-742
+6093 Unmfghijklmn Lhymnopqrstu Senegal 35 Diphtheria YES 4-5-5733
+1439 Onphijklmnop Nhznopqrstuv Senegal 107 Chickenpox NO 21-4-936
+5662 Yjostuvwxyz Tnnefghijklm Senegal 105 Polio NO
+9823 Qwpz Icnhijklmnop Senegal 7 Rotavirus YES 24-8-3370
+33 Tbypqrstuvwx Gdistuvwxyz Senegal 115 HepatitisA NO 26-0-2755
+5779 Aaflmnopqrst Vzbdefghijkl Senegal 21 Tuberculosis NO
+9022 Anqyz Qcxqrstuvwxy Senegal 112 Mumps NO
+4187 Rtaqrstuvwxy Uirqrstuvwxy Senegal 13 TheFlu NO
+7577 Fspjklmnopqr Benvwxyz Senegal 99 HepatitisB YES 21-1-5911

@@ -1,0 +1,24 @@
+537 Fomefghijklm Zywyz Taiwan 22 Diphtheria NO
+347 Glyijklmnopq Mcpvwxyz Taiwan 17 Polio YES 21-6-9341
+195 Dvdrstuvwxyz Bdvhijklmnop Taiwan 53 Hib YES 7-4-1934
+2055 Yxmpqrstuvwx Rqzpqrstuvwx Taiwan 117 Testovirus NO
+999 Yheghijklmno Cmirstuvwxyz Taiwan 64 Rotavirus YES 6-12-3882
+5200 Taavwxyz Yuyabcdefghi Taiwan 29 TheFlu NO 11-5-9318
+5911 Tkrbcdefghij Yyzqrstuvwxy Taiwan 79 COVID19 YES 26-7-6690
+9171 Qkpz Yzwyz Taiwan 37 Polio NO
+792 Njgabcdefghi Odwjklmnopqr Taiwan 29 Polio NO
+7780 Crfdefghijkl Jsdhijklmnop Taiwan 101 Tetanus NO
+6626 Rdnefghijklm Xwjz Taiwan 78 TheFlu YES 20-10-3336
+1541 Zmqghijklmno Jaftuvwxyz Taiwan 69 Testovirus YES 27-11-2491
+1341 Szadefghijkl Ajwopqrstuvw Taiwan 66 COVID19 NO
+247 Xkwdefghijkl Gzvabcdefghi Taiwan 69 Adenovirus YES 17-10-1960
+3794 Wpylmnopqrst Vxpghijklmno Taiwan 38 Mumps NO
+3671 Hueyz Lfmefghijklm Taiwan 95 Adenovirus NO
+1718 Dftqrstuvwxy Tvcqrstuvwxy Taiwan 7 Mumps YES 12-5-6713
+3703 Gwzklmnopqrs Ybtlmnopqrst Taiwan 83 HepatitisB NO 11-6-5282
+724 Kskijklmnopq Pforstuvwxyz Taiwan 46 Rotavirus YES 17-1-6007
+7060 Vhcuvwxyz Puwpqrstuvwx Taiwan 49 Mumps YES 28-12-6366
+2818 Mnomnopqrstu Mmzijklmnopq Taiwan 99 Diphtheria YES 13-7-1127
+6274 Ugtyz Yqpuvwxyz Taiwan 17 Polio NO
+2073 Zamuvwxyz Kruvwxyz Taiwan 7 Adenovirus NO
+477 Pmepqrstuvwx Ahalmnopqrst Taiwan 2 Tetanus NO

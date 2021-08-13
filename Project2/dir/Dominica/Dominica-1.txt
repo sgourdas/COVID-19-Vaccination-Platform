@@ -1,0 +1,20 @@
+8389 Hjhtuvwxyz Hhcwxyz Dominica 42 Polio YES 16-3-7483
+199 Fpkuvwxyz Uxoopqrstuvw Dominica 51 TheFlu YES 5-3-7750
+5442 Axewxyz Kpdnopqrstuv Dominica 38 Adenovirus NO
+9578 Mrgyz Jmhuvwxyz Dominica 8 Varicella NO
+5430 Scwrstuvwxyz Honbcdefghij Dominica 101 Rubella NO
+605 Kiyxyz Gawefghijklm Dominica 104 Varicella YES 4-6-6522
+8300 Rsqrstuvwxyz Xyxhijklmnop Dominica 104 TheFlu YES 21-8-6440
+6583 Zrxghijklmno Tpwrstuvwxyz Dominica 87 Diphtheria YES 7-0-1426
+5010 Jccdefghijkl Bimcdefghijk Dominica 33 Varicella NO 5-6-1883
+4632 Zbrghijklmno Opydefghijkl Dominica 105 Tuberculosis YES 11-5-6470
+9913 Eagtuvwxyz Vxropqrstuvw Dominica 90 H1N1 NO
+3481 Xvijklmnopqr Alkvwxyz Dominica 79 Diphtheria NO 5-0-2216
+8647 Damwxyz Lomabcdefghi Dominica 41 Rotavirus YES 3-4-4617
+4445 Qnndefghijkl Qqlvwxyz Dominica 83 Testovirus YES 20-12-2581
+6088 Bqfyz Yzgefghijklm Dominica 88 SARS1 YES 10-0-8048
+4828 Npuwxyz Jbnz Dominica 58 SARS1 NO
+7850 Niftuvwxyz Hjodefghijkl Dominica 22 COVID19 NO
+241 Gwhwxyz Czzuvwxyz Dominica 76 Varicella NO
+426 Bwlwxyz Dhatuvwxyz Dominica 71 HepatitisB NO
+3256 Abuuvwxyz Qykdefghijkl Dominica 17 Tetanus NO

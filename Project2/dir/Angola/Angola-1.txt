@@ -1,0 +1,19 @@
+1176 Drflmnopqrst Ndzhijklmnop Angola 105 COVID19 NO
+129 Pjltuvwxyz Tcxfghijklmn Angola 43 Hib NO
+5974 Xmtlmnopqrst Rwbdefghijkl Angola 94 HepatitisA YES 17-9-1894
+9932 Qktpqrstuvwx Vnxabcdefghi Angola 21 HepatitisB NO
+9121 Rtivwxyz Wjvijklmnopq Angola 39 SARS1 YES 5-6-764
+7681 Repfghijklmn Rfyabcdefghi Angola 30 TheFlu NO
+2140 Qdnfghijklmn Nunjklmnopqr Angola 16 Mumps YES 24-7-109
+5417 Niuwxyz Ycynopqrstuv Angola 108 Testovirus NO
+1767 Ecqdefghijkl Gzvijklmnopq Angola 23 Varicella NO
+3443 Nfpbcdefghij Hswwxyz Angola 69 Diphtheria NO
+1140 Eysnopqrstuv Yzunopqrstuv Angola 14 COVID19 YES 16-2-5471
+4367 Buvuvwxyz Qvjefghijklm Angola 112 COVID19 YES 10-5-6790
+6108 Mikabcdefghi Thostuvwxyz Angola 116 HepatitisB NO 19-11-8763
+5115 Ayzijklmnopq Dxxabcdefghi Angola 102 H1N1 YES 27-9-7124
+8766 Dmluvwxyz Xlhvwxyz Angola 38 Mumps YES 13-3-1644
+2327 Zlyabcdefghi Wfguvwxyz Angola 51 Testovirus NO 30-6-467
+4971 Iyjopqrstuvw Fldabcdefghi Angola 91 HepatitisA YES 2-9-6114
+2276 Ujrjklmnopqr Iqbijklmnopq Angola 17 Varicella NO
+9492 Jfyfghijklmn Nmostuvwxyz Angola 61 Tuberculosis NO

@@ -1,0 +1,20 @@
+8102 Qoastuvwxyz Wvtcdefghijk Mali 12 Rotavirus NO 3-6-8292
+6496 Cvqcdefghijk Vxinopqrstuv Mali 90 COVID19 YES 21-2-6913
+5388 Rtuabcdefghi Ofepqrstuvwx Mali 93 Chickenpox NO
+1106 Tdfefghijklm Sdipqrstuvwx Mali 68 Diphtheria YES 24-8-2934
+6188 Ojituvwxyz Azhpqrstuvwx Mali 61 Mumps YES 3-2-1581
+4062 Jvimnopqrstu Gsjefghijklm Mali 80 Hib NO
+9629 Oztvwxyz Naepqrstuvwx Mali 46 Chickenpox YES 10-7-701
+7231 Qccvwxyz Vzxbcdefghij Mali 57 HepatitisA NO 24-7-3340
+9471 Etncdefghijk Apexyz Mali 85 Diphtheria NO
+1777 Qfhijklmnopq Kodyz Mali 19 Testovirus NO 5-0-3658
+3031 Flanopqrstuv Gjrz Mali 106 Mumps NO
+3783 Ubnrstuvwxyz Ygbvwxyz Mali 85 Varicella YES 0-10-5626
+9091 Dkklmnopqrst Uunqrstuvwxy Mali 86 HepatitisB YES 26-2-9585
+606 Vgccdefghijk Msfjklmnopqr Mali 41 TheFlu YES 4-6-701
+4076 Mkibcdefghij Cbonopqrstuv Mali 63 Varicella YES 29-7-964
+6189 Bruz Huxstuvwxyz Mali 29 COVID19 YES 21-1-8705
+1643 Flzhijklmnop Qxstuvwxyz Mali 107 Diphtheria YES 3-2-5809
+1557 Klkstuvwxyz Nrufghijklmn Mali 113 H1N1 NO
+4447 Rmjghijklmno Lwryz Mali 18 Tetanus NO
+6137 Pwostuvwxyz Xioghijklmno Mali 28 Rotavirus YES 28-3-6915

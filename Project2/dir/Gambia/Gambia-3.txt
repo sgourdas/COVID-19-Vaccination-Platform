@@ -1,0 +1,19 @@
+1974 Zpbvwxyz Upkklmnopqrs Gambia 120 Testovirus NO
+8752 Ioybcdefghij Jzndefghijkl Gambia 114 HepatitisB YES 28-4-8169
+9630 Ttabcdefghij Qxaefghijklm Gambia 52 HepatitisB NO 8-9-2658
+3719 Qxajklmnopqr Jcnfghijklmn Gambia 58 Testovirus YES 22-2-6391
+1402 Vvrbcdefghij Qbzklmnopqrs Gambia 106 Mumps YES 12-9-3248
+8255 Cxdyz Gnwmnopqrstu Gambia 49 HepatitisA NO
+9114 Lfhlmnopqrst Buppqrstuvwx Gambia 112 Mumps NO
+3426 Uiznopqrstuv Osdqrstuvwxy Gambia 30 HepatitisA YES 14-10-2617
+4651 Rhewxyz Ljnijklmnopq Gambia 108 SARS1 YES 17-12-7502
+6371 Qyxjklmnopqr Oxdbcdefghij Gambia 63 Tuberculosis YES 5-1-9857
+6381 Pbxcdefghijk Xxscdefghijk Gambia 52 Rotavirus NO
+6879 Byodefghijkl Yxnwxyz Gambia 16 Polio NO
+5466 Jlzpqrstuvwx Wluuvwxyz Gambia 95 HepatitisB NO 6-9-8790
+9113 Chlcdefghijk Iycuvwxyz Gambia 97 Mumps YES 23-3-4850
+9706 Hwzjklmnopqr Xoljklmnopqr Gambia 37 Mumps NO
+5767 Ugpz Lhchijklmnop Gambia 88 HepatitisA NO
+827 Ljwlmnopqrst Rdpfghijklmn Gambia 51 Varicella NO 5-6-8704
+9918 Wohijklmnopq Gjqrstuvwxyz Gambia 11 Chickenpox NO
+1687 Kzsefghijklm Vmuwxyz Gambia 4 Chickenpox NO

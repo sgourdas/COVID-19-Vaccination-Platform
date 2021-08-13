@@ -1,0 +1,20 @@
+8071 Pavfghijklmn Bkwklmnopqrs Zambia 55 Testovirus NO
+820 Wsibcdefghij Kovklmnopqrs Zambia 47 Testovirus YES 12-0-453
+6981 Ewhjklmnopqr Oduz Zambia 6 Testovirus NO
+6850 Iamdefghijkl Wkoyz Zambia 19 Diphtheria NO
+4924 Ivetuvwxyz Gircdefghijk Zambia 113 Adenovirus NO 1-7-1651
+922 Ctilmnopqrst Bnbfghijklmn Zambia 51 Rotavirus YES 23-7-5430
+6099 Ecnmnopqrstu Tgatuvwxyz Zambia 73 Mumps YES 5-11-3990
+601 Vvsopqrstuvw Qnsdefghijkl Zambia 23 Diphtheria YES 28-2-2222
+8277 Zwdtuvwxyz Xogbcdefghij Zambia 1 Varicella YES 26-2-6871
+4832 Lhjfghijklmn Mjcyz Zambia 25 Tuberculosis NO
+8595 Qhqjklmnopqr Czqmnopqrstu Zambia 13 Varicella YES 12-12-1862
+3936 Bhijklmnopqr Eaktuvwxyz Zambia 118 HepatitisA YES 7-0-2272
+5344 Jpbz Srqvwxyz Zambia 28 Varicella YES 24-4-6566
+6640 Gysz Kowopqrstuvw Zambia 79 HepatitisB YES 30-10-6524
+9852 Tikbcdefghij Gbnyz Zambia 67 Mumps YES 22-2-941
+9349 Crfpqrstuvwx Wcllmnopqrst Zambia 79 Testovirus NO
+8224 Nyoqrstuvwxy Oizdefghijkl Zambia 111 Tetanus YES 11-1-2243
+3349 Vuxrstuvwxyz Parjklmnopqr Zambia 112 Chickenpox NO 7-10-141
+5147 Rqxqrstuvwxy Ghbijklmnopq Zambia 53 Diphtheria YES 19-11-1776
+9788 Zfepqrstuvwx Babyz Zambia 88 HepatitisB YES 3-6-9478

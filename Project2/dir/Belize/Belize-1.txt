@@ -1,0 +1,21 @@
+6094 Yniabcdefghi Srtxyz Belize 63 HepatitisB NO
+9958 Apqtuvwxyz Ziqyz Belize 118 Adenovirus NO
+131 Kdhwxyz Qtamnopqrstu Belize 68 HepatitisA NO 19-0-1236
+6476 Icastuvwxyz Llhstuvwxyz Belize 113 Adenovirus YES 4-0-6433
+6711 Pkxwxyz Aadstuvwxyz Belize 61 Hib NO
+2927 Dpbdefghijkl Pujcdefghijk Belize 3 Adenovirus NO
+8349 Mxhtuvwxyz Lqntuvwxyz Belize 27 TheFlu NO
+9703 Vldefghijklm Owiz Belize 36 HepatitisA NO 2-5-1963
+3413 Soecdefghijk Gijcdefghijk Belize 51 Rubella YES 15-9-7031
+7284 Xtkwxyz Faighijklmno Belize 11 Rotavirus YES 1-1-9254
+1285 Bhwbcdefghij Hejefghijklm Belize 21 Mumps NO 20-4-498
+1413 Xncabcdefghi Nmistuvwxyz Belize 59 H1N1 YES 23-8-4030
+1049 Wasqrstuvwxy Cfwz Belize 40 Mumps NO 14-2-392
+8789 Piemnopqrstu Bttfghijklmn Belize 18 Polio NO
+3411 Nyabcdefghij Fnqmnopqrstu Belize 52 Diphtheria YES 28-3-3878
+2195 Noacdefghijk Scvopqrstuvw Belize 113 Chickenpox NO
+7245 Yobvwxyz Mecdefghijkl Belize 88 TheFlu NO
+6006 Rthklmnopqrs Wvqbcdefghij Belize 115 HepatitisA YES 4-6-5438
+2079 Doilmnopqrst Kxwqrstuvwxy Belize 31 HepatitisB YES 10-4-6769
+6826 Flvxyz Ydhjklmnopqr Belize 27 Rotavirus YES 11-4-3635
+3264 Jcljklmnopqr Ggunopqrstuv Belize 78 Adenovirus YES 21-10-880

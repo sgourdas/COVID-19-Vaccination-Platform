@@ -1,0 +1,21 @@
+8427 Negyz Krjjklmnopqr Mauritius 80 HepatitisB YES 12-10-6660
+4530 Casz Xryz Mauritius 95 H1N1 NO
+4468 Tjodefghijkl Mnbmnopqrstu Mauritius 14 H1N1 YES 5-3-1301
+9627 Kdjefghijklm Vwpz Mauritius 107 H1N1 YES 28-5-8001
+5675 Gfnklmnopqrs Rgzyz Mauritius 72 Chickenpox NO
+7458 Bsewxyz Ibyxyz Mauritius 81 Varicella YES 30-8-8784
+5266 Bruopqrstuvw Pdudefghijkl Mauritius 31 Hib NO 28-12-7839
+2287 Avez Klsyz Mauritius 89 TheFlu YES 30-4-8778
+4756 Ealqrstuvwxy Xzchijklmnop Mauritius 60 Tuberculosis YES 24-9-6064
+2747 Yzftuvwxyz Goxabcdefghi Mauritius 93 Mumps YES 20-10-8288
+6138 Cnvxyz Zykcdefghijk Mauritius 82 Varicella NO 27-0-8127
+1639 Ihiefghijklm Xgnbcdefghij Mauritius 8 Adenovirus NO
+9152 Orubcdefghij Yqjklmnopqrs Mauritius 45 Hib NO
+3618 Xlbpqrstuvwx Shqrstuvwxyz Mauritius 100 Hib NO
+8998 Hgmabcdefghi Sztuvwxyz Mauritius 60 Varicella NO
+6863 Mrpstuvwxyz Nhqnopqrstuv Mauritius 38 Diphtheria NO
+488 Ejpklmnopqrs Cxsstuvwxyz Mauritius 119 Varicella NO 23-12-6
+5657 Crmxyz Ywgnopqrstuv Mauritius 73 Tetanus YES 22-8-3691
+6316 Vylijklmnopq Echz Mauritius 87 Hib YES 8-7-6807
+1914 Hhcopqrstuvw Zbccdefghijk Mauritius 20 COVID19 NO
+7998 Pblghijklmno Whrtuvwxyz Mauritius 82 Hib YES 10-8-2560

@@ -1,0 +1,21 @@
+4852 Erxmnopqrstu Mlryz Kiribati 90 Tetanus NO
+6845 Gsfghijklmno Vczbcdefghij Kiribati 25 H1N1 NO
+7432 Okouvwxyz Jqqqrstuvwxy Kiribati 60 HepatitisA YES 17-4-6457
+1428 Whknopqrstuv Pvcuvwxyz Kiribati 77 HepatitisB NO
+2749 Hygnopqrstuv Kuhlmnopqrst Kiribati 33 Diphtheria NO
+5627 Oeaxyz Wzrbcdefghij Kiribati 1 Varicella YES 12-7-3963
+5921 Hvrstuvwxyz Wnxcdefghijk Kiribati 68 Chickenpox NO
+8014 Jjxz Tisvwxyz Kiribati 24 HepatitisB NO
+394 Fnxdefghijkl Jpemnopqrstu Kiribati 31 HepatitisA NO
+6546 Ocxklmnopqrs Cbfefghijklm Kiribati 32 SARS1 YES 28-10-2586
+9440 Mghhijklmnop Sfhnopqrstuv Kiribati 36 Varicella NO
+4071 Sricdefghijk Khfpqrstuvwx Kiribati 65 TheFlu YES 21-1-7449
+9305 Poytuvwxyz Hzxpqrstuvwx Kiribati 1 Tetanus YES 16-8-5082
+2459 Dvipqrstuvwx Vnouvwxyz Kiribati 46 TheFlu YES 25-6-2947
+7851 Oztlmnopqrst Sghijklmnopq Kiribati 64 HepatitisA YES 18-2-7842
+6308 Eqnwxyz Flulmnopqrst Kiribati 116 SARS1 YES 15-2-3332
+1927 Lhhfghijklmn Iruvwxyz Kiribati 78 Rotavirus YES 6-1-4425
+5076 Zgltuvwxyz Wbhwxyz Kiribati 80 TheFlu YES 18-4-1422
+9427 Gmzrstuvwxyz Tjjklmnopqrs Kiribati 8 Chickenpox NO
+9252 Yszuvwxyz Mmwjklmnopqr Kiribati 26 Rubella YES 24-6-3938
+6742 Zmpjklmnopqr Khrnopqrstuv Kiribati 80 COVID19 YES 24-11-7516

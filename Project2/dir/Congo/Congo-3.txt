@@ -1,0 +1,16 @@
+9182 Tasnopqrstuv Jbvmnopqrstu Congo 45 Adenovirus NO
+9975 Kkhopqrstuvw Uhpjklmnopqr Congo 58 Diphtheria YES 12-4-7832
+3037 Pbkbcdefghij Uksrstuvwxyz Congo 61 Mumps YES 5-5-877
+4147 Bjruvwxyz Umnopqrstuvw Congo 108 H1N1 YES 13-11-9521
+4486 Ncmlmnopqrst Absjklmnopqr Congo 8 Testovirus NO
+6203 Jfnnopqrstuv Shqjklmnopqr Congo 47 Diphtheria YES 21-0-5012
+667 Igwhijklmnop Hpjxyz Congo 69 Chickenpox NO
+6122 Buyfghijklmn Uzlbcdefghij Congo 42 HepatitisB NO
+3300 Frdmnopqrstu Xqmrstuvwxyz Congo 114 H1N1 YES 0-4-1610
+9657 Dzncdefghijk Nghfghijklmn Congo 31 Rubella NO 20-1-3069
+9635 Upjefghijklm Urmwxyz Congo 101 SARS1 YES 19-1-7963
+2014 Hhawxyz Venxyz Congo 17 Mumps NO
+2868 Urwpqrstuvwx Oduijklmnopq Congo 70 SARS1 YES 28-5-5378
+9503 Jxastuvwxyz Nokmnopqrstu Congo 79 Testovirus NO
+1085 Qcxtuvwxyz Cpvabcdefghi Congo 36 Mumps YES 22-9-1844
+2755 Jjvopqrstuvw Haqfghijklmn Congo 35 TheFlu NO 26-4-1564
